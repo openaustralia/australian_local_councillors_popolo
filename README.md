@@ -22,3 +22,12 @@ To update or add to this data follow these steps:
 5. Inspect the diff to verify your changes and check for errors before committing them.
 6. Submit a pull request with your changes with an [explanation](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
    of what they are and why you have made them.
+
+## Scrapers
+
+We used web scrapers hosted on morph.io to collect a lot of raw data to start this collection:
+
+* South Australian Councillors https://github.com/openaustralia/sa_lg_councillors.git
+* NSW Councillors https://morph.io/openaustralia/nsw_lg_directory_councillors
+* Victorian Councillors https://morph.io/openaustralia/vic_lg_directory_councillors
+* Queensland Councillors https://morph.io/openaustralia/qld_lg_directory_councillors
