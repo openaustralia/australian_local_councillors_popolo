@@ -1,32 +1,123 @@
 {
   "persons": [
     {
+      "email": "katef@alpineshire.vic.gov.au",
       "id": "alpine_shire_council/kate_farrell",
-      "name": "Kate Farrell"
+      "image": "http://www.alpineshire.vic.gov.au/Page/Images/Cr_Farrell_Feb_2015_web.jpg",
+      "name": "Kate Farrell",
+      "links": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
+          "note": "website"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Images/Cr_Farrell_Feb_2015_web.jpg"
+        }
+      ]
     },
     {
+      "email": "johnf@alpineshire.vic.gov.au",
       "id": "alpine_shire_council/john_forsyth",
-      "name": "John Forsyth"
+      "image": "http://www.alpineshire.vic.gov.au/Page/Images/2013crjohnforsyth.jpg",
+      "name": "John Forsyth",
+      "links": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
+          "note": "website"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Images/2013crjohnforsyth.jpg"
+        }
+      ]
     },
     {
+      "email": "ronj@alpineshire.vic.gov.au",
       "id": "alpine_shire_council/ron_janas",
-      "name": "Ron Janas"
+      "image": "http://www.alpineshire.vic.gov.au/Page/Images/2013crronjanas.jpg",
+      "name": "Ron Janas",
+      "links": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
+          "note": "website"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Images/2013crronjanas.jpg"
+        }
+      ]
     },
     {
+      "email": "tonyk@alpineshire.vic.gov.au",
       "id": "alpine_shire_council/tony_keeble",
-      "name": "Tony Keeble"
+      "image": "http://www.alpineshire.vic.gov.au/Page/Images/2013crtonykeeble.jpg",
+      "name": "Tony Keeble",
+      "links": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
+          "note": "website"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Images/2013crtonykeeble.jpg"
+        }
+      ]
     },
     {
+      "email": "darylp@alpineshire.vic.gov.au",
       "id": "alpine_shire_council/daryl_pearce",
-      "name": "Daryl Pearce"
+      "image": "http://www.alpineshire.vic.gov.au/Page/Images/2013crdarylpearce.jpg",
+      "name": "Daryl Pearce",
+      "links": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
+          "note": "website"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Images/2013crdarylpearce.jpg"
+        }
+      ]
     },
     {
+      "email": "peterr@alpineshire.vic.gov.au",
       "id": "alpine_shire_council/peter_roper",
-      "name": "Peter Roper"
+      "image": "http://www.alpineshire.vic.gov.au/Page/Images/2013crpeterroper.jpg",
+      "name": "Peter Roper",
+      "links": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
+          "note": "website"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Images/2013crpeterroper.jpg"
+        }
+      ]
     },
     {
+      "email": "janv@alpineshire.vic.gov.au",
       "id": "alpine_shire_council/jan_vonarx",
-      "name": "Jan Vonarx"
+      "image": "http://www.alpineshire.vic.gov.au/Page/Images/jan_vonarx_(4)_cropped.jpg",
+      "name": "Jan Vonarx",
+      "links": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
+          "note": "website"
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Images/jan_vonarx_(4)_cropped.jpg"
+        }
+      ]
     },
     {
       "id": "ararat_rural_city_council/gwenda_allgood",
@@ -2882,43 +2973,50 @@
       "person_id": "alpine_shire_council/kate_farrell",
       "organization_id": "legislature/alpine_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2012-11-07"
     },
     {
       "person_id": "alpine_shire_council/john_forsyth",
       "organization_id": "legislature/alpine_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2012-11-07"
     },
     {
       "person_id": "alpine_shire_council/ron_janas",
       "organization_id": "legislature/alpine_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2012-11-07"
     },
     {
       "person_id": "alpine_shire_council/tony_keeble",
       "organization_id": "legislature/alpine_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2012-11-07"
     },
     {
       "person_id": "alpine_shire_council/daryl_pearce",
       "organization_id": "legislature/alpine_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2012-11-07"
     },
     {
       "person_id": "alpine_shire_council/peter_roper",
       "organization_id": "legislature/alpine_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2012-11-07"
     },
     {
       "person_id": "alpine_shire_council/jan_vonarx",
       "organization_id": "legislature/alpine_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2012-11-07"
     },
     {
       "person_id": "ararat_rural_city_council/gwenda_allgood",
