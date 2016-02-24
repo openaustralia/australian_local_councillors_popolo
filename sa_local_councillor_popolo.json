@@ -1752,28 +1752,6 @@
       ]
     },
     {
-      "email": "mayor@coorong.sa.gov.au",
-      "id": "coorong_district_council/neville_jaensch",
-      "name": "Neville Jaensch",
-      "links": [
-        {
-          "url": "http://www.coorong.sa.gov.au/page.aspx?c=105",
-          "note": "website"
-        }
-      ]
-    },
-    {
-      "email": "crwright@coorong.sa.gov.au",
-      "id": "coorong_district_council/peter_wright",
-      "name": "Peter Wright",
-      "links": [
-        {
-          "url": "http://www.coorong.sa.gov.au/page.aspx?c=107",
-          "note": "website"
-        }
-      ]
-    },
-    {
       "email": "crklitscher@coorong.sa.gov.au",
       "id": "coorong_district_council/jeff_klitscher",
       "name": "Jeff Klitscher",
@@ -1791,6 +1769,17 @@
       "links": [
         {
           "url": "http://www.coorong.sa.gov.au/page.aspx?c=1384",
+          "note": "website"
+        }
+      ]
+    },
+    {
+      "email": "crjaensch@coorong.sa.gov.au",
+      "id": "coorong_district_council/neville_jaensch",
+      "name": "Neville Jaensch",
+      "links": [
+        {
+          "url": "http://www.coorong.sa.gov.au/page.aspx?c=2049",
           "note": "website"
         }
       ]
@@ -6836,23 +6825,23 @@
       ]
     },
     {
-      "email": "bens@tricab.com",
-      "id": "derwent_valley_council/ben_shaw",
-      "name": "Ben Shaw",
-      "links": [
-        {
-          "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=4112",
-          "note": "website"
-        }
-      ]
-    },
-    {
       "email": "frankpearce1@gmail.com",
       "id": "derwent_valley_council/frank_pearce",
       "name": "Frank Pearce",
       "links": [
         {
           "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=4120",
+          "note": "website"
+        }
+      ]
+    },
+    {
+      "email": "bens@tricab.com",
+      "id": "derwent_valley_council/ben_shaw",
+      "name": "Ben Shaw",
+      "links": [
+        {
+          "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=4122",
           "note": "website"
         }
       ]
@@ -8336,6 +8325,17 @@
       "links": [
         {
           "url": "http://www.portlincoln.sa.gov.au/page.aspx?c=34448",
+          "note": "website"
+        }
+      ]
+    },
+    {
+      "email": "crwright@coorong.sa.gov.au",
+      "id": "coorong_district_council/peter_wright",
+      "name": "Peter Wright",
+      "links": [
+        {
+          "url": "http://www.coorong.sa.gov.au/page.aspx?c=12409",
           "note": "website"
         }
       ]
@@ -10602,18 +10602,6 @@
     },
     {
       "person_id": "coorong_district_council/andrew_dawes",
-      "organization_id": "legislature/coorong_district_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "coorong_district_council/neville_jaensch",
-      "organization_id": "legislature/coorong_district_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "coorong_district_council/peter_wright",
       "organization_id": "legislature/coorong_district_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -13410,12 +13398,6 @@
     {
       "person_id": "clarence_city_council/daniel_hulme",
       "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "derwent_valley_council/ben_shaw",
-      "organization_id": "legislature/derwent_valley_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
