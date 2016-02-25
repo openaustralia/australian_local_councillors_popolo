@@ -525,8 +525,8 @@
       "name": "Richie Bates"
     },
     {
-      "id": "robert_pyne",
-      "name": "Robert Pyne"
+      "id": "cathy_zeiger",
+      "name": "Cathy Zeiger"
     },
     {
       "id": "steve_brain",
@@ -3457,7 +3457,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "robert_pyne",
+      "person_id": "cathy_zeiger",
       "organization_id": "legislature/cairns_regional_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
