@@ -945,8 +945,8 @@
       "name": "Rex Burke"
     },
     {
-      "id": "rhonda_charge",
-      "name": "Rhonda Charge"
+      "id": "rhonda_charger",
+      "name": "Rhonda Charger"
     },
     {
       "id": "bernard_charlie",
@@ -4087,7 +4087,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "rhonda_charge",
+      "person_id": "rhonda_charger",
       "organization_id": "legislature/napranum_aboriginal_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
