@@ -28,6 +28,6 @@ To update or add to this data follow these steps:
 We used web scrapers hosted on morph.io to collect a lot of raw data to start this collection:
 
 * South Australian Councillors https://morph.io/equivalentideas/sa_lg_councillors
-* NSW Councillors https://morph.io/openaustralia/nsw_lg_directory_councillors
-* Victorian Councillors https://morph.io/openaustralia/vic_lg_directory_councillors
+* NSW Councillors https://morph.io/equivalentideas/nsw_lg_directory_councillors
+* Victorian Councillors https://morph.io/equivalentideas/vic_lg_directory_councillors
 * Queensland Councillors https://morph.io/openaustralia/qld_lg_directory_councillors
