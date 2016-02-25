@@ -145,6 +145,10 @@
       "name": "Gail Godwin-Smith"
     },
     {
+      "id": "gail_nixon",
+      "name": "Gail Nixon"
+    },
+    {
       "id": "kev_cracknell",
       "name": "Kev Cracknell"
     },
@@ -479,6 +483,10 @@
     {
       "id": "ernie_camp",
       "name": "Ernie Camp"
+    },
+    {
+      "id": "larissa_lauder",
+      "name": "Larissa Lauder"
     },
     {
       "id": "paul_poole",
@@ -1037,6 +1045,10 @@
       "name": "Scott Geary"
     },
     {
+      "id": "patsy-ann_fox",
+      "name": "Patsy-Ann Fox"
+    },
+    {
       "id": "rosa_lee_long",
       "name": "Rosa Lee Long"
     },
@@ -1301,6 +1313,14 @@
       "name": "Graham Quirk"
     },
     {
+      "id": "steven_toomey",
+      "name": "Steven Toomey"
+    },
+    {
+      "id": "jarred_cassidy",
+      "name": "Jarred Cassidy"
+    },
+    {
       "id": "adrian_schrinner",
       "name": "Adrian Schrinner"
     },
@@ -1323,10 +1343,6 @@
     {
       "id": "fiona_king",
       "name": "Fiona King"
-    },
-    {
-      "id": "geraldine_knapp",
-      "name": "Geraldine Knapp"
     },
     {
       "id": "helen_abrahams",
@@ -1387,6 +1403,18 @@
     {
       "id": "shayne_sutton",
       "name": "Shayne Sutton"
+    },
+    {
+      "id": "steve_griffiths",
+      "name": "Steve Griffiths"
+    },
+    {
+      "id": "steven_huang",
+      "name": "Steven Huang"
+    },
+    {
+      "id": "vicki_howard",
+      "name": "Vicki Howard"
     },
     {
       "id": "john_ferguson",
@@ -1603,6 +1631,14 @@
     {
       "id": "rob_mackenzie",
       "name": "Rob MacKenzie"
+    },
+    {
+      "id": "ray_currie",
+      "name": "Ray Currie"
+    },
+    {
+      "id": "bob_leitch",
+      "name": "Bob Leitch"
     },
     {
       "id": "ian_petersen",
@@ -2887,6 +2923,12 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
+      "person_id": "gail_nixon",
+      "organization_id": "legislature/central_highlands_regional_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
       "person_id": "kev_cracknell",
       "organization_id": "legislature/central_highlands_regional_council",
       "role": "councillor",
@@ -3386,6 +3428,12 @@
     },
     {
       "person_id": "ernie_camp",
+      "organization_id": "legislature/burke_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "larissa_lauder",
       "organization_id": "legislature/burke_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -4225,6 +4273,12 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
+      "person_id": "patsy-ann_fox",
+      "organization_id": "legislature/richmond_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
       "person_id": "rosa_lee_long",
       "organization_id": "legislature/tablelands_regional_council",
       "role": "councillor",
@@ -4621,6 +4675,18 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
+      "person_id": "steven_toomey",
+      "organization_id": "legislature/brisbane_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "jarred_cassidy",
+      "organization_id": "legislature/brisbane_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
       "person_id": "adrian_schrinner",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
@@ -4652,12 +4718,6 @@
     },
     {
       "person_id": "fiona_king",
-      "organization_id": "legislature/brisbane_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "geraldine_knapp",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -4748,6 +4808,24 @@
     },
     {
       "person_id": "shayne_sutton",
+      "organization_id": "legislature/brisbane_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "steve_griffiths",
+      "organization_id": "legislature/brisbane_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "steven_huang",
+      "organization_id": "legislature/brisbane_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "vicki_howard",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -5073,6 +5151,18 @@
     {
       "person_id": "rob_mackenzie",
       "organization_id": "legislature/goondiwindi_regional_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "ray_currie",
+      "organization_id": "legislature/gympie_regional_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "bob_leitch",
+      "organization_id": "legislature/gympie_regional_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
