@@ -6661,6 +6661,26 @@
       "id": "party/unknown",
       "name": "unknown",
       "classification": "party"
+    },
+    {
+      "id": "party/independent",
+      "name": "Independent",
+      "classification": "party"
+    },
+    {
+      "id": "party/the_greens",
+      "name": "The Greens",
+      "classification": "party"
+    },
+    {
+      "id": "party/labor",
+      "name": "Labor",
+      "classification": "party"
+    },
+    {
+      "id": "party/liberal",
+      "name": "Liberal",
+      "classification": "party"
     }
   ],
   "memberships": [
@@ -11732,13 +11752,13 @@
       "person_id": "marrickville_council/mark_gardiner",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "marrickville_council/morris_hanna",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "marrickville_council/daniel_barbar",
@@ -11750,55 +11770,55 @@
       "person_id": "marrickville_council/melissa_brooks",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/the_greens"
     },
     {
       "person_id": "marrickville_council/sylvie_ellsmore",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/the_greens"
     },
     {
       "person_id": "marrickville_council/jo_haylen",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "marrickville_council/sam_iskandar",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "marrickville_council/david_leary",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/the_greens"
     },
     {
       "person_id": "marrickville_council/victor_macri",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "marrickville_council/max_phillips",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/the_greens"
     },
     {
       "person_id": "marrickville_council/rosana_tyler",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "marrickville_council/chris_woods",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "mid-western_regional_council/des_kennedy",
