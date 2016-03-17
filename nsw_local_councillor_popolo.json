@@ -3379,12 +3379,24 @@
     {
       "email": "mgardiner@marrickville.nsw.gov.au",
       "id": "marrickville_council/mark_gardiner",
-      "name": "Mark Gardiner"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20gardiner%20web.jpg",
+      "name": "Mark Gardiner",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20gardiner%20web.jpg"
+        }
+      ]
     },
     {
       "email": "mhanna@marrickville.nsw.gov.au",
       "id": "marrickville_council/morris_hanna",
-      "name": "Morris Hanna"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20hanna%20web.jpg",
+      "name": "Morris Hanna",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20hanna%20web.jpg"
+        }
+      ]
     },
     {
       "id": "marrickville_council/daniel_barbar",
@@ -3393,47 +3405,101 @@
     {
       "email": "mbrooks@marrickville.nsw.gov.au",
       "id": "marrickville_council/melissa_brooks",
-      "name": "Melissa Brooks"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20brooks%20web.jpg",
+      "name": "Melissa Brooks",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20brooks%20web.jpg"
+        }
+      ]
     },
     {
       "email": "sellsmore@marrickville.nsw.gov.au",
       "id": "marrickville_council/sylvie_ellsmore",
-      "name": "Sylvie Ellsmore"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20ellsmore%20web.jpg",
+      "name": "Sylvie Ellsmore",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20ellsmore%20web.jpg"
+        }
+      ]
     },
     {
       "email": "jhaylen@marrickville.nsw.gov.au",
       "id": "marrickville_council/jo_haylen",
-      "name": "Jo Haylen"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20haylen%20web.jpg",
+      "name": "Jo Haylen",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20haylen%20web.jpg"
+        }
+      ]
     },
     {
       "email": "siskandar@marrickville.nsw.gov.au",
       "id": "marrickville_council/sam_iskandar",
-      "name": "Sam Iskandar"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20iskandar%20web.jpg",
+      "name": "Sam Iskandar",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20iskandar%20web.jpg"
+        }
+      ]
     },
     {
       "email": "dleary@marrickville.nsw.gov.au",
       "id": "marrickville_council/david_leary",
-      "name": "David Leary"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20leary%20web.jpg",
+      "name": "David Leary",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20leary%20web.jpg"
+        }
+      ]
     },
     {
       "email": "vmacri@marrickville.nsw.gov.au",
       "id": "marrickville_council/victor_macri",
-      "name": "Victor Macri"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20macri%20web.jpg",
+      "name": "Victor Macri",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20macri%20web.jpg"
+        }
+      ]
     },
     {
       "email": "mphillips@marrickville.nsw.gov.au",
       "id": "marrickville_council/max_phillips",
-      "name": "Max Phillips"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20phillips%20web.jpg",
+      "name": "Max Phillips",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20phillips%20web.jpg"
+        }
+      ]
     },
     {
       "email": "rtyler@marrickville.nsw.gov.au",
       "id": "marrickville_council/rosana_tyler",
-      "name": "Rosana Tyler"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20tyler%20web.jpg",
+      "name": "Rosana Tyler",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20tyler%20web.jpg"
+        }
+      ]
     },
     {
       "email": "cwoods@marrickville.nsw.gov.au",
       "id": "marrickville_council/chris_woods",
-      "name": "Chris Woods"
+      "image": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20woods%20web.jpg",
+      "name": "Chris Woods",
+      "images": [
+        {
+          "url": "https://www.marrickville.nsw.gov.au/Global/marr/marrwr/_assets/main/lib65081/clr%20woods%20web.jpg"
+        }
+      ]
     },
     {
       "id": "mid-western_regional_council/des_kennedy",
