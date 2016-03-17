@@ -7184,8 +7184,10 @@
   ],
   "warnings": {
     "skipped": [
+      "council_website",
       "ward",
-      "council_website"
+      "phone_mobile",
+      "phone_landline"
     ]
   }
 }
