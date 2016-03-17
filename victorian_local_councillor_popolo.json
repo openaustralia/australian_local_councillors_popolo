@@ -5,15 +5,14 @@
       "id": "alpine_shire_council/kate_farrell",
       "image": "http://www.alpineshire.vic.gov.au/Page/Images/Cr_Farrell_Feb_2015_web.jpg",
       "name": "Kate Farrell",
-      "links": [
-        {
-          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
-          "note": "website"
-        }
-      ],
       "images": [
         {
           "url": "http://www.alpineshire.vic.gov.au/Page/Images/Cr_Farrell_Feb_2015_web.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58"
         }
       ]
     },
@@ -22,15 +21,14 @@
       "id": "alpine_shire_council/john_forsyth",
       "image": "http://www.alpineshire.vic.gov.au/Page/Images/2013crjohnforsyth.jpg",
       "name": "John Forsyth",
-      "links": [
-        {
-          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
-          "note": "website"
-        }
-      ],
       "images": [
         {
           "url": "http://www.alpineshire.vic.gov.au/Page/Images/2013crjohnforsyth.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58"
         }
       ]
     },
@@ -39,15 +37,14 @@
       "id": "alpine_shire_council/ron_janas",
       "image": "http://www.alpineshire.vic.gov.au/Page/Images/2013crronjanas.jpg",
       "name": "Ron Janas",
-      "links": [
-        {
-          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
-          "note": "website"
-        }
-      ],
       "images": [
         {
           "url": "http://www.alpineshire.vic.gov.au/Page/Images/2013crronjanas.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58"
         }
       ]
     },
@@ -56,15 +53,14 @@
       "id": "alpine_shire_council/tony_keeble",
       "image": "http://www.alpineshire.vic.gov.au/Page/Images/2013crtonykeeble.jpg",
       "name": "Tony Keeble",
-      "links": [
-        {
-          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
-          "note": "website"
-        }
-      ],
       "images": [
         {
           "url": "http://www.alpineshire.vic.gov.au/Page/Images/2013crtonykeeble.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58"
         }
       ]
     },
@@ -73,15 +69,14 @@
       "id": "alpine_shire_council/daryl_pearce",
       "image": "http://www.alpineshire.vic.gov.au/Page/Images/2013crdarylpearce.jpg",
       "name": "Daryl Pearce",
-      "links": [
-        {
-          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
-          "note": "website"
-        }
-      ],
       "images": [
         {
           "url": "http://www.alpineshire.vic.gov.au/Page/Images/2013crdarylpearce.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58"
         }
       ]
     },
@@ -90,15 +85,14 @@
       "id": "alpine_shire_council/peter_roper",
       "image": "http://www.alpineshire.vic.gov.au/Page/Images/2013crpeterroper.jpg",
       "name": "Peter Roper",
-      "links": [
-        {
-          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
-          "note": "website"
-        }
-      ],
       "images": [
         {
           "url": "http://www.alpineshire.vic.gov.au/Page/Images/2013crpeterroper.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58"
         }
       ]
     },
@@ -107,15 +101,14 @@
       "id": "alpine_shire_council/jan_vonarx",
       "image": "http://www.alpineshire.vic.gov.au/Page/Images/jan_vonarx_(4)_cropped.jpg",
       "name": "Jan Vonarx",
-      "links": [
-        {
-          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58",
-          "note": "website"
-        }
-      ],
       "images": [
         {
           "url": "http://www.alpineshire.vic.gov.au/Page/Images/jan_vonarx_(4)_cropped.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alpineshire.vic.gov.au/Page/Page.aspx?Page_Id=58"
         }
       ]
     },
