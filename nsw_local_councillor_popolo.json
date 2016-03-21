@@ -17247,7 +17247,9 @@
   ],
   "warnings": {
     "skipped": [
-      "council_website"
+      "council_website",
+      "phone_mobile",
+      "ward"
     ]
   }
 }
