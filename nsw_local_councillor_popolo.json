@@ -1197,52 +1197,184 @@
       "name": "Bob Pynsent"
     },
     {
+      "email": "allan.stapleford@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/allan_stapleford",
-      "name": "Allan Stapleford"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_31.jpg",
+      "name": "Allan Stapleford",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_31.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/warda/stapleford"
+        }
+      ]
     },
     {
+      "email": "cordelia.troy@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/cordelia_burcham",
-      "name": "Cordelia Burcham"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_32.jpg",
+      "name": "Cordelia Troy",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_32.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/warda/troy"
+        }
+      ]
     },
     {
+      "email": "morgan.campbell@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/morgan_campbell",
-      "name": "Morgan Campbell"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_25.jpg",
+      "name": "Morgan Campbell",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_25.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/wardb/campbell"
+        }
+      ]
     },
     {
+      "email": "rod.doherty@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/rod_doherty",
-      "name": "Rod Doherty"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/News/Rod%20Doherty.JPG",
+      "name": "Rod Doherty",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/News/Rod%20Doherty.JPG"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/wardd/doherty"
+        }
+      ]
     },
     {
+      "email": "bryce.gibson@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/bryce_gibson",
-      "name": "Bryce Gibson"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_34.jpg",
+      "name": "Bryce Gibson",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_34.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/wardb/gibson"
+        }
+      ]
     },
     {
+      "email": "james.hawkins@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/james_hawkins",
-      "name": "James Hawkins"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_39.jpg",
+      "name": "James Hawkins",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_39.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/warda/hawkins"
+        }
+      ]
     },
     {
       "id": "cessnock_city_council/jeffrey_maybury",
       "name": "Jeffrey Maybury"
     },
     {
+      "email": "ian.olsen@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/ian_olsen",
-      "name": "Ian Olsen"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_40.jpg",
+      "name": "Ian Olsen",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_40.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/wardb/olsen"
+        }
+      ]
     },
     {
+      "email": "catherine.parsons@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/catherine_parsons",
-      "name": "Catherine Parsons"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_36.jpg",
+      "name": "Catherine Parsons",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_36.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/wardc/parsons"
+        }
+      ]
     },
     {
+      "email": "james.ryan@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/james_ryan",
-      "name": "James Ryan"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_21.jpg",
+      "name": "James Ryan",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_21.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/wardd/ryan"
+        }
+      ]
     },
     {
+      "email": "graham.smith@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/graham_smith",
-      "name": "Graham Smith"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/News/Cr-Smith.jpg",
+      "name": "Graham Smith",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/News/Cr-Smith.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/wardd/smith"
+        }
+      ]
     },
     {
+      "email": "suellen.wrightson@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/suellen_wrightson",
-      "name": "Suellen Wrightson"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_27.jpg",
+      "name": "Suellen Wrightson",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_27.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/councillors/wardc/wrightson"
+        }
+      ]
     },
     {
       "id": "clarence_valley_council/richie_williamson",
@@ -6729,8 +6861,33 @@
       "classification": "party"
     },
     {
+      "id": "party/clean_sweep_independents",
+      "name": "Clean Sweep Independents",
+      "classification": "party"
+    },
+    {
       "id": "party/independent",
       "name": "Independent",
+      "classification": "party"
+    },
+    {
+      "id": "party/country_labor",
+      "name": "Country Labor",
+      "classification": "party"
+    },
+    {
+      "id": "party/liberal",
+      "name": "Liberal",
+      "classification": "party"
+    },
+    {
+      "id": "party/greens",
+      "name": "Greens",
+      "classification": "party"
+    },
+    {
+      "id": "party/palmer_united_party",
+      "name": "Palmer United Party",
       "classification": "party"
     },
     {
@@ -6741,11 +6898,6 @@
     {
       "id": "party/labor",
       "name": "Labor",
-      "classification": "party"
-    },
-    {
-      "id": "party/liberal",
-      "name": "Liberal",
       "classification": "party"
     }
   ],
@@ -8548,37 +8700,37 @@
       "person_id": "cessnock_city_council/allan_stapleford",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/clean_sweep_independents"
     },
     {
       "person_id": "cessnock_city_council/cordelia_burcham",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cessnock_city_council/morgan_campbell",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/country_labor"
     },
     {
       "person_id": "cessnock_city_council/rod_doherty",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "cessnock_city_council/bryce_gibson",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "cessnock_city_council/james_hawkins",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/country_labor"
     },
     {
       "person_id": "cessnock_city_council/jeffrey_maybury",
@@ -8590,31 +8742,31 @@
       "person_id": "cessnock_city_council/ian_olsen",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cessnock_city_council/catherine_parsons",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/country_labor"
     },
     {
       "person_id": "cessnock_city_council/james_ryan",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "cessnock_city_council/graham_smith",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/country_labor"
     },
     {
       "person_id": "cessnock_city_council/suellen_wrightson",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/palmer_united_party"
     },
     {
       "person_id": "clarence_valley_council/richie_williamson",
