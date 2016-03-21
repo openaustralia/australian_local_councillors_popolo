@@ -3527,8 +3527,20 @@
       ]
     },
     {
+      "email": "dbarbar@marrickville.nsw.gov.au",
       "id": "marrickville_council/daniel_barbar",
-      "name": "Daniel Barbar"
+      "image": "http://www.marrickville.nsw.gov.au/Global/Council/Elected%20Council/clrbarbar1.jpg",
+      "name": "Daniel Barbar",
+      "images": [
+        {
+          "url": "http://www.marrickville.nsw.gov.au/Global/Council/Elected%20Council/clrbarbar1.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.marrickville.nsw.gov.au/en/council/elected-council/councillors/clr-d-barbar/"
+        }
+      ]
     },
     {
       "email": "mbrooks@marrickville.nsw.gov.au",
@@ -11972,7 +11984,8 @@
       "person_id": "marrickville_council/daniel_barbar",
       "organization_id": "legislature/marrickville_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor",
+      "start_date": "2014-11-15"
     },
     {
       "person_id": "marrickville_council/melissa_brooks",
