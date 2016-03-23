@@ -1,20 +1,68 @@
 {
   "persons": [
     {
+      "email": "kmack@alburycity.nsw.gov.au",
       "id": "albury_city_council/kevin_mack",
-      "name": "Kevin Mack"
+      "image": "http://www.alburycity.nsw.gov.au/__data/assets/image/0018/11547/Kevin-Mack.jpg",
+      "name": "Kevin Mack",
+      "images": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/__data/assets/image/0018/11547/Kevin-Mack.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "rjackson@alburycity.nsw.gov.au",
       "id": "albury_city_council/ross_jackson",
-      "name": "Ross Jackson"
+      "image": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors?a=11550",
+      "name": "Ross Jackson",
+      "images": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors?a=11550"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "dbetteridge@alburycity.nsw.gov.au",
       "id": "albury_city_council/daryl_betteridge",
-      "name": "Daryl Betteridge"
+      "image": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors?a=11549",
+      "name": "Daryl Betteridge",
+      "images": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors?a=11549"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "dcameron@alburycity.nsw.gov.au",
       "id": "albury_city_council/darren_cameron",
-      "name": "Darren Cameron"
+      "image": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors?a=11552",
+      "name": "Darren Cameron",
+      "images": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors?a=11552"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors"
+        }
+      ]
     },
     {
       "id": "albury_city_council/graham_docksey",
@@ -6864,6 +6912,21 @@
       "classification": "legislature"
     },
     {
+      "id": "party/independent",
+      "name": "Independent",
+      "classification": "party"
+    },
+    {
+      "id": "party/albury_citizens_and_ratepayers",
+      "name": "Albury Citizens and Ratepayers",
+      "classification": "party"
+    },
+    {
+      "id": "party/country_labor",
+      "name": "Country Labor",
+      "classification": "party"
+    },
+    {
       "id": "party/unknown",
       "name": "unknown",
       "classification": "party"
@@ -6871,16 +6934,6 @@
     {
       "id": "party/clean_sweep_independents",
       "name": "Clean Sweep Independents",
-      "classification": "party"
-    },
-    {
-      "id": "party/independent",
-      "name": "Independent",
-      "classification": "party"
-    },
-    {
-      "id": "party/country_labor",
-      "name": "Country Labor",
       "classification": "party"
     },
     {
@@ -6914,25 +6967,25 @@
       "person_id": "albury_city_council/kevin_mack",
       "organization_id": "legislature/albury_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "albury_city_council/ross_jackson",
       "organization_id": "legislature/albury_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/albury_citizens_and_ratepayers"
     },
     {
       "person_id": "albury_city_council/daryl_betteridge",
       "organization_id": "legislature/albury_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "albury_city_council/darren_cameron",
       "organization_id": "legislature/albury_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/country_labor"
     },
     {
       "person_id": "albury_city_council/graham_docksey",
@@ -15732,14 +15785,14 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "albury_city_council/kevin_mack",
-      "organization_id": "legislature/albury_city_council",
-      "role": "Mayor"
-    },
-    {
-      "person_id": "albury_city_council/ross_jackson",
+      "person_id": "albury_city_council/david_thurley",
       "organization_id": "legislature/albury_city_council",
       "role": "deputy mayor"
+    },
+    {
+      "person_id": "albury_city_council/henk_van_de_ven",
+      "organization_id": "legislature/albury_city_council",
+      "role": "Mayor"
     },
     {
       "person_id": "armidale_dumaresq_council/herman_beyersdorf",
