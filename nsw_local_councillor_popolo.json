@@ -377,40 +377,148 @@
       "name": "Allan Winterbottom"
     },
     {
+      "email": "gary.rush@bathurst.nsw.gov.au",
       "id": "bathurst_regional_council/gary_rush",
-      "name": "Gary Rush"
+      "image": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Gary-Rush250.jpg",
+      "name": "Gary Rush",
+      "images": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Gary-Rush250.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/council/council/councillors.html"
+        }
+      ]
     },
     {
+      "email": "ian.north@bathurst.nsw.gov.au",
       "id": "bathurst_regional_council/ian_north",
-      "name": "Ian North"
+      "image": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Ian-North250.jpg",
+      "name": "Ian North",
+      "images": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Ian-North250.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/council/council/councillors.html"
+        }
+      ]
     },
     {
+      "email": "warren.aubin@bathurst.nsw.gov.au",
       "id": "bathurst_regional_council/warren_aubin",
-      "name": "Warren Aubin"
+      "image": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Warren-Aubin250.jpg",
+      "name": "Warren Aubin",
+      "images": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Warren-Aubin250.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/council/council/councillors.html"
+        }
+      ]
     },
     {
+      "email": "bobby.bourke@bathurst.nsw.gov.au",
       "id": "bathurst_regional_council/bobby_bourke",
-      "name": "Bobby Bourke"
+      "image": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Bobby-Bourke250.jpg",
+      "name": "Bobby Bourke",
+      "images": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Bobby-Bourke250.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/council/council/councillors.html"
+        }
+      ]
     },
     {
+      "email": "michael.coote@bathurst.nsw.gov.au",
       "id": "bathurst_regional_council/michael_coote",
-      "name": "Michael Coote"
+      "image": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Michael-Coote250.jpg",
+      "name": "Michael Coote",
+      "images": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Michael-Coote250.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/council/council/councillors.html"
+        }
+      ]
     },
     {
+      "email": "graeme.hanger@bathurst.nsw.gov.au",
       "id": "bathurst_regional_council/graeme_hanger",
-      "name": "Graeme Hanger"
+      "image": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Graeme-Hanger250.jpg",
+      "name": "Graeme Hanger",
+      "images": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Graeme-Hanger250.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/council/council/councillors.html"
+        }
+      ]
     },
     {
+      "email": "jess.jennings@bathurst.nsw.gov.au",
       "id": "bathurst_regional_council/jess_jennings",
-      "name": "Jess Jennings"
+      "image": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Jess-Jennings250.jpg",
+      "name": "Jess Jennings",
+      "images": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Jess-Jennings250.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/council/council/councillors.html"
+        }
+      ]
     },
     {
+      "email": "monica.morse@bathurst.nsw.gov.au",
       "id": "bathurst_regional_council/monica_morse",
-      "name": "Monica Morse"
+      "image": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Monica-Morse250.jpg",
+      "name": "Monica Morse",
+      "images": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Monica-Morse250.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/council/council/councillors.html"
+        }
+      ]
     },
     {
+      "email": "Greg.Westman@bathurst.nsw.gov.au",
       "id": "bathurst_regional_council/greg_westman",
-      "name": "Greg Westman"
+      "image": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Greg-Westman250.jpg",
+      "name": "Greg Westman",
+      "images": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/images/stories/council/councillors/Greg-Westman250.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bathurst.nsw.gov.au/council/council/councillors.html"
+        }
+      ]
     },
     {
       "id": "bega_valley_shire_council/mike_britten",
@@ -7431,55 +7539,55 @@
       "person_id": "bathurst_regional_council/gary_rush",
       "organization_id": "legislature/bathurst_regional_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bathurst_regional_council/ian_north",
       "organization_id": "legislature/bathurst_regional_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "bathurst_regional_council/warren_aubin",
       "organization_id": "legislature/bathurst_regional_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bathurst_regional_council/bobby_bourke",
       "organization_id": "legislature/bathurst_regional_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "bathurst_regional_council/michael_coote",
       "organization_id": "legislature/bathurst_regional_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "bathurst_regional_council/graeme_hanger",
       "organization_id": "legislature/bathurst_regional_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "bathurst_regional_council/jess_jennings",
       "organization_id": "legislature/bathurst_regional_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bathurst_regional_council/monica_morse",
       "organization_id": "legislature/bathurst_regional_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "bathurst_regional_council/greg_westman",
       "organization_id": "legislature/bathurst_regional_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bega_valley_shire_council/mike_britten",
