@@ -65,24 +65,68 @@
       ]
     },
     {
+      "email": "gdocksey@alburycity.nsw.gov.au",
       "id": "albury_city_council/graham_docksey",
-      "name": "Graham Docksey"
+      "image": "http://www.alburycity.nsw.gov.au/__data/assets/image/0013/11551/Graham-Docksey-OAM.jpg",
+      "name": "Graham Docksey",
+      "images": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/__data/assets/image/0013/11551/Graham-Docksey-OAM.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "aglachan@alburycity.nsw.gov.au",
       "id": "albury_city_council/alice_glachan",
-      "name": "Alice Glachan"
+      "image": "http://www.alburycity.nsw.gov.au/__data/assets/image/0017/11546/Alice-Glachan.jpg",
+      "name": "Alice Glachan",
+      "images": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/__data/assets/image/0017/11546/Alice-Glachan.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "albury_city_council/patricia_gould",
-      "name": "Patricia Gould"
-    },
-    {
+      "email": "dthurley@alburycity.nsw.gov.au",
       "id": "albury_city_council/david_thurley",
-      "name": "David Thurley"
+      "image": "http://www.alburycity.nsw.gov.au/__data/assets/image/0015/11553/David-Thurley.jpg",
+      "name": "David Thurley",
+      "images": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/__data/assets/image/0015/11553/David-Thurley.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "hvandeven@alburycity.nsw.gov.au",
       "id": "albury_city_council/henk_van_de_ven",
-      "name": "Henk van de Ven"
+      "image": "http://www.alburycity.nsw.gov.au/__data/assets/image/0010/67897/Cr-Henk_website.jpg",
+      "name": "Henk van de Ven",
+      "images": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/__data/assets/image/0010/67897/Cr-Henk_website.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.alburycity.nsw.gov.au/inside-alburycity/about-council/councillors"
+        }
+      ]
     },
     {
       "id": "armidale_dumaresq_council/herman_beyersdorf",
@@ -6991,31 +7035,25 @@
       "person_id": "albury_city_council/graham_docksey",
       "organization_id": "legislature/albury_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "albury_city_council/alice_glachan",
       "organization_id": "legislature/albury_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "albury_city_council/patricia_gould",
-      "organization_id": "legislature/albury_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "albury_city_council/david_thurley",
       "organization_id": "legislature/albury_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "albury_city_council/henk_van_de_ven",
       "organization_id": "legislature/albury_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "armidale_dumaresq_council/herman_beyersdorf",
