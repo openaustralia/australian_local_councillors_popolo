@@ -2445,40 +2445,148 @@
       "name": "Alfie Walker"
     },
     {
+      "email": "cr.mcwilliams@greatlakes.nsw.gov.au",
       "id": "great_lakes_council/jan_mcwilliams",
-      "name": "Jan McWilliams"
+      "image": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/wsa_cr_mcwilliams[1].jpg?w=150&h=225",
+      "name": "Jan McWilliams",
+      "images": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/wsa_cr_mcwilliams[1].jpg?w=150&h=225"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/Council/About-Council"
+        }
+      ]
     },
     {
+      "email": "cr.roberts@greatlakes.nsw.gov.au",
       "id": "great_lakes_council/len_roberts",
-      "name": "Len Roberts"
+      "image": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_len_roberts[1].jpg?w=150&h=225",
+      "name": "Len Roberts",
+      "images": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_len_roberts[1].jpg?w=150&h=225"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/Council/About-Council"
+        }
+      ]
     },
     {
+      "email": "cr.gill@greatlakes.nsw.gov.au",
       "id": "great_lakes_council/linda_gill",
-      "name": "Linda Gill"
+      "image": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_gill[1].jpg?w=150&h=225",
+      "name": "Linda Gill",
+      "images": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_gill[1].jpg?w=150&h=225"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/Council/About-Council"
+        }
+      ]
     },
     {
+      "email": "cr.hutchinson@greatlakes.nsw.gov.au",
       "id": "great_lakes_council/karen_hutchinson",
-      "name": "Karen Hutchinson"
+      "image": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_hutchinson[1].jpg?w=150&h=225",
+      "name": "Karen Hutchinson",
+      "images": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_hutchinson[1].jpg?w=150&h=225"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/Council/About-Council"
+        }
+      ]
     },
     {
+      "email": "cr.mccaskie@greatlakes.nsw.gov.au",
       "id": "great_lakes_council/carol_mccaskie",
-      "name": "Carol McCaskie"
+      "image": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_mccaskie[1].jpg?w=150&h=225",
+      "name": "Carol McCaskie",
+      "images": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_mccaskie[1].jpg?w=150&h=225"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/Council/About-Council"
+        }
+      ]
     },
     {
+      "email": "cr.morwitch@greatlakes.nsw.gov.au",
       "id": "great_lakes_council/jim_morwitch",
-      "name": "Jim Morwitch"
+      "image": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_morwitch[1].jpg?w=150&h=225",
+      "name": "Jim Morwitch",
+      "images": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_morwitch[1].jpg?w=150&h=225"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/Council/About-Council"
+        }
+      ]
     },
     {
+      "email": "cr.summers@greatlakes.nsw.gov.au",
       "id": "great_lakes_council/tony_summers",
-      "name": "Tony Summers"
+      "image": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_summers[1].jpg?w=150&h=225",
+      "name": "Tony Summers",
+      "images": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_summers[1].jpg?w=150&h=225"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/Council/About-Council"
+        }
+      ]
     },
     {
+      "email": "cr.vaughan@greatlakes.nsw.gov.au",
       "id": "great_lakes_council/leigh_vaughan",
-      "name": "Leigh Vaughan"
+      "image": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_vaughan[1].jpg?w=150&h=225",
+      "name": "Leigh Vaughan",
+      "images": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_vaughan[1].jpg?w=150&h=225"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/Council/About-Council"
+        }
+      ]
     },
     {
+      "email": "cr.weate@greatlakes.nsw.gov.au",
       "id": "great_lakes_council/john_weate",
-      "name": "John Weate"
+      "image": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_weate[1].jpg?w=150&h=225",
+      "name": "John Weate",
+      "images": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/files/assets/public/manual-uploads/council/about-council/ws_cr_weate[1].jpg?w=150&h=225"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.greatlakes.nsw.gov.au/Council/About-Council"
+        }
+      ]
     },
     {
       "id": "greater_hume_shire_council/heather_wilton",
@@ -10172,109 +10280,109 @@
       "person_id": "goulburn_mulwaree_council/geoff_kettle",
       "organization_id": "legislature/goulburn_mulwaree_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "goulburn_mulwaree_council/bob_kirk",
       "organization_id": "legislature/goulburn_mulwaree_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "goulburn_mulwaree_council/andrew_banfield",
       "organization_id": "legislature/goulburn_mulwaree_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "goulburn_mulwaree_council/carol_james",
       "organization_id": "legislature/goulburn_mulwaree_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "goulburn_mulwaree_council/margaret_o'neill",
       "organization_id": "legislature/goulburn_mulwaree_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "goulburn_mulwaree_council/sam_rowland",
       "organization_id": "legislature/goulburn_mulwaree_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "goulburn_mulwaree_council/robin_saville",
       "organization_id": "legislature/goulburn_mulwaree_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "goulburn_mulwaree_council/denzil_sturgiss",
       "organization_id": "legislature/goulburn_mulwaree_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "goulburn_mulwaree_council/alfie_walker",
       "organization_id": "legislature/goulburn_mulwaree_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "great_lakes_council/jan_mcwilliams",
       "organization_id": "legislature/great_lakes_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "great_lakes_council/len_roberts",
       "organization_id": "legislature/great_lakes_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "great_lakes_council/linda_gill",
       "organization_id": "legislature/great_lakes_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "great_lakes_council/karen_hutchinson",
       "organization_id": "legislature/great_lakes_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "great_lakes_council/carol_mccaskie",
       "organization_id": "legislature/great_lakes_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "great_lakes_council/jim_morwitch",
       "organization_id": "legislature/great_lakes_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "great_lakes_council/tony_summers",
       "organization_id": "legislature/great_lakes_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "great_lakes_council/leigh_vaughan",
       "organization_id": "legislature/great_lakes_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "great_lakes_council/john_weate",
       "organization_id": "legislature/great_lakes_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/country_labor"
     },
     {
       "person_id": "greater_hume_shire_council/heather_wilton",
