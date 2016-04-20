@@ -2249,44 +2249,164 @@
       "name": "Tony Tersteeg"
     },
     {
+      "email": "lawrie.mckinna@gosford.nsw.gov.au",
       "id": "gosford_city_council/lawrie_mckinna",
-      "name": "Lawrie McKinna"
+      "image": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(7).jpg?sfvrsn=2",
+      "name": "Lawrie McKinna",
+      "images": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(7).jpg?sfvrsn=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/about-council/our-council/councillor-information"
+        }
+      ]
     },
     {
+      "email": "jim.macfadyen@gosford.nsw.gov.au",
       "id": "gosford_city_council/jim_macfadyen",
-      "name": "Jim MacFadyen"
+      "image": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(6).jpg?sfvrsn=2",
+      "name": "Jim MacFadyen",
+      "images": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(6).jpg?sfvrsn=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/about-council/our-council/councillor-information"
+        }
+      ]
     },
     {
+      "email": "deanna.bocking@gosford.nsw.gov.au",
       "id": "gosford_city_council/deanna_bocking",
-      "name": "Deanna Bocking"
+      "image": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(2).jpg?sfvrsn=2",
+      "name": "Deanna Bocking",
+      "images": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(2).jpg?sfvrsn=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/about-council/our-council/councillor-information"
+        }
+      ]
     },
     {
+      "email": "gabby.bowles@gosford.nsw.gov.au",
       "id": "gosford_city_council/gabby_bowles",
-      "name": "Gabby Bowles"
+      "image": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(3).jpg?sfvrsn=2",
+      "name": "Gabby Bowles",
+      "images": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(3).jpg?sfvrsn=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/about-council/our-council/councillor-information"
+        }
+      ]
     },
     {
+      "email": "chris.burke@gosford.nsw.gov.au",
       "id": "gosford_city_council/chris_burke",
-      "name": "Chris Burke"
+      "image": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(4).jpg?sfvrsn=2",
+      "name": "Chris Burke",
+      "images": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(4).jpg?sfvrsn=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/about-council/our-council/councillor-information"
+        }
+      ]
     },
     {
+      "email": "craig.doyle@gosford.nsw.gov.au",
       "id": "gosford_city_council/craig_doyle",
-      "name": "Craig Doyle"
+      "image": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(5).jpg?sfvrsn=2",
+      "name": "Craig Doyle",
+      "images": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(5).jpg?sfvrsn=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/about-council/our-council/councillor-information"
+        }
+      ]
     },
     {
+      "email": "hillary.morris@gosford.nsw.gov.au",
       "id": "gosford_city_council/hillary_morris",
-      "name": "Hillary Morris"
+      "image": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clr-morris.jpg?sfvrsn=2",
+      "name": "Hillary Morris",
+      "images": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clr-morris.jpg?sfvrsn=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/about-council/our-council/councillor-information"
+        }
+      ]
     },
     {
+      "email": "vicki.l.scott@gosford.nsw.gov.au",
       "id": "gosford_city_council/vicki_scott",
-      "name": "Vicki Scott"
+      "image": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(9).jpg?sfvrsn=2",
+      "name": "Vicki Scott",
+      "images": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(9).jpg?sfvrsn=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/about-council/our-council/councillor-information"
+        }
+      ]
     },
     {
+      "email": "jeffrey.strickson@gosford.nsw.gov.au",
       "id": "gosford_city_council/jeff_strickson",
-      "name": "Jeff Strickson"
+      "image": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(10).jpg?sfvrsn=2",
+      "name": "Jeff Strickson",
+      "images": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(10).jpg?sfvrsn=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/about-council/our-council/councillor-information"
+        }
+      ]
     },
     {
+      "email": "bob.ward@gosford.nsw.gov.au",
       "id": "gosford_city_council/bob_ward",
-      "name": "Bob Ward"
+      "image": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(11).jpg?sfvrsn=2",
+      "name": "Bob Ward",
+      "images": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/sfimages/default-source/about-council/clrs-(11).jpg?sfvrsn=2"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.gosford.nsw.gov.au/about-council/our-council/councillor-information"
+        }
+      ]
     },
     {
       "id": "goulburn_mulwaree_council/geoff_kettle",
@@ -9987,61 +10107,61 @@
       "person_id": "gosford_city_council/lawrie_mckinna",
       "organization_id": "legislature/gosford_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "gosford_city_council/jim_macfadyen",
       "organization_id": "legislature/gosford_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "gosford_city_council/deanna_bocking",
       "organization_id": "legislature/gosford_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "gosford_city_council/gabby_bowles",
       "organization_id": "legislature/gosford_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "gosford_city_council/chris_burke",
       "organization_id": "legislature/gosford_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "gosford_city_council/craig_doyle",
       "organization_id": "legislature/gosford_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "gosford_city_council/hillary_morris",
       "organization_id": "legislature/gosford_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "gosford_city_council/vicki_scott",
       "organization_id": "legislature/gosford_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "gosford_city_council/jeff_strickson",
       "organization_id": "legislature/gosford_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "gosford_city_council/bob_ward",
       "organization_id": "legislature/gosford_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "goulburn_mulwaree_council/geoff_kettle",
