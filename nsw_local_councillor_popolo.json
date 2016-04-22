@@ -330,51 +330,183 @@
     },
     {
       "id": "bankstown_city_council/khal_asfour",
-      "name": "Khal Asfour"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/Mayor%20Khal%20Asfour.jpg",
+      "name": "Khal Asfour",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/Mayor%20Khal%20Asfour.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/scott_parker",
-      "name": "Scott Parker"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/SParker22_web.jpg",
+      "name": "Scott Parker",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/SParker22_web.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/jim_daniel",
-      "name": "Jim Daniel"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Jim%20Daniel_KSP8663_thumb.jpg",
+      "name": "Jim Daniel",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Jim%20Daniel_KSP8663_thumb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/linda_downey",
-      "name": "Linda Downey"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Linda%20Downey_KSP8751_thumb.jpg",
+      "name": "Linda Downey",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Linda%20Downey_KSP8751_thumb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/jenny_golledge",
-      "name": "Jenny Golledge"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Jenny%20Golledge_KSP8877_thumb.jpg",
+      "name": "Jenny Golledge",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Jenny%20Golledge_KSP8877_thumb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/alex_kuskoff",
-      "name": "Alex Kuskoff"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/Alex%20Kuskoff%20web%20version.jpg",
+      "name": "Alex Kuskoff",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/Alex%20Kuskoff%20web%20version.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/naji_najjar",
-      "name": "Naji Najjar"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/aNaji%20Najjar_KSP8636_thumb.jpg",
+      "name": "Naji Najjar",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/aNaji%20Najjar_KSP8636_thumb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/dan_nguyen",
-      "name": "Dan Nguyen"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Dan%20Nguyen_KSP8788_thumb.jpg",
+      "name": "Toan Nguyen",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Dan%20Nguyen_KSP8788_thumb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/ian_stromborg",
-      "name": "Ian Stromborg"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Ian%20Stromborg_KSP8759_thumb.jpg",
+      "name": "Ian Stromborg",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Ian%20Stromborg_KSP8759_thumb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/magdy_(michael)_tadros",
-      "name": "Magdy (Michael) Tadros"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/Clr%20Tadros_resized.jpg",
+      "name": "Magdy (Michael) Tadros",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/Clr%20Tadros_resized.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/glen_waud",
-      "name": "Glen Waud"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Glen%20Waud_KSP8865_thumb.jpg",
+      "name": "Glen Waud",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/aClr%20Glen%20Waud_KSP8865_thumb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/allan_winterbottom",
-      "name": "Allan Winterbottom"
+      "image": "http://www.bankstown.nsw.gov.au/images/pages/N111/Clr%20Allan%20Winterbottom_KSP8832_thumb.jpg",
+      "name": "Allan Winterbottom",
+      "images": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/images/pages/N111/Clr%20Allan%20Winterbottom_KSP8832_thumb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bankstown.nsw.gov.au/index.aspx?nid=111"
+        }
+      ]
     },
     {
       "email": "gary.rush@bathurst.nsw.gov.au",
@@ -557,32 +689,116 @@
       "name": "Bill Taylor"
     },
     {
+      "email": "council@bellingen.nsw.gov.au",
       "id": "bellingen_shire_council/mark_a_troy",
-      "name": "Mark A Troy"
+      "image": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_troy_tn.jpg",
+      "name": "Mark Troy",
+      "images": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_troy_tn.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/council/councillors-and-senior-staff/cr-mark-troy-mayor"
+        }
+      ]
     },
     {
+      "email": "cr.desmae.harrison@bellingen.nsw.gov.au",
       "id": "bellingen_shire_council/desmae_harrison",
-      "name": "Desmae Harrison"
+      "image": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_harrison_tn.jpg",
+      "name": "Desmae Harrison",
+      "images": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_harrison_tn.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/council/councillors-and-senior-staff/cr-desmae-harrison"
+        }
+      ]
     },
     {
+      "email": "cr.garry.carter@bellingen.nsw.gov.au",
       "id": "bellingen_shire_council/garry_carter",
-      "name": "Garry Carter"
+      "image": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_carter_tn.jpg",
+      "name": "Garry Carter",
+      "images": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_carter_tn.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/council/councillors-and-senior-staff/cr-garry-carter"
+        }
+      ]
     },
     {
+      "email": "cr.dominic.king@bellingen.nsw.gov.au",
       "id": "bellingen_shire_council/dominic_king",
-      "name": "Dominic King"
+      "image": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_king_tn.jpg",
+      "name": "Dominic King",
+      "images": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_king_tn.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/council/councillors-and-senior-staff/cr-dominic-king"
+        }
+      ]
     },
     {
+      "email": "cr.steve.klipin@bellingen.nsw.gov.au",
       "id": "bellingen_shire_council/steve_klipin",
-      "name": "Steve Klipin"
+      "image": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_klipin_tn.jpg",
+      "name": "Steve Klipin",
+      "images": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_klipin_tn.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/council/councillors-and-senior-staff/cr-steve-klipin"
+        }
+      ]
     },
     {
+      "email": "cr.gordon.manning@bellingen.nsw.gov.au",
       "id": "bellingen_shire_council/gordon_manning",
-      "name": "Gordon Manning"
+      "image": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_manning_tn.jpg",
+      "name": "Gordon Manning",
+      "images": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_manning_tn.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/council/councillors-and-senior-staff/cr-gordon-manning"
+        }
+      ]
     },
     {
+      "email": "cr.david.scott@bellingen.nsw.gov.au",
       "id": "bellingen_shire_council/dave_scott",
-      "name": "Dave Scott"
+      "image": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_scott_tn.jpg",
+      "name": "Dave Scott",
+      "images": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/sites/bellingen/files/styles/people_300x200/public/public/people/cr_scott_tn.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bellingen.nsw.gov.au/council/councillors-and-senior-staff/cr-david-scott"
+        }
+      ]
     },
     {
       "id": "berrigan_shire_council/bernard_curtin",
@@ -741,52 +957,136 @@
       "name": "David Somervaille"
     },
     {
+      "email": "mgreenhill@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/mark_greenhill",
-      "name": "Mark Greenhill"
+      "image": "http://www.bmcc.nsw.gov.au/files/MGreenhill.gif",
+      "name": "Mark Greenhill",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/MGreenhill.gif"
+        }
+      ]
     },
     {
+      "email": "cvanderkley@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/chris_van_der_kley",
-      "name": "Chris Van Der Kley"
+      "image": "http://www.bmcc.nsw.gov.au/files/chrisvanderkley.jpg",
+      "name": "Chris Van Der Kley",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/chrisvanderkley.jpg"
+        }
+      ]
     },
     {
+      "email": "mbegg@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/michael_begg",
-      "name": "Michael Begg"
+      "image": "http://www.bmcc.nsw.gov.au/files/Michael%20Begg.jpg",
+      "name": "Michael Begg",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/Michael%20Begg.jpg"
+        }
+      ]
     },
     {
+      "email": "abennett@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/annette_bennett",
-      "name": "Annette Bennett"
+      "image": "http://www.bmcc.nsw.gov.au/files/ABennett_photo.gif",
+      "name": "Annette Bennett",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/ABennett_photo.gif"
+        }
+      ]
     },
     {
+      "email": "bchristie@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/brendan_christie",
-      "name": "Brendan Christie"
+      "image": "http://www.bmcc.nsw.gov.au/files/BrendanChristie.jpg",
+      "name": "Brendan Christie",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/BrendanChristie.jpg"
+        }
+      ]
     },
     {
+      "email": "mfell@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/mick_fell",
-      "name": "Mick Fell"
+      "image": "http://www.bmcc.nsw.gov.au/files/mickfell.jpg",
+      "name": "Mick Fell",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/mickfell.jpg"
+        }
+      ]
     },
     {
+      "email": "rhollywood@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/romola_hollywood",
-      "name": "Romola Hollywood"
+      "image": "http://www.bmcc.nsw.gov.au/files/RomolaHollywood.jpg",
+      "name": "Romola Hollywood",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/RomolaHollywood.jpg"
+        }
+      ]
     },
     {
+      "email": "bluchetti@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/brendan_luchetti",
-      "name": "Brendan Luchetti"
+      "image": "http://www.bmcc.nsw.gov.au/files/BrendanLuchetti.jpg",
+      "name": "Brendan Luchetti",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/BrendanLuchetti.jpg"
+        }
+      ]
     },
     {
+      "email": "dmcgregor@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/don_mcgregor",
-      "name": "Don McGregor"
+      "image": "http://www.bmcc.nsw.gov.au/files/donmcgregor.jpg",
+      "name": "Don McGregor",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/donmcgregor.jpg"
+        }
+      ]
     },
     {
+      "email": "dmyles@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/daniel_myles",
-      "name": "Daniel Myles"
+      "image": "http://www.bmcc.nsw.gov.au/files/danielmyles.jpg",
+      "name": "Daniel Myles",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/danielmyles.jpg"
+        }
+      ]
     },
     {
+      "email": "sshrubb@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/sarah_shrubb",
-      "name": "Sarah Shrubb"
+      "image": "http://www.bmcc.nsw.gov.au/files/SShrubb_photo.gif",
+      "name": "Sarah Shrubb",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/SShrubb_photo.gif"
+        }
+      ]
     },
     {
+      "email": "avonschulenburg@bmcc.nsw.gov.au",
       "id": "blue_mountains_city_council/anton_von_schulenburg",
-      "name": "Anton von Schulenburg"
+      "image": "http://www.bmcc.nsw.gov.au/files/AVSPhoto.gif",
+      "name": "Anton von Schulenburg",
+      "images": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/files/AVSPhoto.gif"
+        }
+      ]
     },
     {
       "id": "bogan_shire_council/ray_donald",
@@ -5382,44 +5682,148 @@
       "name": "Cl Scott A Williams"
     },
     {
+      "email": "cmoore@cityofsydney.nsw.gov.au",
       "id": "city_of_sydney/clover_moore",
-      "name": "Clover Moore"
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0012/223032/LM-thumbnail.jpg",
+      "name": "Clover Moore",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0012/223032/LM-thumbnail.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "city_of_sydney/robyn_kemmis",
-      "name": "Robyn Kemmis"
-    },
-    {
+      "email": "idoutney@cityofsydney.nsw.gov.au",
       "id": "city_of_sydney/irene_doutney",
-      "name": "Irene Doutney"
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0004/218713/doutney-2-150.jpg",
+      "name": "Irene Doutney",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0004/218713/doutney-2-150.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "cforster@cityofsydney.nsw.gov.au",
       "id": "city_of_sydney/christine_forster",
-      "name": "Christine Forster"
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0006/218715/forster-150.jpg",
+      "name": "Christine Forster",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0006/218715/forster-150.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "jennygreen@cityofsydney.nsw.gov.au",
       "id": "city_of_sydney/jenny_green",
-      "name": "Jenny Green"
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0008/218717/green-150.jpg",
+      "name": "Jenny Green",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0008/218717/green-150.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "rkok@cityofsydney.nsw.gov.au",
       "id": "city_of_sydney/robert_kok",
-      "name": "Robert Kok"
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0003/218721/kok-150.jpg",
+      "name": "Robert Kok",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0003/218721/kok-150.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "emandla@cityofsydney.nsw.gov.au",
       "id": "city_of_sydney/edward_mandla",
-      "name": "Edward Mandla"
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0005/218723/mandla-150.jpg",
+      "name": "Edward Mandla",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0005/218723/mandla-150.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "jmant@cityofsydney.nsw.gov.au",
       "id": "city_of_sydney/john_mant",
-      "name": "John Mant"
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0008/218726/mant-150.jpg",
+      "name": "John Mant",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0008/218726/mant-150.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "lscott@cityofsydney.nsw.gov.au",
       "id": "city_of_sydney/linda_scott",
-      "name": "Linda Scott"
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0010/218728/scott-150.jpg",
+      "name": "Linda Scott",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0010/218728/scott-150.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
+      "email": "avithoulkas@cityofsydney.nsw.gov.au",
       "id": "city_of_sydney/angela_vithoulkas",
-      "name": "Angela Vithoulkas"
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0003/233049/Angela_Vithoulkas_010-150.jpg",
+      "name": "Angela Vithoulkas",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0003/233049/Angela_Vithoulkas_010-150.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
       "id": "tamworth_regional_council/colin_j_murray",
@@ -6026,52 +6430,196 @@
       "name": "Denis Todd"
     },
     {
+      "email": "sally.betts@waverley.nsw.gov.au",
       "id": "waverley_council/sally_betts",
-      "name": "Sally Betts"
+      "image": "https://web.archive.org/web/20150630033052im_/http://www.waverley.nsw.gov.au/__data/assets/image/0013/1714/Sally_Betts_L.jpg",
+      "name": "Sally Betts",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150630033052im_/http://www.waverley.nsw.gov.au/__data/assets/image/0013/1714/Sally_Betts_L.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "tony.kay@waverley.nsw.gov.au",
       "id": "waverley_council/tony_kay",
-      "name": "Tony Kay"
+      "image": "https://web.archive.org/web/20150629235643im_/http://www.waverley.nsw.gov.au/__data/assets/image/0014/1724/Tony_Kay_Lx.jpg",
+      "name": "Tony Kay",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150629235643im_/http://www.waverley.nsw.gov.au/__data/assets/image/0014/1724/Tony_Kay_Lx.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "angela.burrill@waverley.nsw.gov.au",
       "id": "waverley_council/angela_burrill",
-      "name": "Angela Burrill"
+      "image": "https://web.archive.org/web/20150630000830im_/http://www.waverley.nsw.gov.au/__data/assets/image/0012/1722/Angela_Burrill_L.JPG",
+      "name": "Angela Burrill",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150630000830im_/http://www.waverley.nsw.gov.au/__data/assets/image/0012/1722/Angela_Burrill_L.JPG"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "joy.clayton@waverley.nsw.gov.au",
       "id": "waverley_council/joy_clayton",
-      "name": "Joy Clayton"
+      "image": "https://web.archive.org/web/20150629235311im_/http://www.waverley.nsw.gov.au/__data/assets/image/0011/1703/JoyClayton2.jpg",
+      "name": "Joy Clayton",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150629235311im_/http://www.waverley.nsw.gov.au/__data/assets/image/0011/1703/JoyClayton2.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "andrew.cusack@waverley.nsw.gov.au",
       "id": "waverley_council/andrew_cusack",
-      "name": "Andrew Cusack"
+      "image": "https://web.archive.org/web/20150630000830im_/http://www.waverley.nsw.gov.au/__data/assets/image/0013/1723/A_CusackL.JPG",
+      "name": "Andrew Cusack",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150630000830im_/http://www.waverley.nsw.gov.au/__data/assets/image/0013/1723/A_CusackL.JPG"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "leon.goltsman@waverley.nsw.gov.au",
       "id": "waverley_council/leon_goltsman",
-      "name": "Leon Goltsman"
+      "image": "https://web.archive.org/web/20150630033052im_/http://www.waverley.nsw.gov.au/__data/assets/image/0018/1719/LeonG_L.jpg",
+      "name": "Leon Goltsman",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150630033052im_/http://www.waverley.nsw.gov.au/__data/assets/image/0018/1719/LeonG_L.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "miriam.guttman-jones@waverley.nsw.gov.au",
       "id": "waverley_council/miriam_guttman-jones",
-      "name": "Miriam Guttman-Jones"
+      "image": "https://web.archive.org/web/20150630033052im_/http://www.waverley.nsw.gov.au/__data/assets/image/0010/1720/MiriamGuttman-Jones2.jpg",
+      "name": "Miriam Guttman-Jones",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150630033052im_/http://www.waverley.nsw.gov.au/__data/assets/image/0010/1720/MiriamGuttman-Jones2.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "paula.masselos@waverley.nsw.gov.au",
       "id": "waverley_council/paula_masselos",
-      "name": "Paula Masselos"
+      "image": "https://web.archive.org/web/20150630000830im_/http://www.waverley.nsw.gov.au/__data/assets/image/0011/8849/Paula_Masselos_L.jpg",
+      "name": "Paula Masselos",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150630000830im_/http://www.waverley.nsw.gov.au/__data/assets/image/0011/8849/Paula_Masselos_L.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "bill.mouroukas@waverley.nsw.gov.au",
       "id": "waverley_council/bill_mouroukas",
-      "name": "Bill Mouroukas"
+      "image": "https://web.archive.org/web/20150629235643im_/http://www.waverley.nsw.gov.au/__data/assets/image/0015/1725/Bill_M_L.JPG",
+      "name": "Bill Mouroukas",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150629235643im_/http://www.waverley.nsw.gov.au/__data/assets/image/0015/1725/Bill_M_L.JPG"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "ingrid.strewe@waverley.nsw.gov.au",
       "id": "waverley_council/ingrid_strewe",
-      "name": "Ingrid Strewe"
+      "image": "https://web.archive.org/web/20150623043556im_/http://www.waverley.nsw.gov.au/__data/assets/image/0016/1726/IngridStrewe2.jpg",
+      "name": "Ingrid Strewe",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150623043556im_/http://www.waverley.nsw.gov.au/__data/assets/image/0016/1726/IngridStrewe2.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "john.wakefield@waverley.nsw.gov.au",
       "id": "waverley_council/john_wakefield",
-      "name": "John Wakefield"
+      "image": "https://web.archive.org/web/20150629235311im_/http://www.waverley.nsw.gov.au/__data/assets/image/0017/1709/JohnWakefield_L.jpg",
+      "name": "John Wakefield",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150629235311im_/http://www.waverley.nsw.gov.au/__data/assets/image/0017/1709/JohnWakefield_L.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
+      "email": "dominick@waverley.nsw.gov.au",
       "id": "waverley_council/dominic_wy_kanak",
-      "name": "Dominic Wy Kanak"
+      "image": "https://web.archive.org/web/20150629235311im_/http://www.waverley.nsw.gov.au/__data/assets/image/0012/1704/d_wy_kanak_L.jpg",
+      "name": "Dominic Wy Kanak",
+      "images": [
+        {
+          "url": "https://web.archive.org/web/20150629235311im_/http://www.waverley.nsw.gov.au/__data/assets/image/0012/1704/d_wy_kanak_L.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.waverley.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "weddin_shire_council/mark_liebich",
@@ -7312,13 +7860,8 @@
       "classification": "party"
     },
     {
-      "id": "party/unaligned",
-      "name": "Unaligned",
-      "classification": "party"
-    },
-    {
-      "id": "party/clean_sweep_independents",
-      "name": "Clean Sweep Independents",
+      "id": "party/labor",
+      "name": "Labor",
       "classification": "party"
     },
     {
@@ -7327,8 +7870,23 @@
       "classification": "party"
     },
     {
+      "id": "party/unaligned",
+      "name": "Unaligned",
+      "classification": "party"
+    },
+    {
+      "id": "party/unaffiliated",
+      "name": "Unaffiliated",
+      "classification": "party"
+    },
+    {
       "id": "party/greens",
       "name": "Greens",
+      "classification": "party"
+    },
+    {
+      "id": "party/clean_sweep_independents",
+      "name": "Clean Sweep Independents",
       "classification": "party"
     },
     {
@@ -7337,13 +7895,28 @@
       "classification": "party"
     },
     {
-      "id": "party/labor",
-      "name": "Labor",
+      "id": "party/the_greens",
+      "name": "The Greens",
       "classification": "party"
     },
     {
-      "id": "party/the_greens",
-      "name": "The Greens",
+      "id": "party/clover_moore_independents",
+      "name": "Clover Moore Independents",
+      "classification": "party"
+    },
+    {
+      "id": "party/living_sydney",
+      "name": "Living Sydney",
+      "classification": "party"
+    },
+    {
+      "id": "party/liberal_party_of_australia",
+      "name": "Liberal Party of Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_labor_party",
+      "name": "Australian Labor Party",
       "classification": "party"
     }
   ],
@@ -7700,73 +8273,73 @@
       "person_id": "bankstown_city_council/khal_asfour",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "bankstown_city_council/scott_parker",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bankstown_city_council/jim_daniel",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "bankstown_city_council/linda_downey",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "bankstown_city_council/jenny_golledge",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "bankstown_city_council/alex_kuskoff",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "bankstown_city_council/naji_najjar",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "bankstown_city_council/dan_nguyen",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "bankstown_city_council/ian_stromborg",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "bankstown_city_council/magdy_(michael)_tadros",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "bankstown_city_council/glen_waud",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "bankstown_city_council/allan_winterbottom",
       "organization_id": "legislature/bankstown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bathurst_regional_council/gary_rush",
@@ -7880,43 +8453,43 @@
       "person_id": "bellingen_shire_council/mark_a_troy",
       "organization_id": "legislature/bellingen_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bellingen_shire_council/desmae_harrison",
       "organization_id": "legislature/bellingen_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bellingen_shire_council/garry_carter",
       "organization_id": "legislature/bellingen_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaffiliated"
     },
     {
       "person_id": "bellingen_shire_council/dominic_king",
       "organization_id": "legislature/bellingen_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "bellingen_shire_council/steve_klipin",
       "organization_id": "legislature/bellingen_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bellingen_shire_council/gordon_manning",
       "organization_id": "legislature/bellingen_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bellingen_shire_council/dave_scott",
       "organization_id": "legislature/bellingen_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "berrigan_shire_council/bernard_curtin",
@@ -14445,61 +15018,55 @@
       "person_id": "city_of_sydney/clover_moore",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "city_of_sydney/robyn_kemmis",
-      "organization_id": "legislature/city_of_sydney",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/clover_moore_independents"
     },
     {
       "person_id": "city_of_sydney/irene_doutney",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "city_of_sydney/christine_forster",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_sydney/jenny_green",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/clover_moore_independents"
     },
     {
       "person_id": "city_of_sydney/robert_kok",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/clover_moore_independents"
     },
     {
       "person_id": "city_of_sydney/edward_mandla",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_sydney/john_mant",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/clover_moore_independents"
     },
     {
       "person_id": "city_of_sydney/linda_scott",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "city_of_sydney/angela_vithoulkas",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/living_sydney"
     },
     {
       "person_id": "tamworth_regional_council/colin_j_murray",
@@ -15411,73 +15978,73 @@
       "person_id": "waverley_council/sally_betts",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "waverley_council/tony_kay",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "waverley_council/angela_burrill",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "waverley_council/joy_clayton",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "waverley_council/andrew_cusack",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "waverley_council/leon_goltsman",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "waverley_council/miriam_guttman-jones",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "waverley_council/paula_masselos",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "waverley_council/bill_mouroukas",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "waverley_council/ingrid_strewe",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "waverley_council/john_wakefield",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "waverley_council/dominic_wy_kanak",
       "organization_id": "legislature/waverley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "weddin_shire_council/mark_liebich",
@@ -17379,7 +17946,7 @@
       "role": "Lord Mayor"
     },
     {
-      "person_id": "city_of_sydney/robyn_kemmis",
+      "person_id": "city_of_sydney/irene_doutney",
       "organization_id": "legislature/city_of_sydney",
       "role": "deputy mayor"
     },
