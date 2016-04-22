@@ -1,0 +1,25 @@
+GIT
+  remote: https://github.com/openaustralia/csv_to_popolo
+  revision: 106f70d395ced35cdd9c4b0d726e76f5559d1dcd
+  branch: australian_local_councillors
+  specs:
+    csv_to_popolo (0.18.1)
+      json
+      twitter_username_extractor
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (1.8.3)
+    rake (11.1.2)
+    twitter_username_extractor (0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  csv_to_popolo!
+  rake
+
+BUNDLED WITH
+   1.11.2
