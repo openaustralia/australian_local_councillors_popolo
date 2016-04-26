@@ -3785,56 +3785,212 @@
       "name": "Graham Scott"
     },
     {
+      "email": "jharrison@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/jodie_harrison",
-      "name": "Jodie Harrison"
+      "image": "http://www.parliament.nsw.gov.au/prod/parlment/members.nsf/0/70332A23CF9BA5E4CA257D32001A3924/$file/print.jpg",
+      "name": "Jodie Harrison",
+      "images": [
+        {
+          "url": "http://www.parliament.nsw.gov.au/prod/parlment/members.nsf/0/70332A23CF9BA5E4CA257D32001A3924/$file/print.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/mayor"
+        }
+      ]
     },
     {
+      "email": "wharrison@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/wendy_harrison",
-      "name": "Wendy Harrison"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-wendy-harrison.jpg",
+      "name": "Wendy Harrison",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-wendy-harrison.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "badamthwaite@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/brian_adamthwaite",
-      "name": "Brian Adamthwaite"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/deputy-mayor-brian-adamthwaite.jpg",
+      "name": "Brian Adamthwaite",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/deputy-mayor-brian-adamthwaite.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "lcoghlan@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/laurie_coghlan",
-      "name": "Laurie Coghlan"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-laurie-coghlan.jpg",
+      "name": "Laurie Coghlan",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-laurie-coghlan.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "rdawson@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/rosmairi_dawson",
-      "name": "Rosmairi Dawson"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-rosmairi-dawson.jpg",
+      "name": "Rosmairi Dawson",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-rosmairi-dawson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "rdenton@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/robert_denton",
-      "name": "Robert Denton"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-robert-denton.jpg",
+      "name": "Robert Denton",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-robert-denton.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "kfraser@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/kay_fraser",
-      "name": "Kay Fraser"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-kay-fraser.jpg",
+      "name": "Kay Fraser",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-kay-fraser.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "cgriffith@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/chad_griffith",
-      "name": "Chad Griffith"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-chad-griffith.jpg",
+      "name": "Chad Griffith",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-chad-griffith.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "bjohnston@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/barry_johnston",
-      "name": "Barry Johnston"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-barry-johnston.jpg",
+      "name": "Barry Johnston",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-barry-johnston.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "blangford@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/barney_langford",
-      "name": "Barney Langford"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-barney-langford.jpg",
+      "name": "Barney Langford",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-barney-langford.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "jpauling@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/jason_pauling",
-      "name": "Jason Pauling"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-jason-pauling.jpg",
+      "name": "Jason Pauling",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-jason-pauling.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "kpaxinos@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/ken_paxinos",
-      "name": "Ken Paxinos"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-ken-paxinos.jpg",
+      "name": "Ken Paxinos",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-ken-paxinos.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
+      "email": "dwallace@lakemac.nsw.gov.au",
       "id": "lake_macquarie_city_council/daniel_wallace",
-      "name": "Daniel Wallace"
+      "image": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-daniel-wallace.jpg",
+      "name": "Daniel Wallace",
+      "images": [
+        {
+          "url": "http://www.lakemac.com.au/images/dynamic/small-portrait/councillor-daniel-wallace.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.lakemac.com.au/council/councillors-and-wards/councillor-profiles"
+        }
+      ]
     },
     {
       "id": "lane_cove_municipal_council/david_brooks-horn",
@@ -7895,6 +8051,11 @@
       "classification": "party"
     },
     {
+      "id": "party/australian_labor_party",
+      "name": "Australian Labor Party",
+      "classification": "party"
+    },
+    {
       "id": "party/the_greens",
       "name": "The Greens",
       "classification": "party"
@@ -7912,11 +8073,6 @@
     {
       "id": "party/liberal_party_of_australia",
       "name": "Liberal Party of Australia",
-      "classification": "party"
-    },
-    {
-      "id": "party/australian_labor_party",
-      "name": "Australian Labor Party",
       "classification": "party"
     }
   ],
@@ -12305,79 +12461,79 @@
       "person_id": "lake_macquarie_city_council/jodie_harrison",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "lake_macquarie_city_council/wendy_harrison",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "lake_macquarie_city_council/brian_adamthwaite",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "lake_macquarie_city_council/laurie_coghlan",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "lake_macquarie_city_council/rosmairi_dawson",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "lake_macquarie_city_council/robert_denton",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "lake_macquarie_city_council/kay_fraser",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "lake_macquarie_city_council/chad_griffith",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "lake_macquarie_city_council/barry_johnston",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "lake_macquarie_city_council/barney_langford",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "lake_macquarie_city_council/jason_pauling",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "lake_macquarie_city_council/ken_paxinos",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "lake_macquarie_city_council/daniel_wallace",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "lane_cove_municipal_council/david_brooks-horn",
@@ -17506,7 +17662,7 @@
       "role": "Mayor"
     },
     {
-      "person_id": "lake_macquarie_city_council/wendy_harrison",
+      "person_id": "lake_macquarie_city_council/brian_adamthwaite",
       "organization_id": "legislature/lake_macquarie_city_council",
       "role": "deputy mayor"
     },
