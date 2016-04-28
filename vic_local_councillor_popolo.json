@@ -141,40 +141,148 @@
       "name": "Paul Hooper"
     },
     {
+      "email": "glencrompton@ballarat.vic.gov.au",
       "id": "ballarat_city_council/glen_crompton",
-      "name": "Glen Crompton"
+      "image": "http://www.ballarat.vic.gov.au/media/2417141/cr_glen_crompton.jpg",
+      "name": "Glen Crompton",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/2417141/cr_glen_crompton.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
     },
     {
+      "email": "belindacoates@ballarat.vic.gov.au",
       "id": "ballarat_city_council/belinda_coates",
-      "name": "Belinda Coates"
+      "image": "http://www.ballarat.vic.gov.au/media/982745/cr_belinda_coates.jpg",
+      "name": "Belinda Coates",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/982745/cr_belinda_coates.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
     },
     {
+      "email": "SamanthaMcIntosh@ballarat.vic.gov.au",
       "id": "ballarat_city_council/samantha_mcintosh",
-      "name": "Samantha McIntosh"
+      "image": "http://www.ballarat.vic.gov.au/media/982770/cr_samantha_mcintosh.jpg",
+      "name": "Samantha McIntosh",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/982770/cr_samantha_mcintosh.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
     },
     {
+      "email": "vickicoltman@ballarat.vic.gov.au",
       "id": "ballarat_city_council/vicki_coltman",
-      "name": "Vicki Coltman"
+      "image": "http://www.ballarat.vic.gov.au/media/982735/cr_vicki_coltman.jpg",
+      "name": "Vicki Coltman",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/982735/cr_vicki_coltman.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
     },
     {
+      "email": "amyjohnson@ballarat.vic.gov.au",
       "id": "ballarat_city_council/amy_johnson",
-      "name": "Amy Johnson"
+      "image": "http://www.ballarat.vic.gov.au/media/982750/cr_amy_johnson.jpg",
+      "name": "Amy Johnson",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/982750/cr_amy_johnson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
     },
     {
+      "email": "JohnPhilips@ballarat.vic.gov.au",
       "id": "ballarat_city_council/john_philips",
-      "name": "John Philips"
+      "image": "http://www.ballarat.vic.gov.au/media/982765/cr_john_philips.jpg",
+      "name": "John Philips",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/982765/cr_john_philips.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
     },
     {
+      "email": "DesHudson@ballarat.vic.gov.au",
       "id": "ballarat_city_council/des_hudson",
-      "name": "Des Hudson"
+      "image": "http://www.ballarat.vic.gov.au/media/982740/cr_des_hudson.jpg",
+      "name": "Des Hudson",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/982740/cr_des_hudson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
     },
     {
+      "email": "peterinnes@ballarat.vic.gov.au",
       "id": "ballarat_city_council/peter_innes",
-      "name": "Peter Innes"
+      "image": "http://www.ballarat.vic.gov.au/media/982755/cr_peter_innes.jpg",
+      "name": "Peter Innes",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/982755/cr_peter_innes.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
     },
     {
+      "email": "jimrinaldi@ballarat.vic.gov.au",
       "id": "ballarat_city_council/jim_rinaldi",
-      "name": "Jim Rinaldi"
+      "image": "http://www.ballarat.vic.gov.au/media/2998456/crjimrinaldi.jpg",
+      "name": "Jim Rinaldi",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/2998456/crjimrinaldi.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
     },
     {
       "id": "banyule_city_council/mark_di_pasquale",
