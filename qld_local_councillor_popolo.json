@@ -1545,64 +1545,208 @@
       "name": "Trevor McDonald"
     },
     {
+      "email": "mayor@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/tom_tate",
-      "name": "Tom Tate"
+      "image": "http://www.goldcoast.qld.gov.au/_images/Mayor-Tom-Tate-hs.jpg",
+      "name": "Tom Tate",
+      "images": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/_images/Mayor-Tom-Tate-hs.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division8@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/bob_la_castra",
-      "name": "Bob La Castra"
+      "image": "http://www.goldcoast.qld.gov.au/_images/Cr-Bob-La-Castra-hs.jpg",
+      "name": "Bob La Castra",
+      "images": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/_images/Cr-Bob-La-Castra-hs.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division3@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/cameron_caldwell",
-      "name": "Cameron Caldwell"
+      "image": "http://www.goldcoast.qld.gov.au/_images/Cr-Cameron-Caldwell-hs.jpg",
+      "name": "Cameron Caldwell",
+      "images": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/_images/Cr-Cameron-Caldwell-hs.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division4@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/chris_robbins",
-      "name": "Chris Robbins"
+      "name": "Kristyn Boulton",
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division13@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/daphne_mcdonald",
-      "name": "Daphne McDonald"
+      "image": "http://www.goldcoast.qld.gov.au/_images/Cr-Daphne-McDonald-hs.jpg",
+      "name": "Daphne McDonald",
+      "images": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/_images/Cr-Daphne-McDonald-hs.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "gbrown@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/dawn_crichlow",
-      "name": "Dawn Crichlow"
+      "image": "http://www.goldcoast.qld.gov.au/_images/Cr-Dawn-Crichlow-hs.jpg",
+      "name": "Dawn Crichlow",
+      "images": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/_images/Cr-Dawn-Crichlow-hs.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division1@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/donna_gates",
-      "name": "Donna Gates"
+      "image": "http://www.goldcoast.qld.gov.au/_images/Cr-Gates-hs.jpg",
+      "name": "Donna Gates",
+      "images": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/_images/Cr-Gates-hs.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division9@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/glenn_tozer",
-      "name": "Glenn Tozer"
+      "image": "http://www.goldcoast.qld.gov.au/_images/Cr-Glen-Tozer-hs.jpg",
+      "name": "Glenn Tozer",
+      "images": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/_images/Cr-Glen-Tozer-hs.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division5@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/greg_betts",
-      "name": "Greg Betts"
+      "name": "Peter Young",
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division7@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/jan_grew",
-      "name": "Jan Grew"
+      "name": "Gary Baildon AM",
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division11@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/lex_bell",
-      "name": "Lex Bell"
+      "name": "Hermann Vorrster",
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division12@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/margaret_grummitt",
-      "name": "Margaret Grummitt"
+      "name": "Pauline Young",
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division10@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/paul_taylor",
-      "name": "Paul Taylor"
+      "image": "http://www.goldcoast.qld.gov.au/_images/Cr-Paul-Taylor-hs.jpg",
+      "name": "Paul Taylor",
+      "images": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/_images/Cr-Paul-Taylor-hs.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division14@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/tracey_gilmore",
-      "name": "Tracey Gilmore"
+      "name": "Gail O'Neill",
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
+      "email": "division2@goldcoast.qld.gov.au",
       "id": "gold_coast_city_council/william_owen-jones",
-      "name": "William Owen-Jones"
+      "image": "http://www.goldcoast.qld.gov.au/_images/Cr-William-Owen-Jones-hs.jpg",
+      "name": "William Owen-Jones",
+      "images": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/_images/Cr-William-Owen-Jones-hs.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.goldcoast.qld.gov.au/council/councillors-divisions-209.html"
+        }
+      ]
     },
     {
       "id": "goondiwindi_regional_council/graeme_scheu",
