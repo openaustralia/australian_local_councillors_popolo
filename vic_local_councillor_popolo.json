@@ -1263,40 +1263,148 @@
       "name": "John Ronke"
     },
     {
+      "email": "peter.lockwood@knox.vic.gov.au",
       "id": "knox_city_council/peter_lockwood",
-      "name": "Peter Lockwood"
+      "image": "http://www.knox.vic.gov.au/Page/Images/cr_peter_lockwood_2014.jpg",
+      "name": "Peter Lockwood",
+      "images": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Images/cr_peter_lockwood_2014.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=107"
+        }
+      ]
     },
     {
+      "email": "john.mortimore@knox.vic.gov.au",
       "id": "knox_city_council/john_mortimore",
-      "name": "John Mortimore"
+      "image": "http://www.knox.vic.gov.au/Page/Images/cr_john_mortimore_2012.jpg",
+      "name": "John Mortimore",
+      "images": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Images/cr_john_mortimore_2012.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=108"
+        }
+      ]
     },
     {
+      "email": "joe.cossari@knox.vic.gov.au",
       "id": "knox_city_council/joe_cossari",
-      "name": "Joe Cossari"
+      "image": "http://www.knox.vic.gov.au/Page/Images/cr_joe_cossari_2012.jpg",
+      "name": "Joe Cossari",
+      "images": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Images/cr_joe_cossari_2012.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=109"
+        }
+      ]
     },
     {
+      "email": "adam.gill@knox.vic.gov.au",
       "id": "knox_city_council/adam_gill",
-      "name": "Adam Gill"
+      "image": "http://www.knox.vic.gov.au/Page/Images/cr_adam_gill_2012.jpg",
+      "name": "Adam Gill",
+      "images": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Images/cr_adam_gill_2012.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=110"
+        }
+      ]
     },
     {
+      "email": "karin.orpen@knox.vic.gov.au",
       "id": "knox_city_council/karin_orpen",
-      "name": "Karin Orpen"
+      "image": "http://www.knox.vic.gov.au/Page/Images/cr_karin_orpen_2013.jpg",
+      "name": "Karin Orpen",
+      "images": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Images/cr_karin_orpen_2013.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=111"
+        }
+      ]
     },
     {
+      "email": "tony.holland@knox.vic.gov.au",
       "id": "knox_city_council/tony_holland",
-      "name": "Tony Holland"
+      "image": "http://www.knox.vic.gov.au/Page/Images/cr_tony_holland_2012.jpg",
+      "name": "Tony Holland",
+      "images": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Images/cr_tony_holland_2012.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=112"
+        }
+      ]
     },
     {
+      "email": "Lisa.Cooper@knox.vic.gov.au",
       "id": "knox_city_council/lisa_cooper",
-      "name": "Lisa Cooper"
+      "image": "http://www.knox.vic.gov.au/Page/Images/cr_lisa_cooper_2014.jpg",
+      "name": "Lisa Cooper",
+      "images": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Images/cr_lisa_cooper_2014.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=106"
+        }
+      ]
     },
     {
+      "email": "darren.pearce@knox.vic.gov.au",
       "id": "knox_city_council/darren_pearce",
-      "name": "Darren Pearce"
+      "image": "http://www.knox.vic.gov.au/Page/Images/cr_darren_pearce_2014.jpg",
+      "name": "Darren Pearce",
+      "images": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Images/cr_darren_pearce_2014.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=113"
+        }
+      ]
     },
     {
+      "email": "nicole.seymour@knox.vic.gov.au",
       "id": "knox_city_council/nicole_seymour",
-      "name": "Nicole Seymour"
+      "image": "http://www.knox.vic.gov.au/Page/Images/cr_nicole_seymour_2013.jpg",
+      "name": "Nicole Seymour",
+      "images": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Images/cr_nicole_seymour_2013.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=114"
+        }
+      ]
     },
     {
       "id": "latrobe_city_council/graeme_middlemiss",
