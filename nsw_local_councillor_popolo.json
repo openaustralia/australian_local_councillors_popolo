@@ -4353,40 +4353,148 @@
       "name": "Ben Whiting"
     },
     {
+      "email": "jean.hay@manly.nsw.gov.au",
       "id": "manly_council/jean_hay",
-      "name": "Jean Hay"
+      "image": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/jeanhay[1].jpg",
+      "name": "Jean Hay",
+      "images": [
+        {
+          "url": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/jeanhay[1].jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.manly.nsw.gov.au/council/councillors/"
+        }
+      ]
     },
     {
+      "email": "alan.lesurf@manly.nsw.gov.au",
       "id": "manly_council/alan_le_surf",
-      "name": "Alan Le Surf"
+      "image": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/Alan%20LeSurf3.jpg",
+      "name": "Alan Le Surf",
+      "images": [
+        {
+          "url": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/Alan%20LeSurf3.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.manly.nsw.gov.au/council/councillors/"
+        }
+      ]
     },
     {
+      "email": "airdba@manly.nsw.gov.au",
       "id": "manly_council/barbara_aird",
-      "name": "Barbara Aird"
+      "image": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/Barb%20new.jpg",
+      "name": "Barbara Aird",
+      "images": [
+        {
+          "url": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/Barb%20new.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.manly.nsw.gov.au/council/councillors/"
+        }
+      ]
     },
     {
+      "email": "candy@bingham.com.au",
       "id": "manly_council/candy_bingham",
-      "name": "Candy Bingham"
+      "image": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/CandyBingham[2].jpg",
+      "name": "Candy Bingham",
+      "images": [
+        {
+          "url": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/CandyBingham[2].jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.manly.nsw.gov.au/council/councillors/"
+        }
+      ]
     },
     {
+      "email": "hugh.burns@dugeem.net",
       "id": "manly_council/hugh_burns",
-      "name": "Hugh Burns"
+      "image": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/HughBurns[1].jpg",
+      "name": "Hugh Burns",
+      "images": [
+        {
+          "url": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/HughBurns[1].jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.manly.nsw.gov.au/council/councillors/"
+        }
+      ]
     },
     {
+      "email": "cathy.griffin@manly.nsw.gov.au",
       "id": "manly_council/cathy_griffin",
-      "name": "Cathy Griffin"
+      "image": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/CathyGriffin[2].jpg",
+      "name": "Cathy Griffin",
+      "images": [
+        {
+          "url": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/CathyGriffin[2].jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.manly.nsw.gov.au/council/councillors/"
+        }
+      ]
     },
     {
+      "email": "griffinja@manly.nsw.gov.au",
       "id": "manly_council/james_griffin",
-      "name": "James Griffin"
+      "image": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/JamesGriffin[1].jpg",
+      "name": "James Griffin",
+      "images": [
+        {
+          "url": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/JamesGriffin[1].jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.manly.nsw.gov.au/council/councillors/"
+        }
+      ]
     },
     {
+      "email": "adele.heasman@manly.nsw.gov.au",
       "id": "manly_council/adele_heasman",
-      "name": "Adele Heasman"
+      "image": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/AdeleHeasman.jpg",
+      "name": "Adele Heasman",
+      "images": [
+        {
+          "url": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/AdeleHeasman.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.manly.nsw.gov.au/council/councillors/"
+        }
+      ]
     },
     {
+      "email": "steve.pickering@manly.nsw.gov.au",
       "id": "manly_council/steve_pickering",
-      "name": "Steve Pickering"
+      "image": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/StevePickering[1].jpg",
+      "name": "Steve Pickering",
+      "images": [
+        {
+          "url": "http://www.manly.nsw.gov.au/IgnitionSuite/uploads/images/StevePickering[1].jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.manly.nsw.gov.au/council/councillors/"
+        }
+      ]
     },
     {
       "email": "mgardiner@marrickville.nsw.gov.au",
@@ -8053,6 +8161,11 @@
     {
       "id": "party/australian_labor_party",
       "name": "Australian Labor Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/manly_independents",
+      "name": "Manly Independents",
       "classification": "party"
     },
     {
@@ -13079,55 +13192,55 @@
       "person_id": "manly_council/jean_hay",
       "organization_id": "legislature/manly_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "manly_council/alan_le_surf",
       "organization_id": "legislature/manly_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "manly_council/barbara_aird",
       "organization_id": "legislature/manly_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/manly_independents"
     },
     {
       "person_id": "manly_council/candy_bingham",
       "organization_id": "legislature/manly_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "manly_council/hugh_burns",
       "organization_id": "legislature/manly_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/manly_independents"
     },
     {
       "person_id": "manly_council/cathy_griffin",
       "organization_id": "legislature/manly_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/the_greens"
     },
     {
       "person_id": "manly_council/james_griffin",
       "organization_id": "legislature/manly_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "manly_council/adele_heasman",
       "organization_id": "legislature/manly_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "manly_council/steve_pickering",
       "organization_id": "legislature/manly_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "marrickville_council/mark_gardiner",
