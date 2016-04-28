@@ -16,11 +16,10 @@ to be cleaned up and updated.
 To update or add to this data follow these steps:
 
 1. Make your changes in [the Google Spreadsheet](https://docs.google.com/spreadsheets/d/1_Ea99E5yXnHXW62o_lRo9khdbccEWfttpy2tyuYZYOE/).
-2. Export the sheet as CSV.
-3. Use the [CSV to Popolo converter](https://github.com/equivalentideas/csv_to_popolo) to generate a new json file.
-4. Replace the json file to be update in this repo with your updated one.
-5. Inspect the diff to verify your changes and check for errors before committing them.
-6. Submit a pull request with your changes with an [explanation](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
+2. Run `bundle` to install the Gem dependencies
+3. Run `bundle exec rake` to pull data from the Spreadsheet into JSON files in this repository.
+4. Inspect the diff to verify the changes to the JSON files and check for errors before committing them.
+5. Submit a pull request with your changes with an [explanation](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
    of what they are and why you have made them.
 
 ## Using the CSV to Popolo converter
