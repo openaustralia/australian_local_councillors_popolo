@@ -15,10 +15,15 @@ def google_sheets_export_url(gid)
 end
 
 def update_data(state, url)
+  json_filename = "#{state.to_s}_local_councillor_popolo.json"
+
   Tempfile.open("councillor_csv") do |file|
+    puts "Fetching #{state.to_s.upcase} CSV: #{url}"
     file << open(url).read
+
     json = JSON.pretty_generate(Popolo::CSV.new(file).data)
-    File.open("#{state.to_s}_local_councillor_popolo.json", "w") { |f| f << json }
+    puts "Saving: #{json_filename}"
+    File.open(json_filename, "w") { |f| f << json }
   end
 end
 
