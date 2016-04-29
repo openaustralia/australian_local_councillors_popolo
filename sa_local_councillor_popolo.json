@@ -2906,7 +2906,13 @@
     {
       "email": "rsalaman@unley.sa.gov.au",
       "id": "city_of_unley/rufus_salaman",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Rufus_Salaman_web.jpg",
       "name": "Rufus Salaman",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Rufus_Salaman_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=17348"
@@ -2916,7 +2922,13 @@
     {
       "email": "mrabbitt@unley.sa.gov.au",
       "id": "city_of_unley/michael_rabbitt",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Michael_Rabbitt_web.jpg",
       "name": "Michael Rabbitt",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Michael_Rabbitt_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=17349"
@@ -2926,7 +2938,13 @@
     {
       "email": "phughes@unley.sa.gov.au",
       "id": "city_of_unley/peter_hughes",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Peter_Hughes_web.jpg",
       "name": "Peter Hughes",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Peter_Hughes_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=17350"
@@ -2936,7 +2954,13 @@
     {
       "email": "mhudson@unley.sa.gov.au",
       "id": "city_of_unley/mike_hudson",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Mike_Hudson_web.jpg",
       "name": "Mike Hudson",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Mike_Hudson_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=2357"
@@ -2946,7 +2970,13 @@
     {
       "email": "alapidge@unley.sa.gov.au",
       "id": "city_of_unley/anthony_lapidge",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Anthony_Lapidge_web.jpg",
       "name": "Anthony Lapidge",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Anthony_Lapidge_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=2358"
@@ -2956,7 +2986,13 @@
     {
       "email": "rsangster@unley.sa.gov.au",
       "id": "city_of_unley/rob_sangster",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Rob_Sangster_web.jpg",
       "name": "Rob Sangster",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Rob_Sangster_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=2363"
@@ -2966,7 +3002,13 @@
     {
       "email": "bschnell@unley.sa.gov.au",
       "id": "city_of_unley/bob_schnell",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Bob_Schnell_web.jpg",
       "name": "Bob Schnell",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Bob_Schnell_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=2365"
@@ -2976,7 +3018,13 @@
     {
       "email": "jkoumi@unley.sa.gov.au",
       "id": "city_of_unley/john_koumi",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/John_Koumi_web.jpg",
       "name": "John Koumi",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/John_Koumi_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=5740"
@@ -2986,7 +3034,13 @@
     {
       "email": "lsmolucha@unley.sa.gov.au",
       "id": "city_of_unley/luke_smolucha",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Luke_Smolucha_web.jpg",
       "name": "Luke Smolucha",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Luke_Smolucha_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=5741"
@@ -2996,7 +3050,13 @@
     {
       "email": "mayor.clyne@unley.sa.gov.au",
       "id": "city_of_unley/lachlan_clyne",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Lachlan_Clyne_web.jpg",
       "name": "Lachlan Clyne",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Lachlan_Clyne_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=5742"
@@ -3006,7 +3066,13 @@
     {
       "email": "mhewitson@unley.sa.gov.au",
       "id": "city_of_unley/michael_hewitson",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Michael_Hewitson_web.jpg",
       "name": "Michael Hewitson",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Michael_Hewitson_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=5743"
@@ -3016,7 +3082,13 @@
     {
       "email": "jboisvert@unley.sa.gov.au",
       "id": "city_of_unley/jennie_boisvert",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Jennie_Boisvert_web.jpg",
       "name": "Jennie Boisvert",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Jennie_Boisvert_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=5744"
@@ -3026,7 +3098,13 @@
     {
       "email": "dpalmer@unley.sa.gov.au",
       "id": "city_of_unley/don_palmer",
+      "image": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Don_Palmer_web.jpg",
       "name": "Don Palmer",
+      "images": [
+        {
+          "url": "http://www.unley.sa.gov.au/CityOfUnley/media/CoU-Media-Library/Council%20and%20Administration/Wards%20Councillors/Don_Palmer_web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.unley.sa.gov.au/page.aspx?c=5745"
