@@ -14743,9 +14743,9 @@
   "warnings": {
     "skipped": [
       "position",
-      "updated_at",
       "ward",
-      "council_url"
+      "council_website",
+      "updated_at"
     ]
   }
 }
