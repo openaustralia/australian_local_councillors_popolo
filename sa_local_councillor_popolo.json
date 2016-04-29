@@ -1261,7 +1261,13 @@
     {
       "email": "tim.pfeiffer@marion.sa.gov.au",
       "id": "city_of_marion/tim_pfeiffer",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Tim%20Pfeiffer%20-%20compressed.jpg",
       "name": "Tim Pfeiffer",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Tim%20Pfeiffer%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=12"
@@ -1271,7 +1277,13 @@
     {
       "email": "bruce.hull@marion.sa.gov.au",
       "id": "city_of_marion/bruce_hull",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Bruce%20Hull%20-%20compressed.jpg",
       "name": "Bruce Hull",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Bruce%20Hull%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=6"
@@ -1281,7 +1293,13 @@
     {
       "email": "jerome.appleby@marion.sa.gov.au",
       "id": "city_of_marion/jerome_appleby",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Jerome%20Appleby%20-%20compressed.jpg",
       "name": "Jerome Appleby",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Jerome%20Appleby%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=7"
@@ -1291,7 +1309,13 @@
     {
       "email": "luke.hutchinson@marion.sa.gov.au",
       "id": "city_of_marion/luke_hutchinson",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Luke%20Hutchinson%20-%20compressed.jpg",
       "name": "Luke Hutchinson",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Luke%20Hutchinson%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=8"
@@ -1301,7 +1325,13 @@
     {
       "email": "jason.veliskou@marion.sa.gov.au",
       "id": "city_of_marion/jason_veliskou",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Jason%20Veliskou%20-%20compressed.jpg",
       "name": "Jason Veliskou",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Jason%20Veliskou%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=9"
@@ -1311,7 +1341,13 @@
     {
       "email": "ian.crossland@marion.sa.gov.au",
       "id": "city_of_marion/ian_crossland",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Ian%20Crossland%20-%20compressed.jpg",
       "name": "Ian Crossland",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Ian%20Crossland%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=20240"
@@ -1321,7 +1357,13 @@
     {
       "email": "tim.gard@marion.sa.gov.au",
       "id": "city_of_marion/tim_gard",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Tim%20Gard%20-%20compressed.jpg",
       "name": "Tim Gard",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Tim%20Gard%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=20241"
@@ -1331,7 +1373,13 @@
     {
       "email": "janet.byram@marion.sa.gov.au",
       "id": "city_of_marion/janet_byram",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Janet%20Byram%20-%20compressed.jpg",
       "name": "Janet Byram",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Janet%20Byram%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=20242"
@@ -1341,7 +1389,13 @@
     {
       "email": "nick.westwood@marion.sa.gov.au",
       "id": "city_of_marion/nick_westwood",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Nick%20Westwood%20-%20compressed.jpg",
       "name": "Nick Westwood",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Nick%20Westwood%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=20243"
@@ -1351,7 +1405,13 @@
     {
       "email": "nathan.prior@marion.sa.gov.au",
       "id": "city_of_marion/nathan_prior",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Nathan%20Prior%20-%20compressed.jpg",
       "name": "Nathan Prior",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Nathan%20Prior%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=20244"
@@ -1361,7 +1421,13 @@
     {
       "email": "raelene.telfer@marion.sa.gov.au",
       "id": "city_of_marion/raelene_telfer",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Raelene%20Telfer%20-%20compressed.jpg",
       "name": "Raelene Telfer",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Raelene%20Telfer%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=20245"
@@ -1371,7 +1437,13 @@
     {
       "email": "nick.kerry@marion.sa.gov.au",
       "id": "city_of_marion/nick_kerry",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Nick%20Kerry%20-%20compressed.jpg",
       "name": "Nick Kerry",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Nick%20Kerry%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=20246"
@@ -1381,7 +1453,13 @@
     {
       "email": "council@marion.sa.gov.au",
       "id": "city_of_marion/kris_hanna",
+      "image": "http://www.marion.sa.gov.au/webdata/resources/contact/Kris%20Hanna%20robes%20-%20compressed.jpg",
       "name": "Kris Hanna",
+      "images": [
+        {
+          "url": "http://www.marion.sa.gov.au/webdata/resources/contact/Kris%20Hanna%20robes%20-%20compressed.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.marion.sa.gov.au/page.aspx?c=20247"
