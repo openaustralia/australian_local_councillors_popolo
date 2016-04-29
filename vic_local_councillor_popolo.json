@@ -3139,6 +3139,11 @@
       "classification": "party"
     },
     {
+      "id": "party/greens",
+      "name": "Greens",
+      "classification": "party"
+    },
+    {
       "id": "party/independent",
       "name": "Independent",
       "classification": "party"
@@ -3259,7 +3264,7 @@
       "person_id": "ballarat_city_council/belinda_coates",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "ballarat_city_council/samantha_mcintosh",
