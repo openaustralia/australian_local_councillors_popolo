@@ -1728,7 +1728,7 @@
     },
     {
       "email": "lordmayor@melbourne.vic.gov.au",
-      "id": "melbourne_city/hon_robert_doyle",
+      "id": "melbourne_city_council/hon_robert_doyle",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/lord-mayor-250.jpg",
       "name": "Hon Robert Doyle",
       "images": [
@@ -1744,7 +1744,7 @@
     },
     {
       "email": "susan.riley@melbourne.vic.gov.au",
-      "id": "melbourne_city/susan_riley",
+      "id": "melbourne_city_council/susan_riley",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/dlm-susan-riley.jpg",
       "name": "Susan Riley",
       "images": [
@@ -1760,7 +1760,7 @@
     },
     {
       "email": "richard.foster@melbourne.vic.gov.au",
-      "id": "melbourne_city/richard_foster",
+      "id": "melbourne_city_council/richard_foster",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/cr-richard-foster.jpg",
       "name": "Richard Foster",
       "images": [
@@ -1776,7 +1776,7 @@
     },
     {
       "email": "rohan.leppert@melbourne.vic.gov.au",
-      "id": "melbourne_city/rohan_leppert",
+      "id": "melbourne_city_council/rohan_leppert",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/cr-leppert-250-332.jpg",
       "name": "Rohan Leppert",
       "images": [
@@ -1792,7 +1792,7 @@
     },
     {
       "email": "kevin.louey@melbourne.vic.gov.au",
-      "id": "melbourne_city/kevin_louey",
+      "id": "melbourne_city_council/kevin_louey",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/cr-kevin-louey.jpg",
       "name": "Kevin Louey",
       "images": [
@@ -1808,7 +1808,7 @@
     },
     {
       "email": "stephen.mayne@melbourne.vic.gov.au",
-      "id": "melbourne_city/stephen_mayne",
+      "id": "melbourne_city_council/stephen_mayne",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/cr-stephen-mayne.jpg",
       "name": "Stephen Mayne",
       "images": [
@@ -1824,7 +1824,7 @@
     },
     {
       "email": "cathy.oke@melbourne.vic.gov.au",
-      "id": "melbourne_city/cathy_oke",
+      "id": "melbourne_city_council/cathy_oke",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/cathy-oke-250-332.jpg",
       "name": "Cathy Oke",
       "images": [
@@ -1840,7 +1840,7 @@
     },
     {
       "email": "ken.ong@melbourne.vic.gov.au",
-      "id": "melbourne_city/ken_ong",
+      "id": "melbourne_city_council/ken_ong",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/cr-ken-ong.jpg",
       "name": "Ken Ong",
       "images": [
@@ -1856,7 +1856,7 @@
     },
     {
       "email": "beverley.pinder-mortimer@melbourne.vic.gov.au",
-      "id": "melbourne_city/beverley_pinder-mortimer",
+      "id": "melbourne_city_council/beverley_pinder-mortimer",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/cr-beverley-pinder-mortimer.jpg",
       "name": "Beverley Pinder-Mortimer",
       "images": [
@@ -1872,7 +1872,7 @@
     },
     {
       "email": "jackie.watts@melbourne.vic.gov.au",
-      "id": "melbourne_city/jackie_watts",
+      "id": "melbourne_city_council/jackie_watts",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/cr-jackie-watts.jpg",
       "name": "Jackie Watts",
       "images": [
@@ -1888,7 +1888,7 @@
     },
     {
       "email": "arron.wood@melbourne.vic.gov.au",
-      "id": "melbourne_city/arron_wood",
+      "id": "melbourne_city_council/arron_wood",
       "image": "http://www.melbourne.vic.gov.au/SiteCollectionImages/cr-arron-wood.jpg",
       "name": "Arron Wood",
       "images": [
@@ -3199,8 +3199,8 @@
       "classification": "legislature"
     },
     {
-      "id": "legislature/melbourne_city",
-      "name": "Melbourne City",
+      "id": "legislature/melbourne_city_council",
+      "name": "Melbourne City Council",
       "classification": "legislature"
     },
     {
@@ -5475,68 +5475,68 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "melbourne_city/hon_robert_doyle",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/hon_robert_doyle",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/team_doyle"
     },
     {
-      "person_id": "melbourne_city/susan_riley",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/susan_riley",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/team_doyle"
     },
     {
-      "person_id": "melbourne_city/richard_foster",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/richard_foster",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/our_melbourne"
     },
     {
-      "person_id": "melbourne_city/rohan_leppert",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/rohan_leppert",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/victorian_greens"
     },
     {
-      "person_id": "melbourne_city/kevin_louey",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/kevin_louey",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/team_doyle"
     },
     {
-      "person_id": "melbourne_city/stephen_mayne",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/stephen_mayne",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/stephen_mayne:_independence,_experience,_transparency,_accountability"
     },
     {
-      "person_id": "melbourne_city/cathy_oke",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/cathy_oke",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/victorian_greens"
     },
     {
-      "person_id": "melbourne_city/ken_ong",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/ken_ong",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/gary_singer_-_john_so_melbourne_living"
     },
     {
-      "person_id": "melbourne_city/beverley_pinder-mortimer",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/beverley_pinder-mortimer",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/team_doyle"
     },
     {
-      "person_id": "melbourne_city/jackie_watts",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/jackie_watts",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/morgan_elliott_-_prosperity_for_liveability"
     },
     {
-      "person_id": "melbourne_city/arron_wood",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/arron_wood",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/team_doyle"
     },
@@ -7372,13 +7372,13 @@
       "role": "mayor"
     },
     {
-      "person_id": "melbourne_city/hon_robert_doyle",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/hon_robert_doyle",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "mayor"
     },
     {
-      "person_id": "melbourne_city/susan_riley",
-      "organization_id": "legislature/melbourne_city",
+      "person_id": "melbourne_city_council/susan_riley",
+      "organization_id": "legislature/melbourne_city_council",
       "role": "deputy mayor"
     },
     {
