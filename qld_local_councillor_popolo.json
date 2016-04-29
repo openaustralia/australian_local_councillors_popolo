@@ -1885,56 +1885,134 @@
       "name": "Tanya Milligan"
     },
     {
-      "id": "logan_city_council/pam_parker",
-      "name": "Pam Parker"
+      "email": "lauriekoranski@logan.qld.gov.au",
+      "id": "logan_city_council/laurie_koranski",
+      "name": "Laurie Koranski",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "cheriedalley@logan.qld.gov.au",
       "id": "logan_city_council/cherie_dalley",
-      "name": "Cherie Dalley"
+      "name": "Cherie Dalley",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "darrenpower@logan.qld.gov.au",
       "id": "logan_city_council/darren_power",
-      "name": "Darren Power"
+      "name": "Darren Power",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
-      "id": "logan_city_council/don_petersen",
-      "name": "Don Petersen"
+      "email": "jonraven@logan.qld.gov.au",
+      "id": "logan_city_council/jon_raven",
+      "name": "Jon Raven",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "staceymcintosh@logan.qld.gov.au",
       "id": "logan_city_council/graham_able",
-      "name": "Graham Able"
+      "name": "Stacey McIntosh",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "jenniebreene@logan.qld.gov.au",
       "id": "logan_city_council/jennie_breene",
-      "name": "Jennie Breene"
+      "name": "Jennie Breene",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "lauriesmith@logan.qld.gov.au",
       "id": "logan_city_council/laurie_smith",
-      "name": "Laurie Smith"
+      "name": "Laurie Smith",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "lisabradley@logan.qld.gov.au",
       "id": "logan_city_council/lisa_bradley",
-      "name": "Lisa Bradley"
+      "name": "Lisa Bradley",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "mayor@logan.qld.gov.au",
       "id": "logan_city_council/luke_smith",
-      "name": "Luke Smith"
+      "name": "Luke Smith",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "philpidgeon@logan.qld.gov.au",
       "id": "logan_city_council/phil_pidgeon",
-      "name": "Phil Pidgeon"
+      "name": "Phil Pidgeon",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "russelllutton@logan.qld.gov.au",
       "id": "logan_city_council/russell_lutton",
-      "name": "Russell Lutton"
+      "name": "Russell Lutton",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "steveswenson@logan.qld.gov.au",
       "id": "logan_city_council/steve_swenson",
-      "name": "Steve Swenson"
+      "name": "Steve Swenson",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
+      "email": "trevinaschwarz@logan.qld.gov.au",
       "id": "logan_city_council/trevina_schwarz",
-      "name": "Trevina Schwarz"
+      "name": "Trevina Schwarz",
+      "sources": [
+        {
+          "url": "http://www.logan.qld.gov.au/about-council/mayor-and-councillors/councillors"
+        }
+      ]
     },
     {
       "id": "maranoa_regional_council/robert_loughnan",
@@ -5548,7 +5626,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "logan_city_council/pam_parker",
+      "person_id": "logan_city_council/laurie_koranski",
       "organization_id": "legislature/logan_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -5566,7 +5644,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "logan_city_council/don_petersen",
+      "person_id": "logan_city_council/jon_raven",
       "organization_id": "legislature/logan_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -6681,9 +6759,14 @@
       "role": "mayor"
     },
     {
-      "person_id": "logan_city_council/pam_parker",
+      "person_id": "logan_city_council/cherie_dalley",
       "organization_id": "legislature/logan_city_council",
-      "role": "mayor"
+      "role": "Deputy Mayor"
+    },
+    {
+      "person_id": "logan_city_council/luke_smith",
+      "organization_id": "legislature/logan_city_council",
+      "role": "Mayor"
     },
     {
       "person_id": "maranoa_regional_council/robert_loughnan",
@@ -6775,7 +6858,8 @@
   "warnings": {
     "skipped": [
       "council_website",
-      "council_email"
+      "council_email",
+      "ward"
     ]
   }
 }
