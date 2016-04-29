@@ -1856,7 +1856,13 @@
     {
       "email": "WOlsen@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/wayne_olsen",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Wayne-Olsen.jpg",
       "name": "Wayne Olsen",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Wayne-Olsen.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16614"
@@ -1866,7 +1872,13 @@
     {
       "email": "GKilby@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/gail_kilby",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Gail-Kilby.jpg",
       "name": "Gail Kilby",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Gail-Kilby.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16616"
@@ -1876,7 +1888,13 @@
     {
       "email": "DChapman@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/don_chapman",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Don-Chapman.jpg",
       "name": "Don Chapman",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Don-Chapman.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16617"
@@ -1886,7 +1904,13 @@
     {
       "email": "WJamieson@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/william_(bill)_jamieson",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/cr_bill_jamieson.jpg",
       "name": "William (Bill) Jamieson",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/cr_bill_jamieson.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16620"
@@ -1896,7 +1920,13 @@
     {
       "email": "JGunn@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/john_gunn",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/John-Gunn.jpg",
       "name": "John Gunn",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/John-Gunn.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16621"
@@ -1906,7 +1936,13 @@
     {
       "email": "NSwann@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/nick_swann",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Nick-Swann.jpg",
       "name": "Nick Swann",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Nick-Swann.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16623"
@@ -1916,7 +1952,13 @@
     {
       "email": "HGreaves@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/heidi_greaves",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Heidi-Greaves.jpg",
       "name": "Heidi Greaves",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Heidi-Greaves.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16624"
@@ -1926,7 +1968,13 @@
     {
       "email": "HMerritt@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/heather_merritt",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Heather-Merritt.jpg",
       "name": "Heather Merritt",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Heather-Merritt.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16625"
@@ -1936,7 +1984,13 @@
     {
       "email": "PSchulze@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/peter_schulze",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Peter-Schulze.jpg",
       "name": "Peter Schulze",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Peter-Schulze.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16626"
@@ -1946,7 +2000,13 @@
     {
       "email": "SBrown@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/sandra_brown",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Sandra-Brown.jpg",
       "name": "Sandra Brown",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Sandra-Brown.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16627"
@@ -1956,7 +2016,13 @@
     {
       "email": "MBray@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/martin_bray",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/cr_martin_bray.jpg",
       "name": "Martin Bray",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/cr_martin_bray.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16630"
@@ -1966,7 +2032,13 @@
     {
       "email": "DParslow@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/darryl_parslow",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Darryl-Parslow.jpg",
       "name": "Darryl Parslow",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Darryl-Parslow.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=16631"
@@ -1976,7 +2048,13 @@
     {
       "email": "lrosenberg@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/lorraine_rosenberg",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/mayor_lorraine_rosenberg-1.jpg",
       "name": "Lorraine Rosenberg",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/mayor_lorraine_rosenberg-1.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=17986"
@@ -1986,7 +2064,13 @@
     {
       "email": "GHennessy@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/gary_hennessy",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Gary-Hennessy.jpg",
       "name": "Gary Hennessy",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Gary-Hennessy.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=19535"
@@ -1996,7 +2080,13 @@
     {
       "email": "HWainwright@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/hazel_wainwright",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Hazel-Wainwright.jpg",
       "name": "Hazel Wainwright",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Hazel-Wainwright.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=19536"
@@ -2006,7 +2096,13 @@
     {
       "email": "LNicholls@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/lara_nicholls",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Lara-Nicholls.jpg",
       "name": "Lara Nicholls",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Lara-Nicholls.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=19537"
@@ -2016,7 +2112,13 @@
     {
       "email": "GOlbrich@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/greg_olbrich",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Greg-Olbrich.jpg",
       "name": "Greg Olbrich",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Greg-Olbrich.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=19538"
@@ -2026,7 +2128,13 @@
     {
       "email": "BNankivell@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/brian_nankivell",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Brian-Nankivell.jpg",
       "name": "Brian Nankivell",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Brian-Nankivell.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=19539"
@@ -2036,7 +2144,13 @@
     {
       "email": "MThemeliotis@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/marion_themeliotis",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Marion-Themeliotis.jpg",
       "name": "Marion Themeliotis",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Marion-Themeliotis.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=19540"
@@ -2046,7 +2160,13 @@
     {
       "email": "JDeakin@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/jonathan_deakin",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Jon-Deakin.jpg",
       "name": "Jonathan Deakin",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Jon-Deakin.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=19542"
@@ -2056,7 +2176,13 @@
     {
       "email": "RHoltham@onkaparinga.sa.gov.au",
       "id": "city_of_onkaparinga/robyn_holtham",
+      "image": "http://dcw.onkaparingacity.com/webdata/resources/contact/Robyn-Holtham.jpg",
       "name": "Robyn Holtham",
+      "images": [
+        {
+          "url": "http://dcw.onkaparingacity.com/webdata/resources/contact/Robyn-Holtham.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.onkaparingacity.com/page.aspx?c=19541"
