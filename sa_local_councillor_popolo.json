@@ -2226,7 +2226,13 @@
     {
       "email": "gary.johanson@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/gary_johanson",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/MayorJohanson_webified.jpg",
       "name": "Gary Johanson",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/MayorJohanson_webified.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=17534"
@@ -2236,7 +2242,13 @@
     {
       "email": "peter.jamieson@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/peter_jamieson",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/PJaimieson_Sm.jpg",
       "name": "Peter Jamieson",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/PJaimieson_Sm.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=17962"
@@ -2246,7 +2258,13 @@
     {
       "email": "tony.barca@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/tony_barca",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/tony_barca.jpg",
       "name": "Tony Barca",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/tony_barca.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=17996"
@@ -2256,7 +2274,13 @@
     {
       "email": "mark.basham@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/mark_basham",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/mark_basham.jpg",
       "name": "Mark Basham",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/mark_basham.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=17997"
@@ -2266,7 +2290,13 @@
     {
       "email": "anne-marie.hubycz@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/anne-marie_hubycz",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/AnneMarieHubycz20101.jpg",
       "name": "Anne-Marie Hubycz",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/AnneMarieHubycz20101.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=17999"
@@ -2276,7 +2306,13 @@
     {
       "email": "claire.boan@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/claire_boan",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/ClaireBoan.jpg",
       "name": "Claire Boan",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/ClaireBoan.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=18000"
@@ -2286,7 +2322,13 @@
     {
       "email": "michael.iammarrone@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/michael_iammarrone",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/MichaelImmarrone_Sm.jpg",
       "name": "Michael Iammarrone",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/MichaelImmarrone_Sm.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=30400"
@@ -2296,7 +2338,13 @@
     {
       "email": "kim.dinh@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/kim_dinh",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/KimDinh.jpg",
       "name": "Kim Dinh",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/KimDinh.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=30403"
@@ -2306,7 +2354,13 @@
     {
       "email": "carol.martin@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/carol_martin",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/CarolM_F.jpg",
       "name": "Carol Martin",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/CarolM_F.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=17527"
@@ -2316,7 +2370,13 @@
     {
       "email": "helen.wright@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/helen_wright",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/CrHelenWright_webified.jpg",
       "name": "Helen Wright",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/CrHelenWright_webified.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=17965"
@@ -2326,7 +2386,13 @@
     {
       "email": "matt.osborn@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/matt_osborn",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/MattOsborn_F.jpg",
       "name": "Matt Osborn",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/MattOsborn_F.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=17998"
@@ -2336,7 +2402,13 @@
     {
       "email": "guy.wilcock@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/guy_wilcock",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/GuyWilcock_Web.jpg",
       "name": "Guy Wilcock",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/GuyWilcock_Web.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=34071"
@@ -2346,7 +2418,13 @@
     {
       "email": "peter.mckay@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/peter_mckay",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/EnfWd_CrMcKay_2.jpg",
       "name": "Peter McKay",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/EnfWd_CrMcKay_2.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=17530"
@@ -2355,8 +2433,14 @@
     },
     {
       "email": "john.croci@portenf.sa.gov.au",
-      "id": "city_of_port_adelaide_enfield/john_croci_jp",
-      "name": "John Croci JP",
+      "id": "city_of_port_adelaide_enfield/john_croci",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/JohnCroci.jpg",
+      "name": "John Croci",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/JohnCroci.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=17990"
@@ -2366,7 +2450,13 @@
     {
       "email": "ray.guscott@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/ray_guscott",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/RayGuscott.jpg",
       "name": "Ray Guscott",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/RayGuscott.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=45531"
@@ -2376,7 +2466,13 @@
     {
       "email": "paul.russell@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/paul_russell",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/PaulRussell.jpg",
       "name": "Paul Russell",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/PaulRussell.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=45532"
@@ -2386,7 +2482,13 @@
     {
       "email": "vanessa.mccluskey@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/vanessa_mccluskey",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/vmccluskey.jpg",
       "name": "Vanessa McCluskey",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/vmccluskey.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=45533"
@@ -2396,7 +2498,13 @@
     {
       "email": "michelle.hogan@portenf.sa.gov.au",
       "id": "city_of_port_adelaide_enfield/michelle_hogan",
+      "image": "http://www.portenf.sa.gov.au/webdata/resources/contact/MichelleHogan-1.jpg",
       "name": "Michelle Hogan",
+      "images": [
+        {
+          "url": "http://www.portenf.sa.gov.au/webdata/resources/contact/MichelleHogan-1.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://www.portenf.sa.gov.au/page.aspx?c=45534"
@@ -10335,7 +10443,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "city_of_port_adelaide_enfield/john_croci_jp",
+      "person_id": "city_of_port_adelaide_enfield/john_croci",
       "organization_id": "legislature/city_of_port_adelaide_enfield",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
