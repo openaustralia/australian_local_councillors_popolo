@@ -8399,6 +8399,7 @@
       ]
     },
     {
+      "email": "cr.nhansford@gplains.vic.gov.au",
       "id": "nathan_hansford",
       "name": "Nathan Hansford",
       "sources": [
@@ -8867,6 +8868,11 @@
     {
       "id": "legislature/yorke_peninsula_council",
       "name": "Yorke Peninsula Council",
+      "classification": "legislature"
+    },
+    {
+      "id": "legislature/golden_plains_shire_council",
+      "name": "Golden Plains Shire Council",
       "classification": "legislature"
     },
     {
@@ -13930,36 +13936,43 @@
     },
     {
       "person_id": "helena_kirby",
+      "organization_id": "legislature/golden_plains_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
       "person_id": "nathan_hansford",
+      "organization_id": "legislature/golden_plains_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
       "person_id": "des_phelan",
+      "organization_id": "legislature/golden_plains_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
       "person_id": "jenny_blake",
+      "organization_id": "legislature/golden_plains_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
       "person_id": "bill_mcarthur",
+      "organization_id": "legislature/golden_plains_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
       "person_id": "andrew_cameron",
+      "organization_id": "legislature/golden_plains_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
       "person_id": "greg_vaughan",
+      "organization_id": "legislature/golden_plains_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     }
