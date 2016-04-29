@@ -6775,7 +6775,8 @@
   "warnings": {
     "skipped": [
       "council_website",
-      "council_email"
+      "council_email",
+      "ward"
     ]
   }
 }
