@@ -833,64 +833,244 @@
       "name": "Andrea O'Neill"
     },
     {
+      "email": "stephen.bali@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/stephen_bali",
-      "name": "Stephen Bali"
+      "image": "http://www.blacktown.nsw.gov.au/files/9c7f8e8d-5fdd-428c-b7a9-a45101158be3/clr_bali.jpg",
+      "name": "Stephen Bali",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/9c7f8e8d-5fdd-428c-b7a9-a45101158be3/clr_bali.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "dickensvet@bigpond.com",
       "id": "blacktown_city_council/russell_dickens",
-      "name": "Russell Dickens"
+      "image": "http://www.blacktown.nsw.gov.au/files/ed13a199-ba33-4cec-ab88-a516009808f6/cr_-russ-dickens---big.jpg",
+      "name": "Russell Dickens",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/ed13a199-ba33-4cec-ab88-a516009808f6/cr_-russ-dickens---big.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "edmond.atalla@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/edmond_atalla",
-      "name": "Edmond Atalla"
+      "image": "http://www.blacktown.nsw.gov.au/files/6cc59e95-1847-4344-88e1-a412010bdbed/clr_atalla.jpg",
+      "name": "Edmond Atalla",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/6cc59e95-1847-4344-88e1-a412010bdbed/clr_atalla.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "susai.benjamin@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/susai_benjamin",
-      "name": "Susai Benjamin"
+      "image": "http://www.blacktown.nsw.gov.au/files/d302e109-8b74-4a04-8452-a33e009c932d/clr_benjamin.jpg",
+      "name": "Susai Benjamin",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/d302e109-8b74-4a04-8452-a33e009c932d/clr_benjamin.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "tony.bleasdale@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/anthony_bleasdale",
-      "name": "Anthony Bleasdale"
+      "image": "http://www.blacktown.nsw.gov.au/files/ba1b9758-0c32-41c2-a95d-a17200f85778/clr_bleasdale.jpg",
+      "name": "Anthony Bleasdale",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/ba1b9758-0c32-41c2-a95d-a17200f85778/clr_bleasdale.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "jess.diaz@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/jess_diaz",
-      "name": "Jess Diaz"
+      "image": "http://www.blacktown.nsw.gov.au/files/c1a28411-f86f-4f94-af98-a48100c14337/clr_jess_diaz.jpg",
+      "name": "Jess Diaz",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/c1a28411-f86f-4f94-af98-a48100c14337/clr_jess_diaz.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "jacqueline.donaldson@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/jacqueline_donaldson",
-      "name": "Jacqueline Donaldson"
+      "image": "http://www.blacktown.nsw.gov.au/files/21a9ad72-fdc2-4db7-915d-a5160097d7fd/clr_donaldson.jpg",
+      "name": "Jacqueline Donaldson",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/21a9ad72-fdc2-4db7-915d-a5160097d7fd/clr_donaldson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "mark.holmes@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/mark_holmes",
-      "name": "Mark Holmes"
+      "image": "http://www.blacktown.nsw.gov.au/files/a3b782d1-2737-4e42-bb76-a4b401081749/clr_holmes.jpg",
+      "name": "Mark Holmes",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/a3b782d1-2737-4e42-bb76-a4b401081749/clr_holmes.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
-      "id": "blacktown_city_council/leo_kelly_oam",
-      "name": "Leo Kelly OAM"
+      "email": "leo.kelly@blacktown.nsw.gov.au",
+      "id": "blacktown_city_council/leo_kelly",
+      "image": "http://www.blacktown.nsw.gov.au/files/69934ead-437e-444b-b4c0-a361011a7385/clr_kelly.jpg",
+      "name": "Leo Kelly",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/69934ead-437e-444b-b4c0-a361011a7385/clr_kelly.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "charlie.lowles@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/charlie_lowles",
-      "name": "Charlie Lowles"
+      "image": "http://www.blacktown.nsw.gov.au/files/065ae42c-f4de-4c1d-a3c7-a17200f79616/clr_lowles.jpg",
+      "name": "Charlie Lowles",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/065ae42c-f4de-4c1d-a3c7-a17200f79616/clr_lowles.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "alan.pendleton@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/alan_pendleton",
-      "name": "Alan Pendleton"
+      "image": "http://www.blacktown.nsw.gov.au/files/02714763-d55c-4e4a-87b2-a44c00b5887b/clr_alan_pendleton.jpg",
+      "name": "Alan Pendleton",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/02714763-d55c-4e4a-87b2-a44c00b5887b/clr_alan_pendleton.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "len.robinson@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/len_robinson",
-      "name": "Len Robinson"
+      "image": "http://www.blacktown.nsw.gov.au/files/e77e24bb-9e45-47ce-83c9-a3aa0087d035/clr_len_robinson.jpg",
+      "name": "Len Robinson",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/e77e24bb-9e45-47ce-83c9-a3aa0087d035/clr_len_robinson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "karlo.siljeg@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/karlo_siljeg",
-      "name": "Karlo Siljeg"
+      "image": "http://www.blacktown.nsw.gov.au/files/91b799fd-c45c-4e84-9c77-a17200d2e75e/clr_siljeg.jpg",
+      "name": "Karlo Siljeg",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/91b799fd-c45c-4e84-9c77-a17200d2e75e/clr_siljeg.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "walter.smith@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/walter_smith",
-      "name": "Walter Smith"
+      "image": "http://www.blacktown.nsw.gov.au/files/3a8bd37d-ffce-41ce-8ed4-a17200d37474/clr_walter_smith.jpg",
+      "name": "Walter Smith",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/3a8bd37d-ffce-41ce-8ed4-a17200d37474/clr_walter_smith.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
+      "email": "isabelle.white@blacktown.nsw.gov.au",
       "id": "blacktown_city_council/isabelle_white",
-      "name": "Isabelle White"
+      "image": "http://www.blacktown.nsw.gov.au/files/6182cf9c-4be6-48ef-aac6-a412010bb50f/clr_white.jpg",
+      "name": "Isabelle White",
+      "images": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/files/6182cf9c-4be6-48ef-aac6-a412010bb50f/clr_white.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blacktown.nsw.gov.au/Your_Council/Mayor_Councillors_and_Wards/Mayor_and_Councillors"
+        }
+      ]
     },
     {
       "id": "bland_shire_council/neil_pokoney",
@@ -8812,91 +8992,91 @@
       "person_id": "blacktown_city_council/stephen_bali",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blacktown_city_council/russell_dickens",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "blacktown_city_council/edmond_atalla",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blacktown_city_council/susai_benjamin",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blacktown_city_council/anthony_bleasdale",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blacktown_city_council/jess_diaz",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "blacktown_city_council/jacqueline_donaldson",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "blacktown_city_council/mark_holmes",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
-      "person_id": "blacktown_city_council/leo_kelly_oam",
+      "person_id": "blacktown_city_council/leo_kelly",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blacktown_city_council/charlie_lowles",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blacktown_city_council/alan_pendleton",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blacktown_city_council/len_robinson",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "blacktown_city_council/karlo_siljeg",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "blacktown_city_council/walter_smith",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "blacktown_city_council/isabelle_white",
       "organization_id": "legislature/blacktown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "bland_shire_council/neil_pokoney",
@@ -17110,7 +17290,7 @@
       "role": "Mayor"
     },
     {
-      "person_id": "blacktown_city_council/russell_dickens",
+      "person_id": "blacktown_city_council/jacqueline_donaldson",
       "organization_id": "legislature/blacktown_city_council",
       "role": "deputy mayor"
     },
