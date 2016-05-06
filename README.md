@@ -30,3 +30,4 @@ We used web scrapers hosted on morph.io to collect a lot of raw data to start th
 * NSW Councillors https://morph.io/equivalentideas/nsw_lg_directory_councillors
 * Victorian Councillors https://morph.io/equivalentideas/vic_lg_directory_councillors
 * Queensland Councillors https://morph.io/openaustralia/qld_lg_directory_councillors
+* Tasmania https://morph.io/openaustralia/tas_lg_directory_councillors
