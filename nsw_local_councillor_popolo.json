@@ -6066,64 +6066,244 @@
       "name": "Sang Ok"
     },
     {
+      "email": "kjohns@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/kent_johns",
-      "name": "Kent Johns"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-kent-johns/15/cr-johns.jpg",
+      "name": "Kent Johns",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-kent-johns/15/cr-johns.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Kent-Johns"
+        }
+      ]
     },
     {
+      "email": "mayor@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/carmelo_pesce",
-      "name": "Carmelo Pesce"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/assets/website/images/council/news-items/mayor-carmelo-pesce-2015-with-chains-new.jpg",
+      "name": "Carmelo Pesce",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/assets/website/images/council/news-items/mayor-carmelo-pesce-2015-with-chains-new.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Carmelo-Pesce-Mayor"
+        }
+      ]
     },
     {
+      "email": "hawada@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/hassan_awada",
-      "name": "Hassan Awada"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/assets/website/images/council/news-items/deputy-mayor-hassan-awada-2015-new.jpg",
+      "name": "Hassan Awada",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/assets/website/images/council/news-items/deputy-mayor-hassan-awada-2015-new.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Hassan-Awada-Deputy-Mayor"
+        }
+      ]
     },
     {
+      "email": "pblight@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/phil_blight",
-      "name": "Phil Blight"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-phil-blight/7/clr-phil-blight.jpg",
+      "name": "Phil Blight",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-phil-blight/7/clr-phil-blight.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Phil-Blight"
+        }
+      ]
     },
     {
+      "email": "tlcook@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/tracy_l_cook",
-      "name": "Tracy L Cook"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-tracy-cook/6/cr-cook.jpg",
+      "name": "Tracy L Cook",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-tracy-cook/6/cr-cook.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Tracy-Cook"
+        }
+      ]
     },
     {
+      "email": "tcroucher@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/thomas_b_croucher",
-      "name": "Thomas B Croucher"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-tom-croucher/5/cr-croucher.jpg",
+      "name": "Thomas B Croucher",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-tom-croucher/5/cr-croucher.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Tom-Croucher"
+        }
+      ]
     },
     {
+      "email": "cprovan@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/carol_provan",
-      "name": "Carol Provan"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-carol-provan/9/carol-provan.jpg",
+      "name": "Carol Provan",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-carol-provan/9/carol-provan.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Carol-Provan"
+        }
+      ]
     },
     {
+      "email": "jriad@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/john_riad",
-      "name": "John Riad"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-john-riad/7/cr-riad.jpg",
+      "name": "John Riad",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-john-riad/7/cr-riad.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-John-Riad"
+        }
+      ]
     },
     {
+      "email": "pscaysbrook@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/peter_w_scaysbrook",
-      "name": "Peter W Scaysbrook"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-peter-scaysbrook/5/cr-scaysbrook.jpg",
+      "name": "Peter W Scaysbrook",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-peter-scaysbrook/5/cr-scaysbrook.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Peter-Scaysbrook"
+        }
+      ]
     },
     {
+      "email": "kschreiber@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/kevin_schreiber",
-      "name": "Kevin Schreiber"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-kevin-schreiber/5/kevin-schreiber.jpg",
+      "name": "Kevin Schreiber",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-kevin-schreiber/5/kevin-schreiber.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Kevin-Schreiber"
+        }
+      ]
     },
     {
+      "email": "stevesimpson@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/steve_simpson",
-      "name": "Steve Simpson"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-steve-simpson/6/clr-simpson.jpg",
+      "name": "Steve Simpson",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-steve-simpson/6/clr-simpson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Steve-Simpson"
+        }
+      ]
     },
     {
+      "email": "dsteinwall@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/diedree_steinwall",
-      "name": "Diedree Steinwall"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-diedree-steinwall/5/cr-steinwall.jpg",
+      "name": "Diedree Steinwall",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-diedree-steinwall/5/cr-steinwall.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Diedree-Steinwall"
+        }
+      ]
     },
     {
+      "email": "ptowell@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/peter_towell",
-      "name": "Peter Towell"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-peter-towell/5/clr-towell.jpg",
+      "name": "Peter Towell",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-peter-towell/5/clr-towell.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Peter-Towell"
+        }
+      ]
     },
     {
+      "email": "bwalton@ssc.nsw.gov.au",
       "id": "sutherland_shire_council/bruce_walton",
-      "name": "Bruce Walton"
+      "image": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-bruce-walton/5/bruce-walton.jpg",
+      "name": "Bruce Walton",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/files/content/website/council/councillors-and-wards/cr-bruce-walton/5/bruce-walton.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Bruce-Walton"
+        }
+      ]
     },
     {
-      "id": "sutherland_shire_council/cl_scott_a_williams",
-      "name": "Cl Scott A Williams"
+      "email": "swilliams@ssc.nsw.gov.au",
+      "id": "sutherland_shire_council/scott_a_williams",
+      "image": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Scott-Williams",
+      "name": "Scott A Williams",
+      "images": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Scott-Williams"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.sutherlandshire.nsw.gov.au/Council/Councillors-and-Wards/Cr-Scott-Williams"
+        }
+      ]
     },
     {
       "email": "cmoore@cityofsydney.nsw.gov.au",
@@ -8354,6 +8534,11 @@
       "classification": "party"
     },
     {
+      "id": "party/shire_watch_independents",
+      "name": "Shire Watch Independents",
+      "classification": "party"
+    },
+    {
       "id": "party/clover_moore_independents",
       "name": "Clover Moore Independents",
       "classification": "party"
@@ -9178,73 +9363,73 @@
       "person_id": "blue_mountains_city_council/mark_greenhill",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blue_mountains_city_council/chris_van_der_kley",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "blue_mountains_city_council/michael_begg",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "blue_mountains_city_council/annette_bennett",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blue_mountains_city_council/brendan_christie",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "blue_mountains_city_council/mick_fell",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blue_mountains_city_council/romola_hollywood",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blue_mountains_city_council/brendan_luchetti",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "blue_mountains_city_council/don_mcgregor",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blue_mountains_city_council/daniel_myles",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blue_mountains_city_council/sarah_shrubb",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "blue_mountains_city_council/anton_von_schulenburg",
       "organization_id": "legislature/blue_mountains_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "bogan_shire_council/ray_donald",
@@ -15377,91 +15562,91 @@
       "person_id": "sutherland_shire_council/kent_johns",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "sutherland_shire_council/carmelo_pesce",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "sutherland_shire_council/hassan_awada",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "sutherland_shire_council/phil_blight",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "sutherland_shire_council/tracy_l_cook",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "sutherland_shire_council/thomas_b_croucher",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "sutherland_shire_council/carol_provan",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "sutherland_shire_council/john_riad",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "sutherland_shire_council/peter_w_scaysbrook",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "sutherland_shire_council/kevin_schreiber",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "sutherland_shire_council/steve_simpson",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "sutherland_shire_council/diedree_steinwall",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "sutherland_shire_council/peter_towell",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/shire_watch_independents"
     },
     {
       "person_id": "sutherland_shire_council/bruce_walton",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
-      "person_id": "sutherland_shire_council/cl_scott_a_williams",
+      "person_id": "sutherland_shire_council/scott_a_williams",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_sydney/clover_moore",
@@ -18380,14 +18565,14 @@
       "role": "deputy mayor"
     },
     {
-      "person_id": "sutherland_shire_council/kent_johns",
+      "person_id": "sutherland_shire_council/carmelo_pesce",
       "organization_id": "legislature/sutherland_shire_council",
       "role": "Mayor"
     },
     {
-      "person_id": "sutherland_shire_council/carmelo_pesce",
+      "person_id": "sutherland_shire_council/hassan_awada",
       "organization_id": "legislature/sutherland_shire_council",
-      "role": "deputy mayor"
+      "role": "Deputy Mayor"
     },
     {
       "person_id": "city_of_sydney/clover_moore",
