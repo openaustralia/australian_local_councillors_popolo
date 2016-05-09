@@ -2355,48 +2355,180 @@
       "name": "Vic Pennisi"
     },
     {
+      "email": "Mark.Jamieson@sunshinecoast.qld.gov.au",
       "id": "sunshine_coast_regional_council/mark_jamieson",
-      "name": "Mark Jamieson"
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-mayor.jpg",
+      "name": "Mark Jamieson",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-mayor.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/Council/Mayor-and-Councillors/Profiles/Mayor"
+        }
+      ]
     },
     {
-      "id": "sunshine_coast_regional_council/chris_thompson",
-      "name": "Chris Thompson"
+      "email": "john.connolly@sunshinecoast.qld.gov.au",
+      "id": "sunshine_coast_regional_council/john_connolly",
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div4.jpg",
+      "name": "John Connolly",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div4.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/Council/Mayor-and-Councillors/Profiles/Division-4-Cr-John-Connolly"
+        }
+      ]
     },
     {
+      "email": "Christian.Dickson@sunshinecoast.qld.gov.au",
       "id": "sunshine_coast_regional_council/christian_dickson",
-      "name": "Christian Dickson"
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div6.jpg",
+      "name": "Christian Dickson",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div6.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/Council/Mayor-and-Councillors/Profiles/Division-6-Cr-Christian-Dickson"
+        }
+      ]
     },
     {
+      "email": "Greg.Rogerson@sunshinecoast.qld.gov.au",
       "id": "sunshine_coast_regional_council/greg_rogerson",
-      "name": "Greg Rogerson"
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div10.jpg",
+      "name": "Greg Rogerson",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div10.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/Council/Mayor-and-Councillors/Profiles/Division-10-Cr-Greg-Rogerson"
+        }
+      ]
     },
     {
+      "email": "Jason.Opray@sunshinecoast.qld.gov.au",
       "id": "sunshine_coast_regional_council/jason_o'pray",
-      "name": "Jason O'Pray"
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div8.jpg",
+      "name": "Jason O'Pray",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div8.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/Council/Mayor-and-Councillors/Profiles/Division-8-Cr-Jason-OPray"
+        }
+      ]
     },
     {
+      "email": "Jenny.McKay@sunshinecoast.qld.gov.au",
       "id": "sunshine_coast_regional_council/jenny_mckay",
-      "name": "Jenny McKay"
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div5.jpg",
+      "name": "Jenny McKay",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div5.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/Council/Mayor-and-Councillors/Profiles/Division-5-Cr-Jenny-McKay"
+        }
+      ]
     },
     {
+      "email": "Peter.Cox@sunshinecoast.qld.gov.au",
       "id": "sunshine_coast_regional_council/peter_cox",
-      "name": "Peter Cox"
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div3.jpg",
+      "name": "Peter Cox",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div3.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/Council/Mayor-and-Councillors/Peter.Cox@sunshinecoast.qld.gov.au"
+        }
+      ]
     },
     {
+      "email": "Rick.Baberowski@sunshinecoast.qld.gov.au",
       "id": "sunshine_coast_regional_council/rick_baberowski",
-      "name": "Rick Baberowski"
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div1.jpg",
+      "name": "Rick Baberowski",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div1.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/en/Council/Mayor-and-Councillors/Profiles/Division-1-Cr-Rick-Baberowski"
+        }
+      ]
     },
     {
+      "email": "Stephen.Robinson@sunshinecoast.qld.gov.au",
       "id": "sunshine_coast_regional_council/stephen_robinson",
-      "name": "Stephen Robinson"
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div9.jpg",
+      "name": "Stephen Robinson",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div9.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/Council/Mayor-and-Councillors/Profiles/Division-9-Cr-Steve-Robinson"
+        }
+      ]
     },
     {
+      "email": "Ted.Hungerford@sunshinecoast.qld.gov.au",
       "id": "sunshine_coast_regional_council/ted_hungerford",
-      "name": "Ted Hungerford"
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div7.jpg",
+      "name": "Ted Hungerford",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div7.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/Council/Mayor-and-Councillors/Profiles/Division-7-Cr-Ted-Hungerford"
+        }
+      ]
     },
     {
+      "email": "Tim.Dwyer@sunshinecoast.qld.gov.au",
       "id": "sunshine_coast_regional_council/tim_dwyer",
-      "name": "Tim Dwyer"
+      "image": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div2.jpg",
+      "name": "Tim Dwyer",
+      "images": [
+        {
+          "url": "https://d1j8a4bqwzee3.cloudfront.net/~/media/Corporate/Images/PageWidgetImages/Councillors/cr-div2.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sunshinecoast.qld.gov.au/Council/Mayor-and-Councillors/Profiles/Division-2-Cr-Tim-Dwyer"
+        }
+      ]
     },
     {
       "email": "paul.antonio@tr.qld.gov.au",
@@ -6220,7 +6352,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "sunshine_coast_regional_council/chris_thompson",
+      "person_id": "sunshine_coast_regional_council/john_connolly",
       "organization_id": "legislature/sunshine_coast_regional_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
