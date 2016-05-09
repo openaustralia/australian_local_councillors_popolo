@@ -1153,48 +1153,180 @@
       "name": "Willie Lui"
     },
     {
+      "email": "Mayor@townsville.qld.gov.au",
       "id": "townsville_city_council/jenny_hill",
-      "name": "Jenny Hill"
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0021/3288/Image-of-Mayor-Jenny-Hill.jpg",
+      "name": "Jenny Hill",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0021/3288/Image-of-Mayor-Jenny-Hill.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-jenny-hill"
+        }
+      ]
     },
     {
+      "email": "colleen.doyle@townsville.qld.gov.au",
       "id": "townsville_city_council/colleen_doyle",
-      "name": "Colleen Doyle"
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0008/3302/colleen-doyle.png",
+      "name": "Colleen Doyle",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0008/3302/colleen-doyle.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-colleen-doyle"
+        }
+      ]
     },
     {
-      "id": "townsville_city_council/gary_eddiehausen",
-      "name": "Gary Eddiehausen"
+      "email": "Russ.Cook@townsville.qld.gov.au",
+      "id": "townsville_city_council/russ_cook",
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0029/12899/russ-cook.png",
+      "name": "Russ Cook",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0029/12899/russ-cook.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-russ-cook"
+        }
+      ]
     },
     {
-      "id": "townsville_city_council/jennifer_(jenny)_lane",
-      "name": "Jennifer (Jenny) Lane"
+      "email": "Verena.Coombe@townsville.qld.gov.au",
+      "id": "townsville_city_council/verena_coombe",
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0012/12900/verena-coombe.png",
+      "name": "Verena Coombe",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0012/12900/verena-coombe.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-verena-coombe"
+        }
+      ]
     },
     {
+      "email": "cr.les.walker@townsville.qld.gov.au",
       "id": "townsville_city_council/les_walker",
-      "name": "Les Walker"
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0010/3313/les-walker.png",
+      "name": "Les Walker",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0010/3313/les-walker.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-les-walker"
+        }
+      ]
     },
     {
-      "id": "townsville_city_council/patrick_ernst",
-      "name": "Patrick Ernst"
+      "email": "Kurt.Rehbein@townsville.qld.gov.au",
+      "id": "townsville_city_council/kurt_rehbein",
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0024/12894/kurt-rehbein.png",
+      "name": "Kurt Rehbein",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0024/12894/kurt-rehbein.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-kurt-rehbein"
+        }
+      ]
     },
     {
-      "id": "townsville_city_council/ray_gartrell",
-      "name": "Ray Gartrell"
+      "email": "Maurie.Soars@townsville.qld.gov.au",
+      "id": "townsville_city_council/maurie_soars",
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0027/12897/maurie-soars.png",
+      "name": "Maurie Soars",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0027/12897/maurie-soars.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-maurie-soars"
+        }
+      ]
     },
     {
-      "id": "townsville_city_council/sue_blom",
-      "name": "Sue Blom"
+      "email": "Mark.Molachino@townsville.qld.gov.au",
+      "id": "townsville_city_council/mark_molachino",
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0026/12896/mark-molochino.png",
+      "name": "Mark Molachino",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0026/12896/mark-molochino.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-mark-molachino"
+        }
+      ]
     },
     {
-      "id": "townsville_city_council/tony_parsons",
-      "name": "Tony Parsons"
+      "email": "Ann-Maree.Greaney@townsville.qld.gov.au",
+      "id": "townsville_city_council/ann-maree_greaney",
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0023/12893/ann-maree-greaney.png",
+      "name": "Ann-Maree Greaney",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0023/12893/ann-maree-greaney.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-ann-maree-greaney"
+        }
+      ]
     },
     {
-      "id": "townsville_city_council/trevor_roberts",
-      "name": "Trevor Roberts"
+      "email": "Paul.Jacob@townsville.qld.gov.au",
+      "id": "townsville_city_council/paul_jacob",
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0028/12898/paul-jacob.png",
+      "name": "Paul Jacob",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0028/12898/paul-jacob.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-paul-jacob"
+        }
+      ]
     },
     {
-      "id": "townsville_city_council/vern_veitch",
-      "name": "Vern Veitch"
+      "email": "Margie.Ryder@townsville.qld.gov.au",
+      "id": "townsville_city_council/margie_ryder",
+      "image": "https://www.townsville.qld.gov.au/__data/assets/image/0025/12895/margie-ryder.png",
+      "name": "Margie Ryder",
+      "images": [
+        {
+          "url": "https://www.townsville.qld.gov.au/__data/assets/image/0025/12895/margie-ryder.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.townsville.qld.gov.au/about-council/mayor-and-councillors/councillor-profiles/cr-margie-ryder"
+        }
+      ]
     },
     {
       "id": "wujal_wujal_aboriginal_shire_council/clifford_harrigan",
@@ -3136,6 +3268,11 @@
       "classification": "party"
     },
     {
+      "id": "party/team_jenny_hill",
+      "name": "Team Jenny Hill",
+      "classification": "party"
+    },
+    {
       "id": "party/lnp",
       "name": "LNP",
       "classification": "party"
@@ -4879,67 +5016,67 @@
       "person_id": "townsville_city_council/jenny_hill",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
       "person_id": "townsville_city_council/colleen_doyle",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
-      "person_id": "townsville_city_council/gary_eddiehausen",
+      "person_id": "townsville_city_council/russ_cook",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
-      "person_id": "townsville_city_council/jennifer_(jenny)_lane",
+      "person_id": "townsville_city_council/verena_coombe",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
       "person_id": "townsville_city_council/les_walker",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
-      "person_id": "townsville_city_council/patrick_ernst",
+      "person_id": "townsville_city_council/kurt_rehbein",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
-      "person_id": "townsville_city_council/ray_gartrell",
+      "person_id": "townsville_city_council/maurie_soars",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
-      "person_id": "townsville_city_council/sue_blom",
+      "person_id": "townsville_city_council/mark_molachino",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
-      "person_id": "townsville_city_council/tony_parsons",
+      "person_id": "townsville_city_council/ann-maree_greaney",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
-      "person_id": "townsville_city_council/trevor_roberts",
+      "person_id": "townsville_city_council/paul_jacob",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
-      "person_id": "townsville_city_council/vern_veitch",
+      "person_id": "townsville_city_council/margie_ryder",
       "organization_id": "legislature/townsville_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/team_jenny_hill"
     },
     {
       "person_id": "wujal_wujal_aboriginal_shire_council/clifford_harrigan",
@@ -6823,7 +6960,12 @@
     {
       "person_id": "townsville_city_council/jenny_hill",
       "organization_id": "legislature/townsville_city_council",
-      "role": "mayor"
+      "role": "Mayor"
+    },
+    {
+      "person_id": "townsville_city_council/les_walker",
+      "organization_id": "legislature/townsville_city_council",
+      "role": "Deputy Mayor"
     },
     {
       "person_id": "wujal_wujal_aboriginal_shire_council/clifford_harrigan",
