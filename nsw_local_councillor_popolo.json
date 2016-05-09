@@ -7478,56 +7478,212 @@
       "name": "Kate Terry"
     },
     {
-      "id": "wollongong_city_council/gordon_bradbery_oam",
-      "name": "Gordon Bradbery OAM"
+      "email": "cr.gbradbery@wollongong.nsw.gov.au",
+      "id": "wollongong_city_council/gordon_bradbery",
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Gordon%20Bradbery%20150%20x%20110.jpg",
+      "name": "Gordon Bradbery",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Gordon%20Bradbery%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.cconnor@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/chris_connor",
-      "name": "Chris Connor"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Chris%20Connor%20150%20x%20110.jpg",
+      "name": "Chris Connor",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Chris%20Connor%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.mblicavs@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/michelle_blicavs",
-      "name": "Michelle Blicavs"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Michelle%20Blicavs%20150%20x%20110.jpg",
+      "name": "Michelle Blicavs",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Michelle%20Blicavs%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.dbrown@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/david_f_brown",
-      "name": "David F Brown"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/David%20Brown%20150%20x%20110.jpg",
+      "name": "David F Brown",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/David%20Brown%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.lcolacino@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/leigh_colacino",
-      "name": "Leigh Colacino"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Leigh%20Colacino%20150%20x%20110.jpg",
+      "name": "Leigh Colacino",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Leigh%20Colacino%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.bcrasnich@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/bede_crasnich",
-      "name": "Bede Crasnich"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Bede%20Crasnich%20150%20x%20110.jpg",
+      "name": "Bede Crasnich",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Bede%20Crasnich%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.vcurran@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/vicki_curran",
-      "name": "Vicki Curran"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Vicki%20Curran.JPG",
+      "name": "Vicki Curran",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Vicki%20Curran.JPG"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.jdorahy@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/john_dorahy",
-      "name": "John Dorahy"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/John%20Dorahy%20150%20x%20110.jpg",
+      "name": "John Dorahy",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/John%20Dorahy%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.jkershaw@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/janice_kershaw",
-      "name": "Janice Kershaw"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Janice%20Kershaw%20150%20x%20110.jpg",
+      "name": "Janice Kershaw",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Janice%20Kershaw%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.amartin@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/ann_martin",
-      "name": "Ann Martin"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Ann%20Martin%20150%20x%20110.jpg",
+      "name": "Ann Martin",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Ann%20Martin%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.jmerrin@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/jill_merrin",
-      "name": "Jill Merrin"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Jill%20Merrin_150x110px.jpg",
+      "name": "Jill Merrin",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Jill%20Merrin_150x110px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.gpetty@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/greg_petty",
-      "name": "Greg Petty"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Greg%20Petty%20150%20x%20110.jpg",
+      "name": "Greg Petty",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/Greg%20Petty%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
+      "email": "cr.gtakacs@wollongong.nsw.gov.au",
       "id": "wollongong_city_council/george_takacs",
-      "name": "George Takacs"
+      "image": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/George%20Takacs%20150%20x%20110.jpg",
+      "name": "George Takacs",
+      "images": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/PublishingImages/George%20Takacs%20150%20x%20110.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.wollongong.nsw.gov.au/council/council/Pages/default.aspx"
+        }
+      ]
     },
     {
       "id": "woollahra_municipal_council/toni_zeltzer",
@@ -17029,82 +17185,82 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "wollongong_city_council/gordon_bradbery_oam",
+      "person_id": "wollongong_city_council/gordon_bradbery",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "wollongong_city_council/chris_connor",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "wollongong_city_council/michelle_blicavs",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "wollongong_city_council/david_f_brown",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "wollongong_city_council/leigh_colacino",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "wollongong_city_council/bede_crasnich",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "wollongong_city_council/vicki_curran",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "wollongong_city_council/john_dorahy",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "wollongong_city_council/janice_kershaw",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "wollongong_city_council/ann_martin",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "wollongong_city_council/jill_merrin",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "wollongong_city_council/greg_petty",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "wollongong_city_council/george_takacs",
       "organization_id": "legislature/wollongong_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "woollahra_municipal_council/toni_zeltzer",
@@ -18825,14 +18981,14 @@
       "role": "deputy mayor"
     },
     {
-      "person_id": "wollongong_city_council/gordon_bradbery_oam",
+      "person_id": "wollongong_city_council/gordon_bradbery",
       "organization_id": "legislature/wollongong_city_council",
       "role": "Lord Mayor"
     },
     {
-      "person_id": "wollongong_city_council/chris_connor",
+      "person_id": "wollongong_city_council/john_dorahy",
       "organization_id": "legislature/wollongong_city_council",
-      "role": "deputy mayor"
+      "role": "Deputy Lord Mayor"
     },
     {
       "person_id": "woollahra_municipal_council/toni_zeltzer",
