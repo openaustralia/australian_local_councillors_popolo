@@ -5486,64 +5486,244 @@
       "name": "Andrew Wilson"
     },
     {
-      "id": "penrith_city_council/ross_fowler_oam",
-      "name": "Ross Fowler OAM"
+      "email": "ross@rossfowler.com.au",
+      "id": "penrith_city_council/ross_fowler",
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrFowler.jpg",
+      "name": "Ross Fowler",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrFowler.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "greg.davies@penrith.city",
       "id": "penrith_city_council/greg_davies",
-      "name": "Greg Davies"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrGregDavies.jpg",
+      "name": "Greg Davies",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrGregDavies.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
-      "id": "penrith_city_council/jim_aitken_oam",
-      "name": "Jim Aitken OAM"
+      "email": "jim.aitken@penrith.city",
+      "id": "penrith_city_council/jim_aitken",
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrAitken.jpg",
+      "name": "Jim Aitken",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrAitken.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "bernard.bratusa@penrith.city",
       "id": "penrith_city_council/bernard_bratusa",
-      "name": "Bernard Bratusa"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrBratusa.jpg",
+      "name": "Bernard Bratusa",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrBratusa.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "prue.car@penrith.city",
       "id": "penrith_city_council/prue_car",
-      "name": "Prue Car"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrCar.jpg",
+      "name": "Prue Car",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrCar.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "marcus.cornish@penrith.city",
       "id": "penrith_city_council/marcus_cornish",
-      "name": "Marcus Cornish"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrCornish.jpg",
+      "name": "Marcus Cornish",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrCornish.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
-      "id": "penrith_city_council/kevin_crameri_oam",
-      "name": "Kevin Crameri OAM"
+      "email": "kevin.crameri@penrith.city",
+      "id": "penrith_city_council/kevin_crameri",
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrCrameri.jpg",
+      "name": "Kevin Crameri",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrCrameri.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "mark.davies@penrith.city",
       "id": "penrith_city_council/mark_davies",
-      "name": "Mark Davies"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrMarkDavies.jpg",
+      "name": "Mark Davies",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrMarkDavies.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "maurice.girotto@penrith.city",
       "id": "penrith_city_council/maurice_girotto",
-      "name": "Maurice Girotto"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrGirotto.jpg",
+      "name": "Maurice Girotto",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrGirotto.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "ben.goldfinch@penrith.city",
       "id": "penrith_city_council/ben_goldfinch",
-      "name": "Ben Goldfinch"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrGoldfinch.jpg",
+      "name": "Ben Goldfinch",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrGoldfinch.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
-      "id": "penrith_city_council/jackie_greenow_oam",
-      "name": "Jackie Greenow OAM"
+      "email": "jackie.greenow@penrith.city",
+      "id": "penrith_city_council/jackie_greenow",
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrGreenow.jpg",
+      "name": "Jackie Greenow",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrGreenow.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "tricia.hitchen@penrith.city",
       "id": "penrith_city_council/tricia_hitchen",
-      "name": "Tricia Hitchen"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrHitchen.jpg",
+      "name": "Tricia Hitchen",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrHitchen.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "karen.mckeown@penrith.city",
       "id": "penrith_city_council/karen_mckeown",
-      "name": "Karen McKeown"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrMcKeown.jpg",
+      "name": "Karen McKeown",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrMcKeown.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "john.thain@penrith.city",
       "id": "penrith_city_council/john_thain",
-      "name": "John Thain"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrThain.jpg",
+      "name": "John Thain",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrThain.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
+      "email": "michelle.tormey@penrith.city",
       "id": "penrith_city_council/michelle_tormey",
-      "name": "Michelle Tormey"
+      "image": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrTormey.jpg",
+      "name": "Michelle Tormey",
+      "images": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/uploadedimages/councillors/CrTormey.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.penrithcity.nsw.gov.au/Council/Council-Business/Mayor-Councillors-and-elections/"
+        }
+      ]
     },
     {
       "id": "pittwater_council/jacqueline_townsend",
@@ -14845,94 +15025,94 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "penrith_city_council/ross_fowler_oam",
+      "person_id": "penrith_city_council/ross_fowler",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "penrith_city_council/greg_davies",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
-      "person_id": "penrith_city_council/jim_aitken_oam",
+      "person_id": "penrith_city_council/jim_aitken",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "penrith_city_council/bernard_bratusa",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "penrith_city_council/prue_car",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "penrith_city_council/marcus_cornish",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
-      "person_id": "penrith_city_council/kevin_crameri_oam",
+      "person_id": "penrith_city_council/kevin_crameri",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "penrith_city_council/mark_davies",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "penrith_city_council/maurice_girotto",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "penrith_city_council/ben_goldfinch",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
-      "person_id": "penrith_city_council/jackie_greenow_oam",
+      "person_id": "penrith_city_council/jackie_greenow",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "penrith_city_council/tricia_hitchen",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "penrith_city_council/karen_mckeown",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "penrith_city_council/john_thain",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "penrith_city_council/michelle_tormey",
       "organization_id": "legislature/penrith_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "pittwater_council/jacqueline_townsend",
@@ -18581,14 +18761,14 @@
       "role": "deputy mayor"
     },
     {
-      "person_id": "penrith_city_council/ross_fowler_oam",
-      "organization_id": "legislature/penrith_city_council",
-      "role": "Mayor"
-    },
-    {
-      "person_id": "penrith_city_council/greg_davies",
+      "person_id": "penrith_city_council/ross_fowler",
       "organization_id": "legislature/penrith_city_council",
       "role": "deputy mayor"
+    },
+    {
+      "person_id": "penrith_city_council/karen_mckeown",
+      "organization_id": "legislature/penrith_city_council",
+      "role": "Mayor"
     },
     {
       "person_id": "pittwater_council/jacqueline_townsend",
