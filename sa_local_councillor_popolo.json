@@ -649,186 +649,6 @@
       ]
     },
     {
-      "email": "garry.carpenter@centralcoast.tas.gov.au",
-      "id": "central_coast_council/garry_carpenter",
-      "name": "Garry Carpenter",
-      "sources": [
-        {
-          "url": "http://www.centralcoast.tas.gov.au/page.aspx?c=14171"
-        }
-      ]
-    },
-    {
-      "email": "john.bloomfield@centralcoast.tas.gov.au",
-      "id": "central_coast_council/john_bloomfield",
-      "name": "John Bloomfield",
-      "sources": [
-        {
-          "url": "http://www.centralcoast.tas.gov.au/page.aspx?c=14673"
-        }
-      ]
-    },
-    {
-      "email": "shane.broad@centralcoast.tas.gov.au",
-      "id": "central_coast_council/shane_broad",
-      "name": "Shane Broad",
-      "sources": [
-        {
-          "url": "http://www.centralcoast.tas.gov.au/page.aspx?c=14674"
-        }
-      ]
-    },
-    {
-      "email": "kathleen.downie@centralcoast.tas.gov.au",
-      "id": "central_coast_council/kathleen_downie",
-      "name": "Kathleen Downie",
-      "sources": [
-        {
-          "url": "http://www.centralcoast.tas.gov.au/page.aspx?c=14675"
-        }
-      ]
-    },
-    {
-      "email": "rowen.tongs@centralcoast.tas.gov.au",
-      "id": "central_coast_council/rowen_tongs",
-      "name": "Rowen Tongs",
-      "sources": [
-        {
-          "url": "http://www.centralcoast.tas.gov.au/page.aspx?c=14676"
-        }
-      ]
-    },
-    {
-      "email": "gerry.howard@centralcoast.tas.gov.au",
-      "id": "central_coast_council/gerry_howard",
-      "name": "Gerry Howard",
-      "sources": [
-        {
-          "url": "http://www.centralcoast.tas.gov.au/page.aspx?c=1719"
-        }
-      ]
-    },
-    {
-      "email": "philip.viney@centralcoast.tas.gov.au",
-      "id": "central_coast_council/philip_viney",
-      "name": "Philip Viney",
-      "sources": [
-        {
-          "url": "http://www.centralcoast.tas.gov.au/page.aspx?c=29"
-        }
-      ]
-    },
-    {
-      "email": "jan.bonde@centralcoast.tas.gov.au",
-      "id": "central_coast_council/jan_bonde",
-      "name": "Jan Bonde",
-      "sources": [
-        {
-          "url": "http://www.centralcoast.tas.gov.au/page.aspx?c=415"
-        }
-      ]
-    },
-    {
-      "email": "tony.vanRooyen@centralcoast.tas.gov.au",
-      "id": "central_coast_council/tony_van_rooyen",
-      "name": "Tony van Rooyen",
-      "sources": [
-        {
-          "url": "http://www.centralcoast.tas.gov.au/page.aspx?c=416"
-        }
-      ]
-    },
-    {
-      "email": "cr.dquilliam@circularhead.tas.gov.au",
-      "id": "circular_head_council/daryl_quilliam",
-      "name": "Daryl Quilliam",
-      "sources": [
-        {
-          "url": "http://www.circularhead.tas.gov.au/page.aspx?c=10"
-        }
-      ]
-    },
-    {
-      "email": "cr.tspinks@circularhead.tas.gov.au",
-      "id": "circular_head_council/trevor_spinks",
-      "name": "Trevor Spinks",
-      "sources": [
-        {
-          "url": "http://www.circularhead.tas.gov.au/page.aspx?c=1873"
-        }
-      ]
-    },
-    {
-      "email": "cr.rhardy@circularhead.tas.gov.au",
-      "id": "circular_head_council/rodney_hardy",
-      "name": "Rodney Hardy",
-      "sources": [
-        {
-          "url": "http://www.circularhead.tas.gov.au/page.aspx?c=2599"
-        }
-      ]
-    },
-    {
-      "email": "cr.joldaker@circularhead.tas.gov.au",
-      "id": "circular_head_council/john_oldaker",
-      "name": "John Oldaker",
-      "sources": [
-        {
-          "url": "http://www.circularhead.tas.gov.au/page.aspx?c=27"
-        }
-      ]
-    },
-    {
-      "email": "cr.jbishop@circularhead.tas.gov.au",
-      "id": "circular_head_council/jan_bishop",
-      "name": "Jan Bishop",
-      "sources": [
-        {
-          "url": "http://www.circularhead.tas.gov.au/page.aspx?c=3327"
-        }
-      ]
-    },
-    {
-      "email": "cr.bkay@circularhead.tas.gov.au",
-      "id": "circular_head_council/betty_kay",
-      "name": "Betty Kay",
-      "sources": [
-        {
-          "url": "http://www.circularhead.tas.gov.au/page.aspx?c=3328"
-        }
-      ]
-    },
-    {
-      "email": "cr.apopowski@circularhead.tas.gov.au",
-      "id": "circular_head_council/ashley_popowski",
-      "name": "Ashley Popowski",
-      "sources": [
-        {
-          "url": "http://www.circularhead.tas.gov.au/page.aspx?c=3329"
-        }
-      ]
-    },
-    {
-      "email": "cr.nberechree@circularhead.tas.gov.au",
-      "id": "circular_head_council/norman_berechree",
-      "name": "Norman Berechree",
-      "sources": [
-        {
-          "url": "http://www.circularhead.tas.gov.au/page.aspx?c=13596"
-        }
-      ]
-    },
-    {
-      "email": "cr.npopowski@circularhead.tas.gov.au",
-      "id": "circular_head_council/nakore_popowski",
-      "name": "Nakore Popowski",
-      "sources": [
-        {
-          "url": "http://www.circularhead.tas.gov.au/page.aspx?c=13597"
-        }
-      ]
-    },
-    {
       "email": "dparkin@burnside.sa.gov.au",
       "id": "city_of_burnside/david_parkin",
       "name": "David Parkin",
@@ -3780,126 +3600,6 @@
       ]
     },
     {
-      "email": "ald_svonbertouch@ccc.tas.gov.au",
-      "id": "clarence_city_council/sharyn_von_bertouch",
-      "name": "Sharyn von Bertouch",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=2129"
-        }
-      ]
-    },
-    {
-      "email": "ald_hchong@ccc.tas.gov.au",
-      "id": "clarence_city_council/heather_chong",
-      "name": "Heather Chong",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=2639"
-        }
-      ]
-    },
-    {
-      "email": "ald_jcampbell@ccc.tas.gov.au",
-      "id": "clarence_city_council/jock_campbell",
-      "name": "Jock Campbell",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=387"
-        }
-      ]
-    },
-    {
-      "email": "ald.kmcfarlane@gmail.com",
-      "id": "clarence_city_council/kay_mcfarlane",
-      "name": "Kay McFarlane",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=520"
-        }
-      ]
-    },
-    {
-      "email": "mayor@ccc.tas.gov.au",
-      "id": "clarence_city_council/doug_chipman",
-      "name": "Doug Chipman",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=389"
-        }
-      ]
-    },
-    {
-      "email": "rjames@trump.net.au",
-      "id": "clarence_city_council/richard_james",
-      "name": "Richard James",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=392"
-        }
-      ]
-    },
-    {
-      "email": "peersccc@netspace.net.au",
-      "id": "clarence_city_council/john_peers",
-      "name": "John Peers",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=394"
-        }
-      ]
-    },
-    {
-      "email": "ald_ddoust@ccc.tas.gov.au",
-      "id": "clarence_city_council/doug_doust",
-      "name": "Doug Doust",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=4368"
-        }
-      ]
-    },
-    {
-      "email": "ald_jwalker@ccc.tas.gov.au",
-      "id": "clarence_city_council/james_walker",
-      "name": "James Walker",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=4646"
-        }
-      ]
-    },
-    {
-      "email": "ald_pcusick@ccc.tas.gov.au",
-      "id": "clarence_city_council/peter_cusick",
-      "name": "Peter Cusick",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=11710"
-        }
-      ]
-    },
-    {
-      "email": "ald_dhulme@ccc.tas.gov.au",
-      "id": "clarence_city_council/daniel_hulme",
-      "name": "Daniel Hulme",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=11715"
-        }
-      ]
-    },
-    {
-      "email": "ald_dthurley@ccc.tas.gov.au",
-      "id": "clarence_city_council/debra_thurley",
-      "name": "Debra Thurley",
-      "sources": [
-        {
-          "url": "http://www.ccc.tas.gov.au/page.aspx?c=11718"
-        }
-      ]
-    },
-    {
       "email": "crdawes@coorong.sa.gov.au",
       "id": "coorong_district_council/andrew_dawes",
       "name": "Andrew Dawes",
@@ -4016,86 +3716,6 @@
       "sources": [
         {
           "url": "http://www.coorong.sa.gov.au/page.aspx?c=12413"
-        }
-      ]
-    },
-    {
-      "email": "julietriffett@gmail.com",
-      "id": "derwent_valley_council/julie_triffett",
-      "name": "Julie Triffett",
-      "sources": [
-        {
-          "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=4115"
-        }
-      ]
-    },
-    {
-      "email": "belcherpaul816@gmail.com",
-      "id": "derwent_valley_council/paul_belcher",
-      "name": "Paul Belcher",
-      "sources": [
-        {
-          "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=4121"
-        }
-      ]
-    },
-    {
-      "email": "nndrycleaners@bigpond.com.au",
-      "id": "derwent_valley_council/martyn_evans",
-      "name": "Martyn Evans",
-      "sources": [
-        {
-          "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=32"
-        }
-      ]
-    },
-    {
-      "email": "barrylathey@gmail.com",
-      "id": "derwent_valley_council/barry_lathey",
-      "name": "Barry Lathey",
-      "sources": [
-        {
-          "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=36"
-        }
-      ]
-    },
-    {
-      "email": "damianbester@gmail.com",
-      "id": "derwent_valley_council/damian_bester",
-      "name": "Damian Bester",
-      "sources": [
-        {
-          "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=37"
-        }
-      ]
-    },
-    {
-      "email": "maharg.james@yahoo.com.au",
-      "id": "derwent_valley_council/james_graham",
-      "name": "James Graham",
-      "sources": [
-        {
-          "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=38"
-        }
-      ]
-    },
-    {
-      "email": "frankpearce1@gmail.com",
-      "id": "derwent_valley_council/frank_pearce",
-      "name": "Frank Pearce",
-      "sources": [
-        {
-          "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=4120"
-        }
-      ]
-    },
-    {
-      "email": "bens@tricab.com",
-      "id": "derwent_valley_council/ben_shaw",
-      "name": "Ben Shaw",
-      "sources": [
-        {
-          "url": "http://www.derwentvalley.tas.gov.au/page.aspx?c=4122"
         }
       ]
     },
@@ -5830,176 +5450,6 @@
       ]
     },
     {
-      "email": "councillormartin@dorset.tas.gov.au",
-      "id": "dorset_council/sheryl_martin",
-      "name": "Sheryl Martin",
-      "sources": [
-        {
-          "url": "http://dorset.dcw.lga.sa.gov.au/page.aspx?c=156"
-        }
-      ]
-    },
-    {
-      "email": "councillorpartridge@dorset.tas.gov.au",
-      "id": "dorset_council/peter_partridge",
-      "name": "Peter Partridge",
-      "sources": [
-        {
-          "url": "http://dorset.dcw.lga.sa.gov.au/page.aspx?c=21"
-        }
-      ]
-    },
-    {
-      "email": "councillorarnold@dorset.tas.gov.au",
-      "id": "dorset_council/steven_arnold",
-      "name": "Steven Arnold",
-      "sources": [
-        {
-          "url": "http://dorset.dcw.lga.sa.gov.au/page.aspx?c=56"
-        }
-      ]
-    },
-    {
-      "email": "deputymayorbeswick@dorset.tas.gov.au",
-      "id": "dorset_council/john_beswick",
-      "name": "John Beswick",
-      "sources": [
-        {
-          "url": "http://dorset.dcw.lga.sa.gov.au/page.aspx?c=626"
-        }
-      ]
-    },
-    {
-      "email": "councillorstein@dorset.tas.gov.au",
-      "id": "dorset_council/leonie_stein",
-      "name": "Leonie Stein",
-      "sources": [
-        {
-          "url": "http://dorset.dcw.lga.sa.gov.au/page.aspx?c=627"
-        }
-      ]
-    },
-    {
-      "email": "lord.mayor@hobartcity.com.au",
-      "id": "hobart_city_council/damon_thomas",
-      "name": "Damon Thomas",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38807"
-        }
-      ]
-    },
-    {
-      "email": "ronchristie@netspace.net.au",
-      "id": "hobart_city_council/ron_christie",
-      "name": "Ron Christie",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38808"
-        }
-      ]
-    },
-    {
-      "email": "ald_zucco@netspace.net.au",
-      "id": "hobart_city_council/marti_zucco",
-      "name": "Marti Zucco",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38809"
-        }
-      ]
-    },
-    {
-      "email": "jbriscoe@netspace.net.au",
-      "id": "hobart_city_council/jeff_briscoe",
-      "name": "Jeff Briscoe",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38810"
-        }
-      ]
-    },
-    {
-      "email": "eva@ruzicka.id.au",
-      "id": "hobart_city_council/eva_ruzicka",
-      "name": "Eva Ruzicka",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38811"
-        }
-      ]
-    },
-    {
-      "email": "ptsexton@tassie.net.au",
-      "id": "hobart_city_council/dr._peter_sexton",
-      "name": "Dr. Peter Sexton",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38812"
-        }
-      ]
-    },
-    {
-      "email": "helenburnet@netspace.net.au",
-      "id": "hobart_city_council/helen_burnet",
-      "name": "Helen Burnet",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38813"
-        }
-      ]
-    },
-    {
-      "email": "philip_council@netspace.net.au",
-      "id": "hobart_city_council/philip_cocker",
-      "name": "Philip Cocker",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38814"
-        }
-      ]
-    },
-    {
-      "email": "billharvey@iinet.net.au",
-      "id": "hobart_city_council/bill_harvey",
-      "name": "Bill Harvey",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38815"
-        }
-      ]
-    },
-    {
-      "email": "sue@suehickey.com.au",
-      "id": "hobart_city_council/sue_hickey",
-      "name": "Sue Hickey",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38816"
-        }
-      ]
-    },
-    {
-      "email": "leofoley@netspace.net.au",
-      "id": "hobart_city_council/leo_foley",
-      "name": "Leo Foley",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38817"
-        }
-      ]
-    },
-    {
-      "email": "jwfreeman@netspace.net.au",
-      "id": "hobart_city_council/dr._john_freeman",
-      "name": "Dr. John Freeman",
-      "sources": [
-        {
-          "url": "http://hobartcity.dcw.lga.sa.gov.au/page.aspx?c=38818"
-        }
-      ]
-    },
-    {
       "email": "peter.clements@kicouncil.sa.gov.au",
       "id": "kangaroo_island_council/peter_clements",
       "name": "Peter Clements",
@@ -6096,196 +5546,6 @@
       "sources": [
         {
           "url": "http://www.kangarooisland.sa.gov.au/page.aspx?c=8150"
-        }
-      ]
-    },
-    {
-      "id": "kentish_council/don_thwaites",
-      "name": "Don Thwaites",
-      "sources": [
-        {
-          "url": "http://www.kentish.tas.gov.au/page.aspx?c=82"
-        }
-      ]
-    },
-    {
-      "id": "king_island_council/doug_collins",
-      "name": "Doug Collins",
-      "sources": [
-        {
-          "url": "http://www.kingisland.tas.gov.au/page.aspx?c=3017"
-        }
-      ]
-    },
-    {
-      "id": "king_island_council/david_bowling",
-      "name": "David Bowling",
-      "sources": [
-        {
-          "url": "http://www.kingisland.tas.gov.au/page.aspx?c=3018"
-        }
-      ]
-    },
-    {
-      "id": "king_island_council/sally_haneveer",
-      "name": "Sally Haneveer",
-      "sources": [
-        {
-          "url": "http://www.kingisland.tas.gov.au/page.aspx?c=1101"
-        }
-      ]
-    },
-    {
-      "id": "king_island_council/royce_conley",
-      "name": "Royce Conley",
-      "sources": [
-        {
-          "url": "http://www.kingisland.tas.gov.au/page.aspx?c=44"
-        }
-      ]
-    },
-    {
-      "id": "king_island_council/duncan_mcfie",
-      "name": "Duncan McFie",
-      "sources": [
-        {
-          "url": "http://www.kingisland.tas.gov.au/page.aspx?c=47"
-        }
-      ]
-    },
-    {
-      "id": "king_island_council/jim_cooper",
-      "name": "Jim Cooper",
-      "sources": [
-        {
-          "url": "http://www.kingisland.tas.gov.au/page.aspx?c=3015"
-        }
-      ]
-    },
-    {
-      "id": "king_island_council/jim_benn",
-      "name": "Jim Benn",
-      "sources": [
-        {
-          "url": "http://www.kingisland.tas.gov.au/page.aspx?c=3016"
-        }
-      ]
-    },
-    {
-      "id": "king_island_council/david_munday",
-      "name": "David Munday",
-      "sources": [
-        {
-          "url": "http://www.kingisland.tas.gov.au/page.aspx?c=3019"
-        }
-      ]
-    },
-    {
-      "id": "king_island_council/kirsty_russell",
-      "name": "Kirsty Russell",
-      "sources": [
-        {
-          "url": "http://www.kingisland.tas.gov.au/page.aspx?c=3025"
-        }
-      ]
-    },
-    {
-      "email": "cr.richardatkinson@kingborough.tas.gov.au",
-      "id": "kingborough_council/richard_atkinson",
-      "name": "Richard Atkinson",
-      "sources": [
-        {
-          "url": "http://www.kingborough.tas.gov.au/page.aspx?c=1050"
-        }
-      ]
-    },
-    {
-      "email": "cr.mikepercey@kingborough.tas.gov.au",
-      "id": "kingborough_council/michael_percey",
-      "name": "Michael Percey",
-      "sources": [
-        {
-          "url": "http://www.kingborough.tas.gov.au/page.aspx?c=282"
-        }
-      ]
-    },
-    {
-      "email": "cr.florafox@bigpond.com",
-      "id": "kingborough_council/flora_fox",
-      "name": "Flora Fox",
-      "sources": [
-        {
-          "url": "http://www.kingborough.tas.gov.au/page.aspx?c=283"
-        }
-      ]
-    },
-    {
-      "email": "stevewass@hotmail.com",
-      "id": "kingborough_council/steve_wass",
-      "name": "Steve Wass",
-      "sources": [
-        {
-          "url": "http://www.kingborough.tas.gov.au/page.aspx?c=286"
-        }
-      ]
-    },
-    {
-      "email": "cr.deanwinter@kingborough.tas.gov.au",
-      "id": "kingborough_council/dean_winter",
-      "name": "Dean Winter",
-      "sources": [
-        {
-          "url": "http://www.kingborough.tas.gov.au/page.aspx?c=289"
-        }
-      ]
-    },
-    {
-      "email": "cr.grahambury@bigpond.com",
-      "id": "kingborough_council/graham_bury",
-      "name": "Graham Bury",
-      "sources": [
-        {
-          "url": "http://www.kingborough.tas.gov.au/page.aspx?c=292"
-        }
-      ]
-    },
-    {
-      "email": "cr.davidgrace@bigpond.com",
-      "id": "kingborough_council/david_grace",
-      "name": "David Grace",
-      "sources": [
-        {
-          "url": "http://www.kingborough.tas.gov.au/page.aspx?c=293"
-        }
-      ]
-    },
-    {
-      "email": "cr.nicstreet@bigpond.com",
-      "id": "kingborough_council/nic_street",
-      "name": "Nic Street",
-      "sources": [
-        {
-          "url": "http://www.kingborough.tas.gov.au/page.aspx?c=5149"
-        }
-      ]
-    },
-    {
-      "email": "cr.bernadetteblack@bigpond.com",
-      "id": "kingborough_council/bernadette_black",
-      "name": "Bernadette Black",
-      "sources": [
-        {
-          "url": "http://www.kingborough.tas.gov.au/page.aspx?c=5150"
-        }
-      ]
-    },
-    {
-      "email": "cr.paulawriedt@bigpond.com",
-      "id": "kingborough_council/paula_wriedt",
-      "name": "Paula Wriedt",
-      "sources": [
-        {
-          "url": "http://www.kingborough.tas.gov.au/page.aspx?c=5151"
         }
       ]
     },
@@ -6479,126 +5739,6 @@
       ]
     },
     {
-      "email": "mayor@launceston.tas.gov.au",
-      "id": "launceston_city_council/albert_van_zetten",
-      "name": "Albert van Zetten",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38820"
-        }
-      ]
-    },
-    {
-      "email": "jeremy.ball@launceston.tas.gov.au",
-      "id": "launceston_city_council/jeremy_ball",
-      "name": "Jeremy Ball",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38821"
-        }
-      ]
-    },
-    {
-      "email": "Annette.Waddle@gmail.com",
-      "id": "launceston_city_council/annette_waddle",
-      "name": "Annette Waddle",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38822"
-        }
-      ]
-    },
-    {
-      "email": "tony-peck@bigpond.com",
-      "id": "launceston_city_council/tony_peck",
-      "name": "Tony Peck",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38823"
-        }
-      ]
-    },
-    {
-      "email": "r.dougal@bigpond.net.au",
-      "id": "launceston_city_council/robin_mckendrick",
-      "name": "Robin McKendrick",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38824"
-        }
-      ]
-    },
-    {
-      "email": "ted.sands@launceston.tas.gov.au",
-      "id": "launceston_city_council/ted_sands",
-      "name": "Ted Sands",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38825"
-        }
-      ]
-    },
-    {
-      "email": "rosemary.armitage@launceston.tas.gov.au",
-      "id": "launceston_city_council/rosemary_armitage",
-      "name": "Rosemary Armitage",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38826"
-        }
-      ]
-    },
-    {
-      "email": "ian.s.norton@bigpond.com",
-      "id": "launceston_city_council/ian_norton",
-      "name": "Ian Norton",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38827"
-        }
-      ]
-    },
-    {
-      "email": "risoward@hotmail.com",
-      "id": "launceston_city_council/rob_soward",
-      "name": "Rob Soward",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38828"
-        }
-      ]
-    },
-    {
-      "email": "dhmckenzie@kpmg.com.au",
-      "id": "launceston_city_council/hugh_mckenzie",
-      "name": "Hugh McKenzie",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38829"
-        }
-      ]
-    },
-    {
-      "email": "Jimc7@bigpond.com",
-      "id": "launceston_city_council/jim_cox",
-      "name": "Jim Cox",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38830"
-        }
-      ]
-    },
-    {
-      "email": "Danny.Gibson@launceston.tas.gov.au",
-      "id": "launceston_city_council/danny_gibson",
-      "name": "Danny Gibson",
-      "sources": [
-        {
-          "url": "http://launceston.dcw.lga.sa.gov.au/page.aspx?c=38831"
-        }
-      ]
-    },
-    {
       "email": "drohrlach@light.sa.gov.au",
       "id": "light_regional_council/deane_rohrlach",
       "name": "Deane Rohrlach",
@@ -6715,86 +5855,6 @@
       "sources": [
         {
           "url": "http://www.meander.tas.gov.au/page.aspx?c=14847"
-        }
-      ]
-    },
-    {
-      "email": "eaglerise2@gmail.com",
-      "id": "meander_valley_council/rodney_synfield",
-      "name": "Rodney Synfield",
-      "sources": [
-        {
-          "url": "http://www.meander.tas.gov.au/page.aspx?c=14848"
-        }
-      ]
-    },
-    {
-      "email": "abdas@bigpond.com",
-      "id": "meander_valley_council/bob_richardson",
-      "name": "Bob Richardson",
-      "sources": [
-        {
-          "url": "http://www.meander.tas.gov.au/page.aspx?c=14850"
-        }
-      ]
-    },
-    {
-      "email": "debwhite99@bigpond.com",
-      "id": "meander_valley_council/deb_white",
-      "name": "Deb White",
-      "sources": [
-        {
-          "url": "http://www.meander.tas.gov.au/page.aspx?c=14854"
-        }
-      ]
-    },
-    {
-      "email": "macca.mvc@skymesh.com.au",
-      "id": "meander_valley_council/ian_mackenzie",
-      "name": "Ian Mackenzie",
-      "sources": [
-        {
-          "url": "http://www.meander.tas.gov.au/page.aspx?c=14855"
-        }
-      ]
-    },
-    {
-      "email": "connor4mvc@gmail.com",
-      "id": "meander_valley_council/andrew_connor",
-      "name": "Andrew Connor",
-      "sources": [
-        {
-          "url": "http://www.meander.tas.gov.au/page.aspx?c=14856"
-        }
-      ]
-    },
-    {
-      "email": "mjkelly1970@gmail.com",
-      "id": "meander_valley_council/michael_kelly",
-      "name": "Michael Kelly",
-      "sources": [
-        {
-          "url": "http://www.meander.tas.gov.au/page.aspx?c=17481"
-        }
-      ]
-    },
-    {
-      "email": "tanyaking01@gmail.com",
-      "id": "meander_valley_council/tanya_king",
-      "name": "Tanya King",
-      "sources": [
-        {
-          "url": "http://www.meander.tas.gov.au/page.aspx?c=17482"
-        }
-      ]
-    },
-    {
-      "email": "rodney@quambyview.com.au",
-      "id": "meander_valley_council/rodney_youd",
-      "name": "Rodney Youd",
-      "sources": [
-        {
-          "url": "http://www.meander.tas.gov.au/page.aspx?c=17483"
         }
       ]
     },
@@ -8238,86 +7298,6 @@
       ]
     },
     {
-      "email": "swright@warwyn.tas.gov.au",
-      "id": "waratah_and_wynyard_council/stephen_wright",
-      "name": "Stephen Wright",
-      "sources": [
-        {
-          "url": "http://www.warwyn.tas.gov.au/page.aspx?c=12697"
-        }
-      ]
-    },
-    {
-      "email": "gbramich@warwyn.tas.gov.au",
-      "id": "waratah_and_wynyard_council/gary_bramich",
-      "name": "Gary Bramich",
-      "sources": [
-        {
-          "url": "http://www.warwyn.tas.gov.au/page.aspx?c=18"
-        }
-      ]
-    },
-    {
-      "email": "afriedersdorff@warwyn.tas.gov.au",
-      "id": "waratah_and_wynyard_council/alwyn_friedersdorff",
-      "name": "Alwyn Friedersdorff",
-      "sources": [
-        {
-          "url": "http://www.warwyn.tas.gov.au/page.aspx?c=23"
-        }
-      ]
-    },
-    {
-      "email": "dfairbrother@warwyn.tas.gov.au",
-      "id": "waratah_and_wynyard_council/darren_fairbrother",
-      "name": "Darren Fairbrother",
-      "sources": [
-        {
-          "url": "http://www.warwyn.tas.gov.au/page.aspx?c=24"
-        }
-      ]
-    },
-    {
-      "email": "mbradley@warwyn.tas.gov.au",
-      "id": "waratah_and_wynyard_council/maureen_bradley",
-      "name": "Maureen Bradley",
-      "sources": [
-        {
-          "url": "http://www.warwyn.tas.gov.au/page.aspx?c=5819"
-        }
-      ]
-    },
-    {
-      "email": "mduniam@warwyn.tas.gov.au",
-      "id": "waratah_and_wynyard_council/mary_duniam",
-      "name": "Mary Duniam",
-      "sources": [
-        {
-          "url": "http://www.warwyn.tas.gov.au/page.aspx?c=777"
-        }
-      ]
-    },
-    {
-      "email": "rwalsh@warwyn.tas.gov.au",
-      "id": "waratah_and_wynyard_council/robby_walsh",
-      "name": "Robby Walsh",
-      "sources": [
-        {
-          "url": "http://www.warwyn.tas.gov.au/page.aspx?c=778"
-        }
-      ]
-    },
-    {
-      "email": "khyland@warwyn.tas.gov.au",
-      "id": "waratah_and_wynyard_council/kevin_hyland",
-      "name": "Kevin Hyland",
-      "sources": [
-        {
-          "url": "http://www.warwyn.tas.gov.au/page.aspx?c=12696"
-        }
-      ]
-    },
-    {
       "email": "gwenda.lawlor@wattlerange.sa.gov.au",
       "id": "wattle_range_council/gwenda_lawlor",
       "name": "Gwenda Lawlor",
@@ -8434,86 +7414,6 @@
       "sources": [
         {
           "url": "http://www.wattlerange.sa.gov.au/page.aspx?c=42039"
-        }
-      ]
-    },
-    {
-      "email": "spitt@westcoast.tas.gov.au",
-      "id": "west_coast_council/shane_pitt",
-      "name": "Shane Pitt",
-      "sources": [
-        {
-          "url": "http://www.westcoast.tas.gov.au/page.aspx?c=15"
-        }
-      ]
-    },
-    {
-      "email": "amedwin@westcoast.tas.gov.au",
-      "id": "west_coast_council/al_medwin",
-      "name": "Al Medwin",
-      "sources": [
-        {
-          "url": "http://www.westcoast.tas.gov.au/page.aspx?c=10"
-        }
-      ]
-    },
-    {
-      "email": "tshea@westcoast.tas.gov.au",
-      "id": "west_coast_council/terry_shea",
-      "name": "Terry Shea",
-      "sources": [
-        {
-          "url": "http://www.westcoast.tas.gov.au/page.aspx?c=1165"
-        }
-      ]
-    },
-    {
-      "email": "lnewman@westcoast.tas.gov.au",
-      "id": "west_coast_council/lindsay_newman",
-      "name": "Lindsay Newman",
-      "sources": [
-        {
-          "url": "http://www.westcoast.tas.gov.au/page.aspx?c=1211"
-        }
-      ]
-    },
-    {
-      "email": "rgerrity@westcoast.tas.gov.au",
-      "id": "west_coast_council/robyn_gerrity",
-      "name": "Robyn Gerrity",
-      "sources": [
-        {
-          "url": "http://www.westcoast.tas.gov.au/page.aspx?c=16"
-        }
-      ]
-    },
-    {
-      "email": "logrady@westcoast.tas.gov.au",
-      "id": "west_coast_council/lyn_o'grady",
-      "name": "Lyn O'Grady",
-      "sources": [
-        {
-          "url": "http://www.westcoast.tas.gov.au/page.aspx?c=942"
-        }
-      ]
-    },
-    {
-      "email": "pvickers@westcoast.tas.gov.au",
-      "id": "west_coast_council/phil_vickers",
-      "name": "Phil Vickers",
-      "sources": [
-        {
-          "url": "http://www.westcoast.tas.gov.au/page.aspx?c=13"
-        }
-      ]
-    },
-    {
-      "email": "lstyles@westcoast.tas.gov.au",
-      "id": "west_coast_council/leigh_styles",
-      "name": "Leigh Styles",
-      "sources": [
-        {
-          "url": "http://www.westcoast.tas.gov.au/page.aspx?c=8"
         }
       ]
     },
@@ -8803,16 +7703,6 @@
       "classification": "legislature"
     },
     {
-      "id": "legislature/central_coast_council",
-      "name": "Central Coast Council",
-      "classification": "legislature"
-    },
-    {
-      "id": "legislature/circular_head_council",
-      "name": "Circular Head Council",
-      "classification": "legislature"
-    },
-    {
       "id": "legislature/city_of_burnside",
       "name": "City of Burnside",
       "classification": "legislature"
@@ -8908,18 +7798,8 @@
       "classification": "legislature"
     },
     {
-      "id": "legislature/clarence_city_council",
-      "name": "Clarence City Council",
-      "classification": "legislature"
-    },
-    {
       "id": "legislature/coorong_district_council",
       "name": "Coorong District Council",
-      "classification": "legislature"
-    },
-    {
-      "id": "legislature/derwent_valley_council",
-      "name": "Derwent Valley Council",
       "classification": "legislature"
     },
     {
@@ -9028,33 +7908,8 @@
       "classification": "legislature"
     },
     {
-      "id": "legislature/dorset_council",
-      "name": "Dorset Council",
-      "classification": "legislature"
-    },
-    {
-      "id": "legislature/hobart_city_council",
-      "name": "Hobart City Council",
-      "classification": "legislature"
-    },
-    {
       "id": "legislature/kangaroo_island_council",
       "name": "Kangaroo Island Council",
-      "classification": "legislature"
-    },
-    {
-      "id": "legislature/kentish_council",
-      "name": "Kentish Council",
-      "classification": "legislature"
-    },
-    {
-      "id": "legislature/king_island_council",
-      "name": "King Island Council",
-      "classification": "legislature"
-    },
-    {
-      "id": "legislature/kingborough_council",
-      "name": "Kingborough Council",
       "classification": "legislature"
     },
     {
@@ -9065,11 +7920,6 @@
     {
       "id": "legislature/latrobe_council",
       "name": "Latrobe Council",
-      "classification": "legislature"
-    },
-    {
-      "id": "legislature/launceston_city_council",
-      "name": "Launceston City Council",
       "classification": "legislature"
     },
     {
@@ -9158,18 +8008,8 @@
       "classification": "legislature"
     },
     {
-      "id": "legislature/waratah_and_wynyard_council",
-      "name": "Waratah and Wynyard Council",
-      "classification": "legislature"
-    },
-    {
       "id": "legislature/wattle_range_council",
       "name": "Wattle Range Council",
-      "classification": "legislature"
-    },
-    {
-      "id": "legislature/west_coast_council",
-      "name": "West Coast Council",
       "classification": "legislature"
     },
     {
@@ -9587,114 +8427,6 @@
     {
       "person_id": "campbelltown_city_council/rob_tidd",
       "organization_id": "legislature/campbelltown_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "central_coast_council/garry_carpenter",
-      "organization_id": "legislature/central_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "central_coast_council/john_bloomfield",
-      "organization_id": "legislature/central_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "central_coast_council/shane_broad",
-      "organization_id": "legislature/central_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "central_coast_council/kathleen_downie",
-      "organization_id": "legislature/central_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "central_coast_council/rowen_tongs",
-      "organization_id": "legislature/central_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "central_coast_council/gerry_howard",
-      "organization_id": "legislature/central_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "central_coast_council/philip_viney",
-      "organization_id": "legislature/central_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "central_coast_council/jan_bonde",
-      "organization_id": "legislature/central_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "central_coast_council/tony_van_rooyen",
-      "organization_id": "legislature/central_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "circular_head_council/daryl_quilliam",
-      "organization_id": "legislature/circular_head_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "circular_head_council/trevor_spinks",
-      "organization_id": "legislature/circular_head_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "circular_head_council/rodney_hardy",
-      "organization_id": "legislature/circular_head_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "circular_head_council/john_oldaker",
-      "organization_id": "legislature/circular_head_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "circular_head_council/jan_bishop",
-      "organization_id": "legislature/circular_head_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "circular_head_council/betty_kay",
-      "organization_id": "legislature/circular_head_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "circular_head_council/ashley_popowski",
-      "organization_id": "legislature/circular_head_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "circular_head_council/norman_berechree",
-      "organization_id": "legislature/circular_head_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "circular_head_council/nakore_popowski",
-      "organization_id": "legislature/circular_head_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
@@ -11247,78 +9979,6 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "clarence_city_council/sharyn_von_bertouch",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/heather_chong",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/jock_campbell",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/kay_mcfarlane",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/doug_chipman",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/richard_james",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/john_peers",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/doug_doust",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/james_walker",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/peter_cusick",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/daniel_hulme",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "clarence_city_council/debra_thurley",
-      "organization_id": "legislature/clarence_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
       "person_id": "coorong_district_council/andrew_dawes",
       "organization_id": "legislature/coorong_district_council",
       "role": "councillor",
@@ -11387,54 +10047,6 @@
     {
       "person_id": "coorong_district_council/mick_o'hara",
       "organization_id": "legislature/coorong_district_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "derwent_valley_council/julie_triffett",
-      "organization_id": "legislature/derwent_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "derwent_valley_council/paul_belcher",
-      "organization_id": "legislature/derwent_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "derwent_valley_council/martyn_evans",
-      "organization_id": "legislature/derwent_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "derwent_valley_council/barry_lathey",
-      "organization_id": "legislature/derwent_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "derwent_valley_council/damian_bester",
-      "organization_id": "legislature/derwent_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "derwent_valley_council/james_graham",
-      "organization_id": "legislature/derwent_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "derwent_valley_council/frank_pearce",
-      "organization_id": "legislature/derwent_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "derwent_valley_council/ben_shaw",
-      "organization_id": "legislature/derwent_valley_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
@@ -12501,108 +11113,6 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "dorset_council/sheryl_martin",
-      "organization_id": "legislature/dorset_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "dorset_council/peter_partridge",
-      "organization_id": "legislature/dorset_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "dorset_council/steven_arnold",
-      "organization_id": "legislature/dorset_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "dorset_council/john_beswick",
-      "organization_id": "legislature/dorset_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "dorset_council/leonie_stein",
-      "organization_id": "legislature/dorset_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/damon_thomas",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/ron_christie",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/marti_zucco",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/jeff_briscoe",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/eva_ruzicka",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/dr._peter_sexton",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/helen_burnet",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/philip_cocker",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/bill_harvey",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/sue_hickey",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/leo_foley",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "hobart_city_council/dr._john_freeman",
-      "organization_id": "legislature/hobart_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
       "person_id": "kangaroo_island_council/peter_clements",
       "organization_id": "legislature/kangaroo_island_council",
       "role": "councillor",
@@ -12659,126 +11169,6 @@
     {
       "person_id": "kangaroo_island_council/graeme_ricketts",
       "organization_id": "legislature/kangaroo_island_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kentish_council/don_thwaites",
-      "organization_id": "legislature/kentish_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "king_island_council/doug_collins",
-      "organization_id": "legislature/king_island_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "king_island_council/david_bowling",
-      "organization_id": "legislature/king_island_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "king_island_council/sally_haneveer",
-      "organization_id": "legislature/king_island_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "king_island_council/royce_conley",
-      "organization_id": "legislature/king_island_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "king_island_council/duncan_mcfie",
-      "organization_id": "legislature/king_island_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "king_island_council/jim_cooper",
-      "organization_id": "legislature/king_island_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "king_island_council/jim_benn",
-      "organization_id": "legislature/king_island_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "king_island_council/david_munday",
-      "organization_id": "legislature/king_island_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "king_island_council/kirsty_russell",
-      "organization_id": "legislature/king_island_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kingborough_council/richard_atkinson",
-      "organization_id": "legislature/kingborough_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kingborough_council/michael_percey",
-      "organization_id": "legislature/kingborough_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kingborough_council/flora_fox",
-      "organization_id": "legislature/kingborough_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kingborough_council/steve_wass",
-      "organization_id": "legislature/kingborough_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kingborough_council/dean_winter",
-      "organization_id": "legislature/kingborough_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kingborough_council/graham_bury",
-      "organization_id": "legislature/kingborough_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kingborough_council/david_grace",
-      "organization_id": "legislature/kingborough_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kingborough_council/nic_street",
-      "organization_id": "legislature/kingborough_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kingborough_council/bernadette_black",
-      "organization_id": "legislature/kingborough_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "kingborough_council/paula_wriedt",
-      "organization_id": "legislature/kingborough_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
@@ -12897,78 +11287,6 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "launceston_city_council/albert_van_zetten",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/jeremy_ball",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/annette_waddle",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/tony_peck",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/robin_mckendrick",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/ted_sands",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/rosemary_armitage",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/ian_norton",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/rob_soward",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/hugh_mckenzie",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/jim_cox",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "launceston_city_council/danny_gibson",
-      "organization_id": "legislature/launceston_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
       "person_id": "light_regional_council/deane_rohrlach",
       "organization_id": "legislature/light_regional_council",
       "role": "councillor",
@@ -13036,54 +11354,6 @@
     },
     {
       "person_id": "meander_valley_council/craig_perkins",
-      "organization_id": "legislature/meander_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "meander_valley_council/rodney_synfield",
-      "organization_id": "legislature/meander_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "meander_valley_council/bob_richardson",
-      "organization_id": "legislature/meander_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "meander_valley_council/deb_white",
-      "organization_id": "legislature/meander_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "meander_valley_council/ian_mackenzie",
-      "organization_id": "legislature/meander_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "meander_valley_council/andrew_connor",
-      "organization_id": "legislature/meander_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "meander_valley_council/michael_kelly",
-      "organization_id": "legislature/meander_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "meander_valley_council/tanya_king",
-      "organization_id": "legislature/meander_valley_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "meander_valley_council/rodney_youd",
       "organization_id": "legislature/meander_valley_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -13965,54 +12235,6 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "waratah_and_wynyard_council/stephen_wright",
-      "organization_id": "legislature/waratah_and_wynyard_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "waratah_and_wynyard_council/gary_bramich",
-      "organization_id": "legislature/waratah_and_wynyard_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "waratah_and_wynyard_council/alwyn_friedersdorff",
-      "organization_id": "legislature/waratah_and_wynyard_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "waratah_and_wynyard_council/darren_fairbrother",
-      "organization_id": "legislature/waratah_and_wynyard_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "waratah_and_wynyard_council/maureen_bradley",
-      "organization_id": "legislature/waratah_and_wynyard_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "waratah_and_wynyard_council/mary_duniam",
-      "organization_id": "legislature/waratah_and_wynyard_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "waratah_and_wynyard_council/robby_walsh",
-      "organization_id": "legislature/waratah_and_wynyard_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "waratah_and_wynyard_council/kevin_hyland",
-      "organization_id": "legislature/waratah_and_wynyard_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
       "person_id": "wattle_range_council/gwenda_lawlor",
       "organization_id": "legislature/wattle_range_council",
       "role": "councillor",
@@ -14081,54 +12303,6 @@
     {
       "person_id": "wattle_range_council/dennis_muhovics",
       "organization_id": "legislature/wattle_range_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "west_coast_council/shane_pitt",
-      "organization_id": "legislature/west_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "west_coast_council/al_medwin",
-      "organization_id": "legislature/west_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "west_coast_council/terry_shea",
-      "organization_id": "legislature/west_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "west_coast_council/lindsay_newman",
-      "organization_id": "legislature/west_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "west_coast_council/robyn_gerrity",
-      "organization_id": "legislature/west_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "west_coast_council/lyn_o'grady",
-      "organization_id": "legislature/west_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "west_coast_council/phil_vickers",
-      "organization_id": "legislature/west_coast_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "west_coast_council/leigh_styles",
-      "organization_id": "legislature/west_coast_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
@@ -14287,6 +12461,111 @@
       "organization_id": "legislature/golden_plains_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "adelaide_city_council/martin_haese",
+      "organization_id": "legislature/adelaide_city_council",
+      "role": "Lord Mayor"
+    },
+    {
+      "person_id": "adelaide_hills_council/bill_spragg",
+      "organization_id": "legislature/adelaide_hills_council",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "alexandrina_council/barry_featherston",
+      "organization_id": "legislature/alexandrina_council",
+      "role": "Deputy Mayor"
+    },
+    {
+      "person_id": "alexandrina_council/keith_parkes",
+      "organization_id": "legislature/alexandrina_council",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "berri_barmera_council/peter_hunt",
+      "organization_id": "legislature/berri_barmera_council",
+      "role": "Mayor, JP"
+    },
+    {
+      "person_id": "burnie_city_council/steve_kons",
+      "organization_id": "legislature/burnie_city_council",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "burnie_city_council/sandra_french_am",
+      "organization_id": "legislature/burnie_city_council",
+      "role": "Deputy Mayor"
+    },
+    {
+      "person_id": "campbelltown_city_council/simon_brewer",
+      "organization_id": "legislature/campbelltown_city_council",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "campbelltown_city_council/marijka_ryan",
+      "organization_id": "legislature/campbelltown_city_council",
+      "role": "Deputy Mayor"
+    },
+    {
+      "person_id": "city_of_burnside/david_parkin",
+      "organization_id": "legislature/city_of_burnside",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "city_of_charles_sturt/angela_keneally",
+      "organization_id": "legislature/city_of_charles_sturt",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "city_of_holdfast_bay/stephen_patterson",
+      "organization_id": "legislature/city_of_holdfast_bay",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "city_of_marion/luke_hutchinson",
+      "organization_id": "legislature/city_of_marion",
+      "role": "Deputy Mayor"
+    },
+    {
+      "person_id": "city_of_marion/kris_hanna",
+      "organization_id": "legislature/city_of_marion",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "city_of_mitcham/glenn_spear",
+      "organization_id": "legislature/city_of_mitcham",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "city_of_mount_gambier/andrew_lee",
+      "organization_id": "legislature/city_of_mount_gambier",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "city_of_norwood_payneham_&_st_peters/robert_bria",
+      "organization_id": "legislature/city_of_norwood_payneham_&_st_peters",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "city_of_onkaparinga/lorraine_rosenberg",
+      "organization_id": "legislature/city_of_onkaparinga",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "city_of_playford/glenn_docherty",
+      "organization_id": "legislature/city_of_playford",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "city_of_playford/duncan_macmillan",
+      "organization_id": "legislature/city_of_playford",
+      "role": "Deputy Mayor"
+    },
+    {
+      "person_id": "city_of_port_adelaide_enfield/gary_johanson",
+      "organization_id": "legislature/city_of_port_adelaide_enfield",
+      "role": "Mayor"
     }
   ],
   "events": [
