@@ -2303,56 +2303,212 @@
       "name": "Wendy Newman"
     },
     {
+      "email": "mayor@moretonbay.qld.gov.au",
       "id": "moreton_bay_regional_council/allan_sutherland",
-      "name": "Allan Sutherland"
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/alan-sutherland.jpg",
+      "name": "Allan Sutherland",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/alan-sutherland.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=94"
+        }
+      ]
     },
     {
-      "id": "moreton_bay_regional_council/adrian_raedel",
-      "name": "Adrian Raedel"
+      "email": "Brooke.Savige@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/brooke_savige",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/brooke-savige.jpg",
+      "name": "Brooke Savige",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/brooke-savige.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=18203"
+        }
+      ]
     },
     {
-      "id": "moreton_bay_regional_council/bob_millar",
-      "name": "Bob Millar"
-    },
-    {
-      "id": "moreton_bay_regional_council/brian_battersby",
-      "name": "Brian Battersby"
-    },
-    {
-      "id": "moreton_bay_regional_council/david_dwyer",
-      "name": "David Dwyer"
-    },
-    {
-      "id": "moreton_bay_regional_council/gary_parsons",
-      "name": "Gary Parsons"
-    },
-    {
-      "id": "moreton_bay_regional_council/greg_chippendale",
-      "name": "Greg Chippendale"
-    },
-    {
-      "id": "moreton_bay_regional_council/james_houghton",
-      "name": "James Houghton"
-    },
-    {
-      "id": "moreton_bay_regional_council/julie_greer",
-      "name": "Julie Greer"
-    },
-    {
-      "id": "moreton_bay_regional_council/koliana_winchester",
-      "name": "Koliana Winchester"
-    },
-    {
-      "id": "moreton_bay_regional_council/mick_gillam",
-      "name": "Mick Gillam"
-    },
-    {
-      "id": "moreton_bay_regional_council/mike_charlton",
-      "name": "Mike Charlton"
-    },
-    {
+      "email": "Peter.Flannery@moretonbay.qld.gov.au",
       "id": "moreton_bay_regional_council/peter_flannery",
-      "name": "Peter Flannery"
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/peter-flannery.jpg",
+      "name": "Peter Flannery",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/peter-flannery.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=103921"
+        }
+      ]
+    },
+    {
+      "email": "Adam.Hain@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/adam_hain",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/adam-hain.jpg",
+      "name": "Adam Hain",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/adam-hain.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=18205"
+        }
+      ]
+    },
+    {
+      "email": "Julie.Greer@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/julie_greer",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/julie-greer.jpg",
+      "name": "Julie Greer",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/julie-greer.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=18311"
+        }
+      ]
+    },
+    {
+      "email": "Division5@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/james_houghton",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/james-houghton.jpg",
+      "name": "James Houghton",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/james-houghton.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=18315"
+        }
+      ]
+    },
+    {
+      "email": "Koliana.Winchester@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/koliana_winchester",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/koliana-winchester.jpg",
+      "name": "Koliana Winchester",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/koliana-winchester.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=103922"
+        }
+      ]
+    },
+    {
+      "email": "Denise.Sims@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/denise_sims",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/denise-sims.jpg",
+      "name": "Denise Sims",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/denise-sims.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=18323"
+        }
+      ]
+    },
+    {
+      "email": "Mick.Gillam@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/mick_gillam",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/mick-gillam.jpg",
+      "name": "Mick Gillam",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/mick-gillam.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=18325"
+        }
+      ]
+    },
+    {
+      "email": "Mike.Charlton@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/mike_charlton",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/mike-charlton.jpg",
+      "name": "Mike Charlton",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/mike-charlton.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=18327"
+        }
+      ]
+    },
+    {
+      "email": "Matt.Constance@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/matthew_constance",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/matt-constance.jpg",
+      "name": "Matthew Constance",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/matt-constance.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=18329"
+        }
+      ]
+    },
+    {
+      "email": "Darren.Grimwade@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/darren_grimwade",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/darren-grimwade.jpg",
+      "name": "Darren Grimwade",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/darren-grimwade.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=18331"
+        }
+      ]
+    },
+    {
+      "email": "Adrian.Raedel@moretonbay.qld.gov.au",
+      "id": "moreton_bay_regional_council/adrian_raedel",
+      "image": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/adrian-raedel.jpg",
+      "name": "Adrian Raedel",
+      "images": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/uploadedImages/common/councillors/adrian-raedel.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.moretonbay.qld.gov.au/general.aspx?id=18333"
+        }
+      ]
     },
     {
       "id": "murweh_shire_council/denis_cook",
@@ -6153,43 +6309,19 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "moreton_bay_regional_council/adrian_raedel",
+      "person_id": "moreton_bay_regional_council/brooke_savige",
       "organization_id": "legislature/moreton_bay_regional_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "moreton_bay_regional_council/bob_millar",
+      "person_id": "moreton_bay_regional_council/peter_flannery",
       "organization_id": "legislature/moreton_bay_regional_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "moreton_bay_regional_council/brian_battersby",
-      "organization_id": "legislature/moreton_bay_regional_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "moreton_bay_regional_council/david_dwyer",
-      "organization_id": "legislature/moreton_bay_regional_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "moreton_bay_regional_council/gary_parsons",
-      "organization_id": "legislature/moreton_bay_regional_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "moreton_bay_regional_council/greg_chippendale",
-      "organization_id": "legislature/moreton_bay_regional_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "moreton_bay_regional_council/james_houghton",
+      "person_id": "moreton_bay_regional_council/adam_hain",
       "organization_id": "legislature/moreton_bay_regional_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -6201,7 +6333,19 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
+      "person_id": "moreton_bay_regional_council/james_houghton",
+      "organization_id": "legislature/moreton_bay_regional_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
       "person_id": "moreton_bay_regional_council/koliana_winchester",
+      "organization_id": "legislature/moreton_bay_regional_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "moreton_bay_regional_council/denise_sims",
       "organization_id": "legislature/moreton_bay_regional_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -6219,7 +6363,19 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "moreton_bay_regional_council/peter_flannery",
+      "person_id": "moreton_bay_regional_council/matthew_constance",
+      "organization_id": "legislature/moreton_bay_regional_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "moreton_bay_regional_council/darren_grimwade",
+      "organization_id": "legislature/moreton_bay_regional_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "moreton_bay_regional_council/adrian_raedel",
       "organization_id": "legislature/moreton_bay_regional_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
