@@ -4373,48 +4373,104 @@
       "name": "Martin Ticehurst"
     },
     {
+      "email": "mayor@liverpool.nsw.gov.au",
       "id": "liverpool_city_council/ned_mannoun",
-      "name": "Ned Mannoun"
+      "name": "Ned Mannoun",
+      "sources": [
+        {
+          "url": "http://www.liverpool.nsw.gov.au/council/your-mayor"
+        }
+      ]
     },
     {
+      "email": "cllrhadid@liverpool.nsw.gov.au",
       "id": "liverpool_city_council/mazhar_hadid",
-      "name": "Mazhar Hadid"
+      "name": "Mazhar Hadid",
+      "sources": [
+        {
+          "url": "http://www.liverpool.nsw.gov.au/council/your-councillors/councillor_mazhar-hadid"
+        }
+      ]
     },
     {
+      "email": "cllrballoot@liverpool.nsw.gov.au",
       "id": "liverpool_city_council/gus_balloot",
-      "name": "Gus Balloot"
+      "name": "Gus Balloot",
+      "sources": [
+        {
+          "url": "http://www.liverpool.nsw.gov.au/council/your-councillors/DeputyMayorGusBalloot"
+        }
+      ]
     },
     {
+      "email": "cllrhadchiti@liverpool.nsw.gov.au",
       "id": "liverpool_city_council/tony_hadchiti",
-      "name": "Tony Hadchiti"
+      "name": "Tony Hadchiti",
+      "sources": [
+        {
+          "url": "http://www.liverpool.nsw.gov.au/council/your-councillors/CouncillorTonyHadchiti"
+        }
+      ]
     },
     {
+      "email": "cllrharle@liverpool.nsw.gov.au",
       "id": "liverpool_city_council/peter_harle",
-      "name": "Peter Harle"
+      "name": "Peter Harle",
+      "sources": [
+        {
+          "url": "http://www.liverpool.nsw.gov.au/council/your-councillors/councillor_peter-hale"
+        }
+      ]
     },
     {
+      "email": "cllrkarnib@liverpool.nsw.gov.au",
       "id": "liverpool_city_council/ali_karnib",
-      "name": "Ali Karnib"
+      "name": "Ali Karnib",
+      "sources": [
+        {
+          "url": "http://www.liverpool.nsw.gov.au/council/your-councillors/councillor_ali-harnib"
+        }
+      ]
     },
     {
+      "email": "cllrmamone@liverpool.nsw.gov.au",
       "id": "liverpool_city_council/sabrina_mamone",
-      "name": "Sabrina Mamone"
+      "name": "Sabrina Mamone",
+      "sources": [
+        {
+          "url": "http://www.liverpool.nsw.gov.au/council/your-councillors/CouncillorSabrinaMamone"
+        }
+      ]
     },
     {
+      "email": "cllrristevski@liverpool.nsw.gov.au",
       "id": "liverpool_city_council/peter_ristevski",
-      "name": "Peter Ristevski"
+      "name": "Peter Ristevski",
+      "sources": [
+        {
+          "url": "http://www.liverpool.nsw.gov.au/council/your-councillors/councillor_peter-ristevski"
+        }
+      ]
     },
     {
+      "email": "cllrshelton@liverpool.nsw.gov.au",
       "id": "liverpool_city_council/geoff_shelton",
-      "name": "Geoff Shelton"
+      "name": "Geoff Shelton",
+      "sources": [
+        {
+          "url": "http://www.liverpool.nsw.gov.au/council/your-councillors/councillor_geoff-shelton"
+        }
+      ]
     },
     {
-      "id": "liverpool_city_council/anne_stanley",
-      "name": "Anne Stanley"
-    },
-    {
+      "email": "cllrwaller@liverpool.nsw.gov.au",
       "id": "liverpool_city_council/wendy_waller",
-      "name": "Wendy Waller"
+      "name": "Wendy Waller",
+      "sources": [
+        {
+          "url": "http://www.liverpool.nsw.gov.au/council/your-councillors/councillor_wendy-waller"
+        }
+      ]
     },
     {
       "id": "liverpool_plains_shire_council/andrew_hope",
@@ -8857,6 +8913,11 @@
     {
       "id": "party/australian_labor_party",
       "name": "Australian Labor Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/community_independents",
+      "name": "Community Independents",
       "classification": "party"
     },
     {
@@ -13653,67 +13714,61 @@
       "person_id": "liverpool_city_council/ned_mannoun",
       "organization_id": "legislature/liverpool_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "liverpool_city_council/mazhar_hadid",
       "organization_id": "legislature/liverpool_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "liverpool_city_council/gus_balloot",
       "organization_id": "legislature/liverpool_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "liverpool_city_council/tony_hadchiti",
       "organization_id": "legislature/liverpool_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "liverpool_city_council/peter_harle",
       "organization_id": "legislature/liverpool_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/community_independents"
     },
     {
       "person_id": "liverpool_city_council/ali_karnib",
       "organization_id": "legislature/liverpool_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "liverpool_city_council/sabrina_mamone",
       "organization_id": "legislature/liverpool_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "liverpool_city_council/peter_ristevski",
       "organization_id": "legislature/liverpool_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "liverpool_city_council/geoff_shelton",
       "organization_id": "legislature/liverpool_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "liverpool_city_council/anne_stanley",
-      "organization_id": "legislature/liverpool_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "liverpool_city_council/wendy_waller",
       "organization_id": "legislature/liverpool_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "liverpool_plains_shire_council/andrew_hope",
