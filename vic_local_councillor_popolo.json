@@ -5864,7 +5864,7 @@
       "person_id": "monash_city_council/geoff_lake",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "monash_city_council/katrina_nolan",
@@ -5882,7 +5882,7 @@
       "person_id": "monash_city_council/jieh-yung_lo",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "monash_city_council/rebecca_paterson",
@@ -5894,7 +5894,7 @@
       "person_id": "monash_city_council/robert_davies",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "monash_city_council/micaela_drieberg",
@@ -5906,7 +5906,7 @@
       "person_id": "monash_city_council/paul_klisaris",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "monash_city_council/bill_pontikis",
@@ -5918,7 +5918,7 @@
       "person_id": "monash_city_council/theo_zographos",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "moonee_valley_city_council/jan_chantry",
