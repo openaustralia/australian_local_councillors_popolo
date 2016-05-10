@@ -5482,64 +5482,244 @@
       "name": "Patricia Smith"
     },
     {
+      "email": "slloyd@parracity.nsw.gov.au",
       "id": "parramatta_city_council/scott_lloyd",
-      "name": "Scott Lloyd"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0020/25922/Clr-Scott-LLoyd.jpg",
+      "name": "Scott Lloyd",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0020/25922/Clr-Scott-LLoyd.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/caroline_chisholm"
+        }
+      ]
     },
     {
+      "email": "sissa@parracity.nsw.gov.au",
       "id": "parramatta_city_council/steven_issa",
-      "name": "Steven Issa"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0003/112539/Clr_ISSA.jpg",
+      "name": "Steven Issa",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0003/112539/Clr_ISSA.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/woodville"
+        }
+      ]
     },
     {
+      "email": "jabood@parracity.nsw.gov.au",
       "id": "parramatta_city_council/jean_pierre_abood",
-      "name": "Jean Pierre Abood"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0020/112538/Clr_ABOOD.jpg",
+      "name": "Jean Pierre Abood",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0020/112538/Clr_ABOOD.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/lachlan_macquarie"
+        }
+      ]
     },
     {
+      "email": "jchedid@parracity.nsw.gov.au",
       "id": "parramatta_city_council/john_chedid",
-      "name": "John Chedid"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0008/3698/Clr-John-Chedid.jpg",
+      "name": "John Chedid",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0008/3698/Clr-John-Chedid.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/elizabeth_macarthur"
+        }
+      ]
     },
     {
+      "email": "schowdhury@parracity.nsw.gov.au",
       "id": "parramatta_city_council/shahadat_chowdhury",
-      "name": "Shahadat Chowdhury"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0013/112522/Clr_CHOWDHURY.jpg",
+      "name": "Shahadat Chowdhury",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0013/112522/Clr_CHOWDHURY.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/caroline_chisholm"
+        }
+      ]
     },
     {
+      "email": "bdwyer@parracity.nsw.gov.au",
       "id": "parramatta_city_council/bob_dwyer",
-      "name": "Bob Dwyer"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0014/112523/Clr_DWYER.jpg",
+      "name": "Bob Dwyer",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0014/112523/Clr_DWYER.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/caroline_chisholm"
+        }
+      ]
     },
     {
+      "email": "gelmore@parracity.nsw.gov.au",
       "id": "parramatta_city_council/glenn_elmore",
-      "name": "Glenn Elmore"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0005/25925/Clr-Glenn-Elmore.jpg",
+      "name": "Glenn Elmore",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0005/25925/Clr-Glenn-Elmore.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/woodville"
+        }
+      ]
     },
     {
+      "email": "pesber@parracity.nsw.gov.au",
       "id": "parramatta_city_council/pierre_esber",
-      "name": "Pierre Esber"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0015/3705/Clr_ESBER.jpg",
+      "name": "Pierre Esber",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0015/3705/Clr_ESBER.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/lachlan_macquarie"
+        }
+      ]
     },
     {
+      "email": "jfinn@parracity.nsw.gov.au",
       "id": "parramatta_city_council/julia_finn",
-      "name": "Julia Finn"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0009/3699/varieties/w100.jpg",
+      "name": "Julia Finn",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0009/3699/varieties/w100.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/arthur_phillip"
+        }
+      ]
     },
     {
+      "email": "pgarrard@parracity.nsw.gov.au",
       "id": "parramatta_city_council/paul_garrard",
-      "name": "Paul Garrard"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0014/3704/Clr-Paul-Garrard.jpg",
+      "name": "Paul Garrard",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0014/3704/Clr-Paul-Garrard.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/woodville"
+        }
+      ]
     },
     {
+      "email": "jhugh@parracity.nsw.gov.au",
       "id": "parramatta_city_council/john_hugh",
-      "name": "John Hugh"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0015/112524/Clr_HUGH.jpg",
+      "name": "John Hugh",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0015/112524/Clr_HUGH.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/elizabeth_macarthur"
+        }
+      ]
     },
     {
+      "email": "bmakari@parracity.nsw.gov.au",
       "id": "parramatta_city_council/bakous_makari",
-      "name": "Bakous Makari"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0011/112520/Clr_MAKARI.jpg",
+      "name": "Bakous Makari",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0011/112520/Clr_MAKARI.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/arthur_phillip"
+        }
+      ]
     },
     {
+      "email": "jshaw@parracity.nsw.gov.au",
       "id": "parramatta_city_council/james_shaw",
-      "name": "James Shaw"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0016/112525/Clr_SHAW.jpg",
+      "name": "James Shaw",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0016/112525/Clr_SHAW.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/elizabeth_macarthur"
+        }
+      ]
     },
     {
+      "email": "lwearne@parracity.nsw.gov.au",
       "id": "parramatta_city_council/lorraine_wearne",
-      "name": "Lorraine Wearne"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0010/3700/Clr_WEARNE.jpg",
+      "name": "Lorraine Wearne",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0010/3700/Clr_WEARNE.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/lachlan_macquarie"
+        }
+      ]
     },
     {
+      "email": "andrewwilson@parracity.nsw.gov.au",
       "id": "parramatta_city_council/andrew_wilson",
-      "name": "Andrew Wilson"
+      "image": "http://www.parracity.nsw.gov.au/__data/assets/image/0020/3692/varieties/w100.jpg",
+      "name": "Andrew Wilson",
+      "images": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/__data/assets/image/0020/3692/varieties/w100.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.parracity.nsw.gov.au/your_council/council/Councillors_and_Wards/arthur_phillip"
+        }
+      ]
     },
     {
       "email": "ross@rossfowler.com.au",
@@ -8931,6 +9111,21 @@
       "classification": "party"
     },
     {
+      "id": "party/liberal_party_of_australia",
+      "name": "Liberal Party of Australia",
+      "classification": "party"
+    },
+    {
+      "id": "party/woodville_independents_party",
+      "name": "Woodville Independents Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/lorraine_wearne_independents",
+      "name": "Lorraine Wearne Independents",
+      "classification": "party"
+    },
+    {
       "id": "party/shire_watch_independents",
       "name": "Shire Watch Independents",
       "classification": "party"
@@ -8943,11 +9138,6 @@
     {
       "id": "party/living_sydney",
       "name": "Living Sydney",
-      "classification": "party"
-    },
-    {
-      "id": "party/liberal_party_of_australia",
-      "name": "Liberal Party of Australia",
       "classification": "party"
     }
   ],
@@ -14993,91 +15183,91 @@
       "person_id": "parramatta_city_council/scott_lloyd",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "parramatta_city_council/steven_issa",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "parramatta_city_council/jean_pierre_abood",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "parramatta_city_council/john_chedid",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "parramatta_city_council/shahadat_chowdhury",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "parramatta_city_council/bob_dwyer",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "parramatta_city_council/glenn_elmore",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "parramatta_city_council/pierre_esber",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "parramatta_city_council/julia_finn",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "parramatta_city_council/paul_garrard",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/woodville_independents_party"
     },
     {
       "person_id": "parramatta_city_council/john_hugh",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "parramatta_city_council/bakous_makari",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "parramatta_city_council/james_shaw",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "parramatta_city_council/lorraine_wearne",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lorraine_wearne_independents"
     },
     {
       "person_id": "parramatta_city_council/andrew_wilson",
       "organization_id": "legislature/parramatta_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lorraine_wearne_independents"
     },
     {
       "person_id": "penrith_city_council/ross_fowler",
@@ -18806,12 +18996,12 @@
       "role": "deputy mayor"
     },
     {
-      "person_id": "parramatta_city_council/scott_lloyd",
+      "person_id": "parramatta_city_council/paul_garrard",
       "organization_id": "legislature/parramatta_city_council",
       "role": "Lord Mayor"
     },
     {
-      "person_id": "parramatta_city_council/steven_issa",
+      "person_id": "parramatta_city_council/bakous_makari",
       "organization_id": "legislature/parramatta_city_council",
       "role": "deputy mayor"
     },
