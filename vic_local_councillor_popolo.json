@@ -2039,48 +2039,164 @@
       "name": "Alex Monk"
     },
     {
+      "email": "Geoff.Lake@monash.vic.gov.au",
       "id": "monash_city_council/geoff_lake",
-      "name": "Geoff Lake"
+      "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/geoff-lake.jpg",
+      "name": "Geoff Lake",
+      "images": [
+        {
+          "url": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/geoff-lake.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Mayor-Geoff-Lake"
+        }
+      ]
     },
     {
+      "email": "Katrina.Nolan@monash.vic.gov.au",
       "id": "monash_city_council/katrina_nolan",
-      "name": "Katrina Nolan"
+      "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/katrina-nolan.jpg",
+      "name": "Katrina Nolan",
+      "images": [
+        {
+          "url": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/katrina-nolan.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Katrina-Nolan"
+        }
+      ]
     },
     {
+      "email": "Brian.Little@monash.vic.gov.au",
       "id": "monash_city_council/brian_little",
-      "name": "Brian Little"
+      "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/brian-little.jpg",
+      "name": "Brian Little",
+      "images": [
+        {
+          "url": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/brian-little.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Brian-Little"
+        }
+      ]
     },
     {
+      "email": "Jieh-Yung.Lo@monash.vic.gov.au",
       "id": "monash_city_council/jieh-yung_lo",
-      "name": "Jieh-Yung Lo"
+      "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/jieh-yung-lo.jpg",
+      "name": "Jieh-Yung Lo",
+      "images": [
+        {
+          "url": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/jieh-yung-lo.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Jieh-Yung-Lo"
+        }
+      ]
     },
     {
+      "email": "Rebecca.Paterson@monash.vic.gov.au",
       "id": "monash_city_council/rebecca_paterson",
-      "name": "Rebecca Paterson"
+      "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/rebecca-paterson1.jpg",
+      "name": "Rebecca Paterson",
+      "images": [
+        {
+          "url": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/rebecca-paterson1.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Rebecca-Paterson"
+        }
+      ]
     },
     {
+      "email": "Robert.Davies@monash.vic.gov.au",
       "id": "monash_city_council/robert_davies",
-      "name": "Robert Davies"
+      "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/robert-davies.jpg",
+      "name": "Robert Davies",
+      "images": [
+        {
+          "url": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/robert-davies.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Robert-Davies"
+        }
+      ]
     },
     {
+      "email": "Micaela.Drieberg@monash.vic.gov.au",
       "id": "monash_city_council/micaela_drieberg",
-      "name": "Micaela Drieberg"
+      "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/micaela-drieberg.jpg",
+      "name": "Micaela Drieberg",
+      "images": [
+        {
+          "url": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/micaela-drieberg.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Micaela-Drieberg"
+        }
+      ]
     },
     {
+      "email": "Paul.Klisaris@monash.vic.gov.au",
       "id": "monash_city_council/paul_klisaris",
-      "name": "Paul Klisaris"
+      "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-paul-klisaris.jpg",
+      "name": "Paul Klisaris",
+      "images": [
+        {
+          "url": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-paul-klisaris.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Paul-Klisaris"
+        }
+      ]
     },
     {
-      "id": "monash_city_council/stefanie_perri",
-      "name": "Stefanie Perri"
-    },
-    {
+      "email": "Bill.Pontikis@monash.vic.gov.au",
       "id": "monash_city_council/bill_pontikis",
-      "name": "Bill Pontikis"
+      "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/bill-pontikis.jpg",
+      "name": "Bill Pontikis",
+      "images": [
+        {
+          "url": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/bill-pontikis.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Bill-Pontikis"
+        }
+      ]
     },
     {
+      "email": "Theo.Zographos@monash.vic.gov.au",
       "id": "monash_city_council/theo_zographos",
-      "name": "Theo Zographos"
+      "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/theo-zographos.jpg",
+      "name": "Theo Zographos",
+      "images": [
+        {
+          "url": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/theo-zographos.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Theo-Zographos"
+        }
+      ]
     },
     {
       "id": "moonee_valley_city_council/jan_chantry",
@@ -5748,7 +5864,7 @@
       "person_id": "monash_city_council/geoff_lake",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "monash_city_council/katrina_nolan",
@@ -5766,7 +5882,7 @@
       "person_id": "monash_city_council/jieh-yung_lo",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "monash_city_council/rebecca_paterson",
@@ -5778,7 +5894,7 @@
       "person_id": "monash_city_council/robert_davies",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "monash_city_council/micaela_drieberg",
@@ -5790,13 +5906,7 @@
       "person_id": "monash_city_council/paul_klisaris",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "monash_city_council/stefanie_perri",
-      "organization_id": "legislature/monash_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "monash_city_council/bill_pontikis",
@@ -5808,7 +5918,7 @@
       "person_id": "monash_city_council/theo_zographos",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "moonee_valley_city_council/jan_chantry",
@@ -7402,9 +7512,14 @@
       "role": "mayor"
     },
     {
-      "person_id": "monash_city_council/stefanie_perri",
+      "person_id": "monash_city_council/geoff_lake",
       "organization_id": "legislature/monash_city_council",
-      "role": "mayor"
+      "role": "Mayor"
+    },
+    {
+      "person_id": "monash_city_council/rebecca_paterson",
+      "organization_id": "legislature/monash_city_council",
+      "role": "Deputy Mayor"
     },
     {
       "person_id": "moonee_valley_city_council/andrea_surace",
