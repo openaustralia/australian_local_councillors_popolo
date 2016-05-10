@@ -1335,40 +1335,148 @@
       "name": "James Trenery"
     },
     {
+      "email": "ron.brownlees@kingston.vic.gov.au",
       "id": "kingston_city_council/ron_brownlees",
-      "name": "Ron Brownlees"
+      "image": "http://www.kingston.vic.gov.au/files/fd368dbc-1a43-41ce-8c4f-a1b601227fc9/WEB-CR-Ron_Brownlees.jpg",
+      "name": "Ron Brownlees",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/fd368dbc-1a43-41ce-8c4f-a1b601227fc9/WEB-CR-Ron_Brownlees.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About/Councillors/Cr-Ron-Brownlees"
+        }
+      ]
     },
     {
+      "email": "geoff.gledhill@kingston.vic.gov.au",
       "id": "kingston_city_council/geoff_gledhill",
-      "name": "Geoff Gledhill"
+      "image": "http://www.kingston.vic.gov.au/files/0af621ac-16b9-4ed2-80ae-a1b601227f61/WEB-CR-Geoff_Gledhill.jpg",
+      "name": "Geoff Gledhill",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/0af621ac-16b9-4ed2-80ae-a1b601227f61/WEB-CR-Geoff_Gledhill.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About-Us/Councillors/Cr-Geoff-Gledhill"
+        }
+      ]
     },
     {
+      "email": "rosemary.west@kingston.vic.gov.au",
       "id": "kingston_city_council/rosemary_west",
-      "name": "Rosemary West"
+      "image": "http://www.kingston.vic.gov.au/files/c4190ba8-96c1-497d-bc65-a1b601227ffc/WEB-CR-Rosemary_West.jpg",
+      "name": "Rosemary West",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/c4190ba8-96c1-497d-bc65-a1b601227ffc/WEB-CR-Rosemary_West.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About/Councillors/Cr-Rosemary-West"
+        }
+      ]
     },
     {
+      "email": "tamara.barth@kingston.vic.gov.au",
       "id": "kingston_city_council/tamara_barth",
-      "name": "Tamara Barth"
+      "image": "http://www.kingston.vic.gov.au/files/2ba675f3-d64d-4ff8-8b87-a1b601228055/WEB-CR-Tamara_Barth.jpg",
+      "name": "Tamara Barth",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/2ba675f3-d64d-4ff8-8b87-a1b601228055/WEB-CR-Tamara_Barth.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About/Councillors/Cr-Tamara-Barth"
+        }
+      ]
     },
     {
+      "email": "paul.peulich@kingston.vic.gov.au",
       "id": "kingston_city_council/paul_peulich",
-      "name": "Paul Peulich"
+      "image": "http://www.kingston.vic.gov.au/files/3936b98f-89ef-4b2b-88c9-a1b601227fa3/WEB-CR-Paul_Peulich.jpg",
+      "name": "Paul Peulich",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/3936b98f-89ef-4b2b-88c9-a1b601227fa3/WEB-CR-Paul_Peulich.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About/Councillors/Cr-Paul-Peulich"
+        }
+      ]
     },
     {
+      "email": "steve.staikos@kingston.vic.gov.au",
       "id": "kingston_city_council/steve_staikos",
-      "name": "Steve Staikos"
+      "image": "http://www.kingston.vic.gov.au/files/6c578a2f-5549-465f-9d98-a1b60122802b/WEB-CR-Steve_Staikos.jpg",
+      "name": "Steve Staikos",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/6c578a2f-5549-465f-9d98-a1b60122802b/WEB-CR-Steve_Staikos.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About/Councillors/Cr-Steve-Staikos"
+        }
+      ]
     },
     {
+      "email": "tamsin.bearsley@kingston.vic.gov.au",
       "id": "kingston_city_council/tamsin_bearsley",
-      "name": "Tamsin Bearsley"
+      "image": "http://www.kingston.vic.gov.au/files/3d4a3e90-cf46-4280-ae4c-a1b60122809c/WEB-CR-Tamsin_Bearsley.jpg",
+      "name": "Tamsin Bearsley",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/3d4a3e90-cf46-4280-ae4c-a1b60122809c/WEB-CR-Tamsin_Bearsley.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About-Us/Councillors/Mayor-Cr-Tamsin-Bearsley"
+        }
+      ]
     },
     {
+      "email": "david.eden@kingston.vic.gov.au",
       "id": "kingston_city_council/david_eden",
-      "name": "David Eden"
+      "image": "http://www.kingston.vic.gov.au/files/667a7628-27f4-4d64-a894-a1b601227f45/WEB-CR-David_Eden.jpg",
+      "name": "David Eden",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/667a7628-27f4-4d64-a894-a1b601227f45/WEB-CR-David_Eden.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About/Councillors/Cr-David-Eden"
+        }
+      ]
     },
     {
+      "email": "john.ronke@kingston.vic.gov.au",
       "id": "kingston_city_council/john_ronke",
-      "name": "John Ronke"
+      "image": "http://www.kingston.vic.gov.au/files/15800d30-28c5-4970-aea9-a1b601227f82/WEB-CR-John_Ronke.jpg",
+      "name": "John Ronke",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/15800d30-28c5-4970-aea9-a1b601227f82/WEB-CR-John_Ronke.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About/Councillors/Cr-John-Ronke"
+        }
+      ]
     },
     {
       "email": "peter.lockwood@knox.vic.gov.au",
