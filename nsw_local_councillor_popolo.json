@@ -5350,52 +5350,212 @@
       "name": "Ivan Truscott"
     },
     {
+      "email": "nnelmes@ncc.nsw.gov.au",
       "id": "newcastle_city_council/nuatali_nelmes",
-      "name": "Nuatali Nelmes"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Lord-Mayor/Cr_Nuatali_Nelmes1-(1).jpg.aspx",
+      "name": "Nuatali Nelmes",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Lord-Mayor/Cr_Nuatali_Nelmes1-(1).jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors/Lord-Mayor"
+        }
+      ]
     },
     {
+      "email": "bluke@ncc.nsw.gov.au",
       "id": "newcastle_city_council/brad_luke",
-      "name": "Brad Luke"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Brad_Luke.jpg.aspx",
+      "name": "Brad Luke",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Brad_Luke.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
+      "email": "dcompton@ncc.nsw.gov.au",
       "id": "newcastle_city_council/david_compton",
-      "name": "David Compton"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_David_Compton.jpg.aspx",
+      "name": "David Compton",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_David_Compton.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
+      "email": "tcrakanthorp@ncc.nsw.gov.au",
       "id": "newcastle_city_council/tim_crakanthorp",
-      "name": "Tim Crakanthorp"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Tim_Crakanthorp.jpg.aspx",
+      "name": "Tim Crakanthorp",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Tim_Crakanthorp.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
+      "email": "tdoyle@ncc.nsw.gov.au",
       "id": "newcastle_city_council/therese_doyle",
-      "name": "Therese Doyle"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Therese_Doyle.jpg.aspx",
+      "name": "Therese Doyle",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Therese_Doyle.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
+      "email": "jdunn@ncc.nsw.gov.au",
       "id": "newcastle_city_council/jason_dunn",
-      "name": "Jason Dunn"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Jason_Dunn.jpg.aspx",
+      "name": "Jason Dunn",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Jason_Dunn.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
+      "email": "mosborne@ncc.nsw.gov.au",
       "id": "newcastle_city_council/michael_osborne",
-      "name": "Michael Osborne"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Michael_Osborne.jpg.aspx",
+      "name": "Michael Osborne",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Michael_Osborne.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
+      "email": "sposniak@ncc.nsw.gov.au",
       "id": "newcastle_city_council/stephanie_posniak",
-      "name": "Stephanie Posniak"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr-Stephanie-Posniak.jpg.aspx",
+      "name": "Stephanie Posniak",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr-Stephanie-Posniak.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
+      "email": "arobinson@ncc.nsw.gov.au",
       "id": "newcastle_city_council/allan_robinson",
-      "name": "Allan Robinson"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Allan_Robinson.jpg.aspx",
+      "name": "Allan Robinson",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Allan_Robinson.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
+      "email": "arufo@ncc.nsw.gov.au",
       "id": "newcastle_city_council/andrea_rufo",
-      "name": "Andrea Rufo"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Andrea_Rufo.jpg.aspx",
+      "name": "Andrea Rufo",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Andrea_Rufo.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
+      "email": "ltierney@ncc.nsw.gov.au",
       "id": "newcastle_city_council/lisa_tierney",
-      "name": "Lisa Tierney"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Lisa_Tierney.jpg.aspx",
+      "name": "Lisa Tierney",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Lisa_Tierney.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
+      "email": "swaterhouse@ncc.nsw.gov.au",
       "id": "newcastle_city_council/sharon_waterhouse",
-      "name": "Sharon Waterhouse"
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Sharon_Waterhouse.jpg.aspx",
+      "name": "Sharon Waterhouse",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/Cr_Sharon_Waterhouse.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
+    },
+    {
+      "email": "dclausen@ncc.nsw.gov.au",
+      "id": "newcastle_city_council/declan_clausen",
+      "image": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/DeclanClausen.jpg.aspx",
+      "name": "Declan Clausen",
+      "images": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/getattachment/Council/About-Council/Councillors/DeclanClausen.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.newcastle.nsw.gov.au/Council/About-Council/Councillors"
+        }
+      ]
     },
     {
       "id": "north_sydney_council/jilly_gibson",
@@ -14925,73 +15085,79 @@
       "person_id": "newcastle_city_council/nuatali_nelmes",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "newcastle_city_council/brad_luke",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "newcastle_city_council/david_compton",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "newcastle_city_council/tim_crakanthorp",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "newcastle_city_council/therese_doyle",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "newcastle_city_council/jason_dunn",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "newcastle_city_council/michael_osborne",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "newcastle_city_council/stephanie_posniak",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "newcastle_city_council/allan_robinson",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "newcastle_city_council/andrea_rufo",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "newcastle_city_council/lisa_tierney",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "newcastle_city_council/sharon_waterhouse",
       "organization_id": "legislature/newcastle_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
+    },
+    {
+      "person_id": "newcastle_city_council/declan_clausen",
+      "organization_id": "legislature/newcastle_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "north_sydney_council/jilly_gibson",
