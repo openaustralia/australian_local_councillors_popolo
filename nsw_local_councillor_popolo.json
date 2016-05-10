@@ -1265,6 +1265,11 @@
         {
           "url": "http://www.bmcc.nsw.gov.au/files/MGreenhill.gif"
         }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
+        }
       ]
     },
     {
@@ -1275,6 +1280,11 @@
       "images": [
         {
           "url": "http://www.bmcc.nsw.gov.au/files/chrisvanderkley.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
         }
       ]
     },
@@ -1287,6 +1297,11 @@
         {
           "url": "http://www.bmcc.nsw.gov.au/files/Michael%20Begg.jpg"
         }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
+        }
       ]
     },
     {
@@ -1297,6 +1312,11 @@
       "images": [
         {
           "url": "http://www.bmcc.nsw.gov.au/files/ABennett_photo.gif"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
         }
       ]
     },
@@ -1309,6 +1329,11 @@
         {
           "url": "http://www.bmcc.nsw.gov.au/files/BrendanChristie.jpg"
         }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
+        }
       ]
     },
     {
@@ -1319,6 +1344,11 @@
       "images": [
         {
           "url": "http://www.bmcc.nsw.gov.au/files/mickfell.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
         }
       ]
     },
@@ -1331,6 +1361,11 @@
         {
           "url": "http://www.bmcc.nsw.gov.au/files/RomolaHollywood.jpg"
         }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
+        }
       ]
     },
     {
@@ -1341,6 +1376,11 @@
       "images": [
         {
           "url": "http://www.bmcc.nsw.gov.au/files/BrendanLuchetti.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
         }
       ]
     },
@@ -1353,6 +1393,11 @@
         {
           "url": "http://www.bmcc.nsw.gov.au/files/donmcgregor.jpg"
         }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
+        }
       ]
     },
     {
@@ -1363,6 +1408,11 @@
       "images": [
         {
           "url": "http://www.bmcc.nsw.gov.au/files/danielmyles.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
         }
       ]
     },
@@ -1375,6 +1425,11 @@
         {
           "url": "http://www.bmcc.nsw.gov.au/files/SShrubb_photo.gif"
         }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
+        }
       ]
     },
     {
@@ -1385,6 +1440,11 @@
       "images": [
         {
           "url": "http://www.bmcc.nsw.gov.au/files/AVSPhoto.gif"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.bmcc.nsw.gov.au/yourcouncil/councillors"
         }
       ]
     },
@@ -8562,44 +8622,148 @@
       "name": "Jeff Zulman"
     },
     {
+      "email": "Doug.Eaton@wyong.nsw.gov.au",
       "id": "wyong_shire_council/doug_eaton",
-      "name": "Doug Eaton"
+      "image": "https://www.wyong.nsw.gov.au/getmedia/94d6e390-45ce-49b9-8117-c0045aa258ef/Doug-Eaton-amended-Nov-2012---cropped.aspx",
+      "name": "Doug Eaton",
+      "images": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/getmedia/94d6e390-45ce-49b9-8117-c0045aa258ef/Doug-Eaton-amended-Nov-2012---cropped.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/about-council/your-councillors/councillor-doug-eaton/"
+        }
+      ]
     },
     {
+      "email": "Lynne.Webster@wyong.nsw.gov.au",
       "id": "wyong_shire_council/lynne_webster",
-      "name": "Lynne Webster"
+      "image": "https://www.wyong.nsw.gov.au/getmedia/d6a64b6f-c810-4f16-b094-94cc9b595763/lynwebster.aspx",
+      "name": "Lynne Webster",
+      "images": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/getmedia/d6a64b6f-c810-4f16-b094-94cc9b595763/lynwebster.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/about-council/your-councillors/councillor-lynne-webster/"
+        }
+      ]
     },
     {
+      "email": "Greg.Best@wyong.nsw.gov.au",
       "id": "wyong_shire_council/greg_best",
-      "name": "Greg Best"
+      "image": "https://www.wyong.nsw.gov.au/getmedia/36195e23-90d1-4dc1-a56a-1d1fe3bf7cf3/Councillor-Best-005---use-this-one.aspx",
+      "name": "Greg Best",
+      "images": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/getmedia/36195e23-90d1-4dc1-a56a-1d1fe3bf7cf3/Councillor-Best-005---use-this-one.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/about-council/your-councillors/councillor-greg-best/"
+        }
+      ]
     },
     {
+      "email": "Bob.Graham@wyong.nsw.gov.au",
       "id": "wyong_shire_council/bob_graham",
-      "name": "Bob Graham"
+      "image": "https://www.wyong.nsw.gov.au/getmedia/1b915370-ff6d-49db-b9ea-cfda7f8f7788/Bob-Graham-2-.aspx",
+      "name": "Bob Graham",
+      "images": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/getmedia/1b915370-ff6d-49db-b9ea-cfda7f8f7788/Bob-Graham-2-.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/about-council/your-councillors/councillor-bob-graham/"
+        }
+      ]
     },
     {
+      "email": "Ken.Greenwald@wyong.nsw.gov.au",
       "id": "wyong_shire_council/ken_greenwald",
-      "name": "Ken Greenwald"
+      "image": "https://www.wyong.nsw.gov.au/getmedia/0af19121-3f38-437e-a658-83487ef8ee82/Cr-Ken-Greenwald.aspx",
+      "name": "Ken Greenwald",
+      "images": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/getmedia/0af19121-3f38-437e-a658-83487ef8ee82/Cr-Ken-Greenwald.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/about-council/your-councillors/councillor-ken-greenwald/"
+        }
+      ]
     },
     {
+      "email": "Lisa.Matthews@wyong.nsw.gov.au",
       "id": "wyong_shire_council/lisa_matthews",
-      "name": "Lisa Matthews"
+      "image": "https://www.wyong.nsw.gov.au/getmedia/6e81bc1e-edd8-426d-a508-fa4711c99d33/Lisa-Matthews-2-.aspx",
+      "name": "Lisa Matthews",
+      "images": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/getmedia/6e81bc1e-edd8-426d-a508-fa4711c99d33/Lisa-Matthews-2-.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/about-council/your-councillors/councillor-lisa-matthews/"
+        }
+      ]
     },
     {
-      "id": "wyong_shire_council/luke_nayna",
-      "name": "Luke Nayna"
-    },
-    {
+      "email": "Lloyd.Taylor@wyong.nsw.gov.au",
       "id": "wyong_shire_council/lloyd_taylor",
-      "name": "Lloyd Taylor"
+      "image": "https://www.wyong.nsw.gov.au/getattachment/About-Council/Councillors/Councillor-Lloyd-Taylor/Councillor-Taylor-s-photo-blank/lloyd.jpg.aspx",
+      "name": "Lloyd Taylor",
+      "images": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/getattachment/About-Council/Councillors/Councillor-Lloyd-Taylor/Councillor-Taylor-s-photo-blank/lloyd.jpg.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/about-council/your-councillors/councillor--lloyd-taylor/"
+        }
+      ]
     },
     {
+      "email": "Adam.Troy@wyong.nsw.gov.au",
       "id": "wyong_shire_council/adam_troy",
-      "name": "Adam Troy"
+      "image": "https://www.wyong.nsw.gov.au/getmedia/7198725a-c7e2-477d-877e-a048dcc7e830/Adam-Troy.aspx",
+      "name": "Adam Troy",
+      "images": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/getmedia/7198725a-c7e2-477d-877e-a048dcc7e830/Adam-Troy.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/about-council/your-councillors/councillor-adam-troy/"
+        }
+      ]
     },
     {
+      "email": "Doug.Vincent@wyong.nsw.gov.au",
       "id": "wyong_shire_council/doug_vincent",
-      "name": "Doug Vincent"
+      "image": "https://www.wyong.nsw.gov.au/getmedia/e7a4be0a-96b2-4f81-bebf-debd5d6f002c/Doug-Vincent-2---USE-THIS-ONE-1-.aspx",
+      "name": "Doug Vincent",
+      "images": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/getmedia/e7a4be0a-96b2-4f81-bebf-debd5d6f002c/Doug-Vincent-2---USE-THIS-ONE-1-.aspx"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.wyong.nsw.gov.au/about-council/your-councillors/councillor-doug-vincent/"
+        }
+      ]
     },
     {
       "id": "yass_valley_council/rowena_abbey",
@@ -9451,8 +9615,8 @@
       "classification": "party"
     },
     {
-      "id": "party/unaligned",
-      "name": "Unaligned",
+      "id": "party/unknown",
+      "name": "unknown",
       "classification": "party"
     },
     {
@@ -9466,13 +9630,13 @@
       "classification": "party"
     },
     {
-      "id": "party/unknown",
-      "name": "unknown",
+      "id": "party/labor",
+      "name": "Labor",
       "classification": "party"
     },
     {
-      "id": "party/labor",
-      "name": "Labor",
+      "id": "party/unaligned",
+      "name": "Unaligned",
       "classification": "party"
     },
     {
@@ -9488,6 +9652,11 @@
     {
       "id": "party/palmer_united_party",
       "name": "Palmer United Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/liberal_party_of_australia",
+      "name": "Liberal Party of Australia",
       "classification": "party"
     },
     {
@@ -9508,11 +9677,6 @@
     {
       "id": "party/the_greens",
       "name": "The Greens",
-      "classification": "party"
-    },
-    {
-      "id": "party/liberal_party_of_australia",
-      "name": "Liberal Party of Australia",
       "classification": "party"
     },
     {
@@ -9538,6 +9702,11 @@
     {
       "id": "party/living_sydney",
       "name": "Living Sydney",
+      "classification": "party"
+    },
+    {
+      "id": "party/save_tuggerah_lakes",
+      "name": "Save Tuggerah Lakes",
       "classification": "party"
     }
   ],
@@ -9594,13 +9763,13 @@
       "person_id": "armidale_dumaresq_council/herman_beyersdorf",
       "organization_id": "legislature/armidale_dumaresq_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unaligned"
+      "on_behalf_of_id": "party/unknown"
     },
     {
       "person_id": "armidale_dumaresq_council/jenny_bailey",
       "organization_id": "legislature/armidale_dumaresq_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unaligned"
+      "on_behalf_of_id": "party/unknown"
     },
     {
       "person_id": "armidale_dumaresq_council/laurie_bishop",
@@ -18187,61 +18356,55 @@
       "person_id": "wyong_shire_council/doug_eaton",
       "organization_id": "legislature/wyong_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "wyong_shire_council/lynne_webster",
       "organization_id": "legislature/wyong_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "wyong_shire_council/greg_best",
       "organization_id": "legislature/wyong_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "wyong_shire_council/bob_graham",
       "organization_id": "legislature/wyong_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "wyong_shire_council/ken_greenwald",
       "organization_id": "legislature/wyong_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "wyong_shire_council/lisa_matthews",
       "organization_id": "legislature/wyong_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "wyong_shire_council/luke_nayna",
-      "organization_id": "legislature/wyong_shire_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "wyong_shire_council/lloyd_taylor",
       "organization_id": "legislature/wyong_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/save_tuggerah_lakes"
     },
     {
       "person_id": "wyong_shire_council/adam_troy",
       "organization_id": "legislature/wyong_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/save_tuggerah_lakes"
     },
     {
       "person_id": "wyong_shire_council/doug_vincent",
       "organization_id": "legislature/wyong_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "yass_valley_council/rowena_abbey",
