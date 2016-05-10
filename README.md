@@ -23,6 +23,12 @@ To update or add to this data follow these steps:
 6. Submit a pull request with your changes with an [explanation](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
    of what they are and why you have made them.
 
+## Tips for collecting councillor information
+
+The best place to find information about local councillors is the council’s official website. Most council websites have a page listing all the councillors and their information. Wikipedia can be a good source of information about the councillors’ political party, if it’s not on the council website.
+
+**The minimum information we need is the councillor’s email**. Next important is the url for an image of them. Next important is their political party. The source of where you got most of the information is also important so we can go back and update or fill in details in the future. Any other information you can collect that has a collumn in the spreadsheet is wonderfut—but if you’re in a hurry just grab what’s necessary.
+
 ## Scrapers
 
 We used web scrapers hosted on morph.io to collect a lot of raw data to start this collection:
