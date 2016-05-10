@@ -1945,48 +1945,168 @@
       "name": "Wayne Sachs"
     },
     {
+      "email": "ppisasale@ipswich.qld.gov.au",
       "id": "ipswich_city_council/paul_pisasale",
-      "name": "Paul Pisasale"
+      "image": "http://www.ipswich.qld.gov.au/__data/assets/image/0015/9222/paulp_08.jpg",
+      "name": "Paul Pisasale",
+      "images": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/__data/assets/image/0015/9222/paulp_08.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/mayor"
+        }
+      ]
     },
     {
+      "email": "aantoniolli@ipswich.qld.gov.au",
       "id": "ipswich_city_council/andrew_antoniolli",
-      "name": "Andrew Antoniolli"
+      "image": "http://www.ipswich.qld.gov.au/__data/assets/image/0008/7559/crandrewantoniolli.jpg",
+      "name": "Andrew Antoniolli",
+      "images": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/__data/assets/image/0008/7559/crandrewantoniolli.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/division_7"
+        }
+      ]
     },
     {
-      "id": "ipswich_city_council/bruce_casos",
-      "name": "Bruce Casos"
+      "email": "ksilver@ipswich.qld.gov.au",
+      "id": "ipswich_city_council/kerry_silver",
+      "name": "Kerry Silver",
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/division_3"
+        }
+      ]
     },
     {
+      "email": "cpisasale@ipswich.qld.gov.au",
       "id": "ipswich_city_council/charlie_pisasale",
-      "name": "Charlie Pisasale"
+      "image": "http://www.ipswich.qld.gov.au/__data/assets/image/0018/8073/cr-charlie-pisasale.jpg",
+      "name": "Charlie Pisasale",
+      "images": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/__data/assets/image/0018/8073/cr-charlie-pisasale.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/division_8"
+        }
+      ]
     },
     {
+      "email": "cbromage@ipswich.qld.gov.au",
       "id": "ipswich_city_council/cheryl_anne_bromage",
-      "name": "Cheryl Anne Bromage"
+      "image": "http://www.ipswich.qld.gov.au/__data/assets/image/0018/60435/Clr-Bromage-Pic.jpg",
+      "name": "Cheryl Anne Bromage",
+      "images": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/__data/assets/image/0018/60435/Clr-Bromage-Pic.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/division_6"
+        }
+      ]
     },
     {
+      "email": "dpahlke@ipswich.qld.gov.au",
       "id": "ipswich_city_council/david_pahlke",
-      "name": "David Pahlke"
+      "image": "http://www.ipswich.qld.gov.au/__data/assets/image/0008/9764/cr_david_pahlke-_portrait.jpg",
+      "name": "David Pahlke",
+      "images": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/__data/assets/image/0008/9764/cr_david_pahlke-_portrait.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/division_10"
+        }
+      ]
     },
     {
+      "email": "dmorrison@ipswich.qld.gov.au",
       "id": "ipswich_city_council/david_morrison",
-      "name": "David Morrison"
+      "image": "http://www.ipswich.qld.gov.au/__data/assets/image/0012/10542/cr_david_morrison2.jpg",
+      "name": "David Morrison",
+      "images": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/__data/assets/image/0012/10542/cr_david_morrison2.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/division_1"
+        }
+      ]
     },
     {
-      "id": "ipswich_city_council/heather_morrow",
-      "name": "Heather Morrow"
+      "email": "kstoneman@ipswich.qld.gov.au",
+      "id": "ipswich_city_council/kylie_stoneman",
+      "image": "http://www.ipswich.qld.gov.au/__data/assets/image/0003/61338/kylie-stoneman.jpg",
+      "name": "Kylie Stoneman",
+      "images": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/__data/assets/image/0003/61338/kylie-stoneman.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/division_4"
+        }
+      ]
     },
     {
+      "email": "ptully@ipswich.qld.gov.au",
       "id": "ipswich_city_council/paul_tully",
-      "name": "Paul Tully"
+      "image": "http://www.ipswich.qld.gov.au/__data/assets/image/0008/9692/cr_paul_tully.jpg",
+      "name": "Paul Tully",
+      "images": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/__data/assets/image/0008/9692/cr_paul_tully.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/division_2"
+        }
+      ]
     },
     {
+      "email": "SIreland@ipswich.qld.gov.au",
       "id": "ipswich_city_council/sheila_ireland",
-      "name": "Sheila Ireland"
+      "image": "http://www.ipswich.qld.gov.au/__data/assets/image/0016/8431/cr_sheila_ireland.jpg",
+      "name": "Sheila Ireland",
+      "images": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/__data/assets/image/0016/8431/cr_sheila_ireland.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/division_9"
+        }
+      ]
     },
     {
-      "id": "ipswich_city_council/victor_attwood",
-      "name": "Victor Attwood"
+      "email": "wwendt@ipswich.qld.gov.au",
+      "id": "ipswich_city_council/wayne_wendt",
+      "name": "Wayne Wendt",
+      "sources": [
+        {
+          "url": "http://www.ipswich.qld.gov.au/about_council/mayor_and_councillors/division_5"
+        }
+      ]
     },
     {
       "id": "lockyer_valley_regional_council/steve_jones",
@@ -5799,7 +5919,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "ipswich_city_council/bruce_casos",
+      "person_id": "ipswich_city_council/kerry_silver",
       "organization_id": "legislature/ipswich_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -5829,7 +5949,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "ipswich_city_council/heather_morrow",
+      "person_id": "ipswich_city_council/kylie_stoneman",
       "organization_id": "legislature/ipswich_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -5847,7 +5967,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "ipswich_city_council/victor_attwood",
+      "person_id": "ipswich_city_council/wayne_wendt",
       "organization_id": "legislature/ipswich_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
