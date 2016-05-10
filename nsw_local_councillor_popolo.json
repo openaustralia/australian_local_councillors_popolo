@@ -3521,44 +3521,164 @@
       "name": "Michael Zaiter"
     },
     {
-      "id": "the_council_of_the_shire_of_hornsby/steve_russell",
-      "name": "Steve Russell"
+      "email": "srussell@hornsby.nsw.gov.au",
+      "id": "hornsby_shire_council/steve_russell",
+      "image": "http://www.hornsby.nsw.gov.au/__data/assets/image/0005/43646/Steve-Russell.jpg",
+      "name": "Steve Russell",
+      "images": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/__data/assets/image/0005/43646/Steve-Russell.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "the_council_of_the_shire_of_hornsby/nathan_tilbury",
-      "name": "Nathan Tilbury"
+      "email": "ntilbury@hornsby.nsw.gov.au",
+      "id": "hornsby_shire_council/nathan_tilbury",
+      "image": "http://www.hornsby.nsw.gov.au/__data/assets/image/0003/43644/Nathan-Tilbury.jpg",
+      "name": "Nathan Tilbury",
+      "images": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/__data/assets/image/0003/43644/Nathan-Tilbury.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "the_council_of_the_shire_of_hornsby/antony_anisse",
-      "name": "Antony Anisse"
+      "email": "aanisse@hornsby.nsw.gov.au",
+      "id": "hornsby_shire_council/antony_anisse",
+      "image": "http://www.hornsby.nsw.gov.au/__data/assets/image/0006/43638/Anthony-Anisse.jpg",
+      "name": "Antony Anisse",
+      "images": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/__data/assets/image/0006/43638/Anthony-Anisse.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "the_council_of_the_shire_of_hornsby/bernadette_azizi",
-      "name": "Bernadette Azizi"
+      "email": "bazizi@hornsby.nsw.gov.au",
+      "id": "hornsby_shire_council/bernadette_azizi",
+      "image": "http://www.hornsby.nsw.gov.au/__data/assets/image/0007/43639/Bernadette-Azizi.jpg",
+      "name": "Bernadette Azizi",
+      "images": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/__data/assets/image/0007/43639/Bernadette-Azizi.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "the_council_of_the_shire_of_hornsby/nick_berman",
-      "name": "Nick Berman"
+      "email": "nberman@hornsby.nsw.gov.au",
+      "id": "hornsby_shire_council/nick_berman",
+      "image": "http://www.hornsby.nsw.gov.au/__data/assets/image/0009/43974/Nick-Berman.jpg",
+      "name": "Nick Berman",
+      "images": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/__data/assets/image/0009/43974/Nick-Berman.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "the_council_of_the_shire_of_hornsby/robert_browne",
-      "name": "Robert Browne"
+      "email": "rbrowne@hornsby.nsw.gov.au",
+      "id": "hornsby_shire_council/robert_browne",
+      "image": "http://www.hornsby.nsw.gov.au/__data/assets/image/0004/43645/Robert-Browne.jpg",
+      "name": "Robert Browne",
+      "images": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/__data/assets/image/0004/43645/Robert-Browne.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "the_council_of_the_shire_of_hornsby/jerome_cox",
-      "name": "Jerome Cox"
+      "email": "jcox@hornsby.nsw.gov.au",
+      "id": "hornsby_shire_council/jerome_cox",
+      "image": "http://www.hornsby.nsw.gov.au/__data/assets/image/0018/43641/Jerome-Cox.jpg",
+      "name": "Jerome Cox",
+      "images": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/__data/assets/image/0018/43641/Jerome-Cox.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "the_council_of_the_shire_of_hornsby/michael_gallagher",
-      "name": "Michael Gallagher"
+      "email": "mgallagher@hornsby.nsw.gov.au",
+      "id": "hornsby_shire_council/michael_gallagher",
+      "image": "http://www.hornsby.nsw.gov.au/__data/assets/image/0020/43643/Mick-Gallagher.jpg",
+      "name": "Michael Gallagher",
+      "images": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/__data/assets/image/0020/43643/Mick-Gallagher.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "the_council_of_the_shire_of_hornsby/michael_hutchence",
-      "name": "Michael Hutchence"
+      "email": "mhutchence@hornsby.nsw.gov.au",
+      "id": "hornsby_shire_council/michael_hutchence",
+      "image": "http://www.hornsby.nsw.gov.au/__data/assets/image/0019/43642/Michael-Hutchence.jpg",
+      "name": "Michael Hutchence",
+      "images": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/__data/assets/image/0019/43642/Michael-Hutchence.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
-      "id": "the_council_of_the_shire_of_hornsby/gurdeep_singh",
-      "name": "Gurdeep Singh"
+      "email": "gsingh@hornsby.nsw.gov.au",
+      "id": "hornsby_shire_council/gurdeep_singh",
+      "image": "http://www.hornsby.nsw.gov.au/__data/assets/image/0017/43640/Gurdeep-Singh.jpg",
+      "name": "Gurdeep Singh",
+      "images": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/__data/assets/image/0017/43640/Gurdeep-Singh.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hornsby.nsw.gov.au/council/about-council/councillors"
+        }
+      ]
     },
     {
       "id": "the_council_of_the_municipality_of_hunters_hill/richard_quinn",
@@ -8606,8 +8726,8 @@
       "classification": "legislature"
     },
     {
-      "id": "legislature/the_council_of_the_shire_of_hornsby",
-      "name": "The Council of the Shire of Hornsby",
+      "id": "legislature/hornsby_shire_council",
+      "name": "Hornsby Shire Council",
       "classification": "legislature"
     },
     {
@@ -12857,64 +12977,64 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/steve_russell",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/steve_russell",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/nathan_tilbury",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/nathan_tilbury",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/antony_anisse",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/antony_anisse",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/bernadette_azizi",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/bernadette_azizi",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/nick_berman",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/nick_berman",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/robert_browne",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/robert_browne",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/jerome_cox",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/jerome_cox",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/michael_gallagher",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/michael_gallagher",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/michael_hutchence",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/michael_hutchence",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/gurdeep_singh",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/gurdeep_singh",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "the_council_of_the_municipality_of_hunters_hill/richard_quinn",
@@ -18596,13 +18716,13 @@
       "role": "Mayor"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/steve_russell",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/steve_russell",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "Mayor"
     },
     {
-      "person_id": "the_council_of_the_shire_of_hornsby/nathan_tilbury",
-      "organization_id": "legislature/the_council_of_the_shire_of_hornsby",
+      "person_id": "hornsby_shire_council/michael_hutchence",
+      "organization_id": "legislature/hornsby_shire_council",
       "role": "deputy mayor"
     },
     {
