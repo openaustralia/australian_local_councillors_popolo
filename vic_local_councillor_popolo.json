@@ -2263,48 +2263,180 @@
       "name": "Pat Toohey"
     },
     {
+      "email": "sbolton@moreland.vic.gov.au",
       "id": "moreland_city_council/sue_bolton",
-      "name": "Sue Bolton"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-sue-bolton-headshot.jpg",
+      "name": "Sue Bolton",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-sue-bolton-headshot.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-east-ward-councillors/cr-sue-bolton-north-east-ward/"
+        }
+      ]
     },
     {
+      "email": "mteti@moreland.vic.gov.au",
       "id": "moreland_city_council/michael_teti",
-      "name": "Michael Teti"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-michael-teti-headshot.jpg",
+      "name": "Michael Teti",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-michael-teti-headshot.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-east-ward-councillors/cr-michael-teti-north-east-ward/"
+        }
+      ]
     },
     {
+      "email": "lthompson@moreland.vic.gov.au",
       "id": "moreland_city_council/lenka_thompson",
-      "name": "Lenka Thompson"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-lenka-thompson-headshot.jpg",
+      "name": "Lenka Thompson",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-lenka-thompson-headshot.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-east-ward-councillors/cr-lenka-thompson-north-east-ward/"
+        }
+      ]
     },
     {
+      "email": "rthompson@moreland.vic.gov.au",
       "id": "moreland_city_council/rob_thompson",
-      "name": "Rob Thompson"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-rob-thompson-headshot.jpg",
+      "name": "Rob Thompson",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-rob-thompson-headshot.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-east-ward-councillors/cr-rob-thompson-north-east-ward/"
+        }
+      ]
     },
     {
+      "email": "hdavidson@moreland.vic.gov.au",
       "id": "moreland_city_council/helen_davidson",
-      "name": "Helen Davidson"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-helen-davidson-headshot.jpg",
+      "name": "Helen Davidson",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-helen-davidson-headshot.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-west-ward-councillors/cr-helen-davidson-north-west-ward/"
+        }
+      ]
     },
     {
+      "email": "lgillies@moreland.vic.gov.au",
       "id": "moreland_city_council/lita_gillies",
-      "name": "Lita Gillies"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-lita-gillies-2015.jpg",
+      "name": "Lita Gillies",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-lita-gillies-2015.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-west-ward-councillors/cr-lita-gillies-north-west-ward/"
+        }
+      ]
     },
     {
+      "email": "jkavanagh@moreland.vic.gov.au",
       "id": "moreland_city_council/john_kavanagh",
-      "name": "John Kavanagh"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-john-kavanagh-headshot.jpg",
+      "name": "John Kavanagh",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-john-kavanagh-headshot.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-west-ward-councillors/cr-john-kavanagh-north-west-ward/"
+        }
+      ]
     },
     {
+      "email": "oyildiz@moreland.vic.gov.au",
       "id": "moreland_city_council/oscar_yildiz",
-      "name": "Oscar Yildiz"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-oscar-yildiz-headshot.jpg",
+      "name": "Oscar Yildiz",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-oscar-yildiz-headshot.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-west-ward-councillors/cr-oscar-yildiz-north-west-ward/"
+        }
+      ]
     },
     {
+      "email": "mhopper@moreland.vic.gov.au",
       "id": "moreland_city_council/meghan_hopper",
-      "name": "Meghan Hopper"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-meghan-hopper-2014.jpg",
+      "name": "Meghan Hopper",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-meghan-hopper-2014.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/south-ward-councillors/cr-meghan-hopper-south-ward/"
+        }
+      ]
     },
     {
+      "email": "sratnam@moreland.vic.gov.au",
       "id": "moreland_city_council/samantha_ratnam",
-      "name": "Samantha Ratnam"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/mayor-ratnam-6.jpg",
+      "name": "Samantha Ratnam",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/mayor-ratnam-6.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/south-ward-councillors/cr-samantha-ratnam-south-ward/"
+        }
+      ]
     },
     {
+      "email": "ltapinos@moreland.vic.gov.au",
       "id": "moreland_city_council/lambros_tapinos",
-      "name": "Lambros Tapinos"
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-lambros-tapinos-headshot.jpg",
+      "name": "Lambros Tapinos",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-lambros-tapinos-headshot.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/south-ward-councillors/cr-lambros-tapinos-south-ward/"
+        }
+      ]
     },
     {
       "id": "mornington_peninsula_shire_council/bev_colomb",
@@ -3542,6 +3674,21 @@
     {
       "id": "party/morgan_elliott_-_prosperity_for_liveability",
       "name": "Morgan Elliott - Prosperity for Liveability",
+      "classification": "party"
+    },
+    {
+      "id": "party/socialist_alliance",
+      "name": "Socialist Alliance",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_greens",
+      "name": "Australian Greens",
+      "classification": "party"
+    },
+    {
+      "id": "party/dlp",
+      "name": "DLP",
       "classification": "party"
     }
   ],
@@ -6020,67 +6167,67 @@
       "person_id": "moreland_city_council/sue_bolton",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/socialist_alliance"
     },
     {
       "person_id": "moreland_city_council/michael_teti",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "moreland_city_council/lenka_thompson",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_greens"
     },
     {
       "person_id": "moreland_city_council/rob_thompson",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "moreland_city_council/helen_davidson",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "moreland_city_council/lita_gillies",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "moreland_city_council/john_kavanagh",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/dlp"
     },
     {
       "person_id": "moreland_city_council/oscar_yildiz",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "moreland_city_council/meghan_hopper",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "moreland_city_council/samantha_ratnam",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_greens"
     },
     {
       "person_id": "moreland_city_council/lambros_tapinos",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "mornington_peninsula_shire_council/bev_colomb",
