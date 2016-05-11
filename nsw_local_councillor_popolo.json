@@ -3605,52 +3605,196 @@
       "name": "Roger McGrath"
     },
     {
+      "email": "clr.jefferies@thehills.nsw.gov.au",
       "id": "the_hills_shire_council/andrew_jefferies",
-      "name": "Andrew Jefferies"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-andrew-jefferies.jpg",
+      "name": "Andrew Jefferies",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-andrew-jefferies.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Clr-Andrew-Jefferies"
+        }
+      ]
     },
     {
-      "id": "the_hills_shire_council/dr_michelle_byrne",
-      "name": "Dr Michelle Byrne"
+      "email": "clr.byrne@thehills.nsw.gov.au",
+      "id": "the_hills_shire_council/michelle_byrne",
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/mayor_michelle_byrne.jpg",
+      "name": "Michelle Byrne",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/mayor_michelle_byrne.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Mayor-Clr-Dr-Michelle-Byrne"
+        }
+      ]
     },
     {
+      "email": "clr.gangemi@thehills.nsw.gov.au",
       "id": "the_hills_shire_council/peter_gangemi",
-      "name": "Peter Gangemi"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-peter-gangemi.jpg",
+      "name": "Peter Gangemi",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-peter-gangemi.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Clr-Dr-Peter-Gangemi"
+        }
+      ]
     },
     {
+      "email": "raymondharty@comet-training.com.au",
       "id": "the_hills_shire_council/raymond_harty",
-      "name": "Raymond Harty"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-raymond-harty-oam.jpg",
+      "name": "Raymond Harty",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-raymond-harty-oam.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Clr-Raymond-Harty-OAM"
+        }
+      ]
     },
     {
+      "email": "clr.haselden@thehills.nsw.gov.au",
       "id": "the_hills_shire_council/alan_haselden",
-      "name": "Alan Haselden"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-alan-haselden.jpg",
+      "name": "Alan Haselden",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-alan-haselden.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Clr-Alan-Haselden"
+        }
+      ]
     },
     {
+      "email": "clr.tonyhay@thehills.nsw.gov.au",
       "id": "the_hills_shire_council/tony_hay",
-      "name": "Tony Hay"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-tony-hay-oam.jpg",
+      "name": "Tony Hay",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-tony-hay-oam.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Clr-Tony-Hay-OAM"
+        }
+      ]
     },
     {
+      "email": "clr.keane@thehills.nsw.gov.au",
       "id": "the_hills_shire_council/yvonne_keane",
-      "name": "Yvonne Keane"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-yvonne-keane.jpg",
+      "name": "Yvonne Keane",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-yvonne-keane.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Deputy-Mayor-Clr-Yvonne-Keane"
+        }
+      ]
     },
     {
+      "email": "clr.lowe@thehills.nsw.gov.au",
       "id": "the_hills_shire_council/jeff_lowe",
-      "name": "Jeff Lowe"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-dr-jeff-lowe.jpg",
+      "name": "Jeff Lowe",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-dr-jeff-lowe.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Clr-Dr-Jeff-Lowe"
+        }
+      ]
     },
     {
+      "email": "clr.preston@bigpond.com",
       "id": "the_hills_shire_council/robyn_preston",
-      "name": "Robyn Preston"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-robyn-preston.jpg",
+      "name": "Robyn Preston",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-robyn-preston.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Clr-Robyn-Preston"
+        }
+      ]
     },
     {
+      "email": "clr.taylor@thehills.nsw.gov.au",
       "id": "the_hills_shire_council/mark_taylor",
-      "name": "Mark Taylor"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-mark-taylor.jpg",
+      "name": "Mark Taylor",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-mark-taylor.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Clr-Mark-Taylor-MP"
+        }
+      ]
     },
     {
+      "email": "clr.thomas@thehills.nsw.gov.au",
       "id": "the_hills_shire_council/mike_thomas",
-      "name": "Mike Thomas"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-mike-thomas.jpg",
+      "name": "Mike Thomas",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-mike-thomas.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Clr-Mike-Thomas"
+        }
+      ]
     },
     {
+      "email": "clr.tracey@thehills.nsw.gov.au",
       "id": "the_hills_shire_council/ryan_tracey",
-      "name": "Ryan Tracey"
+      "image": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-ryan-tracey-east-ward.jpg",
+      "name": "Ryan Tracey",
+      "images": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/files/assets/public/council/councillors/clr-ryan-tracey-east-ward.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.thehills.nsw.gov.au/Council/Mayor-Councillors/Clr-Ryan-Tracey"
+        }
+      ]
     },
     {
       "id": "holroyd_city_council/greg_cummings",
@@ -13285,73 +13429,73 @@
       "person_id": "the_hills_shire_council/andrew_jefferies",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
-      "person_id": "the_hills_shire_council/dr_michelle_byrne",
+      "person_id": "the_hills_shire_council/michelle_byrne",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "the_hills_shire_council/peter_gangemi",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "the_hills_shire_council/raymond_harty",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "the_hills_shire_council/alan_haselden",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "the_hills_shire_council/tony_hay",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "the_hills_shire_council/yvonne_keane",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "the_hills_shire_council/jeff_lowe",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "the_hills_shire_council/robyn_preston",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "the_hills_shire_council/mark_taylor",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "the_hills_shire_council/mike_thomas",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_party_of_australia"
     },
     {
       "person_id": "the_hills_shire_council/ryan_tracey",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "holroyd_city_council/greg_cummings",
@@ -19155,19 +19299,14 @@
       "role": "deputy mayor"
     },
     {
-      "person_id": "the_hills_shire_council/andrew_jefferies",
+      "person_id": "the_hills_shire_council/michelle_byrne",
       "organization_id": "legislature/the_hills_shire_council",
       "role": "Mayor"
     },
     {
-      "person_id": "the_hills_shire_council/dr_michelle_byrne",
+      "person_id": "the_hills_shire_council/yvonne_keane",
       "organization_id": "legislature/the_hills_shire_council",
-      "role": "deputy mayor"
-    },
-    {
-      "person_id": "holroyd_city_council/greg_cummings",
-      "organization_id": "legislature/holroyd_city_council",
-      "role": "Mayor"
+      "role": "Deputy Major"
     },
     {
       "person_id": "hornsby_shire_council/steve_russell",
