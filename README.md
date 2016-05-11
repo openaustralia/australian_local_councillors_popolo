@@ -29,6 +29,8 @@ The best place to find information about local councillors is the council’s of
 
 **The minimum information we need is the councillor’s email**. Next important is the url for an image of them. Next important is their political party. The source of where you got most of the information is also important so we can go back and update or fill in details in the future. Any other information you can collect that has a collumn in the spreadsheet is wonderfut—but if you’re in a hurry just grab what’s necessary.
 
+**Remove titles, prefixes and memberships from names, such as “Dr” or “OAM”**. For example “Dr Louise Hill OAM” should be listed as “Louise Hill”.
+
 ## Scrapers
 
 We used web scrapers hosted on morph.io to collect a lot of raw data to start this collection:
