@@ -31,9 +31,14 @@ The best place to find information about local councillors is the council’s of
 
 **Remove titles, prefixes and memberships from names, such as “Dr” or “OAM”**. For example “Dr Louise Hill OAM” should be listed as “Louise Hill”.
 
-## Scrapers
+## Scrapers for the original raw data
 
-We used web scrapers hosted on morph.io to collect a lot of raw data to start this collection:
+We used the following web scrapers hosted on morph.io to collect a lot of raw data to start this collection.
+We don’t recommend rerunning these and merging their output into the Google sheet.
+If you do this, then generate the JSON and try to merge the changes in here, the diff will be extremely hard to read.
+This makes checking the data very difficult.
+It’s preferable to update the councillors one-by-one, unless you can come up with a way to produce useful git diffs,
+or split the results into individual Pull Requests for the changes to each authority’s councillors.
 
 * South Australian Councillors https://morph.io/equivalentideas/sa_lg_councillors
 * NSW Councillors https://morph.io/equivalentideas/nsw_lg_directory_councillors
