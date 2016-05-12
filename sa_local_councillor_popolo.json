@@ -1,110 +1,194 @@
 {
   "persons": [
     {
+      "email": "a.moran@adelaidecitycouncil.com",
       "id": "adelaide_city_council/anne_moran",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-moran.jpg",
       "name": "Anne Moran",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-moran.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=17511"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/anne-moran"
         }
       ]
     },
     {
+      "email": "Lordmayor@adelaidecitycouncil.com",
       "id": "adelaide_city_council/martin_haese",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-lordmayor-martin-haese.jpg",
       "name": "Martin Haese",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-lordmayor-martin-haese.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=17523"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/martin-haese"
         }
       ]
     },
     {
+      "email": "m.hender@adelaidecitycouncil.com",
       "id": "adelaide_city_council/megan_hender",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-hender.jpg",
       "name": "Megan Hender",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-hender.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=17542"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/megan-hender"
         }
       ]
     },
     {
+      "email": "a.moran@adelaidecitycouncil.com",
       "id": "adelaide_city_council/houssam_abiad",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-moran.jpg",
       "name": "Houssam Abiad",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-moran.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=17543"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/houssam-abiad"
         }
       ]
     },
     {
+      "email": "n.malani@adelaidecitycouncil.com",
       "id": "adelaide_city_council/natasha_malani",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-natasha-malani.jpg",
       "name": "Natasha Malani",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-natasha-malani.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=17546"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/natasha-malani"
         }
       ]
     },
     {
+      "email": "s.clearihan@adelaidecitycouncil.com",
       "id": "adelaide_city_council/sue_clearihan",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-clearihan.jpg",
       "name": "Sue Clearihan",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-clearihan.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=19122"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/susan-clearihan"
         }
       ]
     },
     {
+      "email": "a.antic@adelaidecitycouncil.com",
       "id": "adelaide_city_council/alex_antic",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-antic.jpg",
       "name": "Alex Antic",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-antic.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=19123"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/alex-antic"
         }
       ]
     },
     {
+      "email": "p.corbell@adelaidecitycouncil.com",
       "id": "adelaide_city_council/priscilla_corbell",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-corbell.jpg",
       "name": "Priscilla Corbell",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-corbell.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=19124"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/priscilla-corbell"
         }
       ]
     },
     {
+      "email": "p.martin@adelaidecitycouncil.com",
       "id": "adelaide_city_council/phil_martin",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-martin.jpg",
       "name": "Phil Martin",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-martin.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=19125"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/philip-martin"
         }
       ]
     },
     {
-      "id": "adelaide_city_council/robert_simms",
-      "name": "Robert Simms",
+      "email": "s.verschoor@adelaidecitycouncil.com",
+      "id": "adelaide_city_council/sandy_verschoor",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/Sandy_headshot.jpg",
+      "name": "Sandy Verschoor",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/Sandy_headshot.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=19126"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/sandy-verschoor"
         }
       ]
     },
     {
+      "email": "d.slama@adelaidecitycouncil.com",
       "id": "adelaide_city_council/dave_slama",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-slama.jpg",
       "name": "Dave Slama",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-slama.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=19127"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/david-slama"
         }
       ]
     },
     {
-      "id": "adelaide_city_council/alexander_wilkinson",
-      "name": "Alexander Wilkinson",
+      "email": "s.wilkinson@adelaidecitycouncil.com",
+      "id": "adelaide_city_council/sandy_wilkinson",
+      "image": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-wilkinson.jpg",
+      "name": "Sandy Wilkinson",
+      "images": [
+        {
+          "url": "http://www.adelaidecitycouncil.com/assets/images/acc-adelaide-councillor-wilkinson.jpg"
+        }
+      ],
       "sources": [
         {
-          "url": "http://dcw.adelaidecitycouncil.com/page.aspx?c=19128"
+          "url": "http://www.adelaidecitycouncil.com/your-council/role-of-council/councillors/sandy-wilkinson"
         }
       ]
     },
@@ -8089,7 +8173,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "adelaide_city_council/robert_simms",
+      "person_id": "adelaide_city_council/sandy_verschoor",
       "organization_id": "legislature/adelaide_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -8101,7 +8185,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "adelaide_city_council/alexander_wilkinson",
+      "person_id": "adelaide_city_council/sandy_wilkinson",
       "organization_id": "legislature/adelaide_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -12466,6 +12550,11 @@
       "person_id": "adelaide_city_council/martin_haese",
       "organization_id": "legislature/adelaide_city_council",
       "role": "Lord Mayor"
+    },
+    {
+      "person_id": "adelaide_city_council/megan_hender",
+      "organization_id": "legislature/adelaide_city_council",
+      "role": "Deputy Lord Mayor"
     },
     {
       "person_id": "adelaide_hills_council/bill_spragg",
