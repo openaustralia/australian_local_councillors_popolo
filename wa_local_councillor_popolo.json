@@ -5272,79 +5272,259 @@
       "name": "Lee Phillips Hemsley"
     },
     {
+      "email": "mick.wainwright@swan.wa.gov.au",
       "gender": "male",
       "id": "swan_city_council/michael_albert_wainwright",
-      "name": "Michael Albert Wainwright"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/mick_800px.jpg",
+      "name": "Michael Albert Wainwright",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/mick_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-Mick-Wainwright-Mayor"
+        }
+      ]
     },
     {
+      "email": "david.lucas@swan.wa.gov.au",
       "gender": "male",
       "id": "swan_city_council/david_charles_lucas",
-      "name": "David Charles Lucas"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/davidlucas_800px.jpg",
+      "name": "David Charles Lucas",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/davidlucas_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-David-Lucas-Deputy-Mayor"
+        }
+      ]
     },
     {
+      "email": "dr.pnfardig@bigpond.com",
       "gender": "male",
       "id": "swan_city_council/david_russell_fardig",
-      "name": "David Russell Fardig"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/davidfardig_800px.jpg",
+      "name": "David Russell Färdig",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/davidfardig_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Councillors-Wards/Meet-your-Councillors/Cr-David-F%C3%A4rdig"
+        }
+      ]
     },
     {
+      "email": "mariah@bigpond.net.au",
       "gender": "female",
       "id": "swan_city_council/maria_haynes",
-      "name": "Maria Haynes"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/maria_800px.jpg",
+      "name": "Maria Haynes",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/maria_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-Maria-Haynes"
+        }
+      ]
     },
     {
+      "email": "mycouncillor@ballajura.net.au",
       "gender": "male",
       "id": "swan_city_council/john_francis_mcnamara",
-      "name": "John Francis Mcnamara"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/johnmac_800px.jpg",
+      "name": "John Francis Mcnamara",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/johnmac_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-John-McNamara"
+        }
+      ]
     },
     {
+      "email": "adam.kovalevs@swan.wa.gov.au",
       "gender": "male",
       "id": "swan_city_council/adam_michael_kovalevs",
-      "name": "Adam Michael Kovalevs"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/adam_800px.jpg",
+      "name": "Adam Michael Kovalevs",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/adam_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-Adam-Kovalevs"
+        }
+      ]
     },
     {
+      "email": "david.mcdonnell@swan.wa.gov.au",
       "gender": "male",
       "id": "swan_city_council/david_troy_mcdonnell",
-      "name": "David Troy Mcdonnell"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/davidmcdonnell_800px.jpg",
+      "name": "David Troy Mcdonnell",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/davidmcdonnell_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-David-McDonnell"
+        }
+      ]
     },
     {
+      "email": "cate.mccullough@swan.wa.gov.au",
       "gender": "female",
       "id": "swan_city_council/catherine_ann_mccullough",
-      "name": "Catherine Ann McCullough"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/cate_800px.jpg",
+      "name": "Catherine Ann McCullough",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/cate_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-Cate-McCullough"
+        }
+      ]
     },
     {
+      "email": "patty.williams@swan.wa.gov.au",
       "gender": "female",
       "id": "swan_city_council/patricia_ann_williams",
-      "name": "Patricia Ann Williams"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/patty_800px.jpg",
+      "name": "Patricia Ann Williams",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/patty_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Councillors-Wards/Meet-your-Councillors/Cr-Patty-Williams"
+        }
+      ]
     },
     {
+      "email": "ian.johnson@swan.wa.gov.au",
       "gender": "male",
       "id": "swan_city_council/ian_peter_johnson",
-      "name": "Ian Peter Johnson"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/ian_800px.jpg",
+      "name": "Ian Peter Johnson",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/ian_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-Ian-Johnson"
+        }
+      ]
     },
     {
+      "email": "daniel.parasiliti@swan.wa.gov.au",
       "gender": "male",
       "id": "swan_city_council/daniel_sebastian_parasiliti",
-      "name": "Daniel Sebastian Parasiliti"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/daniel_800px.jpg",
+      "name": "Daniel Sebastian Parasiliti",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/daniel_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-Daniel-Parasiliti"
+        }
+      ]
     },
     {
+      "email": "mark_d_elliott@live.com",
       "gender": "male",
       "id": "swan_city_council/mark_david_elliott",
-      "name": "Mark David Elliott"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/markelliott_800px.jpg",
+      "name": "Mark David Elliott",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/markelliott_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-Mark-Elliott"
+        }
+      ]
     },
     {
+      "email": "kevin.bbailey@bigpond.com",
       "gender": "male",
       "id": "swan_city_council/kevin_bryce_bailey",
-      "name": "Kevin Bryce Bailey"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/kevin_800px.jpg",
+      "name": "Kevin Bryce Bailey",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/kevin_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Council/Meet-your-Councillors/Cr-Kevin-Bailey"
+        }
+      ]
     },
     {
+      "email": "council@rodhenderson.com.au",
       "gender": "male",
       "id": "swan_city_council/rodney_keith_henderson",
-      "name": "Rodney Keith Henderson"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/rod_800px.jpg",
+      "name": "Rodney Keith Henderson",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/rod_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Councillors-Wards/Meet-your-Councillors/Cr-Rod-Henderson"
+        }
+      ]
     },
     {
+      "email": "darryl.trease@swan.wa.gov.au",
       "gender": "male",
       "id": "swan_city_council/darryl_raymond_trease",
-      "name": "Darryl Raymond Trease"
+      "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/darryl_800px.jpg",
+      "name": "Darryl Raymond Trease",
+      "images": [
+        {
+          "url": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/darryl_800px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.swan.wa.gov.au/City-Council/Councillors-Wards/Meet-your-Councillors/Cr-Darryl-Trease"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -14483,6 +14663,16 @@
       "person_id": "subiaco_city_council/heather_henderson",
       "organization_id": "legislature/subiaco_city_council",
       "role": "Mayor"
+    },
+    {
+      "person_id": "swan_city_council/michael_albert_wainwright",
+      "organization_id": "legislature/swan_city_council",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "swan_city_council/david_charles_lucas",
+      "organization_id": "legislature/swan_city_council",
+      "role": "Deputy Mayor"
     },
     {
       "person_id": "victoria_park_town_council/trevor_stephen_vaughan",
