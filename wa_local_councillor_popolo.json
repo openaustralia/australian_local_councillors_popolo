@@ -2181,69 +2181,225 @@
       "name": "Turk Shales"
     },
     {
+      "email": "mayor@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/bradley_william_pettitt",
-      "name": "Bradley William Pettitt"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1678_MayorBradPettitt.jpg",
+      "name": "Bradley William Pettitt",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1678_MayorBradPettitt.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "joshw@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/joshua_hamilton_wilson",
-      "name": "Joshua Hamilton Wilson"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1977_JoshWilson.jpg",
+      "name": "Joshua Hamilton Wilson",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1977_JoshWilson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "davidhu@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/david_andrew_hume",
-      "name": "David Andrew Hume"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/DaveH-jpeg.JPG",
+      "name": "David Andrew Hume",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/DaveH-jpeg.JPG"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "simonn@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/simon_alan_naber",
-      "name": "Simon Alan Naber"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1888_SimonNaber.jpg",
+      "name": "Simon Alan Naber",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1888_SimonNaber.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "rachelp@fremantle.wa.gov.au",
       "gender": "female",
       "id": "fremantle_city_council/rachel_gwen_pemberton",
-      "name": "Rachel Gwen Pemberton"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1859_RachelPemberton.jpg",
+      "name": "Rachel Gwen Pemberton",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1859_RachelPemberton.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "davec@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/david_paul_coggin",
-      "name": "David Paul Coggin"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1946_DaveCoggin.jpg",
+      "name": "David Paul Coggin",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1946_DaveCoggin.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "ingridw@fremantle.wa.gov.au",
       "gender": "female",
       "id": "fremantle_city_council/ingrid_joy_waltham",
-      "name": "Ingrid Joy Waltham"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1823_IngridWaltham.jpg",
+      "name": "Ingrid Joy Waltham",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1823_IngridWaltham.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "jeffm@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/jeffery_james_mcdonald",
-      "name": "Jeffery James McDonald"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/Jeff%20McDonald.jpg",
+      "name": "Jeffery James McDonald",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/Jeff%20McDonald.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "samw@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/samuel_darcey_wainwright",
-      "name": "Samuel Darcey Wainwright"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1798_SamWainwright.jpg",
+      "name": "Samuel Darcey Wainwright",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1798_SamWainwright.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "brynj@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/bryn_jones",
-      "name": "Bryn Jones"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/Bryn%20Jone.jpg",
+      "name": "Bryn Jones",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/Bryn%20Jone.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "dougy@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/douglas_harry_thompson",
-      "name": "Douglas Harry Thompson"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A2001_DougThompson.jpg",
+      "name": "Douglas Harry Thompson",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A2001_DougThompson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "jonst@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/jon_robert_strachan",
-      "name": "Jon Robert Strachan"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1830_JonStrachan.jpg",
+      "name": "Jon Robert Strachan",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1830_JonStrachan.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
+      "email": "andrews@fremantle.wa.gov.au",
       "gender": "male",
       "id": "fremantle_city_council/andrew_charles_sullivan",
-      "name": "Andrew Charles Sullivan"
+      "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1738_AndrewSullivan.jpg",
+      "name": "Andrew Charles Sullivan",
+      "images": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1738_AndrewSullivan.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.fremantle.wa.gov.au/council/mayor-and-councillors"
+        }
+      ]
     },
     {
       "gender": "male",
