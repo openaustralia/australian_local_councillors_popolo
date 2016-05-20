@@ -5,7 +5,7 @@ require "csv_to_popolo"
 
 # This is the CSV export URL for our Google Sheet we're using to crownsource data:
 # https://docs.google.com/spreadsheets/d/1_Ea99E5yXnHXW62o_lRo9khdbccEWfttpy2tyuYZYOE/
-GOOGLE_SHEETS_EXPORT_BASE_URL = "https://docs.google.com/feeds/download/spreadsheets/Export?key=1_Ea99E5yXnHXW62o_lRo9khdbccEWfttpy2tyuYZYOE&exportFormat=csv&gid="
+GOOGLE_SHEETS_EXPORT_BASE_URL = "https://docs.google.com/spreadsheets/d/1_Ea99E5yXnHXW62o_lRo9khdbccEWfttpy2tyuYZYOE/export?format=csv&gid="
 
 # GID represents the sheet ID in the workbook. You can get it by looking at the URL
 def google_sheets_export_url(gid)
