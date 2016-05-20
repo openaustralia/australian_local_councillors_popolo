@@ -45,3 +45,4 @@ or split the results into individual Pull Requests for the changes to each autho
 * Victorian Councillors https://morph.io/equivalentideas/vic_lg_directory_councillors
 * Queensland Councillors https://morph.io/openaustralia/qld_lg_directory_councillors
 * Tasmania https://morph.io/openaustralia/tas_lg_directory_councillors
+* Western Australia https://morph.io/openaustralia/west_australian_local_councillors
