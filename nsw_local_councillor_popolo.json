@@ -2069,64 +2069,244 @@
       "name": "Greg Warren"
     },
     {
+      "email": "paul.lake@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/paul_lake",
-      "name": "Paul Lake"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crpaullake.jpg",
+      "name": "Paul Lake",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crpaullake.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "ted.rowell@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/ted_rowell",
-      "name": "Ted Rowell"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crtedrowell.jpg",
+      "name": "Ted Rowell",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crtedrowell.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "fred.borg@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/fred_borg",
-      "name": "Fred Borg"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crfredborg.jpg",
+      "name": "Fred Borg",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crfredborg.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "george.brticevic@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/george_brticevic",
-      "name": "George Brticevic"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crgeorgebrticevic.jpg",
+      "name": "George Brticevic",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crgeorgebrticevic.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "anoulack.chanthivong@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/anoulack_chanthivong",
-      "name": "Anoulack Chanthivong"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_cranoulackchanthivong.jpg",
+      "name": "Anoulack Chanthivong",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_cranoulackchanthivong.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "crsuedobson@hotmail.com",
       "id": "campbelltown_city_council/susan_dobson",
-      "name": "Susan Dobson"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crsuedobson.jpg",
+      "name": "Susan Dobson",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crsuedobson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "wal.glynn@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/wal_glynn",
-      "name": "Wal Glynn"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crwalglynn.jpg",
+      "name": "Wal Glynn",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crwalglynn.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "george.greiss@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/george_greiss",
-      "name": "George Greiss"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crgeorgegreiss.jpg",
+      "name": "George Greiss",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crgeorgegreiss.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "paul.hawker@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/paul_hawker",
-      "name": "Paul Hawker"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_mayorcrpaulhawker.jpg",
+      "name": "Paul Hawker",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_mayorcrpaulhawker.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "rudi.kolkman@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/rudi_kolkman",
-      "name": "Rudi Kolkman"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crrudikolkman.jpg",
+      "name": "Rudi Kolkman",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crrudikolkman.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "darcy.lound@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/darcy_lound",
-      "name": "Darcy Lound"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crdarcylound.jpg",
+      "name": "Darcy Lound",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crdarcylound.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "alana.matheson@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/alana_matheson",
-      "name": "Alana Matheson"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_deputymayorcralanamatheson.jpg",
+      "name": "Alana Matheson",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_deputymayorcralanamatheson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "clinton.mead@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/clinton_mead",
-      "name": "Clinton Mead"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crclintonmead.jpg",
+      "name": "Clinton Mead",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crclintonmead.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "meg.oates@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/margaret_oates",
-      "name": "Margaret Oates"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crmegoates.jpg",
+      "name": "Margaret Oates",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crmegoates.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "bob.thompson@campbelltown.nsw.gov.au",
       "id": "campbelltown_city_council/robert_thompson",
-      "name": "Robert Thompson"
+      "image": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crbobthompson.jpg",
+      "name": "Robert Thompson",
+      "images": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/files/assets/public/image-resources/councilcouncillors/councillors/ccc_crbobthompson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.campbelltown.nsw.gov.au/RCC/CouncilandCouncillors/Councillors"
+        }
+      ]
     },
     {
       "id": "city_of_canada_bay/angelo_tsirekas",
@@ -10318,6 +10498,26 @@
       "classification": "party"
     },
     {
+      "id": "party/community_first",
+      "name": "Community First",
+      "classification": "party"
+    },
+    {
+      "id": "party/community_development_“environment”_save_campbelltown_koalas",
+      "name": "Community Development “Environment” Save Campbelltown Koalas",
+      "classification": "party"
+    },
+    {
+      "id": "party/liberal_democrats",
+      "name": "Liberal Democrats",
+      "classification": "party"
+    },
+    {
+      "id": "party/bob_thompson’s_independent_team",
+      "name": "Bob Thompson’s Independent Team",
+      "classification": "party"
+    },
+    {
       "id": "party/clean_sweep_independents",
       "name": "Clean Sweep Independents",
       "classification": "party"
@@ -11852,13 +12052,13 @@
       "person_id": "campbelltown_city_council/paul_lake",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/community_first"
     },
     {
       "person_id": "campbelltown_city_council/ted_rowell",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "campbelltown_city_council/fred_borg",
@@ -11870,73 +12070,73 @@
       "person_id": "campbelltown_city_council/george_brticevic",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "campbelltown_city_council/anoulack_chanthivong",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "campbelltown_city_council/susan_dobson",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/community_development_“environment”_save_campbelltown_koalas"
     },
     {
       "person_id": "campbelltown_city_council/wal_glynn",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "campbelltown_city_council/george_greiss",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "campbelltown_city_council/paul_hawker",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "campbelltown_city_council/rudi_kolkman",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "campbelltown_city_council/darcy_lound",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "campbelltown_city_council/alana_matheson",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "campbelltown_city_council/clinton_mead",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal_democrats"
     },
     {
       "person_id": "campbelltown_city_council/margaret_oates",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "campbelltown_city_council/robert_thompson",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/bob_thompson’s_independent_team"
     },
     {
       "person_id": "city_of_canada_bay/angelo_tsirekas",
@@ -19442,14 +19642,14 @@
       "role": "deputy mayor"
     },
     {
-      "person_id": "campbelltown_city_council/paul_lake",
+      "person_id": "campbelltown_city_council/paul_hawker",
       "organization_id": "legislature/campbelltown_city_council",
       "role": "Mayor"
     },
     {
-      "person_id": "campbelltown_city_council/ted_rowell",
+      "person_id": "campbelltown_city_council/alana_matheson",
       "organization_id": "legislature/campbelltown_city_council",
-      "role": "deputy mayor"
+      "role": "Deputy Mayor"
     },
     {
       "person_id": "city_of_canada_bay/angelo_tsirekas",
