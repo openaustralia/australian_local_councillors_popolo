@@ -6110,48 +6110,164 @@
       ]
     },
     {
+      "email": "mayor@northsydney.nsw.gov.au",
       "id": "north_sydney_council/jilly_gibson",
-      "name": "Jilly Gibson"
+      "image": "http://www.northsydney.nsw.gov.au/files/c5d3aece-af9c-42ea-8d85-a142008a56ad/jilly_gibson_2013.jpg",
+      "name": "Jilly Gibson",
+      "images": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/files/c5d3aece-af9c-42ea-8d85-a142008a56ad/jilly_gibson_2013.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/Council_Meetings/Our_Organisation/Mayor_Councillors/Mayor_Jilly_Gibson"
+        }
+      ]
     },
     {
+      "email": "cr.stephen.barbour@northsydney.nsw.gov.au",
       "id": "north_sydney_council/stephen_barbour",
-      "name": "Stephen Barbour"
+      "image": "http://www.northsydney.nsw.gov.au/files/fcfb2ee0-624d-4fca-955a-a0ee00f19472/08_StephenBarbour_W1.jpg",
+      "name": "Stephen Barbour",
+      "images": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/files/fcfb2ee0-624d-4fca-955a-a0ee00f19472/08_StephenBarbour_W1.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/Council_Meetings/Our_Organisation/Mayor_Councillors/Cremorne_Ward_Cr_Stephen_Barbour"
+        }
+      ]
     },
     {
+      "email": "cr.zoe.baker@northsydney.nsw.gov.au",
       "id": "north_sydney_council/zoe_baker",
-      "name": "Zoe Baker"
+      "image": "http://www.northsydney.nsw.gov.au/files/8e2f0519-0914-4dda-8c63-a0ee00f1952d/ZoeBaker620_2012.jpg",
+      "name": "Zoe Baker",
+      "images": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/files/8e2f0519-0914-4dda-8c63-a0ee00f1952d/ZoeBaker620_2012.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/Council_Meetings/Our_Organisation/Mayor_Councillors/Wollstonecraft_Ward_Cr_Zo%C3%AB_Baker"
+        }
+      ]
     },
     {
+      "email": "cr.maryann.beregi@northsydney.nsw.gov.au",
       "id": "north_sydney_council/maryann_beregi",
-      "name": "Maryann Beregi"
+      "image": "http://www.northsydney.nsw.gov.au/files/720f6b6a-7980-4e57-bdb8-a0da00fc1257/MaryAnn_Beregi_2012.jpg",
+      "name": "Maryann Beregi",
+      "images": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/files/720f6b6a-7980-4e57-bdb8-a0da00fc1257/MaryAnn_Beregi_2012.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/Council_Meetings/Our_Organisation/Mayor_Councillors/Tunks_Ward_Cr_MaryAnn_Beregi"
+        }
+      ]
     },
     {
+      "email": "cr.virginia.bevan@northsydney.nsw.gov.au",
       "id": "north_sydney_council/virginia_bevan",
-      "name": "Virginia Bevan"
+      "image": "http://www.northsydney.nsw.gov.au/files/dd2dba47-9f4c-4d53-8661-a15b00efdac8/2012_Virginia_Bevan.jpg",
+      "name": "Virginia Bevan",
+      "images": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/files/dd2dba47-9f4c-4d53-8661-a15b00efdac8/2012_Virginia_Bevan.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/Council_Meetings/Our_Organisation/Mayor_Councillors/Victoria_Ward_Cr_Virginia_Bevan"
+        }
+      ]
     },
     {
-      "id": "north_sydney_council/sarah_burke",
-      "name": "Sarah Burke"
-    },
-    {
-      "id": "north_sydney_council/tony_carr",
-      "name": "Tony Carr"
-    },
-    {
-      "id": "north_sydney_council/melissa_clare",
-      "name": "Melissa Clare"
-    },
-    {
-      "id": "north_sydney_council/veronique_marchandeau",
-      "name": "Veronique Marchandeau"
-    },
-    {
-      "id": "north_sydney_council/jeff_morris",
-      "name": "Jeff Morris"
-    },
-    {
+      "email": "cr.michel.reymond@northsydney.nsw.gov.au",
       "id": "north_sydney_council/michel_reymond",
-      "name": "Michel Reymond"
+      "image": "http://www.northsydney.nsw.gov.au/files/7db5a0a9-d630-4cb1-b7ff-a0ee00f19265/08_MichelReymond_W.jpg",
+      "name": "Michel Reymond",
+      "images": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/files/7db5a0a9-d630-4cb1-b7ff-a0ee00f19265/08_MichelReymond_W.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/Council_Meetings/Our_Organisation/Mayor_Councillors/Victoria_Ward_Cr_Michel_Reymond"
+        }
+      ]
+    },
+    {
+      "email": "cr.tony.carr@northsydney.nsw.gov.au",
+      "id": "north_sydney_council/tony_carr",
+      "image": "http://www.northsydney.nsw.gov.au/files/7f8c852e-3d7c-4ae4-80f0-a0ee00f194c6/Tony_Carr_2012.jpg",
+      "name": "Tony Carr",
+      "images": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/files/7f8c852e-3d7c-4ae4-80f0-a0ee00f194c6/Tony_Carr_2012.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/Council_Meetings/Our_Organisation/Mayor_Councillors/Victoria_Ward_Cr_Tony_Carr"
+        }
+      ]
+    },
+    {
+      "email": "cr.melissa.clare@northsydney.nsw.gov.au",
+      "id": "north_sydney_council/melissa_clare",
+      "image": "http://www.northsydney.nsw.gov.au/files/9533fd2b-b3e4-4270-806e-a1780115364c/melissa_clare_2012.jpg",
+      "name": "Melissa Clare",
+      "images": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/files/9533fd2b-b3e4-4270-806e-a1780115364c/melissa_clare_2012.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/Council_Meetings/Our_Organisation/Mayor_Councillors/Wollstonecraft_Ward_Cr_Melissa_Clare"
+        }
+      ]
+    },
+    {
+      "email": "marver2060@gmail.com",
+      "id": "north_sydney_council/veronique_marchandeau",
+      "image": "http://www.northsydney.nsw.gov.au/files/6c384c7f-7e3b-46c0-9f49-a10200ee9f74/VeroniqueMarchandeau_W.jpg",
+      "name": "Veronique Marchandeau",
+      "images": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/files/6c384c7f-7e3b-46c0-9f49-a10200ee9f74/VeroniqueMarchandeau_W.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/Council_Meetings/Our_Organisation/Mayor_Councillors/Tunks_Ward_Cr_V%C3%A9ronique_Marchandeau"
+        }
+      ]
+    },
+    {
+      "email": "cr.jeff.morris@northsydney.nsw.gov.au",
+      "id": "north_sydney_council/jeff_morris",
+      "image": "http://www.northsydney.nsw.gov.au/files/378eba2c-cb14-44ff-aacc-a12600ed2cbb/JeffMorris_2012.jpg",
+      "name": "Jeff Morris",
+      "images": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/files/378eba2c-cb14-44ff-aacc-a12600ed2cbb/JeffMorris_2012.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.northsydney.nsw.gov.au/Council_Meetings/Our_Organisation/Mayor_Councillors/Deputy_Mayor_Wollstonecraft_Ward_Cr_Jeff_Morris"
+        }
+      ]
     },
     {
       "id": "oberon_council/john_mcmahon",
@@ -16036,7 +16152,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "north_sydney_council/sarah_burke",
+      "person_id": "north_sydney_council/michel_reymond",
       "organization_id": "legislature/north_sydney_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -16061,12 +16177,6 @@
     },
     {
       "person_id": "north_sydney_council/jeff_morris",
-      "organization_id": "legislature/north_sydney_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "north_sydney_council/michel_reymond",
       "organization_id": "legislature/north_sydney_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -20077,7 +20187,7 @@
       "role": "Mayor"
     },
     {
-      "person_id": "north_sydney_council/stephen_barbour",
+      "person_id": "north_sydney_council/jeff_morris",
       "organization_id": "legislature/north_sydney_council",
       "role": "deputy mayor"
     },
