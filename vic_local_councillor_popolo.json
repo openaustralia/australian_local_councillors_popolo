@@ -643,48 +643,180 @@
       "name": "Leticia Wilmot"
     },
     {
+      "email": "gablett@casey.vic.gov.au",
       "id": "casey_city_council/geoff_ablett",
-      "name": "Geoff Ablett"
+      "image": "http://www.casey.vic.gov.au/files/4d01b05a-8273-4f81-8bd4-a23c00d25b7d/Cr-Geoff-Ablett.jpg",
+      "name": "Geoff Ablett",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/4d01b05a-8273-4f81-8bd4-a23c00d25b7d/Cr-Geoff-Ablett.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "mmorland@casey.vic.gov.au",
       "id": "casey_city_council/mick_morland",
-      "name": "Mick Morland"
+      "image": "http://www.casey.vic.gov.au/files/7db8e1f5-712a-449d-873a-a23c00d27524/mick-morland.jpg",
+      "name": "Mick Morland",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/7db8e1f5-712a-449d-873a-a23c00d27524/mick-morland.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "sserey@casey.vic.gov.au",
       "id": "casey_city_council/susan_serey",
-      "name": "Susan Serey"
+      "image": "http://www.casey.vic.gov.au/files/2b48e454-0af5-4c3e-abf9-a23c00d27639/susan-serey.jpg",
+      "name": "Susan Serey",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/2b48e454-0af5-4c3e-abf9-a23c00d27639/susan-serey.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "rcrestani@casey.vic.gov.au",
       "id": "casey_city_council/rosalie_crestani",
-      "name": "Rosalie Crestani"
+      "image": "http://www.casey.vic.gov.au/files/b27a25d6-bf2f-4224-bdb0-a23c00d275ba/rosalie-crestani.jpg",
+      "name": "Rosalie Crestani",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/b27a25d6-bf2f-4224-bdb0-a23c00d275ba/rosalie-crestani.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "rkaplon@casey.vic.gov.au",
       "id": "casey_city_council/rafal_kaplon",
-      "name": "Rafal Kaplon"
+      "image": "http://www.casey.vic.gov.au/files/f692cd66-839e-4fa6-829a-a23c00d2756f/rafal-kaplon.jpg",
+      "name": "Rafal Kaplon",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/f692cd66-839e-4fa6-829a-a23c00d2756f/rafal-kaplon.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "growe@casey.vic.gov.au",
       "id": "casey_city_council/gary_rowe",
-      "name": "Gary Rowe"
+      "image": "http://www.casey.vic.gov.au/files/ce4ab768-67ab-4639-8cbe-a23c00d27477/gary-rowe.jpg",
+      "name": "Gary Rowe",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/ce4ab768-67ab-4639-8cbe-a23c00d27477/gary-rowe.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "astapledon@casey.vic.gov.au",
       "id": "casey_city_council/amanda_stapledon",
-      "name": "Amanda Stapledon"
+      "image": "http://www.casey.vic.gov.au/files/6714cc3a-7748-43b3-823b-a23c00d273e1/amanda-stapledon.jpg",
+      "name": "Amanda Stapledon",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/6714cc3a-7748-43b3-823b-a23c00d273e1/amanda-stapledon.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "drosario@casey.vic.gov.au",
       "id": "casey_city_council/damien_rosario",
-      "name": "Damien Rosario"
+      "image": "http://www.casey.vic.gov.au/files/a7f2458b-6cbb-4c2d-89d6-a23c00d2741e/damien-rosario.jpg",
+      "name": "Damien Rosario",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/a7f2458b-6cbb-4c2d-89d6-a23c00d2741e/damien-rosario.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "wsmith@casey.vic.gov.au",
       "id": "casey_city_council/wayne_smith",
-      "name": "Wayne Smith"
+      "image": "http://www.casey.vic.gov.au/files/f93b731e-755d-4fc4-9e9c-a39b00f62492/Cr-Wayne-Smith.jpg",
+      "name": "Wayne Smith",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/f93b731e-755d-4fc4-9e9c-a39b00f62492/Cr-Wayne-Smith.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "saziz@casey.vic.gov.au",
       "id": "casey_city_council/sam_aziz",
-      "name": "Sam Aziz"
+      "image": "http://www.casey.vic.gov.au/files/354471c5-44bc-4cc6-829b-a23c00d275f7/sam-aziz.jpg",
+      "name": "Sam Aziz",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/354471c5-44bc-4cc6-829b-a23c00d275f7/sam-aziz.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "lberkelmans@casey.vic.gov.au",
       "id": "casey_city_council/louise_berkelmans",
-      "name": "Louise Berkelmans"
+      "image": "http://www.casey.vic.gov.au/files/260da810-9487-4696-b65c-a23c00d274e7/louise-berkelmans.jpg",
+      "name": "Louise Berkelmans",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/260da810-9487-4696-b65c-a23c00d274e7/louise-berkelmans.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "id": "central_goldfields_shire_council/bob_henderson",
@@ -3755,6 +3887,11 @@
       "classification": "party"
     },
     {
+      "id": "party/rise_up_australia",
+      "name": "Rise Up Australia",
+      "classification": "party"
+    },
+    {
       "id": "party/team_doyle",
       "name": "Team Doyle",
       "classification": "party"
@@ -4385,67 +4522,67 @@
       "person_id": "casey_city_council/geoff_ablett",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "casey_city_council/mick_morland",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "casey_city_council/susan_serey",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "casey_city_council/rosalie_crestani",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/rise_up_australia"
     },
     {
       "person_id": "casey_city_council/rafal_kaplon",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "casey_city_council/gary_rowe",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "casey_city_council/amanda_stapledon",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "casey_city_council/damien_rosario",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "casey_city_council/wayne_smith",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "casey_city_council/sam_aziz",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "casey_city_council/louise_berkelmans",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "central_goldfields_shire_council/bob_henderson",
@@ -7592,9 +7729,14 @@
       "role": "mayor"
     },
     {
+      "person_id": "casey_city_council/wayne_smith",
+      "organization_id": "legislature/casey_city_council",
+      "role": "Deputy Mayor"
+    },
+    {
       "person_id": "casey_city_council/sam_aziz",
       "organization_id": "legislature/casey_city_council",
-      "role": "mayor"
+      "role": "Mayor"
     },
     {
       "person_id": "central_goldfields_shire_council/geoff_lovett",
