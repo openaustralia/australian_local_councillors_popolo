@@ -2470,7 +2470,8 @@
       "name": "Rick Brain"
     },
     {
-      "id": "pormpuraaw_aboriginal_shire_council/"
+      "id": "pormpuraaw_aboriginal_shire_council/richard_tarpencha",
+      "name": "Richard Tarpencha"
     },
     {
       "id": "pormpuraaw_aboriginal_shire_council/keith_barney",
@@ -6616,7 +6617,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "pormpuraaw_aboriginal_shire_council/",
+      "person_id": "pormpuraaw_aboriginal_shire_council/richard_tarpencha",
       "organization_id": "legislature/pormpuraaw_aboriginal_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -7880,7 +7881,7 @@
       "role": "mayor"
     },
     {
-      "person_id": "pormpuraaw_aboriginal_shire_council/",
+      "person_id": "pormpuraaw_aboriginal_shire_council/richard_tarpencha",
       "organization_id": "legislature/pormpuraaw_aboriginal_shire_council",
       "role": "mayor"
     },
