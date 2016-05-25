@@ -316,27 +316,57 @@
     {
       "email": "jason.bartels@bundaberg.qld.gov.au",
       "id": "bundaberg_regional_council/jason_bartels",
-      "name": "Jason Bartels"
+      "image": "http://www.bundaberg.qld.gov.au/files/images/councillors/Jason-Bartels.png",
+      "name": "Jason Bartels",
+      "images": [
+        {
+          "url": "http://www.bundaberg.qld.gov.au/files/images/councillors/Jason-Bartels.png"
+        }
+      ]
     },
     {
       "email": "bill.trevor@bundaberg.qld.gov.au",
       "id": "bundaberg_regional_council/william_(bill)_trevor",
-      "name": "William (Bill) Trevor"
+      "image": "http://www.bundaberg.qld.gov.au/files/images/councillors/Cr-Bill-Trevor.png",
+      "name": "William (Bill) Trevor",
+      "images": [
+        {
+          "url": "http://www.bundaberg.qld.gov.au/files/images/councillors/Cr-Bill-Trevor.png"
+        }
+      ]
     },
     {
       "email": "helen.blackburn@bundaberg.qld.gov.au",
       "id": "bundaberg_regional_council/helen_blackburn",
-      "name": "Helen Blackburn"
+      "image": "http://www.bundaberg.qld.gov.au/files/images/councillors/Cr-Helen-Blackburn.png",
+      "name": "Helen Blackburn",
+      "images": [
+        {
+          "url": "http://www.bundaberg.qld.gov.au/files/images/councillors/Cr-Helen-Blackburn.png"
+        }
+      ]
     },
     {
       "email": "scott.rowleson@bundaberg.qld.gov.au",
       "id": "bundaberg_regional_council/scott_rowleson",
-      "name": "Scott Rowleson"
+      "image": "http://www.bundaberg.qld.gov.au/files/images/councillors/Cr-Scott-Rowleson.png",
+      "name": "Scott Rowleson",
+      "images": [
+        {
+          "url": "http://www.bundaberg.qld.gov.au/files/images/councillors/Cr-Scott-Rowleson.png"
+        }
+      ]
     },
     {
       "email": "peter.heuser@bundaberg.qld.gov.au",
       "id": "bundaberg_regional_council/peter_heuser",
-      "name": "Peter Heuser"
+      "image": "http://www.bundaberg.qld.gov.au/files/images/councillors/Cr-Peter-Heuser.png",
+      "name": "Peter Heuser",
+      "images": [
+        {
+          "url": "http://www.bundaberg.qld.gov.au/files/images/councillors/Cr-Peter-Heuser.png"
+        }
+      ]
     },
     {
       "email": "david.batt@bundaberg.qld.gov.au",
