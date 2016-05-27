@@ -3411,40 +3411,148 @@
       "name": "Sam Gaylard"
     },
     {
+      "email": "CrMariaMcCarthy@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/maria_mccarthy",
-      "name": "Maria McCarthy"
+      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/maria-mccarthy-billanook-web.jpg?w=240",
+      "name": "Maria McCarthy",
+      "images": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/maria-mccarthy-billanook-web.jpg?w=240"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Maria-McCarthy"
+        }
+      ]
     },
     {
+      "email": "CrJasonCallanan@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/jason_callanan",
-      "name": "Jason Callanan"
+      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/jason-callanan-chandler_web.jpg?w=240",
+      "name": "Jason Callanan",
+      "images": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/jason-callanan-chandler_web.jpg?w=240"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Jason-Callanan-Mayor"
+        }
+      ]
     },
     {
+      "email": "CrAndrewWitlox@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/andy_witlox",
-      "name": "Andy Witlox"
+      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/andy-witlox-chirnside-web.jpg?w=240",
+      "name": "Andy Witlox",
+      "images": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/andy-witlox-chirnside-web.jpg?w=240"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Andrew-Witlox-Deputy-Mayor"
+        }
+      ]
     },
     {
+      "email": "CrMikeClarke@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/mike_clarke",
-      "name": "Mike Clarke"
+      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/mike-clarke.png?w=240",
+      "name": "Mike Clarke",
+      "images": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/mike-clarke.png?w=240"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Mike-Clarke"
+        }
+      ]
     },
     {
+      "email": "CrTerryAvery@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/terry_avery",
-      "name": "Terry Avery"
+      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/terry-avery-melba-web.jpg?w=240",
+      "name": "Terry Avery",
+      "images": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/terry-avery-melba-web.jpg?w=240"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/Lists/Councillors/Cr.-Terry-Avery"
+        }
+      ]
     },
     {
+      "email": "CrJimChild@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/jim_child",
-      "name": "Jim Child"
+      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/jim-child-oshannassy-web.jpg?w=240",
+      "name": "Jim Child",
+      "images": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/jim-child-oshannassy-web.jpg?w=240"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Jim-Child"
+        }
+      ]
     },
     {
+      "email": "CrFionaMcAllister@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/fiona_mcallister",
-      "name": "Fiona McAllister"
+      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/fiona-mcallister-ryrie-web.jpg?w=240",
+      "name": "Fiona McAllister",
+      "images": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/fiona-mcallister-ryrie-web.jpg?w=240"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/About-Council/Councillors-and-executive-team/Your-councillors"
+        }
+      ]
     },
     {
+      "email": "CrNoelCliff@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/noel_cliff",
-      "name": "Noel Cliff"
+      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/noel-cliff-streeton-web.jpg?w=240",
+      "name": "Noel Cliff",
+      "images": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/noel-cliff-streeton-web.jpg?w=240"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Noel-Cliff"
+        }
+      ]
     },
     {
+      "email": "CrLenCox@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/len_cox",
-      "name": "Len Cox"
+      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/len-cox-walling-web.jpg?w=240",
+      "name": "Len Cox",
+      "images": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/len-cox-walling-web.jpg?w=240"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Len-Cox"
+        }
+      ]
     },
     {
       "id": "yarriambiack_shire_council/terry_grange",
