@@ -2725,36 +2725,132 @@
       "name": "Peter Yench"
     },
     {
+      "email": "denise.knight@chcc.nsw.gov.au",
       "id": "coffs_harbour_city_council/denise_knight",
-      "name": "Denise Knight"
+      "image": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/Denise%20Knight%20red%20jacket.jpg",
+      "name": "Denise Knight",
+      "images": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/Denise%20Knight%20red%20jacket.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/Pages/councillors.aspx"
+        }
+      ]
     },
     {
+      "email": "sally.townley@chcc.nsw.gov.au",
       "id": "coffs_harbour_city_council/sally_townley",
-      "name": "Sally Townley"
+      "image": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/sally-townley.jpg",
+      "name": "Sally Townley",
+      "images": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/sally-townley.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/Pages/councillors.aspx"
+        }
+      ]
     },
     {
+      "email": "nan.cowling@chcc.nsw.gov.au",
       "id": "coffs_harbour_city_council/nan_cowling",
-      "name": "Nan Cowling"
+      "image": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/nan-cowling.jpg",
+      "name": "Nan Cowling",
+      "images": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/nan-cowling.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/Pages/councillors.aspx"
+        }
+      ]
     },
     {
+      "email": "rodney.degens@chcc.nsw.gov.au",
       "id": "coffs_harbour_city_council/rodney_degens",
-      "name": "Rodney Degens"
+      "image": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/rodney-degens.jpg",
+      "name": "Rodney Degens",
+      "images": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/rodney-degens.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/Pages/councillors.aspx"
+        }
+      ]
     },
     {
+      "email": "garry.innes@chcc.nsw.gov.au",
       "id": "coffs_harbour_city_council/garry_innes",
-      "name": "Garry Innes"
+      "image": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/garry-innes.jpg",
+      "name": "Garry Innes",
+      "images": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/garry-innes.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/Pages/councillors.aspx"
+        }
+      ]
     },
     {
-      "id": "coffs_harbour_city_council/bob_palmer",
-      "name": "Bob Palmer"
+      "email": "keith.rhoades@chcc.nsw.gov.au",
+      "id": "coffs_harbour_city_council/keith_rhoades",
+      "image": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/keith-rhoades.jpg",
+      "name": "Keith Rhoades",
+      "images": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/keith-rhoades.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/Pages/councillors.aspx"
+        }
+      ]
     },
     {
-      "id": "coffs_harbour_city_council/keith_rhoades_afsm",
-      "name": "Keith Rhoades AFSM"
-    },
-    {
+      "email": "mark.sultana@chcc.nsw.gov.au",
       "id": "coffs_harbour_city_council/mark_sultana",
-      "name": "Mark Sultana"
+      "image": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/mark-sultana.jpg",
+      "name": "Mark Sultana",
+      "images": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/mark-sultana.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/Pages/councillors.aspx"
+        }
+      ]
+    },
+    {
+      "email": "john.arkan@chcc.nsw.gov.au",
+      "id": "coffs_harbour_city_council/john_arkan",
+      "image": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/john-arkan.jpg",
+      "name": "John Arkin",
+      "images": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/PublishingImages/john-arkan.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coffsharbour.nsw.gov.au/coffs-and-council/running-council/Pages/councillors.aspx"
+        }
+      ]
     },
     {
       "id": "conargo_shire_council/norm_brennan",
@@ -12568,49 +12664,49 @@
       "person_id": "coffs_harbour_city_council/denise_knight",
       "organization_id": "legislature/coffs_harbour_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "coffs_harbour_city_council/sally_townley",
       "organization_id": "legislature/coffs_harbour_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "coffs_harbour_city_council/nan_cowling",
       "organization_id": "legislature/coffs_harbour_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "coffs_harbour_city_council/rodney_degens",
       "organization_id": "legislature/coffs_harbour_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coffs_harbour_city_council/garry_innes",
       "organization_id": "legislature/coffs_harbour_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
-      "person_id": "coffs_harbour_city_council/bob_palmer",
+      "person_id": "coffs_harbour_city_council/keith_rhoades",
       "organization_id": "legislature/coffs_harbour_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "coffs_harbour_city_council/keith_rhoades_afsm",
-      "organization_id": "legislature/coffs_harbour_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "coffs_harbour_city_council/mark_sultana",
       "organization_id": "legislature/coffs_harbour_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
+    },
+    {
+      "person_id": "coffs_harbour_city_council/john_arkan",
+      "organization_id": "legislature/coffs_harbour_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "conargo_shire_council/norm_brennan",
