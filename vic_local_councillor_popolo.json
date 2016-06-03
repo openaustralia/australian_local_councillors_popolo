@@ -2679,48 +2679,164 @@
       ]
     },
     {
+      "email": "colomb@mornpen.vic.gov.au",
       "id": "mornington_peninsula_shire_council/bev_colomb",
-      "name": "Bev Colomb"
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crbevcolomb200.jpg",
+      "name": "Bev Colomb",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crbevcolomb200.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors/Deputy-Mayor-Cr-Bev-Colomb-Briars-Ward"
+        }
+      ]
     },
     {
+      "email": "Andrew.Dixon@mornpen.vic.gov.au",
       "id": "mornington_peninsula_shire_council/andrew_dixon",
-      "name": "Andrew Dixon"
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crandrewdixon200.jpg",
+      "name": "Andrew Dixon",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crandrewdixon200.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors/Councillor-Andrew-Dixon-Briars-Ward"
+        }
+      ]
     },
     {
+      "email": "Anne.Shaw@mornpen.vic.gov.au",
       "id": "mornington_peninsula_shire_council/anne_shaw",
-      "name": "Anne Shaw"
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/cranneshaw200.jpg",
+      "name": "Anne Shaw",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/cranneshaw200.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors/Councillor-Anne-Shaw-Briars-Ward"
+        }
+      ]
     },
     {
+      "email": "David.Garnock@mornpen.vic.gov.au",
       "id": "mornington_peninsula_shire_council/david_garnock",
-      "name": "David Garnock"
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crdavidgarnock200.jpg",
+      "name": "David Garnock",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crdavidgarnock200.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors/Councillor-David-Garnock-Cerberus-Ward"
+        }
+      ]
     },
     {
+      "email": "Hugh.Fraser@mornpen.vic.gov.au",
       "id": "mornington_peninsula_shire_council/hugh_fraser",
-      "name": "Hugh Fraser"
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crhughfraser200.jpg",
+      "name": "Hugh Fraser",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crhughfraser200.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors/Councillor-Hugh-Fraser-Nepean-Ward"
+        }
+      ]
     },
     {
+      "email": "Rodgers@mornpen.vic.gov.au",
       "id": "mornington_peninsula_shire_council/tim_rodgers",
-      "name": "Tim Rodgers"
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crtimrodgers200.jpg",
+      "name": "Tim Rodgers",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crtimrodgers200.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors/Councillor-Tim-Rodgers-Nepean-Ward"
+        }
+      ]
     },
     {
+      "email": "timwood4redhill@gmail.com",
       "id": "mornington_peninsula_shire_council/tim_wood",
-      "name": "Tim Wood"
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crwoodnew.jpg",
+      "name": "Tim Wood",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crwoodnew.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors/Councillor-Tim-Wood-RFD-QC-Red-Hill-Ward"
+        }
+      ]
     },
     {
+      "email": "Antonella.Celi@mornpen.vic.gov.au",
       "id": "mornington_peninsula_shire_council/antonella_celi",
-      "name": "Antonella Celi"
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crantonellaceli200.jpg",
+      "name": "Antonella Celi",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crantonellaceli200.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors/Councillor-Antonella-Celi-Seawinds-Ward"
+        }
+      ]
     },
     {
+      "email": "David.Gibb@mornpen.vic.gov.au",
       "id": "mornington_peninsula_shire_council/david_gibb",
-      "name": "David Gibb"
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crdavidgibb200.jpg",
+      "name": "David Gibb",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crdavidgibb200.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors/Councillor-David-Gibb-Seawinds-Ward"
+        }
+      ]
     },
     {
+      "email": "Graham.Pittock@mornpen.vic.gov.au",
       "id": "mornington_peninsula_shire_council/graham_pittock",
-      "name": "Graham Pittock"
-    },
-    {
-      "id": "mornington_peninsula_shire_council/lynn_bowden",
-      "name": "Lynn Bowden"
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crgrahampittock200.jpg",
+      "name": "Graham Pittock",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-headshots/crgrahampittock200.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors/Mayor-Cr-Graham-Pittock-Seawinds-Ward"
+        }
+      ]
     },
     {
       "id": "mount_alexander_shire_council/anthony_cordy",
@@ -6643,12 +6759,6 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "mornington_peninsula_shire_council/lynn_bowden",
-      "organization_id": "legislature/mornington_peninsula_shire_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
       "person_id": "mount_alexander_shire_council/anthony_cordy",
       "organization_id": "legislature/mount_alexander_shire_council",
       "role": "councillor",
@@ -8042,9 +8152,14 @@
       "role": "mayor"
     },
     {
+      "person_id": "mornington_peninsula_shire_council/bev_colomb",
+      "organization_id": "legislature/mornington_peninsula_shire_council",
+      "role": "Deputy Mayor"
+    },
+    {
       "person_id": "mornington_peninsula_shire_council/graham_pittock",
       "organization_id": "legislature/mornington_peninsula_shire_council",
-      "role": "mayor"
+      "role": "Mayor"
     },
     {
       "person_id": "mount_alexander_shire_council/christine_henderson",
