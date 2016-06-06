@@ -4091,23 +4091,23 @@
       "classification": "party"
     },
     {
-      "id": "party/greens",
-      "name": "Greens",
-      "classification": "party"
-    },
-    {
       "id": "party/independent",
       "name": "Independent",
       "classification": "party"
     },
     {
-      "id": "party/labor",
-      "name": "Labor",
+      "id": "party/greens",
+      "name": "Greens",
       "classification": "party"
     },
     {
       "id": "party/liberal",
       "name": "Liberal",
+      "classification": "party"
+    },
+    {
+      "id": "party/labor",
+      "name": "Labor",
       "classification": "party"
     },
     {
@@ -4260,7 +4260,7 @@
       "person_id": "ballarat_city_council/glen_crompton",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "ballarat_city_council/belinda_coates",
@@ -4272,43 +4272,43 @@
       "person_id": "ballarat_city_council/samantha_mcintosh",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "ballarat_city_council/vicki_coltman",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "ballarat_city_council/amy_johnson",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "ballarat_city_council/john_philips",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "ballarat_city_council/des_hudson",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "ballarat_city_council/peter_innes",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "ballarat_city_council/jim_rinaldi",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "banyule_city_council/mark_di_pasquale",
