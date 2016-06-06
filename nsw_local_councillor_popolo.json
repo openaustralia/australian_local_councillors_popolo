@@ -2461,8 +2461,20 @@
       "name": "Ron Page"
     },
     {
+      "email": "Bob.Pynsent@cessnock.nsw.gov.au",
       "id": "cessnock_city_council/bob_pynsent",
-      "name": "Bob Pynsent"
+      "image": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_5.jpg",
+      "name": "Bob Pynsent",
+      "images": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/resources/image/Councillors/2012photos/Web_CCC_5.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cessnock.nsw.gov.au/council/mayor"
+        }
+      ]
     },
     {
       "email": "allan.stapleford@cessnock.nsw.gov.au",
@@ -12466,7 +12478,7 @@
       "person_id": "cessnock_city_council/bob_pynsent",
       "organization_id": "legislature/cessnock_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/country_labor"
     },
     {
       "person_id": "cessnock_city_council/allan_stapleford",
