@@ -195,7 +195,13 @@
     {
       "email": "astratford@ahc.sa.gov.au",
       "id": "adelaide_hills_council/andrew_stratford",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Andrew%20Stratford.jpg",
       "name": "Andrew Stratford",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Andrew%20Stratford.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=10804"
@@ -205,7 +211,13 @@
     {
       "email": "rnelson@ahc.sa.gov.au",
       "id": "adelaide_hills_council/ron_nelson",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Ron%20Nelson.jpg",
       "name": "Ron Nelson",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Ron%20Nelson.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=204"
@@ -215,7 +227,13 @@
     {
       "email": "bspragg@ahc.sa.gov.au",
       "id": "adelaide_hills_council/bill_spragg",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Mayor%20Bill%20Spragg.jpg",
       "name": "Bill Spragg",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Mayor%20Bill%20Spragg.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=207"
@@ -225,7 +243,13 @@
     {
       "email": "jkemp@ahc.sa.gov.au",
       "id": "adelaide_hills_council/john_kemp",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20John%20Kemp.jpg",
       "name": "John Kemp",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20John%20Kemp.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=209"
@@ -235,7 +259,13 @@
     {
       "email": "jcwisdom@ahc.sa.gov.au",
       "id": "adelaide_hills_council/jan-claire_wisdom",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/manoah-ward/141118%20Cr%20Jan-Claire%20Wisdom.jpg",
       "name": "Jan-Claire Wisdom",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/manoah-ward/141118%20Cr%20Jan-Claire%20Wisdom.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=8281"
@@ -245,7 +275,13 @@
     {
       "email": "lgreen@ahc.sa.gov.au",
       "id": "adelaide_hills_council/linda_green",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Linda%20Green.jpg",
       "name": "Linda Green",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Linda%20Green.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=8282"
@@ -255,7 +291,13 @@
     {
       "email": "mherrmann@ahc.sa.gov.au",
       "id": "adelaide_hills_council/malcolm_herrmann",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Malcolm%20Herrmann.jpg",
       "name": "Malcolm Herrmann",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Malcolm%20Herrmann.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=8283"
@@ -265,7 +307,13 @@
     {
       "email": "jloveday@ahc.sa.gov.au",
       "id": "adelaide_hills_council/jan_loveday",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141209%20Cr%20Jan%20Loveday.jpg",
       "name": "Jan Loveday",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141209%20Cr%20Jan%20Loveday.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=8285"
@@ -275,7 +323,13 @@
     {
       "email": "lvonow@ahc.sa.gov.au",
       "id": "adelaide_hills_council/lynton_vonow",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Lynton%20Vonow.jpg",
       "name": "Lynton Vonow",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Lynton%20Vonow.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=8287"
@@ -285,7 +339,13 @@
     {
       "email": "ibailey@ahc.sa.gov.au",
       "id": "adelaide_hills_council/ian_bailey",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Ian%20Bailey.jpg",
       "name": "Ian Bailey",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Ian%20Bailey.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=8304"
@@ -295,7 +355,13 @@
     {
       "email": "kboyd@ahc.sa.gov.au",
       "id": "adelaide_hills_council/kirrilee_boyd",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Kirrilee%20Boyd.jpg",
       "name": "Kirrilee Boyd",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Kirrilee%20Boyd.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=12639"
@@ -305,7 +371,13 @@
     {
       "email": "ndaniell@ahc.sa.gov.au",
       "id": "adelaide_hills_council/nathan_daniell",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Nathan%20Daniell.jpg",
       "name": "Nathan Daniell",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Nathan%20Daniell.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=12640"
@@ -315,7 +387,13 @@
     {
       "email": "vhall@ahc.sa.gov.au",
       "id": "adelaide_hills_council/val_hall",
+      "image": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Val%20Hall.jpg",
       "name": "Val Hall",
+      "images": [
+        {
+          "url": "http://www.ahc.sa.gov.au/ahc-council/PublishingImages/Council/council-members/Website%20Photos/141118%20Cr%20Val%20Hall.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://ahc.dcw.lga.sa.gov.au/page.aspx?c=12641"
