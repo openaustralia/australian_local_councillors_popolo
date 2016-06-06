@@ -11719,43 +11719,43 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "the_council_of_the_city_of_botany_bay/ben_keneally",
+      "person_id": "city_of_botany_bay/ben_keneally",
       "organization_id": "legislature/city_of_botany_bay",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "the_council_of_the_city_of_botany_bay/george_glinatsis",
+      "person_id": "city_of_botany_bay/george_glinatsis",
       "organization_id": "legislature/city_of_botany_bay",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "the_council_of_the_city_of_botany_bay/mark_castle",
+      "person_id": "city_of_botany_bay/mark_castle",
       "organization_id": "legislature/city_of_botany_bay",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "the_council_of_the_city_of_botany_bay/christina_curry",
+      "person_id": "city_of_botany_bay/christina_curry",
       "organization_id": "legislature/city_of_botany_bay",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "the_council_of_the_city_of_botany_bay/stan_kondilios",
+      "person_id": "city_of_botany_bay/stan_kondilios",
       "organization_id": "legislature/city_of_botany_bay",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "the_council_of_the_city_of_botany_bay/greg_mitchell",
+      "person_id": "city_of_botany_bay/greg_mitchell",
       "organization_id": "legislature/city_of_botany_bay",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "the_council_of_the_city_of_botany_bay/brian_troy",
+      "person_id": "city_of_botany_bay/brian_troy",
       "organization_id": "legislature/city_of_botany_bay",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -19670,12 +19670,12 @@
       "role": "deputy mayor"
     },
     {
-      "person_id": "the_council_of_the_city_of_botany_bay/ben_keneally",
+      "person_id": "city_of_botany_bay/ben_keneally",
       "organization_id": "legislature/city_of_botany_bay",
       "role": "Mayor"
     },
     {
-      "person_id": "the_council_of_the_city_of_botany_bay/george_glinatsis",
+      "person_id": "city_of_botany_bay/george_glinatsis",
       "organization_id": "legislature/city_of_botany_bay",
       "role": "deputy mayor"
     },
