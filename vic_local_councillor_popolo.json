@@ -7897,6 +7897,11 @@
       "role": "mayor"
     },
     {
+      "person_id": "ballarat_city_council/belinda_coates",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "Deputy Mayor"
+    },
+    {
       "person_id": "ballarat_city_council/des_hudson",
       "organization_id": "legislature/ballarat_city_council",
       "role": "mayor"
