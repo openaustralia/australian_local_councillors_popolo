@@ -3491,40 +3491,148 @@
       "name": "Peter Maynard"
     },
     {
+      "email": "Geoff.Barbour@yarracity.vic.gov.au",
       "id": "yarra_city_council/geoff_barbour",
-      "name": "Geoff Barbour"
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/GeoffBARBOUR[1].jpg",
+      "name": "Geoff Barbour",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/GeoffBARBOUR[1].jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/Cr-Geoff-Barbour-Mayor/"
+        }
+      ]
     },
     {
+      "email": "Stephen.Jolly@yarracity.vic.gov.au",
       "id": "yarra_city_council/stephen_jolly",
-      "name": "Stephen Jolly"
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/StephenJollyMay10[1].jpg",
+      "name": "Stephen Jolly",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/StephenJollyMay10[1].jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/Stephen-Jolly/"
+        }
+      ]
     },
     {
+      "email": "Amanda.Stone@yarracity.vic.gov.au",
       "id": "yarra_city_council/amanda_stone",
-      "name": "Amanda Stone"
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Amanda-Stone2012_1.jpg",
+      "name": "Amanda Stone",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Amanda-Stone2012_1.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/Amanda-Stone-/"
+        }
+      ]
     },
     {
+      "email": "Misha.Coleman@yarracity.vic.gov.au",
       "id": "yarra_city_council/misha_coleman",
-      "name": "Misha Coleman"
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Misha-Coleman.jpg",
+      "name": "Misha Coleman",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Misha-Coleman.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/cr-misha-coleman/"
+        }
+      ]
     },
     {
+      "email": "Simon.Huggins@yarracity.vic.gov.au",
       "id": "yarra_city_council/simon_huggins",
-      "name": "Simon Huggins"
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Simon-Huggins2012_3.jpg",
+      "name": "Simon Huggins",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Simon-Huggins2012_3.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/cr-simon-huggins/"
+        }
+      ]
     },
     {
+      "email": "phillip.vlahogiannis@yarracity.vic.gov.au",
       "id": "yarra_city_council/phillip_vlahogiannis",
-      "name": "Phillip Vlahogiannis"
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Phillip-Vlahogiannis2012_0.jpg",
+      "name": "Phillip Vlahogiannis",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Phillip-Vlahogiannis2012_0.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/cr-phillip-vlahogiannis/"
+        }
+      ]
     },
     {
+      "email": "mayor@yarracity.vic.gov.au",
       "id": "yarra_city_council/roberto_colanzi",
-      "name": "Roberto Colanzi"
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Roberto-Colanzi2012_7.jpg",
+      "name": "Roberto Colanzi",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Roberto-Colanzi2012_7.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/cr-roberto-colanzi/"
+        }
+      ]
     },
     {
+      "email": "Jackie.Fristacky@yarracity.vic.gov.au",
       "id": "yarra_city_council/jackie_fristacky",
-      "name": "Jackie Fristacky"
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/JackieFRISTACKY[1].jpg",
+      "name": "Jackie Fristacky",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/JackieFRISTACKY[1].jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/Jackie-Fristacky/"
+        }
+      ]
     },
     {
+      "email": "Sam.Gaylard@yarracity.vic.gov.au",
       "id": "yarra_city_council/sam_gaylard",
-      "name": "Sam Gaylard"
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/SamGAYLARD[1].jpg",
+      "name": "Sam Gaylard",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/SamGAYLARD[1].jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/Sam-Gaylard/"
+        }
+      ]
     },
     {
       "email": "CrMariaMcCarthy@yarraranges.vic.gov.au",
@@ -4158,6 +4266,16 @@
     {
       "id": "party/dlp",
       "name": "DLP",
+      "classification": "party"
+    },
+    {
+      "id": "party/australian_labor_party",
+      "name": "Australian Labor Party",
+      "classification": "party"
+    },
+    {
+      "id": "party/socialist_party",
+      "name": "Socialist Party",
       "classification": "party"
     }
   ],
@@ -7740,55 +7858,55 @@
       "person_id": "yarra_city_council/geoff_barbour",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "yarra_city_council/stephen_jolly",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/socialist_party"
     },
     {
       "person_id": "yarra_city_council/amanda_stone",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/victorian_greens"
     },
     {
       "person_id": "yarra_city_council/misha_coleman",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/victorian_greens"
     },
     {
       "person_id": "yarra_city_council/simon_huggins",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "yarra_city_council/phillip_vlahogiannis",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "yarra_city_council/roberto_colanzi",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/australian_labor_party"
     },
     {
       "person_id": "yarra_city_council/jackie_fristacky",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "yarra_city_council/sam_gaylard",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/victorian_greens"
     },
     {
       "person_id": "yarra_ranges_shire_council/maria_mccarthy",
