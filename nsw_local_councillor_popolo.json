@@ -7678,48 +7678,196 @@
       "name": "Andrew Tsounis"
     },
     {
+      "email": "bpickering@ryde.nsw.gov.au",
       "id": "city_of_ryde/bill_pickering",
-      "name": "Bill Pickering"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/clrpickering.jpg",
+      "name": "Bill Pickering",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/clrpickering.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "rmaggio@ryde.nsw.gov.au",
       "id": "city_of_ryde/roy_maggio",
-      "name": "Roy Maggio"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/roy-maggio.jpg",
+      "name": "Roy Maggio",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/roy-maggio.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "cchung@ryde.nsw.gov.au",
       "id": "city_of_ryde/craig_chung",
-      "name": "Craig Chung"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/craig-chung.jpg",
+      "name": "Craig Chung",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/craig-chung.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "artine@ryde.nsw.gov.au",
       "id": "city_of_ryde/artin_etmekdjian",
-      "name": "Artin Etmekdjian"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/artin-etmekdjian.jpg",
+      "name": "Artin Etmekdjian",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/artin-etmekdjian.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "mayor@ryde.nsw.gov.au",
       "id": "city_of_ryde/jerome_laxale",
-      "name": "Jerome Laxale"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/jerome-laxale.jpg",
+      "name": "Jerome Laxale",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/jerome-laxale.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "jli@ryde.nsw.gov.au",
       "id": "city_of_ryde/justin_li",
-      "name": "Justin Li"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/justin-li.jpg",
+      "name": "Justin Li",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/justin-li.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "dpendleton@ryde.nsw.gov.au",
       "id": "city_of_ryde/denise_pendleton",
-      "name": "Denise Pendleton"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/denise-pendleton.jpg",
+      "name": "Denise Pendleton",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/denise-pendleton.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "tperram@ryde.nsw.gov.au",
       "id": "city_of_ryde/terry_perram",
-      "name": "Terry Perram"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/terry-perram.jpg",
+      "name": "Terry Perram",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/terry-perram.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "salvestro-martin@ryde.nsw.gov.au",
       "id": "city_of_ryde/jeff_salvestro-martin",
-      "name": "Jeff Salvestro-Martin"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/jeff-salvestro-martin.jpg",
+      "name": "Jeff Salvestro-Martin",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/jeff-salvestro-martin.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "gsimon@ryde.nsw.gov.au",
       "id": "city_of_ryde/george_simon",
-      "name": "George Simon"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/george-simon.jpg",
+      "name": "George Simon",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/george-simon.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
+      "email": "sarkis@yedelian.com",
       "id": "city_of_ryde/sarkis_yedelian",
-      "name": "Sarkis Yedelian"
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/sarkis-yedelian.jpg",
+      "name": "Sarkis Yedelian",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/sarkis-yedelian.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
+    },
+    {
+      "email": "JStott@ryde.nsw.gov.au",
+      "id": "city_of_ryde/jane_stott",
+      "image": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/jane-stott.jpg",
+      "name": "Jane Stott",
+      "images": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/files/sharedassets/public/council/councillors/jane-stott.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ryde.nsw.gov.au/Council/Councillors/Councillors"
+        }
+      ]
     },
     {
       "id": "shellharbour_city_council/marianne_f_saliba",
@@ -17363,67 +17511,73 @@
       "person_id": "city_of_ryde/bill_pickering",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_ryde/roy_maggio",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_ryde/craig_chung",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_ryde/artin_etmekdjian",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_ryde/jerome_laxale",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "city_of_ryde/justin_li",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_ryde/denise_pendleton",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_ryde/terry_perram",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_ryde/jeff_salvestro-martin",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "city_of_ryde/george_simon",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "city_of_ryde/sarkis_yedelian",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
+    },
+    {
+      "person_id": "city_of_ryde/jane_stott",
+      "organization_id": "legislature/city_of_ryde",
+      "role": "councillor",
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "shellharbour_city_council/marianne_f_saliba",
@@ -20630,14 +20784,14 @@
       "role": "deputy mayor"
     },
     {
-      "person_id": "city_of_ryde/bill_pickering",
-      "organization_id": "legislature/city_of_ryde",
-      "role": "Mayor"
-    },
-    {
       "person_id": "city_of_ryde/roy_maggio",
       "organization_id": "legislature/city_of_ryde",
       "role": "deputy mayor"
+    },
+    {
+      "person_id": "city_of_ryde/jerome_laxale",
+      "organization_id": "legislature/city_of_ryde",
+      "role": "Mayor"
     },
     {
       "person_id": "shellharbour_city_council/marianne_f_saliba",
