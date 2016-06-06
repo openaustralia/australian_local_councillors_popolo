@@ -2822,7 +2822,13 @@
     {
       "email": "sreardon@salisbury.sa.gov.au",
       "id": "city_of_salisbury/shiralee_reardon",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_reardon.jpg",
       "name": "Shiralee Reardon",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_reardon.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=15808"
@@ -2832,7 +2838,13 @@
     {
       "email": "bgill@salisbury.sa.gov.au",
       "id": "city_of_salisbury/elizabeth_gill",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_gill.jpg",
       "name": "Elizabeth Gill",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_gill.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=15809"
@@ -2842,7 +2854,13 @@
     {
       "email": "dbalaza@salisbury.sa.gov.au",
       "id": "city_of_salisbury/david_balaza",
+      "image": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/councillors/deputy_mayor_david_balaza/23/cr_balaza.jpg",
       "name": "David Balaza",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/councillors/deputy_mayor_david_balaza/23/cr_balaza.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=15810"
@@ -2852,7 +2870,13 @@
     {
       "email": "jcaruso@salisbury.sa.gov.au",
       "id": "city_of_salisbury/giuseppe_caruso",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_jo_caruso.jpg",
       "name": "Giuseppe Caruso",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_jo_caruso.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=15811"
@@ -2862,7 +2886,13 @@
     {
       "email": "dpilkington@salisbury.sa.gov.au",
       "id": "city_of_salisbury/damien_pilkington",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_pilkington.jpg",
       "name": "Damien Pilkington",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_pilkington.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=15812"
@@ -2872,7 +2902,13 @@
     {
       "email": "lcaruso@salisbury.sa.gov.au",
       "id": "city_of_salisbury/linda_caruso",
+      "image": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/councillors/cr_linda_caruso/11/cr_linda_caruso.jpg",
       "name": "Linda Caruso",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/councillors/cr_linda_caruso/11/cr_linda_caruso.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=15814"
@@ -2882,7 +2918,13 @@
     {
       "email": "rzahra@salisbury.sa.gov.au",
       "id": "city_of_salisbury/riccardo_zahra",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_zahra.jpg",
       "name": "Riccardo Zahra",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_zahra.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=15816"
@@ -2892,7 +2934,13 @@
     {
       "email": "cbuchanan@salisbury.sa.gov.au",
       "id": "city_of_salisbury/chad_buchanan",
+      "image": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/councillors/cr_chad_buchanan_jp/11/cr_buchanan.jpg",
       "name": "Chad Buchanan",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/councillors/cr_chad_buchanan_jp/11/cr_buchanan.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=15819"
@@ -2902,7 +2950,13 @@
     {
       "email": "dproleta@salisbury.sa.gov.au",
       "id": "city_of_salisbury/donna_proleta",
+      "image": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/councillors/cr_donna_proleta/9/cr_proleta.jpg",
       "name": "Donna Proleta",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/councillors/cr_donna_proleta/9/cr_proleta.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=15820"
@@ -2912,7 +2966,13 @@
     {
       "email": "galdridge@salisbury.sa.gov.au",
       "id": "city_of_salisbury/gilian_aldridge",
+      "image": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/mayor_gillian_aldridge/15/new_gillianaldridge_sept_2015croppedforweb.jpg",
       "name": "Gilian Aldridge",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/mayor_gillian_aldridge/15/new_gillianaldridge_sept_2015croppedforweb.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=23810"
@@ -2922,7 +2982,13 @@
     {
       "email": "jwoodman@salisbury.sa.gov.au",
       "id": "city_of_salisbury/julie_woodman",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_woodman.jpg",
       "name": "Julie Woodman",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_woodman.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=24344"
@@ -2932,7 +2998,13 @@
     {
       "email": "sbedford@salisbury.sa.gov.au",
       "id": "city_of_salisbury/sean_bedford",
+      "image": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/councillors/cr_sean_bedford/9/cr_bedford.jpg",
       "name": "Sean Bedford",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/content/public/council/elected_members_and_wards/councillors/cr_sean_bedford/9/cr_bedford.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=24486"
@@ -2942,7 +3014,13 @@
     {
       "email": "bvermeer@salisbury.sa.gov.au",
       "id": "city_of_salisbury/brad_vermeer",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_vermeer.jpg",
       "name": "Brad Vermeer",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_vermeer.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=24489"
@@ -2952,7 +3030,13 @@
     {
       "email": "dbryant@salisbury.sa.gov.au",
       "id": "city_of_salisbury/david_bryant",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_bryant.jpg",
       "name": "David Bryant",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_bryant.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=26212"
@@ -2962,7 +3046,13 @@
     {
       "email": "swhite@salisbury.sa.gov.au",
       "id": "city_of_salisbury/steve_white",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_white.jpg",
       "name": "Steve White",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_white.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=26213"
@@ -2972,7 +3062,13 @@
     {
       "email": "greynolds@salisbury.sa.gov.au",
       "id": "city_of_salisbury/graham_reynolds",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_reynolds.jpg",
       "name": "Graham Reynolds",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_reynolds.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=26214"
@@ -2982,7 +3078,13 @@
     {
       "email": "rcook@salisbury.sa.gov.au",
       "id": "city_of_salisbury/robyn_cook",
+      "image": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_cook.jpg",
       "name": "Robyn Cook",
+      "images": [
+        {
+          "url": "http://www.salisbury.sa.gov.au/files/assets/public/images/elected_members/cr_cook.jpg"
+        }
+      ],
       "sources": [
         {
           "url": "http://dcw.salisbury.sa.gov.au/page.aspx?c=26215"
@@ -8193,6 +8295,26 @@
       "id": "party/unknown",
       "name": "unknown",
       "classification": "party"
+    },
+    {
+      "id": "party/greens",
+      "name": "Greens",
+      "classification": "party"
+    },
+    {
+      "id": "party/independent",
+      "name": "Independent",
+      "classification": "party"
+    },
+    {
+      "id": "party/liberal",
+      "name": "Liberal",
+      "classification": "party"
+    },
+    {
+      "id": "party/labor",
+      "name": "Labor",
+      "classification": "party"
     }
   ],
   "memberships": [
@@ -9616,103 +9738,103 @@
       "person_id": "city_of_salisbury/shiralee_reardon",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_salisbury/elizabeth_gill",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_salisbury/david_balaza",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_salisbury/giuseppe_caruso",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_salisbury/damien_pilkington",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_salisbury/linda_caruso",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_salisbury/riccardo_zahra",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "city_of_salisbury/chad_buchanan",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "city_of_salisbury/donna_proleta",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_salisbury/gilian_aldridge",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_salisbury/julie_woodman",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "city_of_salisbury/sean_bedford",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "city_of_salisbury/brad_vermeer",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_salisbury/david_bryant",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_salisbury/steve_white",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "city_of_salisbury/graham_reynolds",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "city_of_salisbury/robyn_cook",
       "organization_id": "legislature/city_of_salisbury",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "city_of_tea_tree_gully/kevin_knight",
