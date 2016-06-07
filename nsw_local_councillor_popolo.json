@@ -1149,36 +1149,84 @@
       ]
     },
     {
+      "email": "bernardc@berriganshire.nsw.gov.au",
       "id": "berrigan_shire_council/bernard_curtin",
-      "name": "Bernard Curtin"
+      "name": "Bernard Curtin",
+      "sources": [
+        {
+          "url": "http://www.berriganshire.nsw.gov.au/Council/YourCouncillors.aspx"
+        }
+      ]
     },
     {
+      "email": "brianh@berriganshire.nsw.gov.au",
       "id": "berrigan_shire_council/brian_hill",
-      "name": "Brian Hill"
+      "name": "Brian Hill",
+      "sources": [
+        {
+          "url": "http://www.berriganshire.nsw.gov.au/Council/YourCouncillors.aspx"
+        }
+      ]
     },
     {
+      "email": "johnb@berriganshire.nsw.gov.au",
       "id": "berrigan_shire_council/john_bruce",
-      "name": "John Bruce"
+      "name": "John Bruce",
+      "sources": [
+        {
+          "url": "http://www.berriganshire.nsw.gov.au/Council/YourCouncillors.aspx"
+        }
+      ]
     },
     {
+      "email": "denisg@berriganshire.nsw.gov.au",
       "id": "berrigan_shire_council/denis_glanville",
-      "name": "Denis Glanville"
+      "name": "Denis Glanville",
+      "sources": [
+        {
+          "url": "http://www.berriganshire.nsw.gov.au/Council/YourCouncillors.aspx"
+        }
+      ]
     },
     {
+      "email": "mhannan@berriganshire.nsw.gov.au",
       "id": "berrigan_shire_council/matthew_hannan",
-      "name": "Matthew Hannan"
+      "name": "Matthew Hannan",
+      "sources": [
+        {
+          "url": "http://www.berriganshire.nsw.gov.au/Council/YourCouncillors.aspx"
+        }
+      ]
     },
     {
+      "email": "colinj@berriganshire.nsw.gov.au",
       "id": "berrigan_shire_council/colin_jones",
-      "name": "Colin Jones"
+      "name": "Colin Jones",
+      "sources": [
+        {
+          "url": "http://www.berriganshire.nsw.gov.au/Council/YourCouncillors.aspx"
+        }
+      ]
     },
     {
+      "email": "daryllm@berriganshire.nsw.gov.au",
       "id": "berrigan_shire_council/daryll_morris",
-      "name": "Daryll Morris"
+      "name": "Daryll Morris",
+      "sources": [
+        {
+          "url": "http://www.berriganshire.nsw.gov.au/Council/YourCouncillors.aspx"
+        }
+      ]
     },
     {
+      "email": "andreao@berriganshire.nsw.gov.au",
       "id": "berrigan_shire_council/andrea_o'neill",
-      "name": "Andrea O'Neill"
+      "name": "Andrea O'Neill",
+      "sources": [
+        {
+          "url": "http://www.berriganshire.nsw.gov.au/Council/YourCouncillors.aspx"
+        }
+      ]
     },
     {
       "email": "stephen.bali@blacktown.nsw.gov.au",
@@ -11522,49 +11570,49 @@
       "person_id": "berrigan_shire_council/bernard_curtin",
       "organization_id": "legislature/berrigan_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "berrigan_shire_council/brian_hill",
       "organization_id": "legislature/berrigan_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "berrigan_shire_council/john_bruce",
       "organization_id": "legislature/berrigan_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "berrigan_shire_council/denis_glanville",
       "organization_id": "legislature/berrigan_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "berrigan_shire_council/matthew_hannan",
       "organization_id": "legislature/berrigan_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "berrigan_shire_council/colin_jones",
       "organization_id": "legislature/berrigan_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "berrigan_shire_council/daryll_morris",
       "organization_id": "legislature/berrigan_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "berrigan_shire_council/andrea_o'neill",
       "organization_id": "legislature/berrigan_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blacktown_city_council/stephen_bali",
