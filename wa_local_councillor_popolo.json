@@ -5797,49 +5797,157 @@
       "name": "David Lovelock"
     },
     {
+      "email": "john.carey@vincent.wa.gov.au",
       "gender": "male",
       "id": "vincent_city_council/john_carey",
-      "name": "John Carey"
+      "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/john_carey.jpg",
+      "name": "John Carey",
+      "images": [
+        {
+          "url": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/john_carey.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.vincent.wa.gov.au/Your_Council/About_Your_Mayor_Councillors"
+        }
+      ]
     },
     {
+      "email": "cr.Cole@vincent.wa.gov.au",
       "gender": "female",
       "id": "vincent_city_council/emma_michelle_cole",
-      "name": "Emma Michelle Cole"
+      "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/emmacole.jpg",
+      "name": "Emma Michelle Cole",
+      "images": [
+        {
+          "url": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/emmacole.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.vincent.wa.gov.au/Your_Council/About_Your_Mayor_Councillors"
+        }
+      ]
     },
     {
+      "email": "cr.harley@vincent.wa.gov.au",
       "gender": "female",
       "id": "vincent_city_council/roslyn_harley",
-      "name": "Roslyn Harley"
+      "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/roslynharley.jpg",
+      "name": "Roslyn Harley",
+      "images": [
+        {
+          "url": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/roslynharley.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.vincent.wa.gov.au/Your_Council/About_Your_Mayor_Councillors"
+        }
+      ]
     },
     {
+      "email": "cr.buckels@vincent.wa.gov.au",
       "gender": "male",
       "id": "vincent_city_council/matthew_christopher_buckels",
-      "name": "Matthew Christopher Buckels"
+      "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/mattbuckels.jpg",
+      "name": "Matthew Christopher Buckels",
+      "images": [
+        {
+          "url": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/mattbuckels.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.vincent.wa.gov.au/Your_Council/About_Your_Mayor_Councillors"
+        }
+      ]
     },
     {
+      "email": "cr.loden@vincent.wa.gov.au",
       "gender": "male",
       "id": "vincent_city_council/daniel_ingman_loden",
-      "name": "Daniel Ingman Loden"
+      "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/loden_dan_-_preferred.jpg",
+      "name": "Daniel Ingman Loden",
+      "images": [
+        {
+          "url": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/loden_dan_-_preferred.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.vincent.wa.gov.au/Your_Council/About_Your_Mayor_Councillors"
+        }
+      ]
     },
     {
+      "email": "cr.gontaszewski@vincent.wa.gov.au",
       "gender": "female",
       "id": "vincent_city_council/susan_lee_gontaszewski",
-      "name": "Susan Lee Gontaszewski"
+      "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/gontaszewski_susan_-_preferred.jpg",
+      "name": "Susan Lee Gontaszewski",
+      "images": [
+        {
+          "url": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/gontaszewski_susan_-_preferred.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.vincent.wa.gov.au/Your_Council/About_Your_Mayor_Councillors"
+        }
+      ]
     },
     {
+      "email": "cr.mcdonald@vincent.wa.gov.au",
       "gender": "female",
       "id": "vincent_city_council/laine_courtney_mcdonald",
-      "name": "Laine Courtney Mcdonald"
+      "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/lainemcdonald.jpg",
+      "name": "Laine Courtney Mcdonald",
+      "images": [
+        {
+          "url": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/lainemcdonald.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.vincent.wa.gov.au/Your_Council/About_Your_Mayor_Councillors"
+        }
+      ]
     },
     {
+      "email": "cr.topelberg@vincent.wa.gov.au",
       "gender": "male",
       "id": "vincent_city_council/joshua_aaron_topelberg",
-      "name": "Joshua Aaron Topelberg"
+      "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/joshtopelberg.jpg",
+      "name": "Joshua Aaron Topelberg",
+      "images": [
+        {
+          "url": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/joshtopelberg.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.vincent.wa.gov.au/Your_Council/About_Your_Mayor_Councillors"
+        }
+      ]
     },
     {
+      "email": "cr.murphy@vincent.wa.gov.au",
       "gender": "male",
       "id": "vincent_city_council/james_benson_murphy",
-      "name": "James Benson Murphy"
+      "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/murphy_jimmy_-_preferred.jpg",
+      "name": "James Benson Murphy",
+      "images": [
+        {
+          "url": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/murphy_jimmy_-_preferred.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.vincent.wa.gov.au/Your_Council/About_Your_Mayor_Councillors"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -14683,6 +14791,11 @@
       "person_id": "vincent_city_council/john_carey",
       "organization_id": "legislature/vincent_city_council",
       "role": "Mayor"
+    },
+    {
+      "person_id": "vincent_city_council/roslyn_harley",
+      "organization_id": "legislature/vincent_city_council",
+      "role": "Deputy Mayor"
     },
     {
       "person_id": "wanneroo_city_council/tracey_roberts",
