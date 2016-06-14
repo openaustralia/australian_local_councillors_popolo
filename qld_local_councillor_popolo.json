@@ -174,119 +174,434 @@
     },
     {
       "id": "brisbane_city_council/graham_quirk",
-      "name": "Graham Quirk"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/039320.jpg",
+      "name": "Graham Quirk",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/039320.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/lord-mayor-graham-quirk"
+        }
+      ]
     },
     {
+      "email": "thegap.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/steven_toomey",
-      "name": "Steven Toomey"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-steve-toomey.jpg?itok=t2CPe4zp",
+      "name": "Steven Toomey",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-steve-toomey.jpg?itok=t2CPe4zp"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/the-gap-ward"
+        }
+      ]
     },
     {
+      "email": "deagon.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/jarred_cassidy",
-      "name": "Jarred Cassidy"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-jarred-cassidy.jpg?itok=_QDCFWp4",
+      "name": "Jarred Cassidy",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-jarred-cassidy.jpg?itok=_QDCFWp4"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/deagon-ward"
+        }
+      ]
     },
     {
+      "email": "calamvale.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/angela_owen",
-      "name": "Angela Owen"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-angela-owen.jpg?itok=uHWoKNaF",
+      "name": "Angela Owen",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-angela-owen.jpg?itok=uHWoKNaF"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/calamvale-ward"
+        }
+      ]
     },
     {
+      "email": "forestlake.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/charles_strunk",
-      "name": "Charles Strunk"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-charles-strunk.jpg?itok=M-C2BTt4",
+      "name": "Charles Strunk",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-charles-strunk.jpg?itok=M-C2BTt4"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/forest-lake-ward"
+        }
+      ]
     },
     {
+      "email": "chandler.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/adrian_schrinner",
-      "name": "Adrian Schrinner"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-adrian-schrinner.jpg?itok=juenUjSM",
+      "name": "Adrian Schrinner",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-adrian-schrinner.jpg?itok=juenUjSM"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/chandler-ward"
+        }
+      ]
     },
     {
+      "email": "brackenridge.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/amanda_cooper",
-      "name": "Amanda Cooper"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-amanda-cooper.jpg?itok=nTnaR9AA",
+      "name": "Amanda Cooper",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-amanda-cooper.jpg?itok=nTnaR9AA"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/bracken-ridge-ward"
+        }
+      ]
     },
     {
+      "email": "enoggera.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/andrew_wines",
-      "name": "Andrew Wines"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-andrew-wines.jpg?itok=s48aArIF",
+      "name": "Andrew Wines",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-andrew-wines.jpg?itok=s48aArIF"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/enoggera-ward"
+        }
+      ]
     },
     {
-      "id": "brisbane_city_council/angela_owen-taylor",
-      "name": "Angela Owen-Taylor"
-    },
-    {
+      "email": "hamilton.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/david_mclachlan",
-      "name": "David McLachlan"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-david-mclachlan.jpg?itok=ps-Ad-jC",
+      "name": "David McLachlan",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-david-mclachlan.jpg?itok=ps-Ad-jC"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/hamilton-ward"
+        }
+      ]
     },
     {
+      "email": "marchant.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/fiona_king",
-      "name": "Fiona King"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-fiona-king.jpg?itok=nEsoar-V",
+      "name": "Fiona King",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-fiona-king.jpg?itok=nEsoar-V"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/marchant-ward"
+        }
+      ]
     },
     {
+      "email": "thegabba.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/johnathan_sri",
-      "name": "Johnathan Sri"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-jonathan-sri.jpg?itok=hRSNfRqi",
+      "name": "Johnathan Sri",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-jonathan-sri.jpg?itok=hRSNfRqi"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/the-gabba-ward"
+        }
+      ]
     },
     {
+      "email": "coorparoo.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/ian_mckenzie",
-      "name": "Ian McKenzie"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-ian-mckenzie.jpg?itok=HRz7Pd_v",
+      "name": "Ian McKenzie",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-ian-mckenzie.jpg?itok=HRz7Pd_v"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/coorparoo-ward"
+        }
+      ]
     },
     {
+      "email": "waltertaylor.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/julian_simmonds",
-      "name": "Julian Simmonds"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-julian-simmonds.jpg?itok=D_0EyVal",
+      "name": "Julian Simmonds",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-julian-simmonds.jpg?itok=D_0EyVal"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/walter-taylor-ward"
+        }
+      ]
     },
     {
+      "email": "runcorn.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/kim_marx",
-      "name": "Kim Marx"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-kim-marx.jpg?itok=gcTwl1yO",
+      "name": "Kim Marx",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-kim-marx.jpg?itok=gcTwl1yO"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/runcorn-ward"
+        }
+      ]
     },
     {
+      "email": "northgate.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/adam_allan",
-      "name": "Adam Allan"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-adam-allen.jpg?itok=7lFWbJGH",
+      "name": "Adam Allan",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-adam-allen.jpg?itok=7lFWbJGH"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/northgate-ward"
+        }
+      ]
     },
     {
+      "email": "hollandpark.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/krista_adams",
-      "name": "Krista Adams"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-krista-adams.jpg?itok=5upxlgK5",
+      "name": "Krista Adams",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-krista-adams.jpg?itok=5upxlgK5"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/holland-park-ward"
+        }
+      ]
     },
     {
+      "email": "pullenvale.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/kate_richards",
-      "name": "Kate Richards"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-kate-richards.jpg?itok=CXc1jHQL",
+      "name": "Kate Richards",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-kate-richards.jpg?itok=CXc1jHQL"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/pullenvale-ward"
+        }
+      ]
     },
     {
+      "email": "jamboree.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/matthew_bourke",
-      "name": "Matthew Bourke"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-matthew-bourke.jpg?itok=d2GzaTZq",
+      "name": "Matthew Bourke",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-matthew-bourke.jpg?itok=d2GzaTZq"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/jamboree-ward"
+        }
+      ]
     },
     {
-      "id": "brisbane_city_council/milton_dick",
-      "name": "Milton Dick"
-    },
-    {
+      "email": "tennyson.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/nicole_johnston",
-      "name": "Nicole Johnston"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-nicole-johnston.jpg?itok=KO-3djXi",
+      "name": "Nicole Johnston",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-nicole-johnston.jpg?itok=KO-3djXi"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/tennyson-ward"
+        }
+      ]
     },
     {
+      "email": "mcdowall.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/norm_wyndham",
-      "name": "Norm Wyndham"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-norm-wyndham.jpg?itok=8Cn6Cn2P",
+      "name": "Norm Wyndham",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-norm-wyndham.jpg?itok=8Cn6Cn2P"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/mcdowall-ward"
+        }
+      ]
     },
     {
+      "email": "wynnummanly.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/peter_cumming",
-      "name": "Peter Cumming"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-peter-cumming.jpg?itok=O35h_LGs",
+      "name": "Peter Cumming",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-peter-cumming.jpg?itok=O35h_LGs"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/wynnum-manly-ward"
+        }
+      ]
     },
     {
+      "email": "paddington.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/peter_matic",
-      "name": "Peter Matic"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-peter-matic.jpg?itok=qmVXWyD1",
+      "name": "Peter Matic",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-peter-matic.jpg?itok=qmVXWyD1"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/paddington-ward"
+        }
+      ]
     },
     {
+      "email": "doboy.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/ryan_murphy",
-      "name": "Ryan Murphy"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-ryan-murphy.jpg?itok=UsIlomjf",
+      "name": "Ryan Murphy",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-ryan-murphy.jpg?itok=UsIlomjf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/doboy-ward"
+        }
+      ]
     },
     {
+      "email": "morningside.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/shayne_sutton",
-      "name": "Shayne Sutton"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-shayne-sutton.jpg?itok=eWZeVWIR",
+      "name": "Shayne Sutton",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-shayne-sutton.jpg?itok=eWZeVWIR"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/morningside-ward"
+        }
+      ]
     },
     {
+      "email": "moorooka.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/steve_griffiths",
-      "name": "Steve Griffiths"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-steve-griffiths.jpg?itok=78QsDGo7",
+      "name": "Steve Griffiths",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-steve-griffiths.jpg?itok=78QsDGo7"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/moorooka-ward"
+        }
+      ]
     },
     {
+      "email": "macgregor.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/steven_huang",
-      "name": "Steven Huang"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-steven-huang.jpg?itok=uvf21ugu",
+      "name": "Steven Huang",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-steven-huang.jpg?itok=uvf21ugu"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/macgregor-ward"
+        }
+      ]
     },
     {
+      "email": "central.ward@bcc.qld.gov.au",
       "id": "brisbane_city_council/vicki_howard",
-      "name": "Vicki Howard"
+      "image": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-vicki-howard.jpg?itok=KEKlOBgf",
+      "name": "Vicki Howard",
+      "images": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/sites/default/files/styles/large/public/200x177-cr-vicki-howard.jpg?itok=KEKlOBgf"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.brisbane.qld.gov.au/about-council/governance-strategy/councillors-wards/central-ward"
+        }
+      ]
     },
     {
       "id": "bulloo_shire_council/john_ferguson",
@@ -424,32 +739,81 @@
       ]
     },
     {
+      "email": "councillor.mclaughlin@burdekin.qld.gov.au",
       "id": "burdekin_shire_council/lyn_mclaughlin",
-      "name": "Lyn McLaughlin"
+      "image": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-Lyn-McLaughlin-2-120x90.jpg?bf9e76",
+      "name": "Lyn McLaughlin",
+      "images": [
+        {
+          "url": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-Lyn-McLaughlin-2-120x90.jpg?bf9e76"
+        }
+      ]
     },
     {
+      "email": "councillor.bonanno@burdekin.qld.gov.au",
       "id": "burdekin_shire_council/john_bonanno",
-      "name": "John Bonanno"
+      "image": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-John-Bonanno-2-120x90.jpg?bf9e76",
+      "name": "John Bonanno",
+      "images": [
+        {
+          "url": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-John-Bonanno-2-120x90.jpg?bf9e76"
+        }
+      ]
     },
     {
+      "email": "councillor.goddard@burdekin.qld.gov.au",
       "id": "burdekin_shire_council/tony_goodard",
-      "name": "Tony Goodard"
+      "image": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-Tony-Goddard-2-120x90.jpg?bf9e76",
+      "name": "Tony Goodard",
+      "images": [
+        {
+          "url": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-Tony-Goddard-2-120x90.jpg?bf9e76"
+        }
+      ]
     },
     {
+      "email": "councillor.perry@burdekin.qld.gov.au",
       "id": "burdekin_shire_council/sue_perry",
-      "name": "Sue Perry"
+      "image": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-Sue-Perry-2-120x90.jpg?bf9e76",
+      "name": "Sue Perry",
+      "images": [
+        {
+          "url": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-Sue-Perry-2-120x90.jpg?bf9e76"
+        }
+      ]
     },
     {
+      "email": "councillor.woods@burdekin.qld.gov.au",
       "id": "burdekin_shire_council/john_woods",
-      "name": "John Woods"
+      "image": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-John-Woods-2-120x90.jpg?bf9e76",
+      "name": "John Woods",
+      "images": [
+        {
+          "url": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-John-Woods-2-120x90.jpg?bf9e76"
+        }
+      ]
     },
     {
+      "email": "councillor.bawden@burdekin.qld.gov.au",
       "id": "burdekin_shire_council/ted_bawden",
-      "name": "Ted Bawden"
+      "image": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-Ted-Bawden-2-120x90.jpg?bf9e76",
+      "name": "Ted Bawden",
+      "images": [
+        {
+          "url": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-Ted-Bawden-2-120x90.jpg?bf9e76"
+        }
+      ]
     },
     {
+      "email": "councillor.liessmann@burdekin.qld.gov.au",
       "id": "burdekin_shire_council/uli_liessmann",
-      "name": "Uli Liessmann"
+      "image": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-Uli-Liessmann-2-120x90.jpg?bf9e76",
+      "name": "Uli Liessmann",
+      "images": [
+        {
+          "url": "http://www.burdekin.qld.gov.au/wp/media/2011/07/Cr-Uli-Liessmann-2-120x90.jpg?bf9e76"
+        }
+      ]
     },
     {
       "id": "burke_shire_council/ernie_camp",
@@ -718,32 +1082,116 @@
       "name": "Paul Bell"
     },
     {
+      "email": "Liz.schmidt@charterstowers.qld.gov.au",
       "id": "charters_towers_regional_council/liz_schmidt",
-      "name": "Liz Schmidt"
+      "image": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Mayor%20Liz%20Schmidt?t=1461200924711",
+      "name": "Liz Schmidt",
+      "images": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Mayor%20Liz%20Schmidt?t=1461200924711"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "Alan.barr@charterstowers.qld.gov.autba",
       "id": "charters_towers_regional_council/alan_barr",
-      "name": "Alan Barr"
+      "image": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Alan%20Barr?t=1461200924710",
+      "name": "Alan Barr",
+      "images": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Alan%20Barr?t=1461200924710"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "Graham.lohmann@charterstowers.qld.gov.au",
       "id": "charters_towers_regional_council/graham_lohmann",
-      "name": "Graham Lohmann"
+      "image": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Graham%20Lohmann?t=1461200924710",
+      "name": "Graham Lohmann",
+      "images": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Graham%20Lohmann?t=1461200924710"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "Brett.maff@charterstowers.qld.gov.au",
       "id": "charters_towers_regional_council/brett_maff",
-      "name": "Brett Maff"
+      "image": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Brett%20Maff?t=1461200924710",
+      "name": "Brett Maff",
+      "images": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Brett%20Maff?t=1461200924710"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "Mike.power@charterstowers.qld.gov.au",
       "id": "charters_towers_regional_council/mike_power",
-      "name": "Mike Power"
+      "image": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Mike%20Power?t=1461200924710",
+      "name": "Mike Power",
+      "images": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Mike%20Power?t=1461200924710"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "Sonia.bennetto@charterstowers.qld.gov.au",
       "id": "charters_towers_regional_council/sonia_bennetto",
-      "name": "Sonia Bennetto"
+      "image": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Sonia%20Bennetto?t=1461200924711",
+      "name": "Sonia Bennetto",
+      "images": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Sonia%20Bennetto?t=1461200924711"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "roma.bailey@charterstowers.qld.gov.au",
       "id": "charters_towers_regional_council/mervyn_(roma)_bailey",
-      "name": "Mervyn (Roma) Bailey"
+      "image": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Roma%20Bailey?t=1461200924710",
+      "name": "Mervyn (Roma) Bailey",
+      "images": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/documents/41682213/41770546/Cr%20Roma%20Bailey?t=1461200924710"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.charterstowers.qld.gov.au/councillors"
+        }
+      ]
     },
     {
       "id": "cherbourg_aboriginal_shire_council/kenny_bone",
@@ -2372,40 +2820,116 @@
       "name": "Rhonda Charger"
     },
     {
+      "email": "Tony.Wellington@noosa.qld.gov.au",
       "id": "noosa_shire_council/tony_wellington",
-      "name": "Tony Wellington"
+      "image": "http://www.noosa.qld.gov.au/documents/40217326/40227860/photo%20Cr%20Tony%20Wellington?t=1460077455690",
+      "name": "Tony Wellington",
+      "images": [
+        {
+          "url": "http://www.noosa.qld.gov.au/documents/40217326/40227860/photo%20Cr%20Tony%20Wellington?t=1460077455690"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.noosa.qld.gov.au/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "jess.glasgow@noosa.qld.gov.au",
       "id": "noosa_shire_council/jess_glasgow",
-      "name": "Jess Glasgow"
+      "image": "http://www.noosa.qld.gov.au/documents/40217326/40227860/photo%20Cr%20Jess%20Glasgow?t=1460077455690",
+      "name": "Jess Glasgow",
+      "images": [
+        {
+          "url": "http://www.noosa.qld.gov.au/documents/40217326/40227860/photo%20Cr%20Jess%20Glasgow?t=1460077455690"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.noosa.qld.gov.au/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "ingrid.jackson@noosa.qld.gov.au",
       "id": "noosa_shire_council/ingrid_jackson",
-      "name": "Ingrid Jackson"
+      "image": "http://www.noosa.qld.gov.au/documents/40217326/40227862/Cr%20Ingrid%20Jackson%20photo?t=1465349952913",
+      "name": "Ingrid Jackson",
+      "images": [
+        {
+          "url": "http://www.noosa.qld.gov.au/documents/40217326/40227862/Cr%20Ingrid%20Jackson%20photo?t=1465349952913"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.noosa.qld.gov.au/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "brian.stockwell@noosa.qld.gov.au",
       "id": "noosa_shire_council/brian_stockwell",
-      "name": "Brian Stockwell"
+      "image": "http://www.noosa.qld.gov.au/documents/40217326/40227860/photo%20Cr%20Brian%20Stockwell?t=1460077455690",
+      "name": "Brian Stockwell",
+      "images": [
+        {
+          "url": "http://www.noosa.qld.gov.au/documents/40217326/40227860/photo%20Cr%20Brian%20Stockwell?t=1460077455690"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.noosa.qld.gov.au/mayor-councillors"
+        }
+      ]
     },
     {
-      "id": "noosa_shire_council/bob_abbott",
-      "name": "Bob Abbott"
-    },
-    {
+      "email": "Frank.Pardon@noosa.qld.gov.au",
       "id": "noosa_shire_council/frank_pardon",
-      "name": "Frank Pardon"
+      "image": "http://www.noosa.qld.gov.au/documents/40217326/40227862/Frank%20Pardon.jpg?t=1388016581763",
+      "name": "Frank Pardon",
+      "images": [
+        {
+          "url": "http://www.noosa.qld.gov.au/documents/40217326/40227862/Frank%20Pardon.jpg?t=1388016581763"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.noosa.qld.gov.au/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "Frank.Wilkie@noosa.qld.gov.au",
       "id": "noosa_shire_council/frank_wilkie",
-      "name": "Frank Wilkie"
+      "image": "http://www.noosa.qld.gov.au/documents/40217326/40227862/Frank%20Wilkie.jpg?t=1388016581763",
+      "name": "Frank Wilkie",
+      "images": [
+        {
+          "url": "http://www.noosa.qld.gov.au/documents/40217326/40227862/Frank%20Wilkie.jpg?t=1388016581763"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.noosa.qld.gov.au/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "Joe.Jurisevic@noosa.qld.gov.au",
       "id": "noosa_shire_council/joe_jurisevic",
-      "name": "Joe Jurisevic"
-    },
-    {
-      "id": "noosa_shire_council/sandy_bolton",
-      "name": "Sandy Bolton"
+      "image": "http://www.noosa.qld.gov.au/documents/40217326/40227862/Joe%20Jurisevic.jpg",
+      "name": "Joe Jurisevic",
+      "images": [
+        {
+          "url": "http://www.noosa.qld.gov.au/documents/40217326/40227862/Joe%20Jurisevic.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.noosa.qld.gov.au/mayor-councillors"
+        }
+      ]
     },
     {
       "id": "north_burnett_regional_council/don_waugh",
@@ -2868,36 +3392,116 @@
       ]
     },
     {
-      "id": "scenic_rim_regional_council/john_brent",
-      "name": "John Brent"
+      "email": "greg.c@scenicrim.qld.gov.au",
+      "id": "scenic_rim_regional_council/greg_christensen",
+      "image": "http://www.scenicrim.qld.gov.au/documents/717563/3224611/mayorgreg%20sml.jpg?t=1459810873570",
+      "name": "Greg Christensen ",
+      "images": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/documents/717563/3224611/mayorgreg%20sml.jpg?t=1459810873570"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "michael.e@scenicrim.qld.gov.au",
       "id": "scenic_rim_regional_council/michael_enright",
-      "name": "Michael Enright"
+      "image": "http://www.scenicrim.qld.gov.au/documents/717563/3224611/michael%20web.jpg?t=1459908984772",
+      "name": "Michael Enright",
+      "images": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/documents/717563/3224611/michael%20web.jpg?t=1459908984772"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "duncan.m@scenicrim.qld.gov.au",
       "id": "scenic_rim_regional_council/duncan_mcinnes",
-      "name": "Duncan McInnes"
+      "image": "http://www.scenicrim.qld.gov.au/image/image_gallery?uuid=f1deb55b-1b8a-4873-b240-8dd053f2e222&groupId=717563&t=1337060588516",
+      "name": "Duncan McInnes",
+      "images": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/image/image_gallery?uuid=f1deb55b-1b8a-4873-b240-8dd053f2e222&groupId=717563&t=1337060588516"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/councillors"
+        }
+      ]
     },
     {
-      "id": "scenic_rim_regional_council/jennifer_sanders",
-      "name": "Jennifer Sanders"
-    },
-    {
+      "email": "nadia.o@scenicrim.qld.gov.au",
       "id": "scenic_rim_regional_council/nadia_o'carroll",
-      "name": "Nadia O'Carroll"
+      "image": "http://www.scenicrim.qld.gov.au/image/image_gallery?uuid=3d64a377-24d5-4c6e-932f-350865710f9f&groupId=717563&t=1337060805225",
+      "name": "Nadia O'Carroll",
+      "images": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/image/image_gallery?uuid=3d64a377-24d5-4c6e-932f-350865710f9f&groupId=717563&t=1337060805225"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "nigel.w@scenicrim.qld.gov.au",
       "id": "scenic_rim_regional_council/nigel_waistell",
-      "name": "Nigel Waistell"
+      "image": "http://www.scenicrim.qld.gov.au/image/image_gallery?uuid=49006300-40dc-43a7-acac-14c3256cf223&groupId=717563&t=1337060588516",
+      "name": "Nigel Waistell",
+      "images": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/image/image_gallery?uuid=49006300-40dc-43a7-acac-14c3256cf223&groupId=717563&t=1337060588516"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "rick.s@scenicrim.qld.gov.au",
       "id": "scenic_rim_regional_council/rick_stanfield",
-      "name": "Rick Stanfield"
+      "image": "http://www.scenicrim.qld.gov.au/image/image_gallery?uuid=f9441e91-2a86-49b2-bb0d-de50c6b435e0&groupId=717563&t=1337060588516",
+      "name": "Rick Stanfield",
+      "images": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/image/image_gallery?uuid=f9441e91-2a86-49b2-bb0d-de50c6b435e0&groupId=717563&t=1337060588516"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "virginia.w@scenicrim.qld.gov.au",
       "id": "scenic_rim_regional_council/virginia_west",
-      "name": "Virginia West"
+      "image": "http://www.scenicrim.qld.gov.au/image/image_gallery?uuid=4a183106-ca64-444f-b8fb-692ecce845cf&groupId=717563&t=1337060588516",
+      "name": "Virginia West",
+      "images": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/image/image_gallery?uuid=4a183106-ca64-444f-b8fb-692ecce845cf&groupId=717563&t=1337060588516"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.scenicrim.qld.gov.au/councillors"
+        }
+      ]
     },
     {
       "id": "somerset_regional_council/graeme_lehmann",
@@ -4117,13 +4721,28 @@
       "classification": "party"
     },
     {
-      "id": "party/team_mcmillan",
-      "name": "Team McMillan",
+      "id": "party/lnp",
+      "name": "LNP",
       "classification": "party"
     },
     {
-      "id": "party/lnp",
-      "name": "LNP",
+      "id": "party/alp",
+      "name": "ALP",
+      "classification": "party"
+    },
+    {
+      "id": "party/grn",
+      "name": "GRN",
+      "classification": "party"
+    },
+    {
+      "id": "party/ind",
+      "name": "IND",
+      "classification": "party"
+    },
+    {
+      "id": "party/team_mcmillan",
+      "name": "Team McMillan",
       "classification": "party"
     },
     {
@@ -4400,175 +5019,163 @@
       "person_id": "brisbane_city_council/graham_quirk",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/steven_toomey",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/jarred_cassidy",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/alp"
     },
     {
       "person_id": "brisbane_city_council/angela_owen",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/charles_strunk",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/alp"
     },
     {
       "person_id": "brisbane_city_council/adrian_schrinner",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/amanda_cooper",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/andrew_wines",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "brisbane_city_council/angela_owen-taylor",
-      "organization_id": "legislature/brisbane_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/david_mclachlan",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/fiona_king",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/johnathan_sri",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/grn"
     },
     {
       "person_id": "brisbane_city_council/ian_mckenzie",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/julian_simmonds",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/kim_marx",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/adam_allan",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/krista_adams",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/kate_richards",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/matthew_bourke",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "brisbane_city_council/milton_dick",
-      "organization_id": "legislature/brisbane_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/nicole_johnston",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/ind"
     },
     {
       "person_id": "brisbane_city_council/norm_wyndham",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/peter_cumming",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/alp"
     },
     {
       "person_id": "brisbane_city_council/peter_matic",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/ryan_murphy",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/shayne_sutton",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/alp"
     },
     {
       "person_id": "brisbane_city_council/steve_griffiths",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/alp"
     },
     {
       "person_id": "brisbane_city_council/steven_huang",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "brisbane_city_council/vicki_howard",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/lnp"
     },
     {
       "person_id": "bulloo_shire_council/john_ferguson",
@@ -6479,12 +7086,6 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "noosa_shire_council/bob_abbott",
-      "organization_id": "legislature/noosa_shire_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
       "person_id": "noosa_shire_council/frank_pardon",
       "organization_id": "legislature/noosa_shire_council",
       "role": "councillor",
@@ -6498,12 +7099,6 @@
     },
     {
       "person_id": "noosa_shire_council/joe_jurisevic",
-      "organization_id": "legislature/noosa_shire_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "noosa_shire_council/sandy_bolton",
       "organization_id": "legislature/noosa_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -6857,7 +7452,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "scenic_rim_regional_council/john_brent",
+      "person_id": "scenic_rim_regional_council/greg_christensen",
       "organization_id": "legislature/scenic_rim_regional_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -6870,12 +7465,6 @@
     },
     {
       "person_id": "scenic_rim_regional_council/duncan_mcinnes",
-      "organization_id": "legislature/scenic_rim_regional_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "scenic_rim_regional_council/jennifer_sanders",
       "organization_id": "legislature/scenic_rim_regional_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -7936,7 +8525,7 @@
       "role": "mayor"
     },
     {
-      "person_id": "scenic_rim_regional_council/john_brent",
+      "person_id": "scenic_rim_regional_council/greg_christensen",
       "organization_id": "legislature/scenic_rim_regional_council",
       "role": "mayor"
     },
