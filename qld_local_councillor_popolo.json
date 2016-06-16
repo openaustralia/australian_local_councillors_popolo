@@ -4722,23 +4722,23 @@
       "classification": "party"
     },
     {
-      "id": "party/lnp",
-      "name": "LNP",
+      "id": "party/liberal_national_party",
+      "name": "Liberal National Party",
       "classification": "party"
     },
     {
-      "id": "party/alp",
-      "name": "ALP",
+      "id": "party/labor",
+      "name": "Labor",
       "classification": "party"
     },
     {
-      "id": "party/grn",
-      "name": "GRN",
+      "id": "party/greens",
+      "name": "Greens",
       "classification": "party"
     },
     {
-      "id": "party/ind",
-      "name": "IND",
+      "id": "party/independent",
+      "name": "Independent",
       "classification": "party"
     },
     {
@@ -4747,8 +4747,8 @@
       "classification": "party"
     },
     {
-      "id": "party/independent",
-      "name": "Independent",
+      "id": "party/lnp",
+      "name": "LNP",
       "classification": "party"
     },
     {
@@ -5020,163 +5020,163 @@
       "person_id": "brisbane_city_council/graham_quirk",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/steven_toomey",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/jarred_cassidy",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/alp"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "brisbane_city_council/angela_owen",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/charles_strunk",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/alp"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "brisbane_city_council/adrian_schrinner",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/amanda_cooper",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/andrew_wines",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/david_mclachlan",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/fiona_king",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/johnathan_sri",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/grn"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "brisbane_city_council/ian_mckenzie",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/julian_simmonds",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/kim_marx",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/adam_allan",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/krista_adams",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/kate_richards",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/matthew_bourke",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/nicole_johnston",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/ind"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "brisbane_city_council/norm_wyndham",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/peter_cumming",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/alp"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "brisbane_city_council/peter_matic",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/ryan_murphy",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/shayne_sutton",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/alp"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "brisbane_city_council/steve_griffiths",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/alp"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "brisbane_city_council/steven_huang",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "brisbane_city_council/vicki_howard",
       "organization_id": "legislature/brisbane_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/lnp"
+      "on_behalf_of_id": "party/liberal_national_party"
     },
     {
       "person_id": "bulloo_shire_council/john_ferguson",
