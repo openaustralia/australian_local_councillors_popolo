@@ -537,36 +537,131 @@
       ]
     },
     {
+      "email": "mayor@balranald.nsw.gov.au",
       "id": "balranald_shire_council/leigh_byron",
-      "name": "Leigh Byron"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Leigh-byron-final-2-300x300.jpg",
+      "name": "Leigh Byron",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Leigh-byron-final-2-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "gailpurtill@bigpond.com",
       "id": "balranald_shire_council/alan_purtill",
-      "name": "Alan Purtill"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Allan-Purtill-final-300x300.jpg",
+      "name": "Alan Purtill",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Allan-Purtill-final-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "kyalitepub@bigpond.com",
       "id": "balranald_shire_council/ken_barnes",
-      "name": "Ken Barnes"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Ken-Barnes-Final-2-300x300.jpg",
+      "name": "Ken Barnes",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Ken-Barnes-Final-2-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "elainecampbell4@bigpond.com",
       "id": "balranald_shire_council/elaine_campbell",
-      "name": "Elaine Campbell"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Eliean-Campbell-final-300x300.jpg",
+      "name": "Elaine Campbell",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Eliean-Campbell-final-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "ozdac@dodo.com.au",
       "id": "balranald_shire_council/lynda_cooke",
-      "name": "Lynda Cooke"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/IMG_Lynda-Fixed-300x300.jpg",
+      "name": "Lynda Cooke",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/IMG_Lynda-Fixed-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "tjjoll@bigpond.com",
       "id": "balranald_shire_council/trevor_jolliffe",
-      "name": "Trevor Jolliffe"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Trevor-Jollifeee-final-2-300x300.jpg",
+      "name": "Trevor Jolliffe",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Trevor-Jollifeee-final-2-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "mannixco@iinet.net.au",
       "id": "balranald_shire_council/jeff_mannix",
-      "name": "Jeff Mannix"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Jeff-Mannix-final-300x300.jpg",
+      "name": "Jeff Mannix",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Jeff-Mannix-final-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
       "id": "balranald_shire_council/stephen_o'halloran",
-      "name": "Stephen O'Halloran"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Ohalleran-300x300.jpg",
+      "name": "Stephen O'Halloran",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Ohalleran-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/khal_asfour",
@@ -1505,32 +1600,116 @@
       "name": "Peter Templeton"
     },
     {
+      "email": "crferguson@blayney.nsw.gov.au",
       "id": "blayney_shire_council/scott_j_ferguson",
-      "name": "Scott J Ferguson"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Scott-Ferguson_115x225.jpg",
+      "name": "Scott J Ferguson",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Scott-Ferguson_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "crewin@blayney.nsw.gov.au",
       "id": "blayney_shire_council/allan_ewin",
-      "name": "Allan Ewin"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Allan%20Ewin_115x225.jpg",
+      "name": "Allan Ewin",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Allan%20Ewin_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "crbraddon@blayney.nsw.gov.au",
       "id": "blayney_shire_council/geoff_p_braddon_oam",
-      "name": "Geoff P Braddon OAM"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Geoff%20Braddon_115x225.jpg",
+      "name": "Geoff P Braddon OAM",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Geoff%20Braddon_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "crdkingham@blayney.nsw.gov.au",
       "id": "blayney_shire_council/david_kingham",
-      "name": "David Kingham"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/David%20Kingham_115x225.jpg",
+      "name": "David Kingham",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/David%20Kingham_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "croates@blayney.nsw.gov.au",
       "id": "blayney_shire_council/shane_oates",
-      "name": "Shane Oates"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Shane-Oates_115x225.jpg",
+      "name": "Shane Oates",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Shane-Oates_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "crradburn@blayney.nsw.gov.au",
       "id": "blayney_shire_council/kevin_radburn",
-      "name": "Kevin Radburn"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Kevin%20Radburn_115x225.jpg",
+      "name": "Kevin Radburn",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Kevin%20Radburn_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "crsomervaille@blayney.nsw.gov.au",
       "id": "blayney_shire_council/david_somervaille",
-      "name": "David Somervaille"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/David%20Somervaille_150x225.jpg",
+      "name": "David Somervaille",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/David%20Somervaille_150x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
       "email": "mgreenhill@bmcc.nsw.gov.au",
@@ -1825,108 +2004,212 @@
       "name": "Peter Sykes"
     },
     {
-      "id": "the_council_of_the_city_of_botany_bay/ben_keneally",
+      "id": "city_of_botany_bay/ben_keneally",
       "name": "Ben Keneally"
     },
     {
-      "id": "the_council_of_the_city_of_botany_bay/george_glinatsis",
+      "id": "city_of_botany_bay/george_glinatsis",
       "name": "George Glinatsis"
     },
     {
-      "id": "the_council_of_the_city_of_botany_bay/mark_castle",
+      "id": "city_of_botany_bay/mark_castle",
       "name": "Mark Castle"
     },
     {
-      "id": "the_council_of_the_city_of_botany_bay/christina_curry",
+      "id": "city_of_botany_bay/christina_curry",
       "name": "Christina Curry"
     },
     {
-      "id": "the_council_of_the_city_of_botany_bay/stan_kondilios",
+      "id": "city_of_botany_bay/stan_kondilios",
       "name": "Stan Kondilios"
     },
     {
-      "id": "the_council_of_the_city_of_botany_bay/greg_mitchell",
+      "id": "city_of_botany_bay/greg_mitchell",
       "name": "Greg Mitchell"
     },
     {
-      "id": "the_council_of_the_city_of_botany_bay/brian_troy",
+      "id": "city_of_botany_bay/brian_troy",
       "name": "Brian Troy"
     },
     {
       "id": "bourke_shire_council/andrew_lewis",
-      "name": "Andrew Lewis"
+      "name": "Andrew Lewis",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/barry_hollman",
-      "name": "Barry Hollman"
+      "name": "Barry Hollman",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/victor_bartley",
-      "name": "Victor Bartley"
+      "name": "Victor Bartley",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/jack_bennett",
-      "name": "Jack Bennett"
+      "name": "Jack Bennett",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/sarah_brown",
-      "name": "Sarah Brown"
+      "name": "Sarah Brown",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/sally_davis",
-      "name": "Sally Davis"
+      "name": "Sally Davis",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/cecil_dorrington",
-      "name": "Cecil Dorrington"
+      "name": "Cecil Dorrington",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/lachlan_ford",
-      "name": "Lachlan Ford"
+      "name": "Lachlan Ford",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/stuart_johnson",
-      "name": "Stuart Johnson"
+      "name": "Stuart Johnson",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/bob_stutsel",
-      "name": "Bob Stutsel"
+      "name": "Bob Stutsel",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/angelo_g_pippos",
-      "name": "Angelo G Pippos"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405303",
+      "name": "Angelo G Pippos",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405303"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/ocker_o'connor",
-      "name": "Ocker O'Connor"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405301",
+      "name": "Phillip O'Connor",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405301"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/mark_brown",
-      "name": "Mark Brown"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405291",
+      "name": "Mark Brown",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405291"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/moses_hertslet",
-      "name": "Moses Hertslet"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405300",
+      "name": "Michael Hertslet",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405300"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/bill_loughnan",
-      "name": "Bill Loughnan"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405331",
+      "name": "Bill Loughnan",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405331"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/wulf_reichler",
-      "name": "Wulf Reichler"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405297",
+      "name": "Wulf Reichler",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405297"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/matthew_slack-smith",
-      "name": "Matthew Slack-Smith"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405299",
+      "name": "Matthew Slack-Smith",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405299"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/tommy_stanton",
-      "name": "Tommy Stanton"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1417412",
+      "name": "Tommy Stanton",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1417412"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/robert_wason",
-      "name": "Robert Wason"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405298",
+      "name": "Robert Wason",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405298"
+        }
+      ]
     },
     {
       "id": "broken_hill_city_council/wincen_cuy",
@@ -2845,52 +3128,186 @@
       "name": "Karen Toms"
     },
     {
+      "email": "lillieo@bigpond.net.au",
       "id": "cobar_shire_council/lilliane_brady",
-      "name": "Lilliane Brady"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Lilliane_Brady_New.jpg",
+      "name": "Lilliane Brady",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Lilliane_Brady_New.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "sales@redearthrealestate.com.au",
       "id": "cobar_shire_council/tracey_kings",
-      "name": "Tracey Kings"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Tracey%20Kings.jpg",
+      "name": "Tracey Kings",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Tracey%20Kings.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "abbottp_c@internet.on.net",
       "id": "cobar_shire_council/peter_abbott",
-      "name": "Peter Abbott"
+      "image": "http://www.cobar.nsw.gov.au/images/images/Peter_Abbott.jpg",
+      "name": "Peter Abbott",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/images/Peter_Abbott.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "johnglen46@bigpond.com",
       "id": "cobar_shire_council/john_harrison",
-      "name": "John Harrison"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Harrison.jpg",
+      "name": "John Harrison",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Harrison.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "id": "cobar_shire_council/marsha_isbester",
-      "name": "Marsha Isbester"
+      "name": "Marsha Isbester",
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "jmarsden@cmpl.com.au",
       "id": "cobar_shire_council/jarrod_marsden",
-      "name": "Jarrod Marsden"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Jarrod%20Marsden.jpg",
+      "name": "Jarrod Marsden",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Jarrod%20Marsden.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "id": "cobar_shire_council/greg_martin",
-      "name": "Greg Martin"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Greg%20Martin.jpg",
+      "name": "Greg Martin",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Greg%20Martin.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "id": "cobar_shire_council/peter_maxwell",
-      "name": "Peter Maxwell"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Maxwell.jpg",
+      "name": "Peter Maxwell",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Maxwell.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "rsinclair3@bigpond.com",
       "id": "cobar_shire_council/bob_sinclair",
-      "name": "Bob Sinclair"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Bob%20Sinclair.jpg",
+      "name": "Bob Sinclair",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Bob%20Sinclair.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "id": "cobar_shire_council/harley_toomey",
-      "name": "Harley Toomey"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Harley%20Toomey.jpg",
+      "name": "Harley Toomey",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Harley%20Toomey.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "raymondwilson6@bigpond.com",
       "id": "cobar_shire_council/ray_wilson",
-      "name": "Ray Wilson"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Ray%20Wilson.jpg",
+      "name": "Ray Wilson",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Ray%20Wilson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "pyench@outlook.com",
       "id": "cobar_shire_council/peter_yench",
-      "name": "Peter Yench"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Peter%20Yench.jpg",
+      "name": "Peter Yench",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Peter%20Yench.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "email": "denise.knight@chcc.nsw.gov.au",
@@ -3053,40 +3470,148 @@
       "name": "Mac Wallace"
     },
     {
+      "email": "jseymour@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/john_t_seymour",
-      "name": "John T Seymour"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827439",
+      "name": "John T Seymour",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827439"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "bhutcheon@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/bruce_hutcheon",
-      "name": "Bruce Hutcheon"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827447",
+      "name": "Bruce Hutcheon",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "gbeard@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/grant_beard",
-      "name": "Grant Beard"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827449",
+      "name": "Grant Beard",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827449"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "dbrill@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/dennis_brill",
-      "name": "Dennis Brill"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827451",
+      "name": "Dennis Brill",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827451"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "rhuxtable@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/bec_huxtable",
-      "name": "Bec Huxtable"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827453",
+      "name": "Bec Huxtable",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827453"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "klogan@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/kerrilee_logan",
-      "name": "Kerrilee Logan"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827454",
+      "name": "Kerrilee Logan",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827454"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "kmaslin@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/kathy_maslin",
-      "name": "Kathy Maslin"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827472",
+      "name": "Kathy Maslin",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827472"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "dmccann@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/david_mccann",
-      "name": "David McCann"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827556",
+      "name": "David McCann",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827556"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "awhite@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/alan_white",
-      "name": "Alan White"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827566",
+      "name": "Alan White",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827566"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
       "id": "cooma-monaro_shire_council/dean_lynch",
@@ -3125,32 +3650,116 @@
       "name": "Bronnie Taylor"
     },
     {
+      "email": "als_diner@hotmail.com",
       "id": "coonamble_shire_council/ahmad_karanouh",
-      "name": "Ahmad Karanouh"
+      "image": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/CrKaranouhsq.jpg",
+      "name": "Alan Karanouh",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/CrKaranouhsq.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/keadys@bigpond.com",
       "id": "coonamble_shire_council/danny_keady",
-      "name": "Danny Keady"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/danny-keady.jpg",
+      "name": "Danny Keady",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/danny-keady.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "bill@burnheim.com",
       "id": "coonamble_shire_council/bill_burnheim",
-      "name": "Bill Burnheim"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/bill-burnheim.jpg",
+      "name": "Bill Burnheim",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/bill-burnheim.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "avcullen@bigpond.com.au",
       "id": "coonamble_shire_council/thomas_b_cullen",
-      "name": "Thomas B Cullen"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/tom-cullen.jpg",
+      "name": "Thomas B Cullen",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/tom-cullen.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "dschieb@bigpond.net.au",
       "id": "coonamble_shire_council/don_schieb",
-      "name": "Don Schieb"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/don-schieb.jpg",
+      "name": "Don Schieb",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/don-schieb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "johnwalker93@bigpond.com",
       "id": "coonamble_shire_council/john_walker",
-      "name": "John Walker"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/john-walker.jpg",
+      "name": "John Walker",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/john-walker.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "thawebbs@hotmail.com",
       "id": "coonamble_shire_council/michael_webb",
-      "name": "Michael Webb"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/michael-webb.jpg",
+      "name": "Michael Webb",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/michael-webb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
       "id": "cootamundra_shire_council/jim_slattery",
@@ -3226,39 +3835,138 @@
     },
     {
       "id": "cowra_shire_council/william_j_west",
-      "name": "William J West"
+      "image": "http://cowracouncil.com.au/images/Councillors/billwest.jpg",
+      "name": "William J West",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/billwest.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/judi_smith",
-      "name": "Judi Smith"
+      "image": "http://cowracouncil.com.au/images/Councillors/judismith.jpg",
+      "name": "Judi Smith",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/judismith.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/ian_brown",
-      "name": "Ian Brown"
+      "image": "http://cowracouncil.com.au/images/Councillors/ianbrown.jpg",
+      "name": "Ian Brown",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/ianbrown.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/ruth_fagan",
-      "name": "Ruth Fagan"
+      "image": "http://cowracouncil.com.au/images/Councillors/ruthfagan.jpg",
+      "name": "Ruth Fagan",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/ruthfagan.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/jack_mallon",
-      "name": "Jack Mallon"
+      "image": "http://cowracouncil.com.au/images/Councillors/jackmallon.jpg",
+      "name": "Jack Mallon",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/jackmallon.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/bruce_miller",
-      "name": "Bruce Miller"
+      "image": "http://cowracouncil.com.au/images/Councillors/brucemiller.jpg",
+      "name": "Bruce Miller",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/brucemiller.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/raymond_walsh",
-      "name": "Raymond Walsh"
+      "image": "http://cowracouncil.com.au/images/Councillors/raywalsh.jpg",
+      "name": "Raymond Walsh",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/raywalsh.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/kevin_wright",
-      "name": "Kevin Wright"
+      "image": "http://cowracouncil.com.au/images/Councillors/kevinwright.jpg",
+      "name": "Kevin Wright",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/kevinwright.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/peter_wright",
-      "name": "Peter Wright"
+      "image": "http://cowracouncil.com.au/images/Councillors/peterwright.jpg",
+      "name": "Peter Wright",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/peterwright.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "deniliquin_council/lindsay_renwick",
@@ -3333,38 +4041,47 @@
       "name": "John Walkom"
     },
     {
+      "email": "haroldjohnston@bigpond.com",
       "id": "dungog_shire_council/harold_johnston",
       "name": "Harold Johnston"
     },
     {
+      "email": "muddybricks@bigpond.com",
       "id": "dungog_shire_council/robert_booth",
       "name": "Robert Booth"
     },
     {
+      "email": "baleneville@gmail.com",
       "id": "dungog_shire_council/neville_bale",
       "name": "Neville Bale"
     },
     {
+      "email": "kenlin54@bigpond.com",
       "id": "dungog_shire_council/linda_bowden",
       "name": "Linda Bowden"
     },
     {
+      "email": "swfarrow@bigpond.net.au",
       "id": "dungog_shire_council/stephen_farrow",
       "name": "Stephen Farrow"
     },
     {
+      "email": "nancyknudsen@blackwattlestudios.com",
       "id": "dungog_shire_council/nancy_knudsen",
       "name": "Nancy Knudsen"
     },
     {
+      "email": "mck.tony@bigpond.com",
       "id": "dungog_shire_council/tony_mckenzie",
       "name": "Tony McKenzie"
     },
     {
+      "email": "westwood@australis.net",
       "id": "dungog_shire_council/tracy_norman",
       "name": "Tracy Norman"
     },
     {
+      "email": "gdwall@bigpond.net.au",
       "id": "dungog_shire_council/glenn_wall",
       "name": "Glenn Wall"
     },
@@ -8290,32 +9007,116 @@
       "name": "Danny Thompson"
     },
     {
+      "email": "john.cahill@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/john_cahill",
-      "name": "John Cahill"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=147",
+      "name": "John Cahill",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=147"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/467/Mayor-John-Cahill"
+        }
+      ]
     },
     {
+      "email": "peter.beer@snowyrive.nsw.gov.au",
       "id": "snowy_river_shire_council/peter_beer",
-      "name": "Peter Beer"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=141",
+      "name": "Peter Beer",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=141"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/468/Deputy-Mayor-Peter-Beer"
+        }
+      ]
     },
     {
+      "email": "bob.frost@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/bob_frost",
-      "name": "Bob Frost"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=139",
+      "name": "Bob Frost",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=139"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/469/Councillor-Bob-Frost"
+        }
+      ]
     },
     {
+      "email": "john.shumack@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/john_shumack",
-      "name": "John Shumack"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=143",
+      "name": "John Shumack",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=143"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/470/Councillor-John-Shumack"
+        }
+      ]
     },
     {
+      "email": "bill.smits@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/bill_smits",
-      "name": "Bill Smits"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=144",
+      "name": "Bill Smits",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=144"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/471/Councillor-Bill-Smits"
+        }
+      ]
     },
     {
+      "email": "colin.stewart-Beardsley@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/colin_stewart-beardsley",
-      "name": "Colin Stewart-Beardsley"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=145",
+      "name": "Colin Stewart-Beardsley",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=145"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/473/Councillor-Colin-Stewart-Beardsley"
+        }
+      ]
     },
     {
+      "email": "vickii.wallace@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/vickii_wallace",
-      "name": "Vickii Wallace"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=146",
+      "name": "Vickii Wallace",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=146"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/472/Councillor-Vickii-Wallace"
+        }
+      ]
     },
     {
       "id": "strathfield_municipal_council/gulian_vaccari",
@@ -8730,34 +9531,42 @@
       ]
     },
     {
+      "email": "c.murray@tamworth.nsw.gov.au",
       "id": "tamworth_regional_council/colin_j_murray",
       "name": "Colin J Murray"
     },
     {
+      "email": "r.webb@tamworth.nsw.gov.au",
       "id": "tamworth_regional_council/russell_webb",
       "name": "Russell Webb"
     },
     {
+      "email": "phil.betts@tamworth.nsw.gov.au",
       "id": "tamworth_regional_council/phil_betts",
       "name": "Phil Betts"
     },
     {
+      "email": "t.coates@tamworth.nsw.gov.au",
       "id": "tamworth_regional_council/tim_coates",
       "name": "Tim Coates"
     },
     {
+      "email": "m.rodda@tamworth.nsw.gov.au",
       "id": "tamworth_regional_council/mark_rodda",
       "name": "Mark Rodda"
     },
     {
+      "email": "h.tickle@tamworth.nsw.gov.au",
       "id": "tamworth_regional_council/helen_tickle",
       "name": "Helen Tickle"
     },
     {
+      "email": "j.treloar@tamworth.nsw.gov.au",
       "id": "tamworth_regional_council/james_treloar",
       "name": "James Treloar"
     },
     {
+      "email": "j.wilson@tamworth.nsw.gov.au",
       "id": "tamworth_regional_council/juanita_wilson",
       "name": "Juanita Wilson"
     },
@@ -9143,35 +9952,123 @@
     },
     {
       "id": "walcha_council/janelle_archdale",
-      "name": "Janelle Archdale"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1430026",
+      "name": "Janelle Archdale",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1430026"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/scott_schmutter",
-      "name": "Scott Schmutter"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1429966",
+      "name": "Scott Schmutter",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1429966"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/kevin_ferrier",
-      "name": "Kevin Ferrier"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1429977",
+      "name": "Kevin Ferrier",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1429977"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/bill_heazlett",
-      "name": "Bill Heazlett"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1430032",
+      "name": "Bill Heazlett",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1430032"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/lloyd_levingston",
-      "name": "Lloyd Levingston"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1430020",
+      "name": "Lloyd Levingston",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1430020"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/clint_lyon",
-      "name": "Clint Lyon"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1429996",
+      "name": "Clint Lyon",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1429996"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/robert_thomson",
-      "name": "Robert Thomson"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1429924",
+      "name": "Robert Thomson",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1429924"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/maria_woods",
-      "name": "Maria Woods"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1429066",
+      "name": "Maria Woods",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1429066"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walgett_shire_council/david_lane",
@@ -11444,49 +12341,49 @@
       "person_id": "balranald_shire_council/leigh_byron",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "balranald_shire_council/alan_purtill",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "balranald_shire_council/ken_barnes",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "balranald_shire_council/elaine_campbell",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "balranald_shire_council/lynda_cooke",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "balranald_shire_council/trevor_jolliffe",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "balranald_shire_council/jeff_mannix",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "balranald_shire_council/stephen_o'halloran",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bankstown_city_council/khal_asfour",
@@ -11906,43 +12803,43 @@
       "person_id": "blayney_shire_council/scott_j_ferguson",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blayney_shire_council/allan_ewin",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blayney_shire_council/geoff_p_braddon_oam",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blayney_shire_council/david_kingham",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blayney_shire_council/shane_oates",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "blayney_shire_council/kevin_radburn",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "blayney_shire_council/david_somervaille",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blue_mountains_city_council/mark_greenhill",
@@ -12212,61 +13109,61 @@
       "person_id": "bourke_shire_council/andrew_lewis",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/barry_hollman",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/victor_bartley",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/jack_bennett",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/sarah_brown",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "bourke_shire_council/sally_davis",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/cecil_dorrington",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "bourke_shire_council/lachlan_ford",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/stuart_johnson",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/bob_stutsel",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "brewarrina_shire_council/angelo_g_pippos",
@@ -13052,13 +13949,13 @@
       "person_id": "cobar_shire_council/lilliane_brady",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cobar_shire_council/tracey_kings",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cobar_shire_council/peter_abbott",
@@ -13070,55 +13967,55 @@
       "person_id": "cobar_shire_council/john_harrison",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cobar_shire_council/marsha_isbester",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cobar_shire_council/jarrod_marsden",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cobar_shire_council/greg_martin",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cobar_shire_council/peter_maxwell",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaffiliated"
     },
     {
       "person_id": "cobar_shire_council/bob_sinclair",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cobar_shire_council/harley_toomey",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cobar_shire_council/ray_wilson",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cobar_shire_council/peter_yench",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coffs_harbour_city_council/denise_knight",
@@ -13220,55 +14117,55 @@
       "person_id": "coolamon_shire_council/john_t_seymour",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/bruce_hutcheon",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/grant_beard",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/dennis_brill",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/bec_huxtable",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "coolamon_shire_council/kerrilee_logan",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/kathy_maslin",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/david_mccann",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/alan_white",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cooma-monaro_shire_council/dean_lynch",
@@ -13328,43 +14225,43 @@
       "person_id": "coonamble_shire_council/ahmad_karanouh",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coonamble_shire_council/danny_keady",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coonamble_shire_council/bill_burnheim",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coonamble_shire_council/thomas_b_cullen",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coonamble_shire_council/don_schieb",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "coonamble_shire_council/john_walker",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "coonamble_shire_council/michael_webb",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cootamundra_shire_council/jim_slattery",
@@ -13478,55 +14375,55 @@
       "person_id": "cowra_shire_council/william_j_west",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/judi_smith",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/ian_brown",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/ruth_fagan",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/jack_mallon",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/bruce_miller",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/raymond_walsh",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/kevin_wright",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/peter_wright",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "deniliquin_council/lindsay_renwick",
@@ -13640,55 +14537,55 @@
       "person_id": "dungog_shire_council/harold_johnston",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/robert_booth",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/neville_bale",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "dungog_shire_council/linda_bowden",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/stephen_farrow",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/nancy_knudsen",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/tony_mckenzie",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/tracy_norman",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/glenn_wall",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "eurobodalla_shire_council/lindsay_brown",
@@ -18063,43 +18960,43 @@
       "person_id": "snowy_river_shire_council/john_cahill",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "snowy_river_shire_council/peter_beer",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "snowy_river_shire_council/bob_frost",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "snowy_river_shire_council/john_shumack",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "snowy_river_shire_council/bill_smits",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "snowy_river_shire_council/colin_stewart-beardsley",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "snowy_river_shire_council/vickii_wallace",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "strathfield_municipal_council/gulian_vaccari",
@@ -18909,49 +19806,49 @@
       "person_id": "walcha_council/janelle_archdale",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/scott_schmutter",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/kevin_ferrier",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/bill_heazlett",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/lloyd_levingston",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/clint_lyon",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/robert_thomson",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/maria_woods",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walgett_shire_council/david_lane",
