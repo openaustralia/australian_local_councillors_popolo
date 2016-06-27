@@ -1600,32 +1600,116 @@
       "name": "Peter Templeton"
     },
     {
+      "email": "crferguson@blayney.nsw.gov.au",
       "id": "blayney_shire_council/scott_j_ferguson",
-      "name": "Scott J Ferguson"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Scott-Ferguson_115x225.jpg",
+      "name": "Scott J Ferguson",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Scott-Ferguson_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "crewin@blayney.nsw.gov.au",
       "id": "blayney_shire_council/allan_ewin",
-      "name": "Allan Ewin"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Allan%20Ewin_115x225.jpg",
+      "name": "Allan Ewin",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Allan%20Ewin_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "crbraddon@blayney.nsw.gov.au",
       "id": "blayney_shire_council/geoff_p_braddon_oam",
-      "name": "Geoff P Braddon OAM"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Geoff%20Braddon_115x225.jpg",
+      "name": "Geoff P Braddon OAM",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Geoff%20Braddon_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "crdkingham@blayney.nsw.gov.au",
       "id": "blayney_shire_council/david_kingham",
-      "name": "David Kingham"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/David%20Kingham_115x225.jpg",
+      "name": "David Kingham",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/David%20Kingham_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "croates@blayney.nsw.gov.au",
       "id": "blayney_shire_council/shane_oates",
-      "name": "Shane Oates"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Shane-Oates_115x225.jpg",
+      "name": "Shane Oates",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Shane-Oates_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "crradburn@blayney.nsw.gov.au",
       "id": "blayney_shire_council/kevin_radburn",
-      "name": "Kevin Radburn"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Kevin%20Radburn_115x225.jpg",
+      "name": "Kevin Radburn",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/Kevin%20Radburn_115x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
+      "email": "crsomervaille@blayney.nsw.gov.au",
       "id": "blayney_shire_council/david_somervaille",
-      "name": "David Somervaille"
+      "image": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/David%20Somervaille_150x225.jpg",
+      "name": "David Somervaille",
+      "images": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/Images/UserUploadedImages/165/David%20Somervaille_150x225.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.blayney.nsw.gov.au/your-council/council-and-councillors#councillors"
+        }
+      ]
     },
     {
       "email": "mgreenhill@bmcc.nsw.gov.au",
@@ -12001,43 +12085,43 @@
       "person_id": "blayney_shire_council/scott_j_ferguson",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blayney_shire_council/allan_ewin",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blayney_shire_council/geoff_p_braddon_oam",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blayney_shire_council/david_kingham",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blayney_shire_council/shane_oates",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "blayney_shire_council/kevin_radburn",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "blayney_shire_council/david_somervaille",
       "organization_id": "legislature/blayney_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "blue_mountains_city_council/mark_greenhill",
