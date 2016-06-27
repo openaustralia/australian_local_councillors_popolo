@@ -698,39 +698,132 @@
     },
     {
       "id": "huon_valley_council/peter_coad",
-      "name": "Peter Coad"
+      "image": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/Mayor-PETER-Coad-2014_Small-file-e1418076280362.jpg",
+      "name": "Peter Coad",
+      "images": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/Mayor-PETER-Coad-2014_Small-file-e1418076280362.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/council/members/"
+        }
+      ]
     },
     {
       "id": "huon_valley_council/lydia_eastley",
-      "name": "Lydia Eastley"
+      "image": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/LYDIA-Eastley-2014_Small-file-200x300.jpg",
+      "name": "Lydia Eastley",
+      "images": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/LYDIA-Eastley-2014_Small-file-200x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/council/members/"
+        }
+      ]
     },
     {
       "id": "huon_valley_council/bruce_heron",
-      "name": "Bruce Heron"
+      "image": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/BRUCE-Heron-2014_Small-file-200x300.jpg",
+      "name": "Bruce Heron",
+      "images": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/BRUCE-Heron-2014_Small-file-200x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/council/members/"
+        }
+      ]
     },
     {
       "id": "huon_valley_council/ian_mackintosh",
-      "name": "Ian Mackintosh"
+      "image": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/09/Councillor-Mackintosh-400x369.jpg",
+      "name": "Ian Mackintosh",
+      "images": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/09/Councillor-Mackintosh-400x369.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/council/members/"
+        }
+      ]
     },
     {
       "id": "huon_valley_council/ian_paul",
-      "name": "Ian Paul"
+      "image": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/IAN-Paul-2014_Small-file-200x300.jpg",
+      "name": "Ian Paul",
+      "images": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/IAN-Paul-2014_Small-file-200x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/council/members/"
+        }
+      ]
     },
     {
       "id": "huon_valley_council/pavel_ruzicka",
-      "name": "Pavel Ruzicka"
+      "image": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/PAVEL-Ruzicka-2014_Small-file-200x300.jpg",
+      "name": "Pavel Ruzicka",
+      "images": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/PAVEL-Ruzicka-2014_Small-file-200x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/council/members/"
+        }
+      ]
     },
     {
       "id": "huon_valley_council/liz_smith",
-      "name": "Liz Smith"
+      "image": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/LIZ-Smith-2014_Small-file-200x300.jpg",
+      "name": "Liz Smith",
+      "images": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/LIZ-Smith-2014_Small-file-200x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/council/members/"
+        }
+      ]
     },
     {
       "id": "huon_valley_council/ken_studley",
-      "name": "Ken Studley"
+      "name": "Ken Studley",
+      "sources": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/council/members/"
+        }
+      ]
     },
     {
       "id": "huon_valley_council/mike_wilson",
-      "name": "Mike Wilson"
+      "image": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/MIKE-Wilson-2014_Small-file-200x300.jpg",
+      "name": "Mike Wilson",
+      "images": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/wp-content/uploads/2014/12/MIKE-Wilson-2014_Small-file-200x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.huonvalley.tas.gov.au/council/members/"
+        }
+      ]
     },
     {
       "id": "kentish_council/rodney_blenkhorn",
@@ -805,44 +898,164 @@
       "name": "Kirsty Russell"
     },
     {
+      "email": "cr.richardatkinson@kingborough.tas.gov.au",
       "id": "kingborough_council/richard_atkinson",
-      "name": "Richard Atkinson"
+      "image": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Atkinson.jpg",
+      "name": "Richard Atkinson",
+      "images": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Atkinson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/page.aspx?u=512&t=uList&ulistId=0&c=1050"
+        }
+      ]
     },
     {
+      "email": "cr.suebastone@kingborough.tas.gov.au",
       "id": "kingborough_council/sue_bastone",
-      "name": "Sue Bastone"
+      "image": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Sue.jpg",
+      "name": "Sue Bastone",
+      "images": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Sue.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/page.aspx?u=512&t=uList&ulistId=0&c=18498"
+        }
+      ]
     },
     {
+      "email": "cr.grahambury@bigpond.com",
       "id": "kingborough_council/graham_bury",
-      "name": "Graham Bury"
+      "image": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Mayor-Graham-Bury.jpg",
+      "name": "Graham Bury",
+      "images": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Mayor-Graham-Bury.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/page.aspx?u=512&t=uList&ulistId=0&c=292"
+        }
+      ]
     },
     {
+      "email": "cr.florafox@bigpond.com",
       "id": "kingborough_council/flora_fox",
-      "name": "Flora Fox"
+      "image": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Cr-Flora-Fox.jpg",
+      "name": "Flora Fox",
+      "images": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Cr-Flora-Fox.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/page.aspx?u=512&t=uList&ulistId=0&c=283"
+        }
+      ]
     },
     {
+      "email": "cr.davidgrace@bigpond.com",
       "id": "kingborough_council/david_grace",
-      "name": "David Grace"
+      "image": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Cr-David-Grace.jpg",
+      "name": "David Grace",
+      "images": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Cr-David-Grace.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/page.aspx?u=512&t=uList&ulistId=0&c=293"
+        }
+      ]
     },
     {
+      "email": "cr.mikepercey@kingborough.tas.gov.au",
       "id": "kingborough_council/michael_percey",
-      "name": "Michael Percey"
+      "image": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Percey.jpg",
+      "name": "Michael Percey",
+      "images": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Percey.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/page.aspx?u=512&t=uList&ulistId=0&c=282"
+        }
+      ]
     },
     {
-      "id": "kingborough_council/nic_street",
-      "name": "Nic Street"
+      "email": "cr.paulchatterton@bigpond.com",
+      "id": "kingborough_council/paul_chatterton",
+      "image": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Chatterton%20(web).jpg",
+      "name": "Paul Chatterton",
+      "images": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Chatterton%20(web).jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/page.aspx?u=512&t=uList&ulistId=0&c=19722"
+        }
+      ]
     },
     {
+      "email": "stevewass@hotmail.com",
       "id": "kingborough_council/steve_wass",
-      "name": "Steve Wass"
+      "image": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Cr-Steve-Wass.jpg",
+      "name": "Steve Wass",
+      "images": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Cr-Steve-Wass.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/page.aspx?u=512&t=uList&ulistId=0&c=286"
+        }
+      ]
     },
     {
+      "email": "cr.deanwinter@kingborough.tas.gov.au",
       "id": "kingborough_council/dean_winter",
-      "name": "Dean Winter"
+      "image": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Cr%20Dean%20Winter%20New.jpg",
+      "name": "Dean Winter",
+      "images": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Cr%20Dean%20Winter%20New.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/page.aspx?u=512&t=uList&ulistId=0&c=289"
+        }
+      ]
     },
     {
+      "email": "cr.paulawriedt@bigpond.com",
       "id": "kingborough_council/paula_wriedt",
-      "name": "Paula Wriedt"
+      "image": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Cr-Paula-Wriedt.jpg",
+      "name": "Paula Wriedt",
+      "images": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/webdata/resources/contact/Cr-Paula-Wriedt.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingborough.tas.gov.au/page.aspx?u=512&t=uList&ulistId=0&c=5151"
+        }
+      ]
     },
     {
       "id": "latrobe_council/graeme_brown",
@@ -1500,6 +1713,11 @@
     {
       "id": "party/_greens",
       "name": " Greens",
+      "classification": "party"
+    },
+    {
+      "id": "party/greens",
+      "name": "Greens",
       "classification": "party"
     }
   ],
@@ -2336,55 +2554,55 @@
       "person_id": "huon_valley_council/peter_coad",
       "organization_id": "legislature/huon_valley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "huon_valley_council/lydia_eastley",
       "organization_id": "legislature/huon_valley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "huon_valley_council/bruce_heron",
       "organization_id": "legislature/huon_valley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "huon_valley_council/ian_mackintosh",
       "organization_id": "legislature/huon_valley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "huon_valley_council/ian_paul",
       "organization_id": "legislature/huon_valley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "huon_valley_council/pavel_ruzicka",
       "organization_id": "legislature/huon_valley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "huon_valley_council/liz_smith",
       "organization_id": "legislature/huon_valley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "huon_valley_council/ken_studley",
       "organization_id": "legislature/huon_valley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "huon_valley_council/mike_wilson",
       "organization_id": "legislature/huon_valley_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "kentish_council/rodney_blenkhorn",
@@ -2531,7 +2749,7 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "kingborough_council/nic_street",
+      "person_id": "kingborough_council/paul_chatterton",
       "organization_id": "legislature/kingborough_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
