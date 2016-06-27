@@ -3470,40 +3470,148 @@
       "name": "Mac Wallace"
     },
     {
+      "email": "jseymour@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/john_t_seymour",
-      "name": "John T Seymour"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827439",
+      "name": "John T Seymour",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827439"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "bhutcheon@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/bruce_hutcheon",
-      "name": "Bruce Hutcheon"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827447",
+      "name": "Bruce Hutcheon",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827447"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "gbeard@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/grant_beard",
-      "name": "Grant Beard"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827449",
+      "name": "Grant Beard",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827449"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "dbrill@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/dennis_brill",
-      "name": "Dennis Brill"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827451",
+      "name": "Dennis Brill",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827451"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "rhuxtable@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/bec_huxtable",
-      "name": "Bec Huxtable"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827453",
+      "name": "Bec Huxtable",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827453"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "klogan@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/kerrilee_logan",
-      "name": "Kerrilee Logan"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827454",
+      "name": "Kerrilee Logan",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827454"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "kmaslin@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/kathy_maslin",
-      "name": "Kathy Maslin"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827472",
+      "name": "Kathy Maslin",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827472"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "dmccann@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/david_mccann",
-      "name": "David McCann"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827556",
+      "name": "David McCann",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827556"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
+      "email": "awhite@coolamon.nsw.gov.au",
       "id": "coolamon_shire_council/alan_white",
-      "name": "Alan White"
+      "image": "http://www.coolamon.nsw.gov.au/f.ashx?v=827566",
+      "name": "Alan White",
+      "images": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/f.ashx?v=827566"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coolamon.nsw.gov.au/about/mayor-and-councillors/the-council.aspx"
+        }
+      ]
     },
     {
       "id": "cooma-monaro_shire_council/dean_lynch",
@@ -13637,55 +13745,55 @@
       "person_id": "coolamon_shire_council/john_t_seymour",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/bruce_hutcheon",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/grant_beard",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/dennis_brill",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/bec_huxtable",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "coolamon_shire_council/kerrilee_logan",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/kathy_maslin",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/david_mccann",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coolamon_shire_council/alan_white",
       "organization_id": "legislature/coolamon_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cooma-monaro_shire_council/dean_lynch",
