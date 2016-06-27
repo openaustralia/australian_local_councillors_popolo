@@ -537,36 +537,131 @@
       ]
     },
     {
+      "email": "mayor@balranald.nsw.gov.au",
       "id": "balranald_shire_council/leigh_byron",
-      "name": "Leigh Byron"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Leigh-byron-final-2-300x300.jpg",
+      "name": "Leigh Byron",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Leigh-byron-final-2-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "gailpurtill@bigpond.com",
       "id": "balranald_shire_council/alan_purtill",
-      "name": "Alan Purtill"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Allan-Purtill-final-300x300.jpg",
+      "name": "Alan Purtill",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Allan-Purtill-final-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "kyalitepub@bigpond.com",
       "id": "balranald_shire_council/ken_barnes",
-      "name": "Ken Barnes"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Ken-Barnes-Final-2-300x300.jpg",
+      "name": "Ken Barnes",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Ken-Barnes-Final-2-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "elainecampbell4@bigpond.com",
       "id": "balranald_shire_council/elaine_campbell",
-      "name": "Elaine Campbell"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Eliean-Campbell-final-300x300.jpg",
+      "name": "Elaine Campbell",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Eliean-Campbell-final-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "ozdac@dodo.com.au",
       "id": "balranald_shire_council/lynda_cooke",
-      "name": "Lynda Cooke"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/IMG_Lynda-Fixed-300x300.jpg",
+      "name": "Lynda Cooke",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/IMG_Lynda-Fixed-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "tjjoll@bigpond.com",
       "id": "balranald_shire_council/trevor_jolliffe",
-      "name": "Trevor Jolliffe"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Trevor-Jollifeee-final-2-300x300.jpg",
+      "name": "Trevor Jolliffe",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Trevor-Jollifeee-final-2-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
+      "email": "mannixco@iinet.net.au",
       "id": "balranald_shire_council/jeff_mannix",
-      "name": "Jeff Mannix"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Jeff-Mannix-final-300x300.jpg",
+      "name": "Jeff Mannix",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Jeff-Mannix-final-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
       "id": "balranald_shire_council/stephen_o'halloran",
-      "name": "Stephen O'Halloran"
+      "image": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Ohalleran-300x300.jpg",
+      "name": "Stephen O'Halloran",
+      "images": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/wp-content/uploads/2014/03/Ohalleran-300x300.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.balranald.nsw.gov.au/your-council/elected-members/"
+        }
+      ]
     },
     {
       "id": "bankstown_city_council/khal_asfour",
@@ -11444,49 +11539,49 @@
       "person_id": "balranald_shire_council/leigh_byron",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "balranald_shire_council/alan_purtill",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "balranald_shire_council/ken_barnes",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "balranald_shire_council/elaine_campbell",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "balranald_shire_council/lynda_cooke",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "balranald_shire_council/trevor_jolliffe",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "balranald_shire_council/jeff_mannix",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "balranald_shire_council/stephen_o'halloran",
       "organization_id": "legislature/balranald_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bankstown_city_council/khal_asfour",
