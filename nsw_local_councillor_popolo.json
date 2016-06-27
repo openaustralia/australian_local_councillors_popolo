@@ -2033,43 +2033,93 @@
     },
     {
       "id": "bourke_shire_council/andrew_lewis",
-      "name": "Andrew Lewis"
+      "name": "Andrew Lewis",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/barry_hollman",
-      "name": "Barry Hollman"
+      "name": "Barry Hollman",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/victor_bartley",
-      "name": "Victor Bartley"
+      "name": "Victor Bartley",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/jack_bennett",
-      "name": "Jack Bennett"
+      "name": "Jack Bennett",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/sarah_brown",
-      "name": "Sarah Brown"
+      "name": "Sarah Brown",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/sally_davis",
-      "name": "Sally Davis"
+      "name": "Sally Davis",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/cecil_dorrington",
-      "name": "Cecil Dorrington"
+      "name": "Cecil Dorrington",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/lachlan_ford",
-      "name": "Lachlan Ford"
+      "name": "Lachlan Ford",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/stuart_johnson",
-      "name": "Stuart Johnson"
+      "name": "Stuart Johnson",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "bourke_shire_council/bob_stutsel",
-      "name": "Bob Stutsel"
+      "name": "Bob Stutsel",
+      "sources": [
+        {
+          "url": "http://www.bourke.nsw.gov.au/council/councillors"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/angelo_g_pippos",
@@ -12391,61 +12441,61 @@
       "person_id": "bourke_shire_council/andrew_lewis",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/barry_hollman",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/victor_bartley",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/jack_bennett",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/sarah_brown",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "bourke_shire_council/sally_davis",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/cecil_dorrington",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "bourke_shire_council/lachlan_ford",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/stuart_johnson",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "bourke_shire_council/bob_stutsel",
       "organization_id": "legislature/bourke_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "brewarrina_shire_council/angelo_g_pippos",
