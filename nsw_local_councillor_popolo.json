@@ -4041,38 +4041,47 @@
       "name": "John Walkom"
     },
     {
+      "email": "haroldjohnston@bigpond.com",
       "id": "dungog_shire_council/harold_johnston",
       "name": "Harold Johnston"
     },
     {
+      "email": "muddybricks@bigpond.com",
       "id": "dungog_shire_council/robert_booth",
       "name": "Robert Booth"
     },
     {
+      "email": "baleneville@gmail.com",
       "id": "dungog_shire_council/neville_bale",
       "name": "Neville Bale"
     },
     {
+      "email": "kenlin54@bigpond.com",
       "id": "dungog_shire_council/linda_bowden",
       "name": "Linda Bowden"
     },
     {
+      "email": "swfarrow@bigpond.net.au",
       "id": "dungog_shire_council/stephen_farrow",
       "name": "Stephen Farrow"
     },
     {
+      "email": "nancyknudsen@blackwattlestudios.com",
       "id": "dungog_shire_council/nancy_knudsen",
       "name": "Nancy Knudsen"
     },
     {
+      "email": "mck.tony@bigpond.com",
       "id": "dungog_shire_council/tony_mckenzie",
       "name": "Tony McKenzie"
     },
     {
+      "email": "westwood@australis.net",
       "id": "dungog_shire_council/tracy_norman",
       "name": "Tracy Norman"
     },
     {
+      "email": "gdwall@bigpond.net.au",
       "id": "dungog_shire_council/glenn_wall",
       "name": "Glenn Wall"
     },
@@ -14348,55 +14357,55 @@
       "person_id": "dungog_shire_council/harold_johnston",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/robert_booth",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/neville_bale",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "dungog_shire_council/linda_bowden",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/stephen_farrow",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/nancy_knudsen",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/tony_mckenzie",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/tracy_norman",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "dungog_shire_council/glenn_wall",
       "organization_id": "legislature/dungog_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "eurobodalla_shire_council/lindsay_brown",
