@@ -2123,39 +2123,93 @@
     },
     {
       "id": "brewarrina_shire_council/angelo_g_pippos",
-      "name": "Angelo G Pippos"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405303",
+      "name": "Angelo G Pippos",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405303"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/ocker_o'connor",
-      "name": "Ocker O'Connor"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405301",
+      "name": "Phillip O'Connor",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405301"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/mark_brown",
-      "name": "Mark Brown"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405291",
+      "name": "Mark Brown",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405291"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/moses_hertslet",
-      "name": "Moses Hertslet"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405300",
+      "name": "Michael Hertslet",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405300"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/bill_loughnan",
-      "name": "Bill Loughnan"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405331",
+      "name": "Bill Loughnan",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405331"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/wulf_reichler",
-      "name": "Wulf Reichler"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405297",
+      "name": "Wulf Reichler",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405297"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/matthew_slack-smith",
-      "name": "Matthew Slack-Smith"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405299",
+      "name": "Matthew Slack-Smith",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405299"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/tommy_stanton",
-      "name": "Tommy Stanton"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1417412",
+      "name": "Tommy Stanton",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1417412"
+        }
+      ]
     },
     {
       "id": "brewarrina_shire_council/robert_wason",
-      "name": "Robert Wason"
+      "image": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405298",
+      "name": "Robert Wason",
+      "images": [
+        {
+          "url": "http://www.brewarrina.nsw.gov.au/f.ashx?v=1405298"
+        }
+      ]
     },
     {
       "id": "broken_hill_city_council/wincen_cuy",
