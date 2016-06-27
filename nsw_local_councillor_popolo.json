@@ -9952,35 +9952,123 @@
     },
     {
       "id": "walcha_council/janelle_archdale",
-      "name": "Janelle Archdale"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1430026",
+      "name": "Janelle Archdale",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1430026"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/scott_schmutter",
-      "name": "Scott Schmutter"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1429966",
+      "name": "Scott Schmutter",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1429966"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/kevin_ferrier",
-      "name": "Kevin Ferrier"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1429977",
+      "name": "Kevin Ferrier",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1429977"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/bill_heazlett",
-      "name": "Bill Heazlett"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1430032",
+      "name": "Bill Heazlett",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1430032"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/lloyd_levingston",
-      "name": "Lloyd Levingston"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1430020",
+      "name": "Lloyd Levingston",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1430020"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/clint_lyon",
-      "name": "Clint Lyon"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1429996",
+      "name": "Clint Lyon",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1429996"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/robert_thomson",
-      "name": "Robert Thomson"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1429924",
+      "name": "Robert Thomson",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1429924"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walcha_council/maria_woods",
-      "name": "Maria Woods"
+      "image": "http://www.walcha.nsw.gov.au/f.ashx?v=1429066",
+      "name": "Maria Woods",
+      "images": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/f.ashx?v=1429066"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.walcha.nsw.gov.au/council/Councillors.aspx"
+        }
+      ]
     },
     {
       "id": "walgett_shire_council/david_lane",
@@ -19718,49 +19806,49 @@
       "person_id": "walcha_council/janelle_archdale",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/scott_schmutter",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/kevin_ferrier",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/bill_heazlett",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/lloyd_levingston",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/clint_lyon",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/robert_thomson",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walcha_council/maria_woods",
       "organization_id": "legislature/walcha_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "walgett_shire_council/david_lane",
