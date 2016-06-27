@@ -9007,32 +9007,116 @@
       "name": "Danny Thompson"
     },
     {
+      "email": "john.cahill@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/john_cahill",
-      "name": "John Cahill"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=147",
+      "name": "John Cahill",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=147"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/467/Mayor-John-Cahill"
+        }
+      ]
     },
     {
+      "email": "peter.beer@snowyrive.nsw.gov.au",
       "id": "snowy_river_shire_council/peter_beer",
-      "name": "Peter Beer"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=141",
+      "name": "Peter Beer",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=141"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/468/Deputy-Mayor-Peter-Beer"
+        }
+      ]
     },
     {
+      "email": "bob.frost@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/bob_frost",
-      "name": "Bob Frost"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=139",
+      "name": "Bob Frost",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=139"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/469/Councillor-Bob-Frost"
+        }
+      ]
     },
     {
+      "email": "john.shumack@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/john_shumack",
-      "name": "John Shumack"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=143",
+      "name": "John Shumack",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=143"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/470/Councillor-John-Shumack"
+        }
+      ]
     },
     {
+      "email": "bill.smits@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/bill_smits",
-      "name": "Bill Smits"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=144",
+      "name": "Bill Smits",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=144"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/471/Councillor-Bill-Smits"
+        }
+      ]
     },
     {
+      "email": "colin.stewart-Beardsley@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/colin_stewart-beardsley",
-      "name": "Colin Stewart-Beardsley"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=145",
+      "name": "Colin Stewart-Beardsley",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=145"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/473/Councillor-Colin-Stewart-Beardsley"
+        }
+      ]
     },
     {
+      "email": "vickii.wallace@snowyriver.nsw.gov.au",
       "id": "snowy_river_shire_council/vickii_wallace",
-      "name": "Vickii Wallace"
+      "image": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=146",
+      "name": "Vickii Wallace",
+      "images": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/ImageRepository/Document?documentID=146"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.snowyriver.nsw.gov.au/472/Councillor-Vickii-Wallace"
+        }
+      ]
     },
     {
       "id": "strathfield_municipal_council/gulian_vaccari",
@@ -18780,43 +18864,43 @@
       "person_id": "snowy_river_shire_council/john_cahill",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "snowy_river_shire_council/peter_beer",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "snowy_river_shire_council/bob_frost",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "snowy_river_shire_council/john_shumack",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "snowy_river_shire_council/bill_smits",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "snowy_river_shire_council/colin_stewart-beardsley",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "snowy_river_shire_council/vickii_wallace",
       "organization_id": "legislature/snowy_river_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "strathfield_municipal_council/gulian_vaccari",
