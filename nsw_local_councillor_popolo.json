@@ -3835,39 +3835,138 @@
     },
     {
       "id": "cowra_shire_council/william_j_west",
-      "name": "William J West"
+      "image": "http://cowracouncil.com.au/images/Councillors/billwest.jpg",
+      "name": "William J West",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/billwest.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/judi_smith",
-      "name": "Judi Smith"
+      "image": "http://cowracouncil.com.au/images/Councillors/judismith.jpg",
+      "name": "Judi Smith",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/judismith.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/ian_brown",
-      "name": "Ian Brown"
+      "image": "http://cowracouncil.com.au/images/Councillors/ianbrown.jpg",
+      "name": "Ian Brown",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/ianbrown.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/ruth_fagan",
-      "name": "Ruth Fagan"
+      "image": "http://cowracouncil.com.au/images/Councillors/ruthfagan.jpg",
+      "name": "Ruth Fagan",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/ruthfagan.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/jack_mallon",
-      "name": "Jack Mallon"
+      "image": "http://cowracouncil.com.au/images/Councillors/jackmallon.jpg",
+      "name": "Jack Mallon",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/jackmallon.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/bruce_miller",
-      "name": "Bruce Miller"
+      "image": "http://cowracouncil.com.au/images/Councillors/brucemiller.jpg",
+      "name": "Bruce Miller",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/brucemiller.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/raymond_walsh",
-      "name": "Raymond Walsh"
+      "image": "http://cowracouncil.com.au/images/Councillors/raywalsh.jpg",
+      "name": "Raymond Walsh",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/raywalsh.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/kevin_wright",
-      "name": "Kevin Wright"
+      "image": "http://cowracouncil.com.au/images/Councillors/kevinwright.jpg",
+      "name": "Kevin Wright",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/kevinwright.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "cowra_shire_council/peter_wright",
-      "name": "Peter Wright"
+      "image": "http://cowracouncil.com.au/images/Councillors/peterwright.jpg",
+      "name": "Peter Wright",
+      "images": [
+        {
+          "url": "http://cowracouncil.com.au/images/Councillors/peterwright.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://cowracouncil.com.au/index.php/your-council/2012-07-30-05-27-25"
+        }
+      ]
     },
     {
       "id": "deniliquin_council/lindsay_renwick",
@@ -14087,55 +14186,55 @@
       "person_id": "cowra_shire_council/william_j_west",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/judi_smith",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/ian_brown",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/ruth_fagan",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/jack_mallon",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/bruce_miller",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/raymond_walsh",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/kevin_wright",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cowra_shire_council/peter_wright",
       "organization_id": "legislature/cowra_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "deniliquin_council/lindsay_renwick",
