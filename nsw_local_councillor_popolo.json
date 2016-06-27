@@ -3650,32 +3650,116 @@
       "name": "Bronnie Taylor"
     },
     {
+      "email": "als_diner@hotmail.com",
       "id": "coonamble_shire_council/ahmad_karanouh",
-      "name": "Ahmad Karanouh"
+      "image": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/CrKaranouhsq.jpg",
+      "name": "Alan Karanouh",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/CrKaranouhsq.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/keadys@bigpond.com",
       "id": "coonamble_shire_council/danny_keady",
-      "name": "Danny Keady"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/danny-keady.jpg",
+      "name": "Danny Keady",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/danny-keady.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "bill@burnheim.com",
       "id": "coonamble_shire_council/bill_burnheim",
-      "name": "Bill Burnheim"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/bill-burnheim.jpg",
+      "name": "Bill Burnheim",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/bill-burnheim.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "avcullen@bigpond.com.au",
       "id": "coonamble_shire_council/thomas_b_cullen",
-      "name": "Thomas B Cullen"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/tom-cullen.jpg",
+      "name": "Thomas B Cullen",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/tom-cullen.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "dschieb@bigpond.net.au",
       "id": "coonamble_shire_council/don_schieb",
-      "name": "Don Schieb"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/don-schieb.jpg",
+      "name": "Don Schieb",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/don-schieb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "johnwalker93@bigpond.com",
       "id": "coonamble_shire_council/john_walker",
-      "name": "John Walker"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/john-walker.jpg",
+      "name": "John Walker",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/john-walker.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
+      "email": "thawebbs@hotmail.com",
       "id": "coonamble_shire_council/michael_webb",
-      "name": "Michael Webb"
+      "image": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/michael-webb.jpg",
+      "name": "Michael Webb",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/2015/_media/content/councillors/michael-webb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
     },
     {
       "id": "cootamundra_shire_council/jim_slattery",
@@ -13853,43 +13937,43 @@
       "person_id": "coonamble_shire_council/ahmad_karanouh",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coonamble_shire_council/danny_keady",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coonamble_shire_council/bill_burnheim",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coonamble_shire_council/thomas_b_cullen",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coonamble_shire_council/don_schieb",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "coonamble_shire_council/john_walker",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "coonamble_shire_council/michael_webb",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cootamundra_shire_council/jim_slattery",
