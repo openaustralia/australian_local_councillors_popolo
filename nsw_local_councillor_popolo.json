@@ -3128,52 +3128,186 @@
       "name": "Karen Toms"
     },
     {
+      "email": "lillieo@bigpond.net.au",
       "id": "cobar_shire_council/lilliane_brady",
-      "name": "Lilliane Brady"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Lilliane_Brady_New.jpg",
+      "name": "Lilliane Brady",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Lilliane_Brady_New.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "sales@redearthrealestate.com.au",
       "id": "cobar_shire_council/tracey_kings",
-      "name": "Tracey Kings"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Tracey%20Kings.jpg",
+      "name": "Tracey Kings",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Tracey%20Kings.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "abbottp_c@internet.on.net",
       "id": "cobar_shire_council/peter_abbott",
-      "name": "Peter Abbott"
+      "image": "http://www.cobar.nsw.gov.au/images/images/Peter_Abbott.jpg",
+      "name": "Peter Abbott",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/images/Peter_Abbott.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "johnglen46@bigpond.com",
       "id": "cobar_shire_council/john_harrison",
-      "name": "John Harrison"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Harrison.jpg",
+      "name": "John Harrison",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Harrison.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "id": "cobar_shire_council/marsha_isbester",
-      "name": "Marsha Isbester"
+      "name": "Marsha Isbester",
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "jmarsden@cmpl.com.au",
       "id": "cobar_shire_council/jarrod_marsden",
-      "name": "Jarrod Marsden"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Jarrod%20Marsden.jpg",
+      "name": "Jarrod Marsden",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Jarrod%20Marsden.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "id": "cobar_shire_council/greg_martin",
-      "name": "Greg Martin"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Greg%20Martin.jpg",
+      "name": "Greg Martin",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Greg%20Martin.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "id": "cobar_shire_council/peter_maxwell",
-      "name": "Peter Maxwell"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Maxwell.jpg",
+      "name": "Peter Maxwell",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Maxwell.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "rsinclair3@bigpond.com",
       "id": "cobar_shire_council/bob_sinclair",
-      "name": "Bob Sinclair"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Bob%20Sinclair.jpg",
+      "name": "Bob Sinclair",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Bob%20Sinclair.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "id": "cobar_shire_council/harley_toomey",
-      "name": "Harley Toomey"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Harley%20Toomey.jpg",
+      "name": "Harley Toomey",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Harley%20Toomey.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "raymondwilson6@bigpond.com",
       "id": "cobar_shire_council/ray_wilson",
-      "name": "Ray Wilson"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Ray%20Wilson.jpg",
+      "name": "Ray Wilson",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Ray%20Wilson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
+      "email": "pyench@outlook.com",
       "id": "cobar_shire_council/peter_yench",
-      "name": "Peter Yench"
+      "image": "http://www.cobar.nsw.gov.au/images/People/Peter%20Yench.jpg",
+      "name": "Peter Yench",
+      "images": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/images/People/Peter%20Yench.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cobar.nsw.gov.au/council/mayor-councillors"
+        }
+      ]
     },
     {
       "email": "denise.knight@chcc.nsw.gov.au",
@@ -13335,13 +13469,13 @@
       "person_id": "cobar_shire_council/lilliane_brady",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cobar_shire_council/tracey_kings",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cobar_shire_council/peter_abbott",
@@ -13353,55 +13487,55 @@
       "person_id": "cobar_shire_council/john_harrison",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cobar_shire_council/marsha_isbester",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cobar_shire_council/jarrod_marsden",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cobar_shire_council/greg_martin",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cobar_shire_council/peter_maxwell",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaffiliated"
     },
     {
       "person_id": "cobar_shire_council/bob_sinclair",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cobar_shire_council/harley_toomey",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "cobar_shire_council/ray_wilson",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "cobar_shire_council/peter_yench",
       "organization_id": "legislature/cobar_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unaligned"
     },
     {
       "person_id": "coffs_harbour_city_council/denise_knight",
