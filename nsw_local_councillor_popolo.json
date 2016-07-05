@@ -21701,14 +21701,14 @@
       "role": "deputy mayor"
     },
     {
-      "person_id": "ku-ring-gai_council/jennifer_anderson",
-      "organization_id": "legislature/ku-ring-gai_council",
-      "role": "Mayor"
-    },
-    {
-      "person_id": "ku-ring-gai_council/chantelle_fornari-orsmond",
+      "person_id": "ku-ring-gai_council/david_ossip",
       "organization_id": "legislature/ku-ring-gai_council",
       "role": "deputy mayor"
+    },
+    {
+      "person_id": "ku-ring-gai_council/cheryl_szatow",
+      "organization_id": "legislature/ku-ring-gai_council",
+      "role": "Mayor"
     },
     {
       "person_id": "kyogle_council/danielle_mulholland",
