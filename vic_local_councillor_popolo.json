@@ -903,40 +903,94 @@
       "name": "Neil Trotter"
     },
     {
+      "email": "Mayor@darebin.vic.gov.au",
       "id": "darebin_city_council/vince_fontana",
-      "name": "Vince Fontana"
+      "name": "Vince Fontana",
+      "sources": [
+        {
+          "url": "http://www.darebin.vic.gov.au/Your-Council/How-council-works/Council-and-Elections"
+        }
+      ]
     },
     {
+      "email": "Bo-Li@cr.darebin.org",
       "id": "darebin_city_council/bo_li",
-      "name": "Bo Li"
+      "name": "Bo Li",
+      "sources": [
+        {
+          "url": "http://www.darebin.vic.gov.au/Your-Council/How-council-works/Council-and-Elections"
+        }
+      ]
     },
     {
+      "email": "Julie-Williams@cr.darebin.org",
       "id": "darebin_city_council/julie_williams",
-      "name": "Julie Williams"
+      "name": "Julie Williams",
+      "sources": [
+        {
+          "url": "http://www.darebin.vic.gov.au/Your-Council/How-council-works/Council-and-Elections"
+        }
+      ]
     },
     {
+      "email": "Gaetano-Greco@cr.darebin.org",
       "id": "darebin_city_council/gaetano_greco",
-      "name": "Gaetano Greco"
+      "name": "Gaetano Greco",
+      "sources": [
+        {
+          "url": "http://www.darebin.vic.gov.au/Your-Council/How-council-works/Council-and-Elections"
+        }
+      ]
     },
     {
+      "email": "Tim-Laurence@cr.darebin.org",
       "id": "darebin_city_council/tim_laurence",
-      "name": "Tim Laurence"
+      "name": "Tim Laurence",
+      "sources": [
+        {
+          "url": "http://www.darebin.vic.gov.au/Your-Council/How-council-works/Council-and-Elections"
+        }
+      ]
     },
     {
+      "email": "Angela-Villella@cr.darebin.org",
       "id": "darebin_city_council/angela_villella",
-      "name": "Angela Villella"
+      "name": "Angela Villella",
+      "sources": [
+        {
+          "url": "http://www.darebin.vic.gov.au/Your-Council/How-council-works/Council-and-Elections"
+        }
+      ]
     },
     {
+      "email": "Trent-McCarthy@cr.darebin.org",
       "id": "darebin_city_council/trent_mccarthy",
-      "name": "Trent McCarthy"
+      "name": "Trent McCarthy",
+      "sources": [
+        {
+          "url": "http://www.darebin.vic.gov.au/Your-Council/How-council-works/Council-and-Elections"
+        }
+      ]
     },
     {
+      "email": "steven-tsitas@cr.darebin.org",
       "id": "darebin_city_council/steven_tsitas",
-      "name": "Steven Tsitas"
+      "name": "Steven Tsitas",
+      "sources": [
+        {
+          "url": "http://www.darebin.vic.gov.au/Your-Council/How-council-works/Council-and-Elections"
+        }
+      ]
     },
     {
+      "email": "Oliver-Walsh@cr.darebin.org",
       "id": "darebin_city_council/oliver_walsh",
-      "name": "Oliver Walsh"
+      "name": "Oliver Walsh",
+      "sources": [
+        {
+          "url": "http://www.darebin.vic.gov.au/Your-Council/How-council-works/Council-and-Elections"
+        }
+      ]
     },
     {
       "id": "east_gippsland_shire_council/ben_buckley",
@@ -5056,55 +5110,55 @@
       "person_id": "darebin_city_council/vince_fontana",
       "organization_id": "legislature/darebin_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "darebin_city_council/bo_li",
       "organization_id": "legislature/darebin_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "darebin_city_council/julie_williams",
       "organization_id": "legislature/darebin_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "darebin_city_council/gaetano_greco",
       "organization_id": "legislature/darebin_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "darebin_city_council/tim_laurence",
       "organization_id": "legislature/darebin_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "darebin_city_council/angela_villella",
       "organization_id": "legislature/darebin_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "darebin_city_council/trent_mccarthy",
       "organization_id": "legislature/darebin_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "darebin_city_council/steven_tsitas",
       "organization_id": "legislature/darebin_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/labor"
     },
     {
       "person_id": "darebin_city_council/oliver_walsh",
       "organization_id": "legislature/darebin_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/liberal"
     },
     {
       "person_id": "east_gippsland_shire_council/ben_buckley",
@@ -8421,7 +8475,8 @@
       "council_website",
       "ward",
       "phone_mobile",
-      "phone_landline"
+      "phone_landline",
+      "phone_fax"
     ]
   }
 }
