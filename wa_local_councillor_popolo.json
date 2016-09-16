@@ -741,49 +741,157 @@
       "name": "Michelle Tracey Steck"
     },
     {
+      "email": "grant.henley@busselton.wa.gov.au",
       "gender": "male",
       "id": "busselton_city_council/grant_douglas_henley",
-      "name": "Grant Douglas Henley"
+      "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-grant-henley.jpg",
+      "name": "Grant Douglas Henley",
+      "images": [
+        {
+          "url": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-grant-henley.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.busselton.wa.gov.au/Council/Our-Organisation/Councillors"
+        }
+      ]
     },
     {
+      "email": "paul.carter@busselton.wa.gov.au",
       "gender": "male",
       "id": "busselton_city_council/paul_thomas_carter",
-      "name": "Paul Thomas Carter"
+      "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-paul-carter.jpg",
+      "name": "Paul Thomas Carter",
+      "images": [
+        {
+          "url": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-paul-carter.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.busselton.wa.gov.au/Council/Our-Organisation/Councillors"
+        }
+      ]
     },
     {
+      "email": "ross.paine@busselton.wa.gov.au",
       "gender": "male",
       "id": "busselton_city_council/ross_paine",
-      "name": "Ross Paine"
+      "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-ross-paine.jpg",
+      "name": "Ross Paine",
+      "images": [
+        {
+          "url": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-ross-paine.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.busselton.wa.gov.au/Council/Our-Organisation/Councillors"
+        }
+      ]
     },
     {
+      "email": "terry.best@busselton.wa.gov.au",
       "gender": "male",
       "id": "busselton_city_council/terrence_john_martin_best",
-      "name": "Terrence John Martin Best"
+      "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-terry-best.jpg",
+      "name": "Terrence John Martin Best",
+      "images": [
+        {
+          "url": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-terry-best.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.busselton.wa.gov.au/Council/Our-Organisation/Councillors"
+        }
+      ]
     },
     {
+      "email": "coralie.tarbotton@busselton.wa.gov.au",
       "gender": "female",
       "id": "busselton_city_council/coralie_isobel_tarbotton",
-      "name": "Coralie Isobel Tarbotton"
+      "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-coralie-tarbotton.jpg",
+      "name": "Coralie Isobel Tarbotton",
+      "images": [
+        {
+          "url": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-coralie-tarbotton.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.busselton.wa.gov.au/Council/Our-Organisation/Councillors"
+        }
+      ]
     },
     {
+      "email": "robert.reekie@busselton.wa.gov.au",
       "gender": "male",
       "id": "busselton_city_council/robert_james_reekie",
-      "name": "Robert James Reekie"
+      "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-robert-reekie.jpg",
+      "name": "Robert James Reekie",
+      "images": [
+        {
+          "url": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-robert-reekie.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.busselton.wa.gov.au/Council/Our-Organisation/Councillors"
+        }
+      ]
     },
     {
+      "email": "john.mccallum@busselton.wa.gov.au",
       "gender": "male",
       "id": "busselton_city_council/john_sydney_mccallum",
-      "name": "John Sydney McCallum"
+      "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-john-mccallum.jpg",
+      "name": "John Sydney McCallum",
+      "images": [
+        {
+          "url": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-john-mccallum.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.busselton.wa.gov.au/Council/Our-Organisation/Councillors"
+        }
+      ]
     },
     {
+      "email": "gordon.bleechmore@busselton.wa.gov.au",
       "gender": "male",
       "id": "busselton_city_council/gordon_clive_bleechmore",
-      "name": "Gordon Clive Bleechmore"
+      "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-gordon-bleechmore.jpg",
+      "name": "Gordon Clive Bleechmore",
+      "images": [
+        {
+          "url": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-gordon-bleechmore.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.busselton.wa.gov.au/Council/Our-Organisation/Councillors"
+        }
+      ]
     },
     {
+      "email": "robert.bennett@busselton.wa.gov.au",
       "gender": "male",
       "id": "busselton_city_council/robert_taylor_bennett",
-      "name": "Robert Taylor Bennett"
+      "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-rob-bennett.jpg",
+      "name": "Robert Taylor Bennett",
+      "images": [
+        {
+          "url": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-rob-bennett.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.busselton.wa.gov.au/Council/Our-Organisation/Councillors"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -14681,6 +14789,16 @@
       "person_id": "bunbury_city_council/gary_peter_brennan",
       "organization_id": "legislature/bunbury_city_council",
       "role": "Mayor"
+    },
+    {
+      "person_id": "busselton_city_council/grant_douglas_henley",
+      "organization_id": "legislature/busselton_city_council",
+      "role": "Mayor"
+    },
+    {
+      "person_id": "busselton_city_council/coralie_isobel_tarbotton",
+      "organization_id": "legislature/busselton_city_council",
+      "role": "Deputy Mayor"
     },
     {
       "person_id": "cambridge_town_council/keri_liona_shannon",
