@@ -743,7 +743,7 @@
     {
       "email": "grant.henley@busselton.wa.gov.au",
       "gender": "male",
-      "id": "busselton_city_council/grant_douglas_henley",
+      "id": "city_of_busselton/grant_douglas_henley",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-grant-henley.jpg",
       "name": "Grant Douglas Henley",
       "images": [
@@ -760,7 +760,7 @@
     {
       "email": "paul.carter@busselton.wa.gov.au",
       "gender": "male",
-      "id": "busselton_city_council/paul_thomas_carter",
+      "id": "city_of_busselton/paul_thomas_carter",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-paul-carter.jpg",
       "name": "Paul Thomas Carter",
       "images": [
@@ -777,7 +777,7 @@
     {
       "email": "ross.paine@busselton.wa.gov.au",
       "gender": "male",
-      "id": "busselton_city_council/ross_paine",
+      "id": "city_of_busselton/ross_paine",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-ross-paine.jpg",
       "name": "Ross Paine",
       "images": [
@@ -794,7 +794,7 @@
     {
       "email": "terry.best@busselton.wa.gov.au",
       "gender": "male",
-      "id": "busselton_city_council/terrence_john_martin_best",
+      "id": "city_of_busselton/terrence_john_martin_best",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-terry-best.jpg",
       "name": "Terrence John Martin Best",
       "images": [
@@ -811,7 +811,7 @@
     {
       "email": "coralie.tarbotton@busselton.wa.gov.au",
       "gender": "female",
-      "id": "busselton_city_council/coralie_isobel_tarbotton",
+      "id": "city_of_busselton/coralie_isobel_tarbotton",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-coralie-tarbotton.jpg",
       "name": "Coralie Isobel Tarbotton",
       "images": [
@@ -828,7 +828,7 @@
     {
       "email": "robert.reekie@busselton.wa.gov.au",
       "gender": "male",
-      "id": "busselton_city_council/robert_james_reekie",
+      "id": "city_of_busselton/robert_james_reekie",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-robert-reekie.jpg",
       "name": "Robert James Reekie",
       "images": [
@@ -845,7 +845,7 @@
     {
       "email": "john.mccallum@busselton.wa.gov.au",
       "gender": "male",
-      "id": "busselton_city_council/john_sydney_mccallum",
+      "id": "city_of_busselton/john_sydney_mccallum",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-john-mccallum.jpg",
       "name": "John Sydney McCallum",
       "images": [
@@ -862,7 +862,7 @@
     {
       "email": "gordon.bleechmore@busselton.wa.gov.au",
       "gender": "male",
-      "id": "busselton_city_council/gordon_clive_bleechmore",
+      "id": "city_of_busselton/gordon_clive_bleechmore",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-gordon-bleechmore.jpg",
       "name": "Gordon Clive Bleechmore",
       "images": [
@@ -879,7 +879,7 @@
     {
       "email": "robert.bennett@busselton.wa.gov.au",
       "gender": "male",
-      "id": "busselton_city_council/robert_taylor_bennett",
+      "id": "city_of_busselton/robert_taylor_bennett",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-rob-bennett.jpg",
       "name": "Robert Taylor Bennett",
       "images": [
@@ -6780,8 +6780,8 @@
       "classification": "legislature"
     },
     {
-      "id": "legislature/busselton_city_council",
-      "name": "Busselton City Council",
+      "id": "legislature/city_of_busselton",
+      "name": "City of Busselton",
       "classification": "legislature"
     },
     {
@@ -8295,56 +8295,56 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "busselton_city_council/grant_douglas_henley",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/grant_douglas_henley",
+      "organization_id": "legislature/city_of_busselton",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "busselton_city_council/paul_thomas_carter",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/paul_thomas_carter",
+      "organization_id": "legislature/city_of_busselton",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "busselton_city_council/ross_paine",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/ross_paine",
+      "organization_id": "legislature/city_of_busselton",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "busselton_city_council/terrence_john_martin_best",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/terrence_john_martin_best",
+      "organization_id": "legislature/city_of_busselton",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "busselton_city_council/coralie_isobel_tarbotton",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/coralie_isobel_tarbotton",
+      "organization_id": "legislature/city_of_busselton",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "busselton_city_council/robert_james_reekie",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/robert_james_reekie",
+      "organization_id": "legislature/city_of_busselton",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "busselton_city_council/john_sydney_mccallum",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/john_sydney_mccallum",
+      "organization_id": "legislature/city_of_busselton",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "busselton_city_council/gordon_clive_bleechmore",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/gordon_clive_bleechmore",
+      "organization_id": "legislature/city_of_busselton",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "busselton_city_council/robert_taylor_bennett",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/robert_taylor_bennett",
+      "organization_id": "legislature/city_of_busselton",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
@@ -14791,13 +14791,13 @@
       "role": "Mayor"
     },
     {
-      "person_id": "busselton_city_council/grant_douglas_henley",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/grant_douglas_henley",
+      "organization_id": "legislature/city_of_busselton",
       "role": "Mayor"
     },
     {
-      "person_id": "busselton_city_council/coralie_isobel_tarbotton",
-      "organization_id": "legislature/busselton_city_council",
+      "person_id": "city_of_busselton/coralie_isobel_tarbotton",
+      "organization_id": "legislature/city_of_busselton",
       "role": "Deputy Mayor"
     },
     {
