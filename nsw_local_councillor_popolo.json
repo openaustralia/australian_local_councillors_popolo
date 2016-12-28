@@ -9651,6 +9651,86 @@
       ]
     },
     {
+      "email": "kphelps@cityofsydney.nsw.gov.au",
+      "id": "city_of_sydney/kerryn_phelps",
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0006/264408/phelps-380.jpg",
+      "name": "Kerryn Phelps",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0006/264408/phelps-380.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors/deputy-lord-mayor-councillor-professor-kerryn-phelps"
+        }
+      ]
+    },
+    {
+      "email": "cchung@cityofsydney.nsw.gov.au",
+      "id": "city_of_sydney/craig_chung",
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0005/264416/chung-380.jpg",
+      "name": "Craig Chung",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0005/264416/chung-380.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors/councillor-craig-chung"
+        }
+      ]
+    },
+    {
+      "email": "jmiller@cityofsydney.nsw.gov.au",
+      "id": "city_of_sydney/jess_miller",
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0003/264414/miller-380.jpg",
+      "name": "Jess Miller",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0003/264414/miller-380.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors/councillor-jess-miller"
+        }
+      ]
+    },
+    {
+      "email": "jscully@cityofsydney.nsw.gov.au",
+      "id": "city_of_sydney/jess_scully",
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0019/264412/scully-380.jpg",
+      "name": "Jess Scully",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0019/264412/scully-380.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors/councillor-jess-scully"
+        }
+      ]
+    },
+    {
+      "email": "pthalis@cityofsydney.nsw.gov.au",
+      "id": "city_of_sydney/philip_thalis",
+      "image": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0017/264410/thalis-380.jpg",
+      "name": "Philip Thalis",
+      "images": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/__data/assets/image/0017/264410/thalis-380.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.cityofsydney.nsw.gov.au/council/about-council/councillors/councillor-philip-thalis"
+        }
+      ]
+    },
+    {
       "email": "c.murray@tamworth.nsw.gov.au",
       "id": "tamworth_regional_council/colin_j_murray",
       "name": "Colin J Murray"
@@ -19260,7 +19340,8 @@
       "person_id": "city_of_sydney/irene_doutney",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/greens"
+      "on_behalf_of_id": "party/greens",
+      "end_date": "2016-09-10"
     },
     {
       "person_id": "city_of_sydney/christine_forster",
@@ -19272,7 +19353,8 @@
       "person_id": "city_of_sydney/jenny_green",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/clover_moore_independents"
+      "on_behalf_of_id": "party/clover_moore_independents",
+      "end_date": "2016-09-10"
     },
     {
       "person_id": "city_of_sydney/robert_kok",
@@ -19284,13 +19366,15 @@
       "person_id": "city_of_sydney/edward_mandla",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/liberal"
+      "on_behalf_of_id": "party/liberal",
+      "end_date": "2016-09-10"
     },
     {
       "person_id": "city_of_sydney/john_mant",
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
-      "on_behalf_of_id": "party/clover_moore_independents"
+      "on_behalf_of_id": "party/clover_moore_independents",
+      "end_date": "2016-09-10"
     },
     {
       "person_id": "city_of_sydney/linda_scott",
@@ -19303,6 +19387,41 @@
       "organization_id": "legislature/city_of_sydney",
       "role": "councillor",
       "on_behalf_of_id": "party/living_sydney"
+    },
+    {
+      "person_id": "city_of_sydney/kerryn_phelps",
+      "organization_id": "legislature/city_of_sydney",
+      "role": "councillor",
+      "on_behalf_of_id": "party/clover_moore_independents",
+      "start_date": "2016-09-17"
+    },
+    {
+      "person_id": "city_of_sydney/craig_chung",
+      "organization_id": "legislature/city_of_sydney",
+      "role": "councillor",
+      "on_behalf_of_id": "party/liberal",
+      "start_date": "2016-09-17"
+    },
+    {
+      "person_id": "city_of_sydney/jess_miller",
+      "organization_id": "legislature/city_of_sydney",
+      "role": "councillor",
+      "on_behalf_of_id": "party/clover_moore_independents",
+      "start_date": "2016-09-17"
+    },
+    {
+      "person_id": "city_of_sydney/jess_scully",
+      "organization_id": "legislature/city_of_sydney",
+      "role": "councillor",
+      "on_behalf_of_id": "party/clover_moore_independents",
+      "start_date": "2016-09-17"
+    },
+    {
+      "person_id": "city_of_sydney/philip_thalis",
+      "organization_id": "legislature/city_of_sydney",
+      "role": "councillor",
+      "on_behalf_of_id": "party/clover_moore_independents",
+      "start_date": "2016-09-17"
     },
     {
       "person_id": "tamworth_regional_council/colin_j_murray",
@@ -22179,6 +22298,11 @@
       "person_id": "city_of_sydney/irene_doutney",
       "organization_id": "legislature/city_of_sydney",
       "role": "deputy mayor"
+    },
+    {
+      "person_id": "city_of_sydney/kerryn_phelps",
+      "organization_id": "legislature/city_of_sydney",
+      "role": "Deputy Mayor"
     },
     {
       "person_id": "tamworth_regional_council/colin_j_murray",
