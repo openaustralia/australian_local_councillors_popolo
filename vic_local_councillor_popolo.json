@@ -6517,14 +6517,14 @@
       "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/team_doyle",
-      "end_date": "2017-10-22"
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "melbourne_city_council/richard_foster",
       "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/our_melbourne",
-      "end_date": "2017-10-22"
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "melbourne_city_council/rohan_leppert",
@@ -6543,7 +6543,7 @@
       "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/stephen_mayne:_independence,_experience,_transparency,_accountability",
-      "end_date": "2017-10-22"
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "melbourne_city_council/cathy_oke",
@@ -6556,14 +6556,14 @@
       "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/gary_singer_-_john_so_melbourne_living",
-      "end_date": "2017-10-22"
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "melbourne_city_council/beverley_pinder-mortimer",
       "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/team_doyle",
-      "end_date": "2017-10-22"
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "melbourne_city_council/jackie_watts",
@@ -6582,28 +6582,28 @@
       "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/together_melbourne",
-      "start_date": "2017-10-23"
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "melbourne_city_council/michael_caiafa",
       "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/phil_cleary_means_business",
-      "start_date": "2017-10-23"
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "melbourne_city_council/nicholas_reece",
       "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/team_doyle",
-      "start_date": "2017-10-23"
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "melbourne_city_council/tessa_sullivan",
       "organization_id": "legislature/melbourne_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/team_doyle",
-      "start_date": "2017-10-23"
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "melton_city_council/nola_dunn",
