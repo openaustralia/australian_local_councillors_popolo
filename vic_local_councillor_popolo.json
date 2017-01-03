@@ -3011,6 +3011,134 @@
       ]
     },
     {
+      "email": "bryan.payne@mornpen.vic.gov.au",
+      "id": "mornington_peninsula_shire_council/bryan_payne",
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-bryan-payne.jpg",
+      "name": "Bryan Payne",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-bryan-payne.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors"
+        }
+      ]
+    },
+    {
+      "email": "rosie.clark@mornpen.vic.gov.au",
+      "id": "mornington_peninsula_shire_council/rosie _clark",
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-rosie-clark.jpg",
+      "name": "Rosie Clark",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-rosie-clark.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors"
+        }
+      ]
+    },
+    {
+      "email": "sam.hearn@mornpen.vic.gov.au",
+      "id": "mornington_peninsula_shire_council/sam_hearn",
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-sam-hearn.jpg",
+      "name": "Sam Hearn",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-sam-hearn.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors"
+        }
+      ]
+    },
+    {
+      "email": "kate.roper@mornpen.vic.gov.au",
+      "id": "mornington_peninsula_shire_council/kate_roper",
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/cr-kate-roper.jpg",
+      "name": "Kate Roper",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/cr-kate-roper.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors"
+        }
+      ]
+    },
+    {
+      "email": "david.gill@mornpen.vic.gov.au",
+      "id": "mornington_peninsula_shire_council/david_gill",
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-david-gill.jpg",
+      "name": "David Gill",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-david-gill.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors"
+        }
+      ]
+    },
+    {
+      "email": "simon.brooks@mornpen.vic.gov.au",
+      "id": "mornington_peninsula_shire_council/simon_brooks",
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-simon-brooks.jpg",
+      "name": "Simon Brooks",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-simon-brooks.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors"
+        }
+      ]
+    },
+    {
+      "email": "frank.martin@mornpen.vic.gov.au",
+      "id": "mornington_peninsula_shire_council/frank_martin",
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-frank-martin.jpg",
+      "name": "Frank Martin",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-frank-martin.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors"
+        }
+      ]
+    },
+    {
+      "email": "julie.edge@mornpen.vic.gov.au",
+      "id": "mornington_peninsula_shire_council/julie_edge",
+      "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-julie-edge.jpg",
+      "name": "Julie Edge",
+      "images": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-julie-edge.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.mornpen.vic.gov.au/About-Us/About-Our-Council/Our-Councillors"
+        }
+      ]
+    },
+    {
       "id": "mount_alexander_shire_council/anthony_cordy",
       "name": "Anthony Cordy"
     },
@@ -7041,19 +7169,22 @@
       "person_id": "mornington_peninsula_shire_council/andrew_dixon",
       "organization_id": "legislature/mornington_peninsula_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "mornington_peninsula_shire_council/anne_shaw",
       "organization_id": "legislature/mornington_peninsula_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "mornington_peninsula_shire_council/david_garnock",
       "organization_id": "legislature/mornington_peninsula_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "mornington_peninsula_shire_council/hugh_fraser",
@@ -7065,13 +7196,15 @@
       "person_id": "mornington_peninsula_shire_council/tim_rodgers",
       "organization_id": "legislature/mornington_peninsula_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "mornington_peninsula_shire_council/tim_wood",
       "organization_id": "legislature/mornington_peninsula_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "mornington_peninsula_shire_council/antonella_celi",
@@ -7083,13 +7216,71 @@
       "person_id": "mornington_peninsula_shire_council/david_gibb",
       "organization_id": "legislature/mornington_peninsula_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "mornington_peninsula_shire_council/graham_pittock",
       "organization_id": "legislature/mornington_peninsula_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "mornington_peninsula_shire_council/bryan_payne",
+      "organization_id": "legislature/mornington_peninsula_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-11-14"
+    },
+    {
+      "person_id": "mornington_peninsula_shire_council/rosie _clark",
+      "organization_id": "legislature/mornington_peninsula_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-11-14"
+    },
+    {
+      "person_id": "mornington_peninsula_shire_council/sam_hearn",
+      "organization_id": "legislature/mornington_peninsula_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-11-14"
+    },
+    {
+      "person_id": "mornington_peninsula_shire_council/kate_roper",
+      "organization_id": "legislature/mornington_peninsula_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-11-14"
+    },
+    {
+      "person_id": "mornington_peninsula_shire_council/david_gill",
+      "organization_id": "legislature/mornington_peninsula_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-11-14"
+    },
+    {
+      "person_id": "mornington_peninsula_shire_council/simon_brooks",
+      "organization_id": "legislature/mornington_peninsula_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-11-14"
+    },
+    {
+      "person_id": "mornington_peninsula_shire_council/frank_martin",
+      "organization_id": "legislature/mornington_peninsula_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-11-14"
+    },
+    {
+      "person_id": "mornington_peninsula_shire_council/julie_edge",
+      "organization_id": "legislature/mornington_peninsula_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-11-14"
     },
     {
       "person_id": "mount_alexander_shire_council/anthony_cordy",
@@ -8497,12 +8688,17 @@
     {
       "person_id": "mornington_peninsula_shire_council/bev_colomb",
       "organization_id": "legislature/mornington_peninsula_shire_council",
-      "role": "Deputy Mayor"
+      "role": "Mayor"
     },
     {
       "person_id": "mornington_peninsula_shire_council/graham_pittock",
       "organization_id": "legislature/mornington_peninsula_shire_council",
       "role": "Mayor"
+    },
+    {
+      "person_id": "mornington_peninsula_shire_council/bryan_payne",
+      "organization_id": "legislature/mornington_peninsula_shire_council",
+      "role": "Deputy Mayor"
     },
     {
       "person_id": "mount_alexander_shire_council/christine_henderson",
