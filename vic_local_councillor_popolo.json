@@ -543,6 +543,70 @@
       ]
     },
     {
+      "email": "Felicity.Sinfield@boroondara.vic.gov.au",
+      "id": "boroondara_city_council/felicity_sinfield",
+      "image": "https://www.boroondara.vic.gov.au/-/media/Images/Your%20Council/Councillors%20and%20wards/Cr%20Sinfield.jpg",
+      "name": "Felicity Sinfield",
+      "images": [
+        {
+          "url": "https://www.boroondara.vic.gov.au/-/media/Images/Your%20Council/Councillors%20and%20wards/Cr%20Sinfield.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.boroondara.vic.gov.au/Your_Council/councillors-wards/wards/cotham"
+        }
+      ]
+    },
+    {
+      "email": "Lisa.Hollingsworth@boroondara.vic.gov.au",
+      "id": "boroondara_city_council/lisa_hollingsworth",
+      "image": "https://www.boroondara.vic.gov.au/-/media/Images/Your%20Council/Councillors%20and%20wards/CrHollingsworth-245px-X-200px-jpg.jpg",
+      "name": "Lisa Hollingsworth",
+      "images": [
+        {
+          "url": "https://www.boroondara.vic.gov.au/-/media/Images/Your%20Council/Councillors%20and%20wards/CrHollingsworth-245px-X-200px-jpg.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.boroondara.vic.gov.au/Your_Council/councillors-wards/wards/lynden"
+        }
+      ]
+    },
+    {
+      "email": "Cynthia.Watson@boroondara.vic.gov.au",
+      "id": "boroondara_city_council/cynthia_watson",
+      "image": "https://www.boroondara.vic.gov.au/-/media/Images/Your%20Council/Councillors%20and%20wards/Cr%20Watson.jpg",
+      "name": "Cynthia Watson",
+      "images": [
+        {
+          "url": "https://www.boroondara.vic.gov.au/-/media/Images/Your%20Council/Councillors%20and%20wards/Cr%20Watson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.boroondara.vic.gov.au/Your_Council/councillors-wards/wards/maranoa"
+        }
+      ]
+    },
+    {
+      "email": "Garry.Thompson@boroondara.vic.gov.au",
+      "id": "boroondara_city_council/garry_thompson",
+      "image": "https://www.boroondara.vic.gov.au/-/media/Images/Your%20Council/Councillors%20and%20wards/Cr%20Thompson.jpg",
+      "name": "Garry Thompson",
+      "images": [
+        {
+          "url": "https://www.boroondara.vic.gov.au/-/media/Images/Your%20Council/Councillors%20and%20wards/Cr%20Thompson.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.boroondara.vic.gov.au/Your_Council/councillors-wards/wards/solway"
+        }
+      ]
+    },
+    {
       "id": "buloke_shire_council/stuart_mclean",
       "name": "Stuart McLean"
     },
@@ -4970,7 +5034,8 @@
       "person_id": "boroondara_city_council/judith_voce",
       "organization_id": "legislature/boroondara_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "boroondara_city_council/coral_ross",
@@ -4994,7 +5059,8 @@
       "person_id": "boroondara_city_council/heinz_kreutz",
       "organization_id": "legislature/boroondara_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "boroondara_city_council/jane_addis",
@@ -5006,19 +5072,49 @@
       "person_id": "boroondara_city_council/philip_mallis",
       "organization_id": "legislature/boroondara_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "boroondara_city_council/kevin_chow",
       "organization_id": "legislature/boroondara_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/labor"
+      "on_behalf_of_id": "party/labor",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "boroondara_city_council/phillip_healey",
       "organization_id": "legislature/boroondara_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/liberal"
+    },
+    {
+      "person_id": "boroondara_city_council/felicity_sinfield",
+      "organization_id": "legislature/boroondara_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/liberal",
+      "start_date": "2016-11-02"
+    },
+    {
+      "person_id": "boroondara_city_council/lisa_hollingsworth",
+      "organization_id": "legislature/boroondara_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-11-02"
+    },
+    {
+      "person_id": "boroondara_city_council/cynthia_watson",
+      "organization_id": "legislature/boroondara_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/liberal",
+      "start_date": "2016-11-02"
+    },
+    {
+      "person_id": "boroondara_city_council/garry_thompson",
+      "organization_id": "legislature/boroondara_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/liberal",
+      "start_date": "2016-11-02"
     },
     {
       "person_id": "buloke_shire_council/stuart_mclean",
