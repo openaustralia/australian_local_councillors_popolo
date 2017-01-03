@@ -3028,7 +3028,7 @@
     },
     {
       "email": "rosie.clark@mornpen.vic.gov.au",
-      "id": "mornington_peninsula_shire_council/rosie _clark",
+      "id": "mornington_peninsula_shire_council/rosie_clark",
       "image": "http://www.mornpen.vic.gov.au/files/assets/public/new-website-documents/about-us/about-our-council/our-councillors/images/cr-rosie-clark.jpg",
       "name": "Rosie Clark",
       "images": [
@@ -7234,7 +7234,7 @@
       "start_date": "2016-11-14"
     },
     {
-      "person_id": "mornington_peninsula_shire_council/rosie _clark",
+      "person_id": "mornington_peninsula_shire_council/rosie_clark",
       "organization_id": "legislature/mornington_peninsula_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown",
