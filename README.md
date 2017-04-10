@@ -18,8 +18,8 @@ To update or add to this data follow these steps:
 1. Make your changes in [the Google Spreadsheet](https://docs.google.com/spreadsheets/d/1_Ea99E5yXnHXW62o_lRo9khdbccEWfttpy2tyuYZYOE/).
 2. If you don’t feel comfortable with the following steps, simply [open a new issue](https://github.com/openaustralia/australian_local_councillors_popolo/issues/new) to let us know you’ve made changes to the spreadsheet, e.g. “Snowy River Councillors waiting in the spreadsheet”.
 3. Run `bundle` to install the Gem dependencies.
-4. Run `bundle exec rake` to pull data from the Spreadsheet into JSON files in this repository.
-5. Inspect the diff to verify the changes to the JSON files and check for errors before committing them.
+4. Run `bundle exec rake` to pull data from the Spreadsheet into JSON files in this repository. Hint: run `bundle exec rake -T` to see the state specific tasks.
+5. Inspect the diff to verify the changes to the JSON files and check for errors before committing them. Are all the councillors you expect to see there?
 6. Submit a pull request with your changes with an [explanation](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
    of what they are and why you have made them.
 
