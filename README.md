@@ -38,6 +38,10 @@ Use the format `yyyy-mm-dd` for all dates, e.g. `2017-04-10`.
 It might be hard to pin-point a specific date when councillors change over after an election.
 You might no be able to find an official "swearing in" date you can use, use the date after an election as the `start_date` and the day of the election as the `end_date` for outgoing councillors.
 
+[d21fb6f is an example](https://github.com/openaustralia/australian_local_councillors_popolo/commit/d21fb6fa10ef1c81ec05e6aec7ca15e1b84352b1)
+of the JSON generated after adding councillors and setting start and end dates in the spreadsheet.
+Note that no councillors were removed from the data, just `end_date`s added.
+
 ## Tips for collecting councillor information
 
 The best place to find information about local councillors is the council’s official website. Most council websites have a page listing all the councillors and their information. Wikipedia can be a good source of information about the councillors’ political party, if it’s not on the council website.
