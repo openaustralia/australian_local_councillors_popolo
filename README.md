@@ -23,6 +23,21 @@ To update or add to this data follow these steps:
 6. Submit a pull request with your changes with an [explanation](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
    of what they are and why you have made them.
 
+## When councillors come and go
+
+As the years come and go, so to do the people we elect as our local councillors.
+
+**When an person is no longer a councillor** add the date that they left the position as their `end_date`.
+Don't remove their record from the spreadsheet; we want to keep information about former councillors too.
+
+**When a new person becomes a councillor** add a new row with all their standard details.
+Set their `start_date` to be the date they took up the position.
+
+Use the format `yyyy-mm-dd` for all dates, e.g. `2017-04-10`.
+
+It might be hard to pin-point a specific date when councillors change over after an election.
+You might no be able to find an official "swearing in" date you can use, use the date after an election as the `start_date` and the day of the election as the `end_date` for outgoing councillors.
+
 ## Tips for collecting councillor information
 
 The best place to find information about local councillors is the council’s official website. Most council websites have a page listing all the councillors and their information. Wikipedia can be a good source of information about the councillors’ political party, if it’s not on the council website.
