@@ -27,7 +27,7 @@ To update or add to this data follow these steps:
 
 As the years come and go, so to do the people we elect as our local councillors.
 
-**When an person is no longer a councillor** add the date that they left the position as their `end_date`.
+**When a person is no longer a councillor** add the date that they left the position as their `end_date`.
 Don't remove their record from the spreadsheet; we want to keep information about former councillors too.
 
 **When a new person becomes a councillor** add a new row with all their standard details.
