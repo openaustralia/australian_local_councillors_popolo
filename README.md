@@ -13,7 +13,7 @@ to be cleaned up and updated.
 
 ## Updates
 
-To update or add to this data follow these steps:
+To update or to add, to this data follow these steps:
 
 1. Make your changes in [the Google Spreadsheet](https://docs.google.com/spreadsheets/d/1_Ea99E5yXnHXW62o_lRo9khdbccEWfttpy2tyuYZYOE/).
 2. If you don’t feel comfortable with the following steps, simply [open a new issue](https://github.com/openaustralia/australian_local_councillors_popolo/issues/new) to let us know you’ve made changes to the spreadsheet, e.g. “Snowy River Councillors waiting in the spreadsheet”.
