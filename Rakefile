@@ -7,6 +7,18 @@ require "csv_to_popolo"
 # https://docs.google.com/spreadsheets/d/1_Ea99E5yXnHXW62o_lRo9khdbccEWfttpy2tyuYZYOE/
 GOOGLE_SHEETS_EXPORT_BASE_URL = "https://docs.google.com/spreadsheets/d/1_Ea99E5yXnHXW62o_lRo9khdbccEWfttpy2tyuYZYOE/export?format=csv&gid="
 
+# All states/territories in Australia, with the corresponding Google Sheet GID
+STATES_WITH_GID = {
+  act: "1407971836",
+  nsw: "1381284966",
+  nt: "1871107520",
+  qld: "1123099005",
+  sa: "1014301438",
+  tas: "49585049",
+  vic: "1648378623",
+  wa: "1847969170"
+}
+
 # GID represents the sheet ID in the workbook. You can get it by looking at the URL
 def google_sheets_export_url(gid)
   GOOGLE_SHEETS_EXPORT_BASE_URL + gid
@@ -28,44 +40,15 @@ end
 task default: [:update_all]
 
 desc "Update data from Google Sheet for all states"
-task update_all: [:update_act, :update_nsw, :update_nt, :update_qld, :update_sa, :update_tas, :update_vic, :update_wa]
-
-desc "Update data from Google Sheet for ACT"
-task :update_act do
-  update_data(:act, google_sheets_export_url("1407971836"))
+task :update_all do
+  STATES_WITH_GID.each do |state, gid|
+    update_data(state, google_sheets_export_url(gid))
+  end
 end
 
-desc "Update data from Google Sheet for NSW"
-task :update_nsw do
-  update_data(:nsw, google_sheets_export_url("1381284966"))
-end
+desc "Update data from Google Sheet for a specific state: #{STATES_WITH_GID.keys.join(", ")}"
+task :update, [:state] do |t, args|
+  state = args.state.to_sym
 
-desc "Update data from Google Sheet for NT"
-task :update_nt do
-  update_data(:nt, google_sheets_export_url("1871107520"))
-end
-
-desc "Update data from Google Sheet for QLD"
-task :update_qld do
-  update_data(:qld, google_sheets_export_url("1123099005"))
-end
-
-desc "Update data from Google Sheet for SA"
-task :update_sa do
-  update_data(:sa, google_sheets_export_url("1014301438"))
-end
-
-desc "Update data from Google Sheet for TAS"
-task :update_tas do
-  update_data(:tas, google_sheets_export_url("49585049"))
-end
-
-desc "Update data from Google Sheet for VIC"
-task :update_vic do
-  update_data(:vic, google_sheets_export_url("1648378623"))
-end
-
-desc "Update data from Google Sheet for WA"
-task :update_wa do
-  update_data(:wa, google_sheets_export_url("1847969170"))
+  update_data(state, google_sheets_export_url(STATES_WITH_GID[state]))
 end
