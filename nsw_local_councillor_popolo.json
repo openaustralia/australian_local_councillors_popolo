@@ -19040,7 +19040,8 @@
       "person_id": "city_of_ryde/craig_chung",
       "organization_id": "legislature/city_of_ryde",
       "role": "councillor",
-      "on_behalf_of_id": "party/liberal"
+      "on_behalf_of_id": "party/liberal",
+      "end_date": "2016-09-29"
     },
     {
       "person_id": "city_of_ryde/artin_etmekdjian",
