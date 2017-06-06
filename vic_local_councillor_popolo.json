@@ -2756,9 +2756,9 @@
     },
     {
       "email": "Shane.McCluskey@monash.vic.gov.au",
-      "id": "monash_city_council/shane_mcclusky",
+      "id": "monash_city_council/shane_mccluskey",
       "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/shane-mccluskey.jpg?w=250",
-      "name": "Shane McClusky",
+      "name": "Shane McCluskey",
       "images": [
         {
           "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/shane-mccluskey.jpg?w=250"
@@ -7446,7 +7446,7 @@
       "end_date": "2016-10-22"
     },
     {
-      "person_id": "monash_city_council/shane_mcclusky",
+      "person_id": "monash_city_council/shane_mccluskey",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown",
