@@ -189,6 +189,22 @@
       ]
     },
     {
+      "email": "markharris@ballarat.vic.gov.au",
+      "id": "ballarat_city_council/mark_harris",
+      "image": "http://www.ballarat.vic.gov.au/media/4120099/mark_harris.jpg",
+      "name": "Mark Harris",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/4120099/mark_harris.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards/meet-your-councillors/councillor-mark-harris.aspx"
+        }
+      ]
+    },
+    {
       "email": "vickicoltman@ballarat.vic.gov.au",
       "id": "ballarat_city_council/vicki_coltman",
       "image": "http://www.ballarat.vic.gov.au/media/982735/cr_vicki_coltman.jpg",
@@ -237,6 +253,38 @@
       ]
     },
     {
+      "email": "granttillett@ballarat.vic.gov.au",
+      "id": "ballarat_city_council/grant_tillett",
+      "image": "http://www.ballarat.vic.gov.au/media/4120165/grant_tillett.jpg",
+      "name": "Grant Tillett",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/4120165/grant_tillett.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards/meet-your-councillors/councillor-grant-tillett.aspx"
+        }
+      ]
+    },
+    {
+      "email": "danielmoloney@ballarat.vic.gov.au",
+      "id": "ballarat_city_council/daniel_moloney",
+      "image": "http://www.ballarat.vic.gov.au/media/4120154/daniel_moloney.jpg",
+      "name": "Daniel Moloney",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/4120154/daniel_moloney.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards/meet-your-councillors/councillor-daniel-moloney.aspx"
+        }
+      ]
+    },
+    {
       "email": "DesHudson@ballarat.vic.gov.au",
       "id": "ballarat_city_council/des_hudson",
       "image": "http://www.ballarat.vic.gov.au/media/982740/cr_des_hudson.jpg",
@@ -281,6 +329,22 @@
       "sources": [
         {
           "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
+    },
+    {
+      "email": "bentaylor@ballarat.vic.gov.au",
+      "id": "ballarat_city_council/ben_taylor",
+      "image": "http://www.ballarat.vic.gov.au/media/4120110/ben_taylor.jpg",
+      "name": "Ben Taylor",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/4120110/ben_taylor.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards/meet-your-councillors/councillor-ben-taylor.aspx"
         }
       ]
     },
@@ -739,6 +803,22 @@
       ]
     },
     {
+      "email": "tjackson@casey.vic.gov.au",
+      "id": "casey_city_council/timothy_jackson",
+      "image": "http://www.casey.vic.gov.au/files/assets/public/council/your-council/mayor-and-councillors/timothy-jackson_edrington.jpg?w=150&h=200",
+      "name": "Timothy Jackson",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/assets/public/council/your-council/mayor-and-councillors/timothy-jackson_edrington.jpg?w=150&h=200"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
+    },
+    {
       "email": "sserey@casey.vic.gov.au",
       "id": "casey_city_council/susan_serey",
       "image": "http://www.casey.vic.gov.au/files/2b48e454-0af5-4c3e-abf9-a23c00d27639/susan-serey.jpg",
@@ -787,6 +867,22 @@
       ]
     },
     {
+      "email": "mgilic@casey.vic.gov.au",
+      "id": "casey_city_council/mila_gilic",
+      "image": "http://www.casey.vic.gov.au/files/assets/public/council/mayor-and-councillors/gilic_2.png?w=150&h=200",
+      "name": "Mila Gilic",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/assets/public/council/mayor-and-councillors/gilic_2.png?w=150&h=200"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
+    },
+    {
       "email": "growe@casey.vic.gov.au",
       "id": "casey_city_council/gary_rowe",
       "image": "http://www.casey.vic.gov.au/files/ce4ab768-67ab-4639-8cbe-a23c00d27477/gary-rowe.jpg",
@@ -796,6 +892,15 @@
           "url": "http://www.casey.vic.gov.au/files/ce4ab768-67ab-4639-8cbe-a23c00d27477/gary-rowe.jpg"
         }
       ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
+    },
+    {
+      "id": "casey_city_council/steve_beardon",
+      "name": "Steve Beardon",
       "sources": [
         {
           "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
@@ -874,6 +979,22 @@
       "images": [
         {
           "url": "http://www.casey.vic.gov.au/files/260da810-9487-4696-b65c-a23c00d274e7/louise-berkelmans.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
+    },
+    {
+      "email": "rflannery@casey.vic.gov.au",
+      "id": "casey_city_council/rex_flannery",
+      "image": "http://www.casey.vic.gov.au/files/assets/public/council/your-council/mayor-and-councillors/rex-flannery_springfield.jpg?w=150&h=200",
+      "name": "Rex Flannery",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/assets/public/council/your-council/mayor-and-councillors/rex-flannery_springfield.jpg?w=150&h=200"
         }
       ],
       "sources": [
@@ -1831,6 +1952,22 @@
       ]
     },
     {
+      "email": "jackson.taylor@knox.vic.gov.au",
+      "id": "knox_city_council/jackson_taylor",
+      "image": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jackson_Taylor.jpg",
+      "name": "Jackson Taylor",
+      "images": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jackson_Taylor.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=109"
+        }
+      ]
+    },
+    {
       "email": "adam.gill@knox.vic.gov.au",
       "id": "knox_city_council/adam_gill",
       "image": "http://www.knox.vic.gov.au/Page/Images/cr_adam_gill_2012.jpg",
@@ -1859,6 +1996,22 @@
       "sources": [
         {
           "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=111"
+        }
+      ]
+    },
+    {
+      "email": "Jake.Keorg@knox.vic.gov.au",
+      "id": "knox_city_council/jake_keorg",
+      "image": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jake_Keogh.jpg",
+      "name": "Jake Keorg",
+      "images": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jake_Keogh.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=109"
         }
       ]
     },
@@ -2547,6 +2700,22 @@
       ]
     },
     {
+      "email": "Lynnette.saloumi@monash.vic.gov.au",
+      "id": "monash_city_council/lynnette_saloumi",
+      "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/lynnette-saloumi2.jpg?w=250",
+      "name": "Lynnette Saloumi",
+      "images": [
+        {
+          "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/lynnette-saloumi2.jpg?w=250"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.monash.vic.gov.au/About-Us/Council/Councillors/Lynnette-Saloumi"
+        }
+      ]
+    },
+    {
       "email": "Brian.Little@monash.vic.gov.au",
       "id": "monash_city_council/brian_little",
       "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/brian-little.jpg",
@@ -2575,6 +2744,22 @@
       "sources": [
         {
           "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Jieh-Yung-Lo"
+        }
+      ]
+    },
+    {
+      "email": "MTPang.tsoi@monash.vic.gov.au",
+      "id": "monash_city_council/mt_pang_tsoi",
+      "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/mt-pang-tsoi.jpg?w=250",
+      "name": "MT Pang Tsoi",
+      "images": [
+        {
+          "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/mt-pang-tsoi.jpg?w=250"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.monash.vic.gov.au/About-Us/Council/Councillors/MT-Pang-Tsoi"
         }
       ]
     },
@@ -2627,6 +2812,22 @@
       ]
     },
     {
+      "email": "Shane.McCluskey@monash.vic.gov.au",
+      "id": "monash_city_council/shane_mccluskey",
+      "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/shane-mccluskey.jpg?w=250",
+      "name": "Shane McCluskey",
+      "images": [
+        {
+          "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/shane-mccluskey.jpg?w=250"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.monash.vic.gov.au/About-Us/Council/Councillors/Shane-McCluskey"
+        }
+      ]
+    },
+    {
       "email": "Paul.Klisaris@monash.vic.gov.au",
       "id": "monash_city_council/paul_klisaris",
       "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-paul-klisaris.jpg",
@@ -2659,6 +2860,22 @@
       ]
     },
     {
+      "email": "Josh.Fergeus@monash.vic.gov.au",
+      "id": "monash_city_council/josh_fergeus",
+      "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-josh-fergeus.jpg?w=250",
+      "name": "Josh Fergeus",
+      "images": [
+        {
+          "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-josh-fergeus.jpg?w=250"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.monash.vic.gov.au/About-Us/Council/Councillors/Josh-Fergeus"
+        }
+      ]
+    },
+    {
       "email": "Theo.Zographos@monash.vic.gov.au",
       "id": "monash_city_council/theo_zographos",
       "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/theo-zographos.jpg",
@@ -2671,6 +2888,22 @@
       "sources": [
         {
           "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Theo-Zographos"
+        }
+      ]
+    },
+    {
+      "email": "Stuart.James@monash.vic.gov.au",
+      "id": "monash_city_council/stuart_james",
+      "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-stuart-james.jpg?w=250",
+      "name": "Stuart James",
+      "images": [
+        {
+          "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-stuart-james.jpg?w=250"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.monash.vic.gov.au/About-Us/Council/Councillors/Stuart-James"
         }
       ]
     },
@@ -3903,6 +4136,22 @@
       ]
     },
     {
+      "email": "Danae.Bosler@yarracity.vic.gov.au",
+      "id": "yarra_city_council/danae_bolser",
+      "image": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/Danae%20Bosler.jpg",
+      "name": "Danae Bosler",
+      "images": [
+        {
+          "url": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/Danae%20Bosler.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://yarracity.vic.gov.au/Your-Council/Councillors/cr-danae-bosler/"
+        }
+      ]
+    },
+    {
       "email": "Misha.Coleman@yarracity.vic.gov.au",
       "id": "yarra_city_council/misha_coleman",
       "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Misha-Coleman.jpg",
@@ -3951,6 +4200,54 @@
       ]
     },
     {
+      "email": "Daniel.Nguyen@yarracity.vic.gov.au",
+      "id": "yarra_city_council/daniel_nguyen",
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Daniel%20Nguyen.jpg",
+      "name": "Daniel Nguyen",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Daniel%20Nguyen.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/cr-daniel-nguyen/"
+        }
+      ]
+    },
+    {
+      "email": "Milin.Chenyimei@yarracity.vic.gov.au ",
+      "id": "yarra_city_council/min-lin_chen_yi_mei",
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Mi%20Lin%20Chen%20Yi%20Mei.jpg",
+      "name": "Mi-Lin Chen Yi Mei",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Mi%20Lin%20Chen%20Yi%20Mei.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/mi-lin-chen-yi-mei/"
+        }
+      ]
+    },
+    {
+      "email": "James.Searle@yarracity.vic.gov.au",
+      "id": "yarra_city_council/james_searle",
+      "image": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/James%20Searle.jpg",
+      "name": "James Searle",
+      "images": [
+        {
+          "url": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/James%20Searle.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://yarracity.vic.gov.au/your-council/councillors/cr-james-searle/"
+        }
+      ]
+    },
+    {
       "email": "mayor@yarracity.vic.gov.au",
       "id": "yarra_city_council/roberto_colanzi",
       "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Roberto-Colanzi2012_7.jpg",
@@ -3995,6 +4292,22 @@
       "sources": [
         {
           "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/Sam-Gaylard/"
+        }
+      ]
+    },
+    {
+      "email": "Mike.McEvoy@yarracity.vic.gov.au",
+      "id": "yarra_city_council/mike_mcevoy",
+      "image": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/Mike%20McEvoy.jpg",
+      "name": "Mike McEvoy",
+      "images": [
+        {
+          "url": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/Mike%20McEvoy.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://yarracity.vic.gov.au/Your-Council/Councillors/cr-mike-mcevoy/"
         }
       ]
     },
@@ -4049,11 +4362,11 @@
     {
       "email": "CrMikeClarke@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/mike_clarke",
-      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/mike-clarke.png",
+      "image": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/mike-clarke-2016-130px.jpg",
       "name": "Mike Clarke",
       "images": [
         {
-          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/mike-clarke.png"
+          "url": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/mike-clarke-2016-130px.jpg"
         }
       ],
       "sources": [
@@ -4065,11 +4378,11 @@
     {
       "email": "CrTerryAvery@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/terry_avery",
-      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/terry-avery-melba-web.jpg",
+      "image": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/terry-avery-2016-130px.jpg",
       "name": "Terry Avery",
       "images": [
         {
-          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/terry-avery-melba-web.jpg"
+          "url": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/terry-avery-2016-130px.jpg"
         }
       ],
       "sources": [
@@ -4081,11 +4394,11 @@
     {
       "email": "CrJimChild@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/jim_child",
-      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/jim-child-oshannassy-web.jpg",
+      "image": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/jim-child-2016-130px.jpg",
       "name": "Jim Child",
       "images": [
         {
-          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/jim-child-oshannassy-web.jpg"
+          "url": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/jim-child-2016-130px.jpg"
         }
       ],
       "sources": [
@@ -4097,11 +4410,11 @@
     {
       "email": "CrFionaMcAllister@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/fiona_mcallister",
-      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/fiona-mcallister-ryrie-web.jpg",
+      "image": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/fiona-mcallister-2016-130px.jpg",
       "name": "Fiona McAllister",
       "images": [
         {
-          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/fiona-mcallister-ryrie-web.jpg"
+          "url": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/fiona-mcallister-2016-130px.jpg"
         }
       ],
       "sources": [
@@ -4113,11 +4426,11 @@
     {
       "email": "CrNoelCliff@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/noel_cliff",
-      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/noel-cliff-streeton-web.jpg",
+      "image": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/noel-cliff-2016-130px_1.jpg",
       "name": "Noel Cliff",
       "images": [
         {
-          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/noel-cliff-streeton-web.jpg"
+          "url": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/noel-cliff-2016-130px_1.jpg"
         }
       ],
       "sources": [
@@ -4129,16 +4442,64 @@
     {
       "email": "CrLenCox@yarraranges.vic.gov.au",
       "id": "yarra_ranges_shire_council/len_cox",
-      "image": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/len-cox-walling-web.jpg",
+      "image": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/len-cox-2016-130px.jpg",
       "name": "Len Cox",
       "images": [
         {
-          "url": "http://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/len-cox-walling-web.jpg"
+          "url": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/len-cox-2016-130px.jpg"
         }
       ],
       "sources": [
         {
           "url": "http://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Len-Cox"
+        }
+      ]
+    },
+    {
+      "email": "CrTimHeenan@yarraranges.vic.gov.au",
+      "id": "yarra_ranges_shire_council/tim_heenan",
+      "image": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/tim-heenan-2016-130px.jpg",
+      "name": "Tim Heenan",
+      "images": [
+        {
+          "url": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/tim-heenan-2016-130px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Tim-Heenan"
+        }
+      ]
+    },
+    {
+      "email": "CrTonyStevenson@yarraranges.vic.gov.au",
+      "id": "yarra_ranges_shire_council/tony_stevenson",
+      "image": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/tony-stevenson-2016-130px.jpg",
+      "name": "Tony Stevenson",
+      "images": [
+        {
+          "url": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/tony-stevenson-2016-130px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Tony-Stevenson"
+        }
+      ]
+    },
+    {
+      "email": "CrRichardHiggine@yarraranges.vic.gov.au",
+      "id": "yarra_ranges_shire_council/richard_higgins",
+      "image": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/richard-higgins-2016-130px.jpg",
+      "name": "Richard Higgins",
+      "images": [
+        {
+          "url": "https://www.yarraranges.vic.gov.au/files/assets/public/images/system-images/councillor-photos/2016/richard-higgins-2016-130px.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.yarraranges.vic.gov.au/Lists/Councillors/Cr-Richard-Higgins"
         }
       ]
     },
@@ -4752,7 +5113,8 @@
       "person_id": "ballarat_city_council/glen_crompton",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "ballarat_city_council/belinda_coates",
@@ -4767,10 +5129,18 @@
       "on_behalf_of_id": "party/liberal"
     },
     {
+      "person_id": "ballarat_city_council/mark_harris",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
+    },
+    {
       "person_id": "ballarat_city_council/vicki_coltman",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/liberal"
+      "on_behalf_of_id": "party/liberal",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "ballarat_city_council/amy_johnson",
@@ -4782,7 +5152,22 @@
       "person_id": "ballarat_city_council/john_philips",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "ballarat_city_council/grant_tillett",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "ballarat_city_council/daniel_moloney",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "ballarat_city_council/des_hudson",
@@ -4794,13 +5179,21 @@
       "person_id": "ballarat_city_council/peter_innes",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "ballarat_city_council/jim_rinaldi",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/independent"
+    },
+    {
+      "person_id": "ballarat_city_council/ben_taylor",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/liberal",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "banyule_city_council/mark_di_pasquale",
@@ -5276,7 +5669,15 @@
       "person_id": "casey_city_council/mick_morland",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/liberal"
+      "on_behalf_of_id": "party/liberal",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "casey_city_council/timothy_jackson",
+      "organization_id": "legislature/casey_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "casey_city_council/susan_serey",
@@ -5294,13 +5695,28 @@
       "person_id": "casey_city_council/rafal_kaplon",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "casey_city_council/mila_gilic",
+      "organization_id": "legislature/casey_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "casey_city_council/gary_rowe",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/liberal"
+    },
+    {
+      "person_id": "casey_city_council/steve_beardon",
+      "organization_id": "legislature/casey_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "casey_city_council/amanda_stapledon",
@@ -5330,7 +5746,15 @@
       "person_id": "casey_city_council/louise_berkelmans",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "casey_city_council/rex_flannery",
+      "organization_id": "legislature/casey_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "central_goldfields_shire_council/bob_henderson",
@@ -6374,7 +6798,15 @@
       "person_id": "knox_city_council/joe_cossari",
       "organization_id": "legislature/knox_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "knox_city_council/jackson_taylor",
+      "organization_id": "legislature/knox_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "knox_city_council/adam_gill",
@@ -6386,7 +6818,15 @@
       "person_id": "knox_city_council/karin_orpen",
       "organization_id": "legislature/knox_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "knox_city_council/jake_keorg",
+      "organization_id": "legislature/knox_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "knox_city_council/tony_holland",
@@ -6398,7 +6838,8 @@
       "person_id": "knox_city_council/lisa_cooper",
       "organization_id": "legislature/knox_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "knox_city_council/darren_pearce",
@@ -7043,7 +7484,15 @@
       "person_id": "monash_city_council/katrina_nolan",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "monash_city_council/lynnette_saloumi",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "monash_city_council/brian_little",
@@ -7055,7 +7504,15 @@
       "person_id": "monash_city_council/jieh-yung_lo",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/labor"
+      "on_behalf_of_id": "party/labor",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "monash_city_council/mt_pang_tsoi",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "monash_city_council/rebecca_paterson",
@@ -7073,7 +7530,15 @@
       "person_id": "monash_city_council/micaela_drieberg",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "monash_city_council/shane_mccluskey",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "monash_city_council/paul_klisaris",
@@ -7085,13 +7550,28 @@
       "person_id": "monash_city_council/bill_pontikis",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "monash_city_council/josh_fergeus",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/greens",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "monash_city_council/theo_zographos",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/liberal"
+    },
+    {
+      "person_id": "monash_city_council/stuart_james",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "moonee_valley_city_council/jan_chantry",
@@ -8360,7 +8840,8 @@
       "person_id": "yarra_city_council/geoff_barbour",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/australian_labor_party"
+      "on_behalf_of_id": "party/australian_labor_party",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "yarra_city_council/stephen_jolly",
@@ -8375,6 +8856,13 @@
       "on_behalf_of_id": "party/victorian_greens"
     },
     {
+      "person_id": "yarra_city_council/danae_bolser",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/australian_labor_party",
+      "start_date": "2016-10-23"
+    },
+    {
       "person_id": "yarra_city_council/misha_coleman",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
@@ -8384,19 +8872,43 @@
       "person_id": "yarra_city_council/simon_huggins",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/australian_labor_party"
+      "on_behalf_of_id": "party/australian_labor_party",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "yarra_city_council/phillip_vlahogiannis",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "yarra_city_council/daniel_nguyen",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "yarra_city_council/min-lin_chen_yi_mei",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/australian_labor_party",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "yarra_city_council/james_searle",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/victorian_greens",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "yarra_city_council/roberto_colanzi",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/australian_labor_party"
+      "on_behalf_of_id": "party/australian_labor_party",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "yarra_city_council/jackie_fristacky",
@@ -8408,61 +8920,93 @@
       "person_id": "yarra_city_council/sam_gaylard",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/victorian_greens"
+      "on_behalf_of_id": "party/victorian_greens",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "yarra_city_council/mike_mcevoy",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/victorian_greens",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "yarra_ranges_shire_council/maria_mccarthy",
       "organization_id": "legislature/yarra_ranges_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "yarra_ranges_shire_council/jason_callanan",
       "organization_id": "legislature/yarra_ranges_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "yarra_ranges_shire_council/andy_witlox",
       "organization_id": "legislature/yarra_ranges_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "yarra_ranges_shire_council/mike_clarke",
       "organization_id": "legislature/yarra_ranges_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "yarra_ranges_shire_council/terry_avery",
       "organization_id": "legislature/yarra_ranges_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "yarra_ranges_shire_council/jim_child",
       "organization_id": "legislature/yarra_ranges_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "yarra_ranges_shire_council/fiona_mcallister",
       "organization_id": "legislature/yarra_ranges_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "yarra_ranges_shire_council/noel_cliff",
       "organization_id": "legislature/yarra_ranges_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "yarra_ranges_shire_council/len_cox",
       "organization_id": "legislature/yarra_ranges_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
+    },
+    {
+      "person_id": "yarra_ranges_shire_council/tim_heenan",
+      "organization_id": "legislature/yarra_ranges_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "yarra_ranges_shire_council/tony_stevenson",
+      "organization_id": "legislature/yarra_ranges_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "yarra_ranges_shire_council/richard_higgins",
+      "organization_id": "legislature/yarra_ranges_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "yarriambiack_shire_council/terry_grange",
@@ -8522,6 +9066,11 @@
       "role": "Deputy Mayor"
     },
     {
+      "person_id": "ballarat_city_council/mark_harris",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "Deputy Mayor"
+    },
+    {
       "person_id": "ballarat_city_council/des_hudson",
       "organization_id": "legislature/ballarat_city_council",
       "role": "mayor"
@@ -8570,6 +9119,21 @@
       "person_id": "cardinia_shire_council/jodie_owen",
       "organization_id": "legislature/cardinia_shire_council",
       "role": "mayor"
+    },
+    {
+      "person_id": "casey_city_council/susan_serey",
+      "organization_id": "legislature/casey_city_council",
+      "role": "Dupety Mayor"
+    },
+    {
+      "person_id": "casey_city_council/rosalie_crestani",
+      "organization_id": "legislature/casey_city_council",
+      "role": "Dupety Mayor"
+    },
+    {
+      "person_id": "casey_city_council/damien_rosario",
+      "organization_id": "legislature/casey_city_council",
+      "role": "Duputy Mayor"
     },
     {
       "person_id": "casey_city_council/wayne_smith",
@@ -8767,6 +9331,11 @@
       "role": "Deputy Mayor"
     },
     {
+      "person_id": "monash_city_council/stuart_james",
+      "organization_id": "legislature/monash_city_council",
+      "role": "Deputy Mayor"
+    },
+    {
       "person_id": "moonee_valley_city_council/andrea_surace",
       "organization_id": "legislature/moonee_valley_city_council",
       "role": "mayor"
@@ -8912,9 +9481,14 @@
       "role": "mayor"
     },
     {
-      "person_id": "yarra_ranges_shire_council/jason_callanan",
+      "person_id": "yarra_ranges_shire_council/noel_cliff",
       "organization_id": "legislature/yarra_ranges_shire_council",
       "role": "mayor"
+    },
+    {
+      "person_id": "yarra_ranges_shire_council/len_cox",
+      "organization_id": "legislature/yarra_ranges_shire_council",
+      "role": "deputy mayor"
     },
     {
       "person_id": "yarriambiack_shire_council/ray_kingston",
