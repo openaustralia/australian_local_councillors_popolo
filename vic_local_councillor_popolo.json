@@ -1840,6 +1840,22 @@
       ]
     },
     {
+      "email": "george.hua@kingston.vic.gov.au",
+      "id": "kingston_city_council/george_hua",
+      "image": "http://www.kingston.vic.gov.au/files/assets/public/communications/councillors/2016/cr-george-hua.jpg?w=200&h=200",
+      "name": "George Hua",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/assets/public/communications/councillors/2016/cr-george-hua.jpg?w=200&h=200"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About-Us/Councillors"
+        }
+      ]
+    },
+    {
       "email": "steve.staikos@kingston.vic.gov.au",
       "id": "kingston_city_council/steve_staikos",
       "image": "http://www.kingston.vic.gov.au/files/6c578a2f-5549-465f-9d98-a1b60122802b/WEB-CR-Steve_Staikos.jpg",
@@ -1900,6 +1916,22 @@
       "sources": [
         {
           "url": "http://www.kingston.vic.gov.au/About/Councillors/Cr-John-Ronke"
+        }
+      ]
+    },
+    {
+      "email": "georgina.oxley@kingston.vic.gov.au",
+      "id": "kingston_city_council/georgina_oxley",
+      "image": "http://www.kingston.vic.gov.au/files/assets/public/communications/councillors/2016/cr-georgina-oxley.jpg?w=200&h=200",
+      "name": "Georgina Oxley",
+      "images": [
+        {
+          "url": "http://www.kingston.vic.gov.au/files/assets/public/communications/councillors/2016/cr-georgina-oxley.jpg?w=200&h=200"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.kingston.vic.gov.au/About-Us/Councillors"
         }
       ]
     },
@@ -6756,7 +6788,15 @@
       "person_id": "kingston_city_council/paul_peulich",
       "organization_id": "legislature/kingston_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "kingston_city_council/george_hua",
+      "organization_id": "legislature/kingston_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "kingston_city_council/steve_staikos",
@@ -6780,7 +6820,15 @@
       "person_id": "kingston_city_council/john_ronke",
       "organization_id": "legislature/kingston_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "kingston_city_council/georgina_oxley",
+      "organization_id": "legislature/kingston_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "knox_city_council/peter_lockwood",
@@ -6806,7 +6854,7 @@
       "organization_id": "legislature/knox_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/independent",
-      "start_date": "2016-10-23"
+      "start_date": "2016-10-22"
     },
     {
       "person_id": "knox_city_council/adam_gill",
