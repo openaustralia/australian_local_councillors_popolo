@@ -2803,6 +2803,54 @@
       ]
     },
     {
+      "email": "nabboud@moreland.org.au",
+      "id": "moreland_city_council/natalie_abboud",
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/councillors/cr-natalie-abboud-180x240.jpg",
+      "name": "Natalie Abboud",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/councillors/cr-natalie-abboud-180x240.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-east-ward-councillors/cr-natalie-abboud-north-east-ward/"
+        }
+      ]
+    },
+    {
+      "email": "acarlihannan@moreland.org.au",
+      "id": "moreland_city_council/annalivia_carli_hannan",
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/councillors/cr-annalivia-carli-hannan-180x240.jpg",
+      "name": "Annalivia Carli Hannan",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/councillors/cr-annalivia-carli-hannan-180x240.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-east-ward-councillors/cr-annalivia-carli-hannan-north-east-ward/"
+        }
+      ]
+    },
+    {
+      "email": "airfanli@moreland.org.au",
+      "id": "moreland_city_council/ali_irfanli",
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/councillors/cr-ali-irfanli-180x240.jpg",
+      "name": "Ali Irfanli",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/councillors/cr-ali-irfanli-180x240.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-east-ward-councillors/cr-ali-irfanli-north-east-ward/"
+        }
+      ]
+    },
+    {
       "email": "hdavidson@moreland.vic.gov.au",
       "id": "moreland_city_council/helen_davidson",
       "image": "http://www.moreland.vic.gov.au/globalassets/images/web-pages/about-us/cr-helen-davidson-headshot.jpg",
@@ -2831,6 +2879,22 @@
       "sources": [
         {
           "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-west-ward-councillors/cr-lita-gillies-north-west-ward/"
+        }
+      ]
+    },
+    {
+      "email": "dmartin@moreland.org.au",
+      "id": "moreland_city_council/dale_martin",
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/councillors/cr-dale-martin-180x240.jpg",
+      "name": "Dale Martin",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/councillors/cr-dale-martin-180x240.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/north-west-ward-councillors/cr-dale-martin-north-west-ward/"
         }
       ]
     },
@@ -2911,6 +2975,22 @@
       "sources": [
         {
           "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/south-ward-councillors/cr-lambros-tapinos-south-ward/"
+        }
+      ]
+    },
+    {
+      "email": "mriley@moreland.org.au",
+      "id": "moreland_city_council/mark_riley",
+      "image": "http://www.moreland.vic.gov.au/globalassets/images/councillors/cr-mark-riley-180x240.jpg",
+      "name": "Mark Riley",
+      "images": [
+        {
+          "url": "http://www.moreland.vic.gov.au/globalassets/images/councillors/cr-mark-riley-180x240.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.moreland.vic.gov.au/about-us/your-council/mayor-and-councillors/south-ward-councillors/cr-mark-riley-south-ward/"
         }
       ]
     },
@@ -7094,6 +7174,13 @@
       "on_behalf_of_id": "party/liberal"
     },
     {
+      "person_id": "monash_city_council/stuart_james",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
+    },
+    {
       "person_id": "moonee_valley_city_council/jan_chantry",
       "organization_id": "legislature/moonee_valley_city_council",
       "role": "councillor",
@@ -7199,19 +7286,43 @@
       "person_id": "moreland_city_council/michael_teti",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/labor"
+      "on_behalf_of_id": "party/labor",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "moreland_city_council/lenka_thompson",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/australian_greens"
+      "on_behalf_of_id": "party/australian_greens",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "moreland_city_council/rob_thompson",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/liberal"
+      "on_behalf_of_id": "party/liberal",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "moreland_city_council/natalie_abboud",
+      "organization_id": "legislature/moreland_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/australian_greens",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "moreland_city_council/annalivia_carli_hannan",
+      "organization_id": "legislature/moreland_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/labor",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "moreland_city_council/ali_irfanli",
+      "organization_id": "legislature/moreland_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "moreland_city_council/helen_davidson",
@@ -7223,7 +7334,15 @@
       "person_id": "moreland_city_council/lita_gillies",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/labor"
+      "on_behalf_of_id": "party/labor",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "moreland_city_council/dale_martin",
+      "organization_id": "legislature/moreland_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/greens",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "moreland_city_council/john_kavanagh",
@@ -7241,7 +7360,8 @@
       "person_id": "moreland_city_council/meghan_hopper",
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/labor"
+      "on_behalf_of_id": "party/labor",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "moreland_city_council/samantha_ratnam",
@@ -7254,6 +7374,13 @@
       "organization_id": "legislature/moreland_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/labor"
+    },
+    {
+      "person_id": "moreland_city_council/mark_riley",
+      "organization_id": "legislature/moreland_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/greens",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "mornington_peninsula_shire_council/bev_colomb",
