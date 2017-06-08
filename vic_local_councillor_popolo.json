@@ -2547,6 +2547,22 @@
       ]
     },
     {
+      "email": "Lynnette.saloumi@monash.vic.gov.au",
+      "id": "monash_city_council/lynnette_saloumi",
+      "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/lynnette-saloumi2.jpg?w=250",
+      "name": "Lynnette Saloumi",
+      "images": [
+        {
+          "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/lynnette-saloumi2.jpg?w=250"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.monash.vic.gov.au/About-Us/Council/Councillors/Lynnette-Saloumi"
+        }
+      ]
+    },
+    {
       "email": "Brian.Little@monash.vic.gov.au",
       "id": "monash_city_council/brian_little",
       "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/brian-little.jpg",
@@ -2575,6 +2591,22 @@
       "sources": [
         {
           "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Jieh-Yung-Lo"
+        }
+      ]
+    },
+    {
+      "email": "MTPang.tsoi@monash.vic.gov.au",
+      "id": "monash_city_council/mt_pang_tsoi",
+      "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/mt-pang-tsoi.jpg?w=250",
+      "name": "MT Pang Tsoi",
+      "images": [
+        {
+          "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/mt-pang-tsoi.jpg?w=250"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.monash.vic.gov.au/About-Us/Council/Councillors/MT-Pang-Tsoi"
         }
       ]
     },
@@ -2627,6 +2659,22 @@
       ]
     },
     {
+      "email": "Shane.McCluskey@monash.vic.gov.au",
+      "id": "monash_city_council/shane_mccluskey",
+      "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/shane-mccluskey.jpg?w=250",
+      "name": "Shane McCluskey",
+      "images": [
+        {
+          "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/shane-mccluskey.jpg?w=250"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.monash.vic.gov.au/About-Us/Council/Councillors/Shane-McCluskey"
+        }
+      ]
+    },
+    {
       "email": "Paul.Klisaris@monash.vic.gov.au",
       "id": "monash_city_council/paul_klisaris",
       "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-paul-klisaris.jpg",
@@ -2659,6 +2707,22 @@
       ]
     },
     {
+      "email": "Josh.Fergeus@monash.vic.gov.au",
+      "id": "monash_city_council/josh_fergeus",
+      "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-josh-fergeus.jpg?w=250",
+      "name": "Josh Fergeus",
+      "images": [
+        {
+          "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-josh-fergeus.jpg?w=250"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.monash.vic.gov.au/About-Us/Council/Councillors/Josh-Fergeus"
+        }
+      ]
+    },
+    {
       "email": "Theo.Zographos@monash.vic.gov.au",
       "id": "monash_city_council/theo_zographos",
       "image": "http://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/theo-zographos.jpg",
@@ -2671,6 +2735,22 @@
       "sources": [
         {
           "url": "http://www.monash.vic.gov.au/About-Us/Council/Councillors/Theo-Zographos"
+        }
+      ]
+    },
+    {
+      "email": "Stuart.James@monash.vic.gov.au",
+      "id": "monash_city_council/stuart_james",
+      "image": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-stuart-james.jpg?w=250",
+      "name": "Stuart James",
+      "images": [
+        {
+          "url": "https://www.monash.vic.gov.au/files/assets/public/about-us/council/councillors/cr-stuart-james.jpg?w=250"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.monash.vic.gov.au/About-Us/Council/Councillors/Stuart-James"
         }
       ]
     },
@@ -7091,7 +7171,15 @@
       "person_id": "monash_city_council/katrina_nolan",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "monash_city_council/lynnette_saloumi",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "monash_city_council/brian_little",
@@ -7103,7 +7191,15 @@
       "person_id": "monash_city_council/jieh-yung_lo",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/labor"
+      "on_behalf_of_id": "party/labor",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "monash_city_council/mt_pang_tsoi",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "monash_city_council/rebecca_paterson",
@@ -7121,7 +7217,15 @@
       "person_id": "monash_city_council/micaela_drieberg",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "monash_city_council/shane_mccluskey",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "monash_city_council/paul_klisaris",
@@ -7133,13 +7237,28 @@
       "person_id": "monash_city_council/bill_pontikis",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "monash_city_council/josh_fergeus",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/greens",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "monash_city_council/theo_zographos",
       "organization_id": "legislature/monash_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/liberal"
+    },
+    {
+      "person_id": "monash_city_council/stuart_james",
+      "organization_id": "legislature/monash_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "moonee_valley_city_council/jan_chantry",
@@ -8835,6 +8954,11 @@
     },
     {
       "person_id": "monash_city_council/rebecca_paterson",
+      "organization_id": "legislature/monash_city_council",
+      "role": "Deputy Mayor"
+    },
+    {
+      "person_id": "monash_city_council/stuart_james",
       "organization_id": "legislature/monash_city_council",
       "role": "Deputy Mayor"
     },
