@@ -46,3 +46,22 @@ or split the results into individual Pull Requests for the changes to each autho
 * Queensland Councillors https://morph.io/openaustralia/qld_lg_directory_councillors
 * Tasmania https://morph.io/openaustralia/tas_lg_directory_councillors
 * Western Australia https://morph.io/openaustralia/west_australian_local_councillors
+
+## Design Principles
+
+* Strive for diversifying data: invite people who are historically marginalized and excluded from     conversations around technology and information, and intentionally build data structures that reflect those voices and lived experiences. The effort of achieving diversity needs to happen from multiple angles.
+* Make sure contributors understand the amazing impact they’re having
+* Strive for universal accessibility
+* Make the process of contribution obvious and intuitive
+* Communicate clearly how people’s contribution are used.
+* Be welcoming for both new and existing contributors. Do adequate outreach as well as decreasing the barriers for new contributors.
+* Be supportive: people need to feel supported and encouraged in their process of contributing.
+* Share ownership: make sure people know they are a part of the community. Honor the their labour and make sure they are able to receive the benefits.
+* Respect everyone’s time, including administrators
+
+## How we work
+
+* Be agile, flexible, and responsive: decide on small feature, implement, debug, repeat.
+* Communicate changes to people as they come up.
+* In case of conflict, return to the shared goal of the project and the problems we want to solve.  Reflect on what your beef is and where it’s coming from (maybe it’s not about the project).
+ 
