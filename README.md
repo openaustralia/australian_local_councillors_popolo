@@ -68,7 +68,9 @@ or split the results into individual Pull Requests for the changes to each autho
 
 ## Design Principles
 
-* Strive for diversifying data: invite people who are historically marginalized and excluded from     conversations around technology and information, and intentionally build data structures that reflect those voices and lived experiences. The effort of achieving diversity needs to happen from multiple angles.
+As we [make Councillors data easy to update for volunteers](https://github.com/openaustralia/australian_local_councillors_popolo/issues/98#issuecomment-305383236), these principles will shape what we create:
+
+* Strive for diversifying data: invite people who are historically marginalized and excluded from conversations around technology and information, and intentionally build data structures that reflect those voices and lived experiences. The effort of achieving diversity needs to happen from multiple angles.
 * Make sure contributors understand the amazing impact they’re having
 * Strive for universal accessibility
 * Make the process of contribution obvious and intuitive
