@@ -1831,6 +1831,22 @@
       ]
     },
     {
+      "email": "jackson.taylor@knox.vic.gov.au",
+      "id": "knox_city_council/jackson_taylor",
+      "image": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jackson_Taylor.jpg",
+      "name": "Jackson Taylor",
+      "images": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jackson_Taylor.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=109"
+        }
+      ]
+    },
+    {
       "email": "adam.gill@knox.vic.gov.au",
       "id": "knox_city_council/adam_gill",
       "image": "http://www.knox.vic.gov.au/Page/Images/cr_adam_gill_2012.jpg",
@@ -1859,6 +1875,22 @@
       "sources": [
         {
           "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=111"
+        }
+      ]
+    },
+    {
+      "email": "Jake.Keorg@knox.vic.gov.au",
+      "id": "knox_city_council/jake_keorg",
+      "image": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jake_Keogh.jpg",
+      "name": "Jake Keorg",
+      "images": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jake_Keogh.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=109"
         }
       ]
     },
@@ -3983,6 +4015,22 @@
       ]
     },
     {
+      "email": "Danae.Bosler@yarracity.vic.gov.au",
+      "id": "yarra_city_council/danae_bolser",
+      "image": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/Danae%20Bosler.jpg",
+      "name": "Danae Bosler",
+      "images": [
+        {
+          "url": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/Danae%20Bosler.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://yarracity.vic.gov.au/Your-Council/Councillors/cr-danae-bosler/"
+        }
+      ]
+    },
+    {
       "email": "Misha.Coleman@yarracity.vic.gov.au",
       "id": "yarra_city_council/misha_coleman",
       "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Misha-Coleman.jpg",
@@ -4031,6 +4079,54 @@
       ]
     },
     {
+      "email": "Daniel.Nguyen@yarracity.vic.gov.au",
+      "id": "yarra_city_council/daniel_nguyen",
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Daniel%20Nguyen.jpg",
+      "name": "Daniel Nguyen",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Daniel%20Nguyen.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/cr-daniel-nguyen/"
+        }
+      ]
+    },
+    {
+      "email": "Milin.Chenyimei@yarracity.vic.gov.au ",
+      "id": "yarra_city_council/min-lin_chen_yi_mei",
+      "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Mi%20Lin%20Chen%20Yi%20Mei.jpg",
+      "name": "Mi-Lin Chen Yi Mei",
+      "images": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Mi%20Lin%20Chen%20Yi%20Mei.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/mi-lin-chen-yi-mei/"
+        }
+      ]
+    },
+    {
+      "email": "James.Searle@yarracity.vic.gov.au",
+      "id": "yarra_city_council/james_searle",
+      "image": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/James%20Searle.jpg",
+      "name": "James Searle",
+      "images": [
+        {
+          "url": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/James%20Searle.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://yarracity.vic.gov.au/your-council/councillors/cr-james-searle/"
+        }
+      ]
+    },
+    {
       "email": "mayor@yarracity.vic.gov.au",
       "id": "yarra_city_council/roberto_colanzi",
       "image": "http://www.yarracity.vic.gov.au/IgnitionSuite/uploads/images/Cr-Roberto-Colanzi2012_7.jpg",
@@ -4075,6 +4171,22 @@
       "sources": [
         {
           "url": "http://www.yarracity.vic.gov.au/Your-Council/Councillors/Sam-Gaylard/"
+        }
+      ]
+    },
+    {
+      "email": "Mike.McEvoy@yarracity.vic.gov.au",
+      "id": "yarra_city_council/mike_mcevoy",
+      "image": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/Mike%20McEvoy.jpg",
+      "name": "Mike McEvoy",
+      "images": [
+        {
+          "url": "http://yarracity.vic.gov.au/IgnitionSuite/uploads/images/Mike%20McEvoy.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://yarracity.vic.gov.au/Your-Council/Councillors/cr-mike-mcevoy/"
         }
       ]
     },
@@ -6502,7 +6614,15 @@
       "person_id": "knox_city_council/joe_cossari",
       "organization_id": "legislature/knox_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "knox_city_council/jackson_taylor",
+      "organization_id": "legislature/knox_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "knox_city_council/adam_gill",
@@ -6514,7 +6634,15 @@
       "person_id": "knox_city_council/karin_orpen",
       "organization_id": "legislature/knox_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "knox_city_council/jake_keorg",
+      "organization_id": "legislature/knox_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "knox_city_council/tony_holland",
@@ -6526,7 +6654,8 @@
       "person_id": "knox_city_council/lisa_cooper",
       "organization_id": "legislature/knox_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "knox_city_council/darren_pearce",
@@ -8527,7 +8656,8 @@
       "person_id": "yarra_city_council/geoff_barbour",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/australian_labor_party"
+      "on_behalf_of_id": "party/australian_labor_party",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "yarra_city_council/stephen_jolly",
@@ -8542,6 +8672,13 @@
       "on_behalf_of_id": "party/victorian_greens"
     },
     {
+      "person_id": "yarra_city_council/danae_bolser",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/australian_labor_party",
+      "start_date": "2016-10-23"
+    },
+    {
       "person_id": "yarra_city_council/misha_coleman",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
@@ -8551,19 +8688,43 @@
       "person_id": "yarra_city_council/simon_huggins",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/australian_labor_party"
+      "on_behalf_of_id": "party/australian_labor_party",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "yarra_city_council/phillip_vlahogiannis",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "yarra_city_council/daniel_nguyen",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "yarra_city_council/min-lin_chen_yi_mei",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/australian_labor_party",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "yarra_city_council/james_searle",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/victorian_greens",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "yarra_city_council/roberto_colanzi",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/australian_labor_party"
+      "on_behalf_of_id": "party/australian_labor_party",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "yarra_city_council/jackie_fristacky",
@@ -8575,7 +8736,15 @@
       "person_id": "yarra_city_council/sam_gaylard",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/victorian_greens"
+      "on_behalf_of_id": "party/victorian_greens",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "yarra_city_council/mike_mcevoy",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/victorian_greens",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "yarra_ranges_shire_council/maria_mccarthy",
