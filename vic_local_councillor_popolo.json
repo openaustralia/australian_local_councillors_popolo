@@ -1895,6 +1895,22 @@
       ]
     },
     {
+      "email": "jackson.taylor@knox.vic.gov.au",
+      "id": "knox_city_council/jackson_taylor",
+      "image": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jackson_Taylor.jpg",
+      "name": "Jackson Taylor",
+      "images": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jackson_Taylor.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=109"
+        }
+      ]
+    },
+    {
       "email": "adam.gill@knox.vic.gov.au",
       "id": "knox_city_council/adam_gill",
       "image": "http://www.knox.vic.gov.au/Page/Images/cr_adam_gill_2012.jpg",
@@ -1918,6 +1934,22 @@
       "images": [
         {
           "url": "http://www.knox.vic.gov.au/Page/Images/cr_karin_orpen_2013.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.knox.vic.gov.au/Page/Page.aspx?Page_Id=111"
+        }
+      ]
+    },
+    {
+      "email": "Jake.Keorg@knox.vic.gov.au",
+      "id": "knox_city_council/jake_keorg",
+      "image": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jake_Keogh.jpg",
+      "name": "Jake Keorg",
+      "images": [
+        {
+          "url": "https://www.knox.vic.gov.au/Page/Images/2016_Cr_Jake_Keogh.jpg"
         }
       ],
       "sources": [
@@ -6598,7 +6630,15 @@
       "person_id": "knox_city_council/joe_cossari",
       "organization_id": "legislature/knox_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "knox_city_council/jackson_taylor",
+      "organization_id": "legislature/knox_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "knox_city_council/adam_gill",
@@ -6610,7 +6650,15 @@
       "person_id": "knox_city_council/karin_orpen",
       "organization_id": "legislature/knox_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "knox_city_council/jake_keorg",
+      "organization_id": "legislature/knox_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "knox_city_council/tony_holland",
