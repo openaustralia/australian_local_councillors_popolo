@@ -739,6 +739,22 @@
       ]
     },
     {
+      "email": "tjackson@casey.vic.gov.au",
+      "id": "casey_city_council/timothy_jackson",
+      "image": "http://www.casey.vic.gov.au/files/assets/public/council/your-council/mayor-and-councillors/timothy-jackson_edrington.jpg",
+      "name": "Timothy Jackson",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/assets/public/council/your-council/mayor-and-councillors/timothy-jackson_edrington.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
+    },
+    {
       "email": "sserey@casey.vic.gov.au",
       "id": "casey_city_council/susan_serey",
       "image": "http://www.casey.vic.gov.au/files/2b48e454-0af5-4c3e-abf9-a23c00d27639/susan-serey.jpg",
@@ -780,6 +796,31 @@
           "url": "http://www.casey.vic.gov.au/files/f692cd66-839e-4fa6-829a-a23c00d2756f/rafal-kaplon.jpg"
         }
       ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
+    },
+    {
+      "email": "mgilic@casey.vic.gov.au",
+      "id": "casey_city_council/mila_gilic",
+      "image": "http://www.casey.vic.gov.au/files/assets/public/council/mayor-and-councillors/gilic_2.png",
+      "name": "Mila Gilic",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/assets/public/council/mayor-and-councillors/gilic_2.png"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
+    },
+    {
+      "id": "casey_city_council/steve_beardon",
+      "name": "Steve Beardon",
       "sources": [
         {
           "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
@@ -874,6 +915,22 @@
       "images": [
         {
           "url": "http://www.casey.vic.gov.au/files/260da810-9487-4696-b65c-a23c00d274e7/louise-berkelmans.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.casey.vic.gov.au/council/mayor-councillors"
+        }
+      ]
+    },
+    {
+      "email": "rflannery@casey.vic.gov.au",
+      "id": "casey_city_council/rex_flannery",
+      "image": "http://www.casey.vic.gov.au/files/assets/public/council/your-council/mayor-and-councillors/rex-flannery_springfield.jpg",
+      "name": "Rex Flannery",
+      "images": [
+        {
+          "url": "http://www.casey.vic.gov.au/files/assets/public/council/your-council/mayor-and-councillors/rex-flannery_springfield.jpg"
         }
       ],
       "sources": [
@@ -5276,7 +5333,15 @@
       "person_id": "casey_city_council/mick_morland",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/liberal"
+      "on_behalf_of_id": "party/liberal",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "casey_city_council/timothy_jackson",
+      "organization_id": "legislature/casey_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "casey_city_council/susan_serey",
@@ -5294,7 +5359,23 @@
       "person_id": "casey_city_council/rafal_kaplon",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "casey_city_council/mila_gilic",
+      "organization_id": "legislature/casey_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "casey_city_council/steve_beardon",
+      "organization_id": "legislature/casey_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23",
+      "end_date": "2017-05-09"
     },
     {
       "person_id": "casey_city_council/gary_rowe",
@@ -5330,7 +5411,15 @@
       "person_id": "casey_city_council/louise_berkelmans",
       "organization_id": "legislature/casey_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "casey_city_council/rex_flannery",
+      "organization_id": "legislature/casey_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "central_goldfields_shire_council/bob_henderson",
@@ -8572,7 +8661,12 @@
       "role": "mayor"
     },
     {
-      "person_id": "casey_city_council/wayne_smith",
+      "person_id": "casey_city_council/susan_serey",
+      "organization_id": "legislature/casey_city_council",
+      "role": "Deputy Mayor"
+    },
+    {
+      "person_id": "casey_city_council/damien_rosario",
       "organization_id": "legislature/casey_city_council",
       "role": "Deputy Mayor"
     },
