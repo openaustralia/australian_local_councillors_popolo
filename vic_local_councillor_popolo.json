@@ -189,6 +189,22 @@
       ]
     },
     {
+      "email": "markharris@ballarat.vic.gov.au",
+      "id": "ballarat_city_council/mark_harris",
+      "image": "http://www.ballarat.vic.gov.au/media/4120099/mark_harris.jpg",
+      "name": "Mark Harris",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/4120099/mark_harris.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards/meet-your-councillors/councillor-mark-harris.aspx"
+        }
+      ]
+    },
+    {
       "email": "vickicoltman@ballarat.vic.gov.au",
       "id": "ballarat_city_council/vicki_coltman",
       "image": "http://www.ballarat.vic.gov.au/media/982735/cr_vicki_coltman.jpg",
@@ -237,6 +253,38 @@
       ]
     },
     {
+      "email": "granttillett@ballarat.vic.gov.au",
+      "id": "ballarat_city_council/grant_tillett",
+      "image": "http://www.ballarat.vic.gov.au/media/4120165/grant_tillett.jpg",
+      "name": "Grant Tillett",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/4120165/grant_tillett.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards/meet-your-councillors/councillor-grant-tillett.aspx"
+        }
+      ]
+    },
+    {
+      "email": "danielmoloney@ballarat.vic.gov.au",
+      "id": "ballarat_city_council/daniel_moloney",
+      "image": "http://www.ballarat.vic.gov.au/media/4120154/daniel_moloney.jpg",
+      "name": "Daniel Moloney",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/4120154/daniel_moloney.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards/meet-your-councillors/councillor-daniel-moloney.aspx"
+        }
+      ]
+    },
+    {
       "email": "DesHudson@ballarat.vic.gov.au",
       "id": "ballarat_city_council/des_hudson",
       "image": "http://www.ballarat.vic.gov.au/media/982740/cr_des_hudson.jpg",
@@ -281,6 +329,22 @@
       "sources": [
         {
           "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards.aspx"
+        }
+      ]
+    },
+    {
+      "email": "bentaylor@ballarat.vic.gov.au",
+      "id": "ballarat_city_council/ben_taylor",
+      "image": "http://www.ballarat.vic.gov.au/media/4120110/ben_taylor.jpg",
+      "name": "Ben Taylor",
+      "images": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/media/4120110/ben_taylor.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.ballarat.vic.gov.au/ac/councillors-and-wards/meet-your-councillors/councillor-ben-taylor.aspx"
         }
       ]
     },
@@ -4880,7 +4944,8 @@
       "person_id": "ballarat_city_council/glen_crompton",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "ballarat_city_council/belinda_coates",
@@ -4895,10 +4960,18 @@
       "on_behalf_of_id": "party/liberal"
     },
     {
+      "person_id": "ballarat_city_council/mark_harris",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-10-23"
+    },
+    {
       "person_id": "ballarat_city_council/vicki_coltman",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/liberal"
+      "on_behalf_of_id": "party/liberal",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "ballarat_city_council/amy_johnson",
@@ -4910,7 +4983,22 @@
       "person_id": "ballarat_city_council/john_philips",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "ballarat_city_council/grant_tillett",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
+    },
+    {
+      "person_id": "ballarat_city_council/daniel_moloney",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "ballarat_city_council/des_hudson",
@@ -4922,13 +5010,21 @@
       "person_id": "ballarat_city_council/peter_innes",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-10-22"
     },
     {
       "person_id": "ballarat_city_council/jim_rinaldi",
       "organization_id": "legislature/ballarat_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/independent"
+    },
+    {
+      "person_id": "ballarat_city_council/ben_taylor",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/liberal",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "banyule_city_council/mark_di_pasquale",
@@ -8709,6 +8805,11 @@
     },
     {
       "person_id": "ballarat_city_council/belinda_coates",
+      "organization_id": "legislature/ballarat_city_council",
+      "role": "Deputy Mayor"
+    },
+    {
+      "person_id": "ballarat_city_council/mark_harris",
       "organization_id": "legislature/ballarat_city_council",
       "role": "Deputy Mayor"
     },
