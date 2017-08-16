@@ -649,52 +649,196 @@
       "name": "Matt Stevenson"
     },
     {
+      "email": "ald.briscoe@hobartcity.com.au",
       "id": "hobart_city_council/jeff_briscoe",
-      "name": "Jeff Briscoe"
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/alderman-briscoe-cropped-custom.jpg?w=364",
+      "name": "Jeff Briscoe",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/alderman-briscoe-cropped-custom.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
+      "email": "ald.burnet@hobartcity.com.au",
       "id": "hobart_city_council/helen_burnet",
-      "name": "Helen Burnet"
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/burnet_2014-custom.jpg?w=364",
+      "name": "Helen Burnet",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/burnet_2014-custom.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
+      "email": "ald.christie@hobartcity.com.au",
       "id": "hobart_city_council/ron_christie",
-      "name": "Ron Christie"
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/r-christie-custom.jpg?w=364",
+      "name": "Ron Christie",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/r-christie-custom.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
+      "email": "ald.cocker@hobartcity.com.au",
       "id": "hobart_city_council/philip_cocker",
-      "name": "Philip Cocker"
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/alderman_cocker_cropped_web_size.jpg?w=364",
+      "name": "Philip Cocker",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/alderman_cocker_cropped_web_size.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
-      "id": "hobart_city_council/suzy_cooper",
-      "name": "Suzy Cooper"
+      "email": "ald.harvey@hobartcity.com.au",
+      "id": "hobart_city_council/bill_harvey",
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/bill-harvey-preferred-portrait-400x400-custom.jpg?w=364",
+      "name": "Bill Harvey",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/bill-harvey-preferred-portrait-400x400-custom.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
-      "id": "hobart_city_council/tania_denison",
-      "name": "Tania Denison"
+      "email": "ald.denison@hobartcity.com.au",
+      "id": "hobart_city_council/tanya_denison",
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/bcards-custom.jpg?w=364",
+      "name": "Tanya Denison",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/bcards-custom.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
+      "email": "ald.hickey@hobartcity.com.au",
       "id": "hobart_city_council/sue_hickey",
-      "name": "Sue Hickey"
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/s-hickey.jpg?w=364",
+      "name": "Sue Hickey",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/s-hickey.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
+      "email": "ald.reynolds@hobartcity.com.au",
       "id": "hobart_city_council/anna_reynolds",
-      "name": "Anna Reynolds"
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/ald-reynolds-custom.jpg?w=364",
+      "name": "Anna Reynolds",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/ald-reynolds-custom.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
+      "email": "ald.ruzicka@hobartcity.com.au",
       "id": "hobart_city_council/eva_ruzicka",
-      "name": "Eva Ruzicka"
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/ald-eva-ruzicka-custom.jpg?w=364",
+      "name": "Eva Ruzicka",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/ald-eva-ruzicka-custom.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
+      "email": "ald.sexton@hobartcity.com.au",
       "id": "hobart_city_council/peter_sexton",
-      "name": "Peter Sexton"
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/sexton_august-2014-custom.jpg?w=364",
+      "name": "Peter Sexton",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/sexton_august-2014-custom.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
+      "email": "ald.thomas@hobartcity.com.au",
       "id": "hobart_city_council/damon_thomas",
-      "name": "Damon Thomas"
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/thomas_2014-custom.jpg?w=364",
+      "name": "Damon Thomas",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/thomas_2014-custom.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
+      "email": "ald.zucco@hobartcity.com.au",
       "id": "hobart_city_council/marti_zucco",
-      "name": "Marti Zucco"
+      "image": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/zucco-marti_sept-2014-custom.jpg?w=364",
+      "name": "Marti Zucco",
+      "images": [
+        {
+          "url": "https://www.hobartcity.com.au/files/assets/public/council-meetings-aldermen/aldermen-images-and-information/zucco-marti_sept-2014-custom.jpg?w=364"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.hobartcity.com.au/Council/Aldermen"
+        }
+      ]
     },
     {
       "id": "huon_valley_council/peter_coad",
@@ -2482,73 +2626,73 @@
       "person_id": "hobart_city_council/jeff_briscoe",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "hobart_city_council/helen_burnet",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "hobart_city_council/ron_christie",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "hobart_city_council/philip_cocker",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
-      "person_id": "hobart_city_council/suzy_cooper",
+      "person_id": "hobart_city_council/bill_harvey",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
-      "person_id": "hobart_city_council/tania_denison",
+      "person_id": "hobart_city_council/tanya_denison",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "hobart_city_council/sue_hickey",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "hobart_city_council/anna_reynolds",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/greens"
     },
     {
       "person_id": "hobart_city_council/eva_ruzicka",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "hobart_city_council/peter_sexton",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "hobart_city_council/damon_thomas",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "hobart_city_council/marti_zucco",
       "organization_id": "legislature/hobart_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/independent"
     },
     {
       "person_id": "huon_valley_council/peter_coad",
@@ -3433,7 +3577,7 @@
     {
       "person_id": "hobart_city_council/sue_hickey",
       "organization_id": "legislature/hobart_city_council",
-      "role": "Mayor"
+      "role": "Lord Mayor"
     },
     {
       "person_id": "huon_valley_council/peter_coad",
