@@ -3723,11 +3723,11 @@
   ],
   "warnings": {
     "skipped": [
-      "council_website",
-      "council_email",
-      "phone_mobile",
       "ward",
-      "term_ends"
+      "phone_mobile",
+      "term_ends",
+      "council_email",
+      "council_website"
     ]
   }
 }

@@ -12865,9 +12865,9 @@
   ],
   "warnings": {
     "skipped": [
-      "position",
-      "ward",
       "council_website",
+      "ward",
+      "phone_mobile",
       "updated_at"
     ]
   }

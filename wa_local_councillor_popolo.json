@@ -14930,8 +14930,8 @@
   "warnings": {
     "skipped": [
       "council_website",
-      "council_email",
-      "ward"
+      "ward",
+      "phone_mobile"
     ]
   }
 }
