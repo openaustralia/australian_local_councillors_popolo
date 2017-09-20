@@ -2147,40 +2147,94 @@
       "name": "Roger Jukes"
     },
     {
+      "email": "GeoffreyGough@manningham.vic.gov.au",
       "id": "manningham_city_council/geoff_gough",
-      "name": "Geoff Gough"
+      "name": "Geoff Gough",
+      "sources": [
+        {
+          "url": "http://www.manningham.vic.gov.au/councillors"
+        }
+      ]
     },
     {
-      "id": "manningham_city_council/jim_grivokostopoulos",
-      "name": "Jim Grivokostopoulos"
-    },
-    {
+      "email": "Michelle.Kleinert@manningham.vic.gov.au",
       "id": "manningham_city_council/michelle_kleinert",
-      "name": "Michelle Kleinert"
+      "name": "Michelle Kleinert",
+      "sources": [
+        {
+          "url": "http://www.manningham.vic.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "Paula.Piccinini@manningham.vic.gov.au",
+      "id": "manningham_city_council/paula_piccinini",
+      "name": "Paula Piccinini",
+      "sources": [
+        {
+          "url": "http://www.manningham.vic.gov.au/councillors"
+        }
+      ]
+    },
+    {
+      "email": "Anna.Chen@manningham.vic.gov.au",
+      "id": "manningham_city_council/anna_chen",
+      "name": "Anna Chen",
+      "sources": [
+        {
+          "url": "http://www.manningham.vic.gov.au/councillors"
+        }
+      ]
+    },
+    {
+      "email": "DotHaynes@manningham.vic.gov.au",
       "id": "manningham_city_council/dot_haynes",
-      "name": "Dot Haynes"
+      "name": "Dot Haynes",
+      "sources": [
+        {
+          "url": "http://www.manningham.vic.gov.au/councillors"
+        }
+      ]
     },
     {
-      "id": "manningham_city_council/stephen_o'brien",
-      "name": "Stephen O'Brien"
+      "email": "Mike.Zafiropoulos@manningham.vic.gov.au",
+      "id": "manningham_city_council/mike_zafiropoulos",
+      "name": "Mike Zafiropoulos",
+      "sources": [
+        {
+          "url": "http://www.manningham.vic.gov.au/councillors"
+        }
+      ]
     },
     {
-      "id": "manningham_city_council/jennifer_yang",
-      "name": "Jennifer Yang"
+      "email": "Andrew.Conlon@manningham.vic.gov.au",
+      "id": "manningham_city_council/andrew_conlon",
+      "name": "Andrew Conlon",
+      "sources": [
+        {
+          "url": "http://www.manningham.vic.gov.au/councillors"
+        }
+      ]
     },
     {
-      "id": "manningham_city_council/meg_downie",
-      "name": "Meg Downie"
-    },
-    {
+      "email": "Sophy.Galbally@manningham.vic.gov.au",
       "id": "manningham_city_council/sophy_galbally",
-      "name": "Sophy Galbally"
+      "name": "Sophy Galbally",
+      "sources": [
+        {
+          "url": "http://www.manningham.vic.gov.au/councillors"
+        }
+      ]
     },
     {
+      "email": "Paul.McLeish@manningham.vic.gov.au",
       "id": "manningham_city_council/paul_mcleish",
-      "name": "Paul McLeish"
+      "name": "Paul McLeish",
+      "sources": [
+        {
+          "url": "http://www.manningham.vic.gov.au/councillors"
+        }
+      ]
     },
     {
       "id": "mansfield_shire_council/paul_sladdin",
@@ -6957,13 +7011,19 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "manningham_city_council/jim_grivokostopoulos",
+      "person_id": "manningham_city_council/michelle_kleinert",
       "organization_id": "legislature/manningham_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "manningham_city_council/michelle_kleinert",
+      "person_id": "manningham_city_council/paula_piccinini",
+      "organization_id": "legislature/manningham_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "manningham_city_council/anna_chen",
       "organization_id": "legislature/manningham_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -6975,19 +7035,13 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "manningham_city_council/stephen_o'brien",
+      "person_id": "manningham_city_council/mike_zafiropoulos",
       "organization_id": "legislature/manningham_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "manningham_city_council/jennifer_yang",
-      "organization_id": "legislature/manningham_city_council",
-      "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
-    },
-    {
-      "person_id": "manningham_city_council/meg_downie",
+      "person_id": "manningham_city_council/andrew_conlon",
       "organization_id": "legislature/manningham_city_council",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
@@ -9199,11 +9253,6 @@
     {
       "person_id": "macedon_ranges_shire_council/graham_hackett",
       "organization_id": "legislature/macedon_ranges_shire_council",
-      "role": "mayor"
-    },
-    {
-      "person_id": "manningham_city_council/jennifer_yang",
-      "organization_id": "legislature/manningham_city_council",
       "role": "mayor"
     },
     {
