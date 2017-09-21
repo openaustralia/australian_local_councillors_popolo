@@ -20,8 +20,8 @@ task default: [:update_all]
 
 desc "Update data from Google Sheet for all states"
 task :update_all do
-  STATES_WITH_GID.each do |state, gid|
-    update_data(state, google_sheets_export_url(gid))
+  STATES.each do |state|
+    update_data(state)
   end
 end
 
