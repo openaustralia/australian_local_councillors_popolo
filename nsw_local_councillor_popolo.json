@@ -22715,8 +22715,8 @@
   "warnings": {
     "skipped": [
       "council_website",
-      "phone_mobile",
-      "ward"
+      "ward",
+      "phone_mobile"
     ]
   }
 }
