@@ -5,8 +5,9 @@ require "csv_to_popolo"
 
 STATES = ["act","nsw", "nt", "qld", "sa", "tas", "vic", "wa"]
 
-def update_data(state, url)
+def update_data(state)
   json_filename = "#{state.to_s}_local_councillor_popolo.json"
+  csv_filename = "data/#{state.upcase}/#{state}_local_councillors.csv"
 
   Tempfile.open("councillor_csv") do |file|
     puts "Fetching #{state.to_s.upcase} CSV: #{url}"
