@@ -9172,7 +9172,15 @@
       "person_id": "yarra_city_council/sam_gaylard",
       "organization_id": "legislature/yarra_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/victorian_greens"
+      "on_behalf_of_id": "party/victorian_greens",
+      "end_date": "2016-10-22"
+    },
+    {
+      "person_id": "yarra_city_council/mike_mcevoy",
+      "organization_id": "legislature/yarra_city_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/victorian_greens",
+      "start_date": "2016-10-23"
     },
     {
       "person_id": "yarra_ranges_shire_council/maria_mccarthy",
