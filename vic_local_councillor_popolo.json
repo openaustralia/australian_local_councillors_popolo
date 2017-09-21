@@ -3882,12 +3882,36 @@
       "name": "John Chandler"
     },
     {
+      "email": "jklisaris@stonnington.vic.gov.au",
       "id": "stonnington_city_council/jami_klisaris",
-      "name": "Jami Klisaris"
+      "image": "http://www.stonnington.vic.gov.au/files/assets/public/council/councillors/jami-klisaris-mayoral-robes.jpg",
+      "name": "Jami Klisaris",
+      "images": [
+        {
+          "url": "http://www.stonnington.vic.gov.au/files/assets/public/council/councillors/jami-klisaris-mayoral-robes.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.stonnington.vic.gov.au/Council/The-Mayor-and-Councillors/Mayor-Cr-Jami-Klisaris"
+        }
+      ]
     },
     {
+      "email": "mkoce@stonnington.vic.gov.au",
       "id": "stonnington_city_council/matthew_koce",
-      "name": "Matthew Koce"
+      "image": "http://www.stonnington.vic.gov.au/files/assets/public/council/councillors/mathew-koce_4839-crop.jpg",
+      "name": "Matthew Koce",
+      "images": [
+        {
+          "url": "http://www.stonnington.vic.gov.au/files/assets/public/council/councillors/mathew-koce_4839-crop.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.stonnington.vic.gov.au/Council/The-Mayor-and-Councillors/Cr-Matthew-Koce"
+        }
+      ]
     },
     {
       "id": "stonnington_city_council/haritini_athanasopoulos",
@@ -8480,25 +8504,29 @@
       "person_id": "stonnington_city_council/erin_davie",
       "organization_id": "legislature/stonnington_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-11-02"
     },
     {
       "person_id": "stonnington_city_council/john_mcmorrow",
       "organization_id": "legislature/stonnington_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-11-02"
     },
     {
       "person_id": "stonnington_city_council/jimi_athanasopoulos",
       "organization_id": "legislature/stonnington_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-11-02"
     },
     {
       "person_id": "stonnington_city_council/john_chandler",
       "organization_id": "legislature/stonnington_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-11-02"
     },
     {
       "person_id": "stonnington_city_council/jami_klisaris",
@@ -8516,7 +8544,8 @@
       "person_id": "stonnington_city_council/haritini_athanasopoulos",
       "organization_id": "legislature/stonnington_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-11-02"
     },
     {
       "person_id": "stonnington_city_council/melina_sehr",
@@ -8528,7 +8557,8 @@
       "person_id": "stonnington_city_council/claude_ullin",
       "organization_id": "legislature/stonnington_city_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-11-02"
     },
     {
       "person_id": "strathbogie_shire_council/patrick_storer",
@@ -9615,7 +9645,7 @@
       "role": "mayor"
     },
     {
-      "person_id": "stonnington_city_council/claude_ullin",
+      "person_id": "stonnington_city_council/jami_klisaris",
       "organization_id": "legislature/stonnington_city_council",
       "role": "mayor"
     },
