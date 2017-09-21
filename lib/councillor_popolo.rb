@@ -4,7 +4,7 @@ require "json"
 require "csv_to_popolo"
 
 class CouncillorPopolo
-  def self.update_data(state)
+  def self.update_popolo_for_state(state)
     json_filename = "#{state.to_s}_local_councillor_popolo.json"
     csv_filename = "data/#{state.upcase}/#{state}_local_councillors.csv"
 
