@@ -29,5 +29,5 @@ desc "Update data from CSV files in data folder for a specific state: #{STATES.j
 task :update, [:state] do |t, args|
   state = args.state.to_sym
 
-  update_data(state, google_sheets_export_url(STATES_WITH_GID[state]))
+  update_data(state)
 end
