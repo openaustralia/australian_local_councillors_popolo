@@ -18,14 +18,14 @@ end
 
 task default: [:update_all]
 
-desc "Update data from Google Sheet for all states"
+desc "Update data from CSV files in data folder for all states"
 task :update_all do
   STATES.each do |state|
     update_data(state)
   end
 end
 
-desc "Update data from Google Sheet for a specific state: #{STATES_WITH_GID.keys.join(", ")}"
+desc "Update data from CSV files in data folder for a specific state: #{STATES.join(", ")}"
 task :update, [:state] do |t, args|
   state = args.state.to_sym
 
