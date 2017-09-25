@@ -36,4 +36,16 @@ describe CouncillorPopolo do
       expect(resulting_json["persons"].first["name"]).to eql "Julia Chessell"
     end
   end
+
+  describe ".json_path_for_state" do
+    subject { CouncillorPopolo.json_path_for_state("nsw") }
+
+    it { is_expected.to eql "data/NSW/local_councillor_popolo.json" }
+  end
+
+  describe ".csv_path_for_state" do
+    subject { CouncillorPopolo.csv_path_for_state("nsw") }
+
+    it { is_expected.to eql "data/NSW/local_councillors.csv" }
+  end
 end
