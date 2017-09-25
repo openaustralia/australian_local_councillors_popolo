@@ -5,13 +5,14 @@ describe CouncillorPopolo do
   # Check that there's no unexpected hanging changes
   it "all changes in data/**/*.csv files have been generated into Popolo JSON" do
     STATES.each do |state|
-      csv = CouncillorPopolo.csv_path_for_state(state)
+      processor = CouncillorPopolo.new(state: state)
+      csv = processor.csv_path_for_state
       json_from_csv_file = JSON.pretty_generate(
         Popolo::CSV.new(csv).data
       )
 
       expect(json_from_csv_file).to eql File.read(
-        CouncillorPopolo.json_path_for_state(state)
+        processor.json_path_for_state
       )
     end
   end
@@ -19,33 +20,34 @@ describe CouncillorPopolo do
   describe ".update_popolo_for_state" do
     let(:mock_csv_path) {  "spec/fixtures/local_councillors.csv" }
     let(:mock_json_path) { "spec/fixtures/local_councillor_popolo.json" }
+    let(:processor) { CouncillorPopolo.new(state: "test") }
 
     before do
-      allow(CouncillorPopolo).to receive(:csv_path_for_state).with("test").and_return mock_csv_path
-      allow(CouncillorPopolo).to receive(:json_path_for_state).with("test").and_return mock_json_path
+      allow(processor).to receive(:csv_path_for_state).and_return mock_csv_path
+      allow(processor).to receive(:json_path_for_state).and_return mock_json_path
     end
 
     after { File.delete mock_json_path }
 
     it "generates a Popolo json file with councillors from the csv" do
-      CouncillorPopolo.update_popolo_for_state("test")
+      processor.update_popolo_for_state
 
       resulting_json = JSON.parse(
-        File.read(CouncillorPopolo.json_path_for_state("test"))
+        File.read(processor.json_path_for_state)
       )
       expect(resulting_json["persons"].first["name"]).to eql "Julia Chessell"
     end
   end
 
   describe ".json_path_for_state" do
-    subject { CouncillorPopolo.json_path_for_state("nsw") }
+    subject { CouncillorPopolo.new(state: "foo").json_path_for_state }
 
-    it { is_expected.to eql "data/NSW/local_councillor_popolo.json" }
+    it { is_expected.to eql "data/FOO/local_councillor_popolo.json" }
   end
 
   describe ".csv_path_for_state" do
-    subject { CouncillorPopolo.csv_path_for_state("nsw") }
+    subject { CouncillorPopolo.new(state: "bar").csv_path_for_state }
 
-    it { is_expected.to eql "data/NSW/local_councillors.csv" }
+    it { is_expected.to eql "data/BAR/local_councillors.csv" }
   end
 end
