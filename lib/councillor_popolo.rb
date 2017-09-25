@@ -10,6 +10,7 @@ class CouncillorPopolo
 
     puts "Fetching #{state.to_s.upcase} CSV: #{csv_filename}"
     json = JSON.pretty_generate(Popolo::CSV.new(csv_filename).data)
+
     puts "Saving: #{json_filename}"
     File.open(json_filename, "w") { |f| f << json }
   end
