@@ -5,13 +5,18 @@ require "csv_to_popolo"
 
 class CouncillorPopolo
   def self.update_popolo_for_state(state)
-    json_filename = "data/#{state.upcase}/local_councillor_popolo.json"
-    csv_filename = "data/#{state.upcase}/local_councillors.csv"
+    puts "Fetching #{state.to_s.upcase} CSV: #{csv_path_for_state(state)}"
+    json = JSON.pretty_generate(Popolo::CSV.new(csv_path_for_state(state)).data)
 
-    puts "Fetching #{state.to_s.upcase} CSV: #{csv_filename}"
-    json = JSON.pretty_generate(Popolo::CSV.new(csv_filename).data)
+    puts "Saving: #{json_path_for_state(state)}"
+    File.open(json_path_for_state(state), "w") { |f| f << json }
+  end
 
-    puts "Saving: #{json_filename}"
-    File.open(json_filename, "w") { |f| f << json }
+  def self.json_path_for_state(state)
+    "data/#{state.upcase}/local_councillor_popolo.json"
+  end
+
+  def self.csv_path_for_state(state)
+    "data/#{state.upcase}/local_councillors.csv"
   end
 end
