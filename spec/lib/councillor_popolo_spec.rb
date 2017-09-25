@@ -39,14 +39,30 @@ describe CouncillorPopolo do
   end
 
   describe ".json_path_for_state" do
-    subject { CouncillorPopolo.new(state: "foo").json_path_for_state }
+    context "with a string" do
+      subject { CouncillorPopolo.new(state: "foo").json_path_for_state }
 
-    it { is_expected.to eql "data/FOO/local_councillor_popolo.json" }
+      it { is_expected.to eql "data/FOO/local_councillor_popolo.json" }
+    end
+
+    context "with a symbol" do
+      subject { CouncillorPopolo.new(state: :foo).json_path_for_state }
+
+      it { is_expected.to eql "data/FOO/local_councillor_popolo.json" }
+    end
   end
 
   describe ".csv_path_for_state" do
-    subject { CouncillorPopolo.new(state: "bar").csv_path_for_state }
+    context "with a string" do
+      subject { CouncillorPopolo.new(state: "bar").csv_path_for_state }
 
-    it { is_expected.to eql "data/BAR/local_councillors.csv" }
+      it { is_expected.to eql "data/BAR/local_councillors.csv" }
+    end
+
+    context "with a symbol" do
+      subject { CouncillorPopolo.new(state: :bar).csv_path_for_state }
+
+      it { is_expected.to eql "data/BAR/local_councillors.csv" }
+    end
   end
 end
