@@ -3,7 +3,7 @@ STATES = ["act","nsw", "nt", "qld", "sa", "tas", "vic", "wa"]
 
 describe CouncillorPopolo do
   # Check that there's no unexpected hanging changes
-  it "all changes in data/**/*.csv files have been generated into Popolo JSON" do
+  it "all changes in data/**/*.csv files have been generated into Popolo JSON, run `bundle exec rake update_all` to generate JSON" do
     STATES.each do |state|
       processor = CouncillorPopolo.new(state: state)
       json_from_csv_file = JSON.pretty_generate(
