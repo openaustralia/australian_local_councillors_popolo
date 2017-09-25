@@ -15,4 +15,25 @@ describe CouncillorPopolo do
       )
     end
   end
+
+  describe ".update_popolo_for_state" do
+    let(:mock_csv_path) {  "spec/fixtures/local_councillors.csv" }
+    let(:mock_json_path) { "spec/fixtures/local_councillor_popolo.json" }
+
+    before do
+      allow(CouncillorPopolo).to receive(:csv_path_for_state).with("test").and_return mock_csv_path
+      allow(CouncillorPopolo).to receive(:json_path_for_state).with("test").and_return mock_json_path
+    end
+
+    after { File.delete mock_json_path }
+
+    it "generates a Popolo json file with councillors from the csv" do
+      CouncillorPopolo.update_popolo_for_state("test")
+
+      resulting_json = JSON.parse(
+        File.read(CouncillorPopolo.json_path_for_state("test"))
+      )
+      expect(resulting_json["persons"].first["name"]).to eql "Julia Chessell"
+    end
+  end
 end
