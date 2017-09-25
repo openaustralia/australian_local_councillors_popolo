@@ -6,9 +6,8 @@ describe CouncillorPopolo do
   it "all changes in data/**/*.csv files have been generated into Popolo JSON" do
     STATES.each do |state|
       processor = CouncillorPopolo.new(state: state)
-      csv = processor.csv_path_for_state
       json_from_csv_file = JSON.pretty_generate(
-        Popolo::CSV.new(csv).data
+        Popolo::CSV.new(processor.csv_path_for_state).data
       )
 
       expect(json_from_csv_file).to eql File.read(
