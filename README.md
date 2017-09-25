@@ -6,16 +6,14 @@ for elected councillors at [local governments in Australia](https://en.wikipedia
 The data is generated using a [fork of the *CSV to Popolo converter*](https://github.com/equivalentideas/csv_to_popolo)
 which was originally created for [EveryPolitician](http://everypolitician.org/).
 
-The data has been collected by [scrapers hosted on morph.io](https://morph.io/search?utf8=%E2%9C%93&q=councillors).
-It has been exported from [morph.io](https://morph.io) in CSV format
-and imported into [a Google Spreadsheet](https://docs.google.com/spreadsheets/d/1_Ea99E5yXnHXW62o_lRo9khdbccEWfttpy2tyuYZYOE/)
-to be cleaned up and updated.
+In the [`data` directory](https://github.com/openaustralia/australian_local_councillors_popolo/tree/master/data) there is a `local_councillors.csv` and a `local_councillor_popolo.json` file for each state.
+Changes are made to the CSV file, and then the Popolo JSON is generated using the process described in the [Updates section](#updates).
 
 ## Updates
 
 To update or add to this data follow these steps:
 
-1. Make your changes in [the Google Spreadsheet](https://docs.google.com/spreadsheets/d/1_Ea99E5yXnHXW62o_lRo9khdbccEWfttpy2tyuYZYOE/).
+1. There is a `local_councillors.csv` for each Australian state in the `data` directory. Make your updates to the relevant file. Add rows for new councillors or edit the row with the existing councillors you need to edit.
 2. If you don’t feel comfortable with the following steps, simply [open a new issue](https://github.com/openaustralia/australian_local_councillors_popolo/issues/new) or email contact@planningalerts.org.au to let us know you’ve made changes to the spreadsheet, e.g. “Snowy River Councillors waiting in the spreadsheet”.
 3. Run `bundle` to install the Gem dependencies.
 4. Run `bundle exec rake` to pull data from the Spreadsheet into JSON files in this repository. Hint: run `bundle exec rake -T` to see the state specific tasks.
