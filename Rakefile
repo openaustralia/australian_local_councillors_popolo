@@ -1,6 +1,8 @@
 require_relative "lib/councillor_popolo"
+require 'rspec/core/rake_task'
 
-task default: [:update_all]
+RSpec::Core::RakeTask.new(:spec)
+task default: :spec
 
 desc "Update data from CSV files in data folder for all states"
 task :update_all do
