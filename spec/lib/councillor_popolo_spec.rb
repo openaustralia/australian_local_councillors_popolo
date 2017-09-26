@@ -50,7 +50,7 @@ describe CouncillorDataProcessor do
       end
 
       it "raises an error" do
-        expected_error_message = "There are multiple rows with the same id in spec/fixtures/local_councillors_with_duplicate.csv"
+        expected_error_message = "There are multiple rows with the id foo_city_council/foo_bar in spec/fixtures/local_councillors_with_duplicate.csv"
         expect { processor.update_popolo_for_state }.to raise_error expected_error_message
       end
     end

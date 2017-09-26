@@ -16,7 +16,11 @@ class CouncillorDataProcessor
 
       File.open(json_path_for_state, "w") { |f| f << json }
     else
-      raise "There are multiple rows with the same id in #{csv_path_for_state}"
+      message = duplicate_councillor_ids_in_state_csv.map do |id|
+        "There are multiple rows with the id #{id} in #{csv_path_for_state}"
+      end.join(", ")
+
+      raise RuntimeError, message
     end
   end
 
