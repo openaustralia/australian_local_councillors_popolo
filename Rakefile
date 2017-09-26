@@ -1,19 +1,17 @@
 require_relative "lib/councillor_popolo"
 
-STATES = ["act","nsw", "nt", "qld", "sa", "tas", "vic", "wa"]
-
 task default: [:update_all]
 
 desc "Update data from CSV files in data folder for all states"
 task :update_all do
-  STATES.each do |state|
-    CouncillorPopolo.update_popolo_for_state(state)
+  AUSTRALIAN_STATES.each do |state|
+    CouncillorDataProcessor.new(state: state).update_popolo_for_state
   end
 end
 
-desc "Update data from CSV files in data folder for a specific state: #{STATES.join(", ")}"
+desc "Update data from CSV files in data folder for a specific state: #{AUSTRALIAN_STATES.join(", ")}"
 task :update, [:state] do |t, args|
   state = args.state.to_sym
 
-  CouncillorPopolo.update_popolo_for_state(state)
+  CouncillorDataProcessor.new(state: state).update_popolo_for_state
 end
