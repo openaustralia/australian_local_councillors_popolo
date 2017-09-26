@@ -21,7 +21,7 @@ class CouncillorDataProcessor
   end
 
   def state_csv_valid?
-    duplicate_councillor_ids_in_state_csv.any? ? false : true
+    duplicate_councillor_ids_in_state_csv.none?
   end
 
   def duplicate_councillor_ids_in_state_csv
