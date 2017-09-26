@@ -1,10 +1,9 @@
 require('./lib/councillor_popolo')
-STATES = ["act","nsw", "nt", "qld", "sa", "tas", "vic", "wa"]
 
 describe CouncillorDataProcessor do
   # Check that there's no unexpected hanging changes
   it "all changes in data/**/*.csv files have been generated into Popolo JSON, run `bundle exec rake update_all` to generate JSON" do
-    STATES.each do |state|
+    AUSTRALIAN_STATES.each do |state|
       processor = CouncillorDataProcessor.new(state: state)
       json_from_csv_file = JSON.pretty_generate(
         Popolo::CSV.new(processor.csv_path_for_state).data
