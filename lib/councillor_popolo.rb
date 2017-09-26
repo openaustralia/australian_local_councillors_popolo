@@ -11,10 +11,8 @@ class CouncillorDataProcessor
   end
 
   def update_popolo_for_state
-    puts "Reading #{csv_path_for_state}"
     json = JSON.pretty_generate(Popolo::CSV.new(csv_path_for_state).data)
 
-    puts "Writing #{json_path_for_state}"
     File.open(json_path_for_state, "w") { |f| f << json }
   end
 
