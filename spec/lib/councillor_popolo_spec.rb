@@ -84,6 +84,34 @@ describe CouncillorDataProcessor do
     end
   end
 
+  describe "#duplicate_councillor_ids_in_state_csv" do
+    let(:processor) { CouncillorDataProcessor.new(state: "test") }
+
+    context "when the CSV contains multiple councillors with the same id" do
+      let(:mock_csv_with_dups_path) {  "spec/fixtures/local_councillors_with_duplicate.csv" }
+
+      before do
+        allow(processor).to receive(:csv_path_for_state).and_return mock_csv_with_dups_path
+      end
+
+      it "it returns the ids" do
+        expect(processor.duplicate_councillor_ids_in_state_csv).to eql ["foo_city_council/foo_bar"]
+      end
+    end
+
+    context "when the CSV does not contains contain multiple councillors with the same id" do
+      let(:mock_csv_path) {  "spec/fixtures/local_councillors.csv" }
+
+      before do
+        allow(processor).to receive(:csv_path_for_state).and_return mock_csv_path
+      end
+
+      it "is empty" do
+        expect(processor.duplicate_councillor_ids_in_state_csv).to be_empty
+      end
+    end
+  end
+
   describe "#json_path_for_state" do
     context "with a string" do
       subject { CouncillorDataProcessor.new(state: "foo").json_path_for_state }

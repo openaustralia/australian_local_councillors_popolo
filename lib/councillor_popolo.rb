@@ -21,13 +21,15 @@ class CouncillorDataProcessor
   end
 
   def state_csv_valid?
+    duplicate_councillor_ids_in_state_csv.any? ? false : true
+  end
+
+  def duplicate_councillor_ids_in_state_csv
     csv = CSV.read(csv_path_for_state, headers: :first_row)
 
-    non_uniq_ids = csv.values_at("id").select do |id|
-      id unless csv.values_at("id").one? {|id2| id.eql? id2}
+    csv.values_at("id").flatten.select do |id|
+      id unless csv.values_at("id").flatten.one? {|id2| id.eql? id2}
     end.uniq
-
-    non_uniq_ids.any? ? false : true
   end
 
   def json_path_for_state
