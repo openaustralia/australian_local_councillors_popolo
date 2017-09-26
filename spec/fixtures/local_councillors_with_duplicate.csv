@@ -1,0 +1,4 @@
+name,start_date,end_date,executive,council,council website,id,email,image,party,source,ward,phone_mobile
+Foo Bar,,,,Foo City Council,http://www.foo.nsw.gov.au,foo_city_council/foo_bar,foo@foocity.nsw.gov.au,http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/foo.jpg,Independent,http://www.foo.nsw.gov.au/inside-foo/about-council/councillors,,
+Julia Chessell,,,,Foo City Council,http://www.foo.nsw.gov.au,foo_city_council/julia_chessell,jches@foocity.nsw.gov.au,http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/julia.jpg,Independent,http://www.foo.nsw.gov.au/inside-foo/about-council/councillors,,
+Foo Bar,,2017-09-26,,Foo City Council,http://www.foo.nsw.gov.au,foo_city_council/foo_bar,bar@foocity.nsw.gov.au,http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/foo.jpg,Independent,http://www.foo.nsw.gov.au/inside-foo/about-council/councillors,,
