@@ -1,11 +1,11 @@
 require('./lib/councillor_popolo')
 STATES = ["act","nsw", "nt", "qld", "sa", "tas", "vic", "wa"]
 
-describe CouncillorPopolo do
+describe CouncillorDataProcessor do
   # Check that there's no unexpected hanging changes
   it "all changes in data/**/*.csv files have been generated into Popolo JSON, run `bundle exec rake update_all` to generate JSON" do
     STATES.each do |state|
-      processor = CouncillorPopolo.new(state: state)
+      processor = CouncillorDataProcessor.new(state: state)
       json_from_csv_file = JSON.pretty_generate(
         Popolo::CSV.new(processor.csv_path_for_state).data
       )
@@ -19,7 +19,7 @@ describe CouncillorPopolo do
   describe ".update_popolo_for_state" do
     let(:mock_csv_path) {  "spec/fixtures/local_councillors.csv" }
     let(:mock_json_path) { "spec/fixtures/local_councillor_popolo.json" }
-    let(:processor) { CouncillorPopolo.new(state: "test") }
+    let(:processor) { CouncillorDataProcessor.new(state: "test") }
 
     before do
       allow(processor).to receive(:csv_path_for_state).and_return mock_csv_path
@@ -40,13 +40,13 @@ describe CouncillorPopolo do
 
   describe ".json_path_for_state" do
     context "with a string" do
-      subject { CouncillorPopolo.new(state: "foo").json_path_for_state }
+      subject { CouncillorDataProcessor.new(state: "foo").json_path_for_state }
 
       it { is_expected.to eql "data/FOO/local_councillor_popolo.json" }
     end
 
     context "with a symbol" do
-      subject { CouncillorPopolo.new(state: :foo).json_path_for_state }
+      subject { CouncillorDataProcessor.new(state: :foo).json_path_for_state }
 
       it { is_expected.to eql "data/FOO/local_councillor_popolo.json" }
     end
@@ -54,13 +54,13 @@ describe CouncillorPopolo do
 
   describe ".csv_path_for_state" do
     context "with a string" do
-      subject { CouncillorPopolo.new(state: "bar").csv_path_for_state }
+      subject { CouncillorDataProcessor.new(state: "bar").csv_path_for_state }
 
       it { is_expected.to eql "data/BAR/local_councillors.csv" }
     end
 
     context "with a symbol" do
-      subject { CouncillorPopolo.new(state: :bar).csv_path_for_state }
+      subject { CouncillorDataProcessor.new(state: :bar).csv_path_for_state }
 
       it { is_expected.to eql "data/BAR/local_councillors.csv" }
     end

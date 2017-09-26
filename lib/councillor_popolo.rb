@@ -3,7 +3,7 @@ require "open-uri"
 require "json"
 require "csv_to_popolo"
 
-class CouncillorPopolo
+class CouncillorDataProcessor
   def initialize(state:)
     @state = state
   end
