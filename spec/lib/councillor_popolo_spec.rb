@@ -15,7 +15,7 @@ describe CouncillorDataProcessor do
     end
   end
 
-  describe ".update_popolo_for_state" do
+  describe "#update_popolo_for_state" do
     let(:mock_csv_path) {  "spec/fixtures/local_councillors.csv" }
     let(:mock_json_path) { "spec/fixtures/local_councillor_popolo.json" }
     let(:processor) { CouncillorDataProcessor.new(state: "test") }
@@ -84,7 +84,7 @@ describe CouncillorDataProcessor do
     end
   end
 
-  describe ".json_path_for_state" do
+  describe "#json_path_for_state" do
     context "with a string" do
       subject { CouncillorDataProcessor.new(state: "foo").json_path_for_state }
 
@@ -98,7 +98,7 @@ describe CouncillorDataProcessor do
     end
   end
 
-  describe ".csv_path_for_state" do
+  describe "#csv_path_for_state" do
     context "with a string" do
       subject { CouncillorDataProcessor.new(state: "bar").csv_path_for_state }
 
