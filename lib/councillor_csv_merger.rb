@@ -40,4 +40,10 @@ class CouncillorCSVMerger
     # overwrite the existing file
     File.open(@master_csv_path, "w") {|file| file.write(new_csv_string ) }
   end
+
+  def changes_csv_valid?
+    master_csv_headers = CSV.read(@master_csv_path, headers: true).headers
+
+    CSV.read(@changes_csv_path, headers: true).headers.eql? master_csv_headers
+  end
 end

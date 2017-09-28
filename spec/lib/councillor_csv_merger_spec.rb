@@ -113,4 +113,41 @@ describe CouncillorCSVMerger do
       end
     end
   end
+
+  describe "#changes_csv_valid?" do
+    context "when the changes CSV file's headers don't match the master CSV's" do
+      let(:csv_with_bad_headers_path) { "./spec/fixtures/local_councillors_changes_with_bad_headers.csv" }
+
+      before do
+        CSV.open(csv_with_bad_headers_path, "w") do |csv|
+          csv << ["foo", "bar", "baz", "zapadooo"]
+          new_councillor_rows.each do |row|
+            csv << row
+          end
+        end
+      end
+
+      after { File.delete(csv_with_bad_headers_path) }
+
+      subject do
+        CouncillorCSVMerger.new(
+          master_csv_path: master_csv_path,
+          changes_csv_path: csv_with_bad_headers_path
+        ).changes_csv_valid?
+      end
+
+      it { is_expected.to be false }
+    end
+
+    context "when the changes CSV file's headers match the master CSV's" do
+      subject do
+        CouncillorCSVMerger.new(
+          master_csv_path: master_csv_path,
+          changes_csv_path: changes_csv_path
+        ).changes_csv_valid?
+      end
+
+      it { is_expected.to be true }
+    end
+  end
 end
