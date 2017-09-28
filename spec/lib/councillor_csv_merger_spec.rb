@@ -30,10 +30,24 @@ describe CouncillorCSVMerger do
     File.delete(changes_csv_path)
   end
 
+  it "won't initialize without a master_csv_path" do
+    expect { CouncillorCSVMerger.new(changes_csv_path: changes_csv_path) }.
+      to raise_error(ArgumentError, "missing keyword: master_csv_path")
+  end
+
+  it "won't initialize without a changes_csv_path" do
+    expect { CouncillorCSVMerger.new(master_csv_path: master_csv_path) }.
+      to raise_error(ArgumentError, "missing keyword: changes_csv_path")
+  end
+
+
   describe ".merge" do
     context "when the current CSV does not contain councillors with ids of the councillors to be incorporated" do
       it "doesn't alter the existing councillor rows" do
-        CouncillorCSVMerger.merge(master_csv_path, changes_csv_path)
+        CouncillorCSVMerger.new(
+          master_csv_path: master_csv_path,
+          changes_csv_path: changes_csv_path
+        ).merge
 
         expect(CSV.read(master_csv_path, headers: true).first.fields).to eql(
           pre_existing_councillor_row
@@ -41,7 +55,10 @@ describe CouncillorCSVMerger do
       end
 
       it "appends them to the file" do
-        CouncillorCSVMerger.merge(master_csv_path, changes_csv_path)
+        CouncillorCSVMerger.new(
+          master_csv_path: master_csv_path,
+          changes_csv_path: changes_csv_path
+        ).merge
 
         expect(CSV.read(master_csv_path, headers: true).to_a).to eql [
           csv_headers,
@@ -74,7 +91,10 @@ describe CouncillorCSVMerger do
       end
 
       pending "incorporates the changes into the existing row for those councillors" do
-        CouncillorCSVMerger.merge(master_csv_path, changes_csv_path)
+        CouncillorCSVMerger.new(
+          master_csv_path: master_csv_path,
+          changes_csv_path: changes_csv_path
+        ).merge
 
         expect(CSV.read(master_csv_path, headers: true)[1].fields).to eql [
           "Henare Degan",
@@ -101,8 +121,10 @@ describe CouncillorCSVMerger do
         end
       end
 
+      subject { CouncillorCSVMerger.new(master_csv_path: master_csv_path, changes_csv_path: changes_csv_path) }
+
       pending "raises an error" do
-        expect{ CouncillorCSVMerger.merge(master_csv_path, changes_csv_path) }.to raise_error
+        expect{ subject.merge }.to raise_error
       end
     end
   end
