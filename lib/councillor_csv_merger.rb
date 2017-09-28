@@ -9,8 +9,8 @@ class CouncillorCSVMerger
   def merge
     # create a new csv to write to
     new_csv_string = CSV.generate do |output_master_csv|
-      master_csv = CSV.read(@master_csv_path, "r", headers: true)
-      changes_csv = CSV.read(@changes_csv_path, "r", headers: true)
+      master_csv = CSV.read(@master_csv_path, headers: true)
+      changes_csv = CSV.read(@changes_csv_path, headers: true)
 
       output_master_csv << master_csv.headers
 

@@ -69,12 +69,18 @@ describe CouncillorCSVMerger do
     end
 
     context "when the current CSV contains councillors with ids of the councillors to be incorporated" do
-      let(:existing_henare_row) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "", "", "", "", "", ""] }
-      let(:expected_henare_row) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
+      let(:pre_existing_henare_row) { ["Henare Degan", "2010-09-01", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "", "", "", "", "", ""] }
+      let(:expected_henare_row) { ["Henare Degan", "2010-09-01", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
+      let(:row_with_change_to_pre_existing_councillor) { ["Julia Chessell", "", "2017-09-28", "", "Foo City Council", "", "foo_city_council/julia_chessell", "", "", "", "", "", ""] }
+      let(:expected_updated_pre_existing_councillor) { ["Julia Chessell", "", "2017-09-28", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/julia_chessell", "jches@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/julia.jpg", "Independent", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
 
       before do
         CSV.open(master_csv_path, "a+", headers: true) do |master_csv|
-          master_csv << existing_henare_row
+          master_csv << pre_existing_henare_row
+        end
+
+        CSV.open(changes_csv_path, "a+", headers: true) do |changes_csv|
+          changes_csv << row_with_change_to_pre_existing_councillor
         end
       end
 
@@ -86,7 +92,7 @@ describe CouncillorCSVMerger do
 
         expect(CSV.read(master_csv_path, headers: true).to_a).to eql [
           csv_headers,
-          pre_existing_councillor_row,
+          expected_updated_pre_existing_councillor,
           expected_henare_row,
           hisayo
         ]
