@@ -53,8 +53,44 @@ describe CouncillorCSVMerger do
     end
 
     context "when the current CSV contains councillors with ids of the councillors to be incorporated" do
+      before do
+        CSV.open(master_csv_path, "a+", headers: true) do |master_csv|
+            master_csv << [
+              "Henare Degan",
+              "",
+              "",
+              "",
+              "Foo City Council",
+              "http://www.foo.nsw.gov.au",
+              "foo_city_council/henare_degan",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+        end
+      end
+
       pending "incorporates the changes into the existing row for those councillors" do
-        fail
+        CouncillorCSVMerger.merge(master_csv_path, changes_csv_path)
+
+        expect(CSV.read(master_csv_path, headers: true)[1].fields).to eql [
+          "Henare Degan",
+          "",
+          "",
+          "",
+          "Foo City Council",
+          "http://www.foo.nsw.gov.au",
+          "foo_city_council/henare_degan",
+          "hdegan@foocity.nsw.gov.au",
+          "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg",
+          "Party Party Party",
+          "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors",
+          "",
+          ""
+        ]
       end
     end
   end
