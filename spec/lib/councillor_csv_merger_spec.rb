@@ -93,5 +93,17 @@ describe CouncillorCSVMerger do
         ]
       end
     end
+
+    context "when the CSV headers don't match" do
+      before do
+        CSV.open(changes_csv_path, "r+", headers: true) do |changes_csv|
+          changes_csv.read.headers << "additional header"
+        end
+      end
+
+      pending "raises an error" do
+        expect{ CouncillorCSVMerger.merge(master_csv_path, changes_csv_path) }.to raise_error
+      end
+    end
   end
 end
