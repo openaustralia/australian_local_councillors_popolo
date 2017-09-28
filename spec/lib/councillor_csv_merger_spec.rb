@@ -4,11 +4,10 @@ describe CouncillorCSVMerger do
   let(:changes_csv_path) { "./spec/fixtures/local_councillors_changes.csv" }
   let(:csv_headers) { ["name", "start_date", "end_date", "executive", "council", "council website", "id", "email", "image", "party", "source", "ward", "phone_mobile"] }
   let(:pre_existing_councillor_row) { ["Julia Chessell", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/julia_chessell", "jches@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/julia.jpg", "Independent", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
+  let(:henare) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
+  let(:hisayo) { ["Hisayo Horie", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/hisayo_horie", "hhorie@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/hisayo.jpg", "Make Toronto Nice Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
   let(:new_councillor_rows) do
-    [
-      ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""],
-      ["Hisayo Horie", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/hisayo_horie", "hhorie@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/hisayo.jpg", "Make Toronto Nice Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""]
-    ]
+    [ henare, hisayo ]
   end
 
   before do
@@ -63,53 +62,33 @@ describe CouncillorCSVMerger do
         expect(CSV.read(master_csv_path, headers: true).to_a).to eql [
           csv_headers,
           pre_existing_councillor_row,
-          new_councillor_rows[0],
-          new_councillor_rows[1]
+          henare,
+          hisayo
         ]
       end
     end
 
     context "when the current CSV contains councillors with ids of the councillors to be incorporated" do
+      let(:existing_henare_row) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "", "", "", "", "", ""] }
+      let(:expected_henare_row) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
+
       before do
         CSV.open(master_csv_path, "a+", headers: true) do |master_csv|
-            master_csv << [
-              "Henare Degan",
-              "",
-              "",
-              "",
-              "Foo City Council",
-              "http://www.foo.nsw.gov.au",
-              "foo_city_council/henare_degan",
-              "",
-              "",
-              "",
-              "",
-              "",
-              ""
-            ]
+          master_csv << existing_henare_row
         end
       end
 
-      pending "incorporates the changes into the existing row for those councillors" do
+      it "incorporates the changes into the existing row for those councillors" do
         CouncillorCSVMerger.new(
           master_csv_path: master_csv_path,
           changes_csv_path: changes_csv_path
         ).merge
 
-        expect(CSV.read(master_csv_path, headers: true)[1].fields).to eql [
-          "Henare Degan",
-          "",
-          "",
-          "",
-          "Foo City Council",
-          "http://www.foo.nsw.gov.au",
-          "foo_city_council/henare_degan",
-          "hdegan@foocity.nsw.gov.au",
-          "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg",
-          "Party Party Party",
-          "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors",
-          "",
-          ""
+        expect(CSV.read(master_csv_path, headers: true).to_a).to eql [
+          csv_headers,
+          pre_existing_councillor_row,
+          expected_henare_row,
+          hisayo
         ]
       end
     end
