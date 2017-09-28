@@ -1,4 +1,4 @@
-require_relative "lib/councillor_popolo"
+require_relative "lib/councillor_data_processor"
 require 'rspec/core/rake_task'
 
 RSpec::Core::RakeTask.new(:spec)

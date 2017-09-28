@@ -1,4 +1,4 @@
-require('./lib/councillor_popolo')
+require('./lib/councillor_data_processor')
 
 describe CouncillorDataProcessor do
   # Check that there's no unexpected hanging changes
