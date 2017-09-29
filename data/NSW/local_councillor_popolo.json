@@ -3762,6 +3762,54 @@
       ]
     },
     {
+      "email": "coorawong@esat.net.au",
+      "id": "coonamble_shire_council/bill_fisher",
+      "image": "http://www.coonambleshire.nsw.gov.au/images/bill%20rgb.jpg",
+      "name": "Bill Fisher",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/images/bill%20rgb.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
+    },
+    {
+      "email": "karen.churchill@bigpond.com",
+      "id": "coonamble_shire_council/karen_churchill",
+      "image": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/karen.jpg",
+      "name": "Karen Churchill",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/karen.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
+    },
+    {
+      "email": "cathywheelhouse@bigpond.com",
+      "id": "coonamble_shire_council/paul_wheelhouse",
+      "image": "http://www.coonambleshire.nsw.gov.au/images/paul%20small%20photo.jpg",
+      "name": "Paul Wheelhouse",
+      "images": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/images/paul%20small%20photo.jpg"
+        }
+      ],
+      "sources": [
+        {
+          "url": "http://www.coonambleshire.nsw.gov.au/AboutCouncil/councillors.html"
+        }
+      ]
+    },
+    {
       "id": "cootamundra_shire_council/jim_slattery",
       "name": "Jim Slattery"
     },
@@ -14499,7 +14547,8 @@
       "person_id": "cooma-monaro_shire_council/bronnie_taylor",
       "organization_id": "legislature/cooma-monaro_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unknown"
+      "on_behalf_of_id": "party/unknown",
+      "end_date": "2016-09-11"
     },
     {
       "person_id": "coonamble_shire_council/ahmad_karanouh",
@@ -14511,13 +14560,15 @@
       "person_id": "coonamble_shire_council/danny_keady",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unaligned"
+      "on_behalf_of_id": "party/unaligned",
+      "end_date": "2016-09-11"
     },
     {
       "person_id": "coonamble_shire_council/bill_burnheim",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/unaligned"
+      "on_behalf_of_id": "party/unaligned",
+      "end_date": "2016-09-11"
     },
     {
       "person_id": "coonamble_shire_council/thomas_b_cullen",
@@ -14529,7 +14580,8 @@
       "person_id": "coonamble_shire_council/don_schieb",
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
-      "on_behalf_of_id": "party/independent"
+      "on_behalf_of_id": "party/independent",
+      "end_date": "2016-09-11"
     },
     {
       "person_id": "coonamble_shire_council/john_walker",
@@ -14542,6 +14594,27 @@
       "organization_id": "legislature/coonamble_shire_council",
       "role": "councillor",
       "on_behalf_of_id": "party/independent"
+    },
+    {
+      "person_id": "coonamble_shire_council/bill_fisher",
+      "organization_id": "legislature/coonamble_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unaligned",
+      "start_date": "2016-09-19"
+    },
+    {
+      "person_id": "coonamble_shire_council/karen_churchill",
+      "organization_id": "legislature/coonamble_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-09-19"
+    },
+    {
+      "person_id": "coonamble_shire_council/paul_wheelhouse",
+      "organization_id": "legislature/coonamble_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/independent",
+      "start_date": "2016-09-19"
     },
     {
       "person_id": "cootamundra_shire_council/jim_slattery",
