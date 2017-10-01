@@ -100,18 +100,23 @@ describe CouncillorPopolo::CSVMerger do
       end
     end
 
-    context "when the CSV headers don't match" do
+    context "when the changes CSV file's headers don't match the master CSV's" do
+      let(:csv_with_bad_headers_path) { "./spec/fixtures/local_councillors_changes_with_bad_headers.csv" }
+
       before do
-        CSV.open(changes_csv_path, "r+", headers: true) do |changes_csv|
-          changes_csv.read.headers << "additional header"
+        CSV.open(csv_with_bad_headers_path, "w") do |csv|
+          csv << ["foo", "bar", "baz", "zapadooo"]
+          new_councillor_rows.each do |row|
+            csv << row
+          end
         end
       end
 
-      subject { CouncillorPopolo::CSVMerger.new(master_csv_path: master_csv_path, changes_csv_path: changes_csv_path) }
+      after { File.delete(csv_with_bad_headers_path) }
 
-      pending "raises an error" do
-        expect{ subject.merge }.to raise_error
-      end
+      subject { CouncillorPopolo::CSVMerger.new(master_csv_path: master_csv_path, changes_csv_path: csv_with_bad_headers_path) }
+
+      it { expect{ subject.merge }.to raise_error CouncillorPopolo::HeaderMismatchError }
     end
   end
 
