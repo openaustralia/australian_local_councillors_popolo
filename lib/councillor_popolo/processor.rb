@@ -3,8 +3,6 @@ require "open-uri"
 require "json"
 require "csv_to_popolo"
 
-AUSTRALIAN_STATES = ["act","nsw", "nt", "qld", "sa", "tas", "vic", "wa"]
-
 module CouncillorPopolo
   class Processor
     attr_reader :state
