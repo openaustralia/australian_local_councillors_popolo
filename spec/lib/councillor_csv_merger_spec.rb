@@ -1,5 +1,5 @@
 require('./lib/councillor_csv_merger')
-describe CouncillorCSVMerger do
+describe CouncillorPopolo::CSVMerger do
   let(:master_csv_path) { "./spec/fixtures/local_councillors_master.csv" }
   let(:changes_csv_path) { "./spec/fixtures/local_councillors_changes.csv" }
   let(:csv_headers) { ["name", "start_date", "end_date", "executive", "council", "council website", "id", "email", "image", "party", "source", "ward", "phone_mobile"] }
@@ -30,12 +30,12 @@ describe CouncillorCSVMerger do
   end
 
   it "won't initialize without a master_csv_path" do
-    expect { CouncillorCSVMerger.new(changes_csv_path: changes_csv_path) }.
+    expect { CouncillorPopolo::CSVMerger.new(changes_csv_path: changes_csv_path) }.
       to raise_error(ArgumentError, "missing keyword: master_csv_path")
   end
 
   it "won't initialize without a changes_csv_path" do
-    expect { CouncillorCSVMerger.new(master_csv_path: master_csv_path) }.
+    expect { CouncillorPopolo::CSVMerger.new(master_csv_path: master_csv_path) }.
       to raise_error(ArgumentError, "missing keyword: changes_csv_path")
   end
 
@@ -43,7 +43,7 @@ describe CouncillorCSVMerger do
   describe ".merge" do
     context "when the current CSV does not contain councillors with ids of the councillors to be incorporated" do
       it "doesn't alter the existing councillor rows" do
-        CouncillorCSVMerger.new(
+        CouncillorPopolo::CSVMerger.new(
           master_csv_path: master_csv_path,
           changes_csv_path: changes_csv_path
         ).merge
@@ -54,7 +54,7 @@ describe CouncillorCSVMerger do
       end
 
       it "appends them to the file" do
-        CouncillorCSVMerger.new(
+        CouncillorPopolo::CSVMerger.new(
           master_csv_path: master_csv_path,
           changes_csv_path: changes_csv_path
         ).merge
@@ -85,7 +85,7 @@ describe CouncillorCSVMerger do
       end
 
       it "incorporates the changes into the existing row for those councillors" do
-        CouncillorCSVMerger.new(
+        CouncillorPopolo::CSVMerger.new(
           master_csv_path: master_csv_path,
           changes_csv_path: changes_csv_path
         ).merge
@@ -106,7 +106,7 @@ describe CouncillorCSVMerger do
         end
       end
 
-      subject { CouncillorCSVMerger.new(master_csv_path: master_csv_path, changes_csv_path: changes_csv_path) }
+      subject { CouncillorPopolo::CSVMerger.new(master_csv_path: master_csv_path, changes_csv_path: changes_csv_path) }
 
       pending "raises an error" do
         expect{ subject.merge }.to raise_error
@@ -130,7 +130,7 @@ describe CouncillorCSVMerger do
       after { File.delete(csv_with_bad_headers_path) }
 
       subject do
-        CouncillorCSVMerger.new(
+        CouncillorPopolo::CSVMerger.new(
           master_csv_path: master_csv_path,
           changes_csv_path: csv_with_bad_headers_path
         ).changes_csv_valid?
@@ -141,7 +141,7 @@ describe CouncillorCSVMerger do
 
     context "when the changes CSV file's headers match the master CSV's" do
       subject do
-        CouncillorCSVMerger.new(
+        CouncillorPopolo::CSVMerger.new(
           master_csv_path: master_csv_path,
           changes_csv_path: changes_csv_path
         ).changes_csv_valid?

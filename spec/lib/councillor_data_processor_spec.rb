@@ -1,10 +1,10 @@
 require('./lib/councillor_data_processor')
 
-describe CouncillorDataProcessor do
+describe CouncillorPopolo::Processor do
   # Check that there's no unexpected hanging changes
   it "all changes in data/**/*.csv files have been generated into Popolo JSON, run `bundle exec rake update_all` to generate JSON" do
     AUSTRALIAN_STATES.each do |state|
-      processor = CouncillorDataProcessor.new(state: state)
+      processor = CouncillorPopolo::Processor.new(state: state)
       json_from_csv_file = JSON.pretty_generate(
         Popolo::CSV.new(processor.csv_path_for_state).data
       )
@@ -18,7 +18,7 @@ describe CouncillorDataProcessor do
   describe "#update_popolo_for_state" do
     let(:mock_csv_path) {  "spec/fixtures/local_councillors.csv" }
     let(:mock_json_path) { "spec/fixtures/local_councillor_popolo.json" }
-    let(:processor) { CouncillorDataProcessor.new(state: "test") }
+    let(:processor) { CouncillorPopolo::Processor.new(state: "test") }
 
     context "when the state csv and json exist" do
       after(:each) { File.delete mock_json_path }
@@ -57,7 +57,7 @@ describe CouncillorDataProcessor do
   end
 
   describe "#state_csv_valid?" do
-    let(:processor) { CouncillorDataProcessor.new(state: "test") }
+    let(:processor) { CouncillorPopolo::Processor.new(state: "test") }
 
     context "when the CSV contains multiple councillors with the same id" do
       let(:mock_csv_with_dups_path) {  "spec/fixtures/local_councillors_with_duplicate.csv" }
@@ -85,7 +85,7 @@ describe CouncillorDataProcessor do
   end
 
   describe "#duplicate_councillor_ids_in_state_csv" do
-    let(:processor) { CouncillorDataProcessor.new(state: "test") }
+    let(:processor) { CouncillorPopolo::Processor.new(state: "test") }
 
     context "when the CSV contains multiple councillors with the same id" do
       let(:mock_csv_with_dups_path) {  "spec/fixtures/local_councillors_with_duplicate.csv" }
@@ -114,13 +114,13 @@ describe CouncillorDataProcessor do
 
   describe "#json_path_for_state" do
     context "with a string" do
-      subject { CouncillorDataProcessor.new(state: "foo").json_path_for_state }
+      subject { CouncillorPopolo::Processor.new(state: "foo").json_path_for_state }
 
       it { is_expected.to eql "data/FOO/local_councillor_popolo.json" }
     end
 
     context "with a symbol" do
-      subject { CouncillorDataProcessor.new(state: :foo).json_path_for_state }
+      subject { CouncillorPopolo::Processor.new(state: :foo).json_path_for_state }
 
       it { is_expected.to eql "data/FOO/local_councillor_popolo.json" }
     end
@@ -128,13 +128,13 @@ describe CouncillorDataProcessor do
 
   describe "#csv_path_for_state" do
     context "with a string" do
-      subject { CouncillorDataProcessor.new(state: "bar").csv_path_for_state }
+      subject { CouncillorPopolo::Processor.new(state: "bar").csv_path_for_state }
 
       it { is_expected.to eql "data/BAR/local_councillors.csv" }
     end
 
     context "with a symbol" do
-      subject { CouncillorDataProcessor.new(state: :bar).csv_path_for_state }
+      subject { CouncillorPopolo::Processor.new(state: :bar).csv_path_for_state }
 
       it { is_expected.to eql "data/BAR/local_councillors.csv" }
     end
