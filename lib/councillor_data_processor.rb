@@ -7,6 +7,8 @@ AUSTRALIAN_STATES = ["act","nsw", "nt", "qld", "sa", "tas", "vic", "wa"]
 
 module CouncillorPopolo
   class Processor
+    attr_reader :state
+
     def initialize(state:)
       @state = state
     end
@@ -43,11 +45,11 @@ module CouncillorPopolo
     end
 
     def json_path_for_state
-      "data/#{@state.upcase}/local_councillor_popolo.json"
+      "data/#{state.upcase}/local_councillor_popolo.json"
     end
 
     def csv_path_for_state
-      "data/#{@state.upcase}/local_councillors.csv"
+      "data/#{state.upcase}/local_councillors.csv"
     end
   end
 end

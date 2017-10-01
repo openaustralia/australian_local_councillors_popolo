@@ -2,6 +2,9 @@ require('csv')
 
 module CouncillorPopolo
   class CSVMerger
+    attr_reader :master_csv_path
+    attr_reader :changes_csv_path
+
     def initialize(master_csv_path:, changes_csv_path:)
       @master_csv_path = master_csv_path
       @changes_csv_path = changes_csv_path
@@ -10,8 +13,8 @@ module CouncillorPopolo
     def merge
       # create a new csv to write to
       new_csv_string = CSV.generate do |output_master_csv|
-        master_csv = CSV.read(@master_csv_path, headers: true)
-        changes_csv = CSV.read(@changes_csv_path, headers: true)
+        master_csv = CSV.read(master_csv_path, headers: true)
+        changes_csv = CSV.read(changes_csv_path, headers: true)
 
         output_master_csv << master_csv.headers
 
@@ -39,13 +42,13 @@ module CouncillorPopolo
       end
 
       # overwrite the existing file
-      File.open(@master_csv_path, "w") {|file| file.write(new_csv_string ) }
+      File.open(master_csv_path, "w") {|file| file.write(new_csv_string ) }
     end
 
     def changes_csv_valid?
-      master_csv_headers = CSV.read(@master_csv_path, headers: true).headers
+      master_csv_headers = CSV.read(master_csv_path, headers: true).headers
 
-      CSV.read(@changes_csv_path, headers: true).headers.eql? master_csv_headers
+      CSV.read(changes_csv_path, headers: true).headers.eql? master_csv_headers
     end
   end
 end
