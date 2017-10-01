@@ -1,4 +1,4 @@
-require('./lib/councillor_data_processor')
+require('./lib/councillor_popolo')
 
 describe CouncillorPopolo::Processor do
   # Check that there's no unexpected hanging changes

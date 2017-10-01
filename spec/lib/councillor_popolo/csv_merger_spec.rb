@@ -1,4 +1,5 @@
-require('./lib/councillor_csv_merger')
+require('./lib/councillor_popolo')
+
 describe CouncillorPopolo::CSVMerger do
   let(:master_csv_path) { "./spec/fixtures/local_councillors_master.csv" }
   let(:changes_csv_path) { "./spec/fixtures/local_councillors_changes.csv" }
