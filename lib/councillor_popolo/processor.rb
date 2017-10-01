@@ -1,8 +1,3 @@
-require "tempfile"
-require "open-uri"
-require "json"
-require "csv_to_popolo"
-
 module CouncillorPopolo
   class Processor
     attr_reader :state
