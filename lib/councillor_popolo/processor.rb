@@ -23,7 +23,7 @@ module CouncillorPopolo
           "There are multiple rows with the id #{id} in #{csv_path_for_state}"
         end.join(", ")
 
-        raise RuntimeError, message
+        raise DuplicateCouncillorsError, message
       end
     end
 
