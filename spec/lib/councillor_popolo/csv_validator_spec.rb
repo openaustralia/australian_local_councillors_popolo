@@ -2,6 +2,17 @@ require('./lib/councillor_popolo')
 
 describe CouncillorPopolo::CSVValidator do
   describe ".validate" do
+    let(:csv_path) { "./spec/fixtures/local_councillors_master.csv" }
+    let(:csv) { CSV.open(csv_path, "w", headers: true) }
+    after { File.delete(csv_path) }
+
+    it "calls .has_standard_headers?" do
+      expect(CouncillorPopolo::CSVValidator).to receive(:has_standard_headers?).with(csv)
+      CouncillorPopolo::CSVValidator.validate(csv)
+    end
+  end
+
+  describe ".has_standard_headers?" do
     let(:henare) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
     let(:hisayo) { ["Hisayo Horie", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/hisayo_horie", "hhorie@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/hisayo.jpg", "Make Toronto Nice Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
     let(:new_councillor_rows) do
@@ -22,7 +33,7 @@ describe CouncillorPopolo::CSVValidator do
 
       after { File.delete(csv_with_bad_headers_path) }
 
-      subject { CouncillorPopolo::CSVValidator.validate(CSV.table(csv_with_bad_headers_path)) }
+      subject { CouncillorPopolo::CSVValidator.has_standard_headers?(CSV.table(csv_with_bad_headers_path)) }
 
       it "raises an error" do
         expected_error_message = "CSV has non standard headers [:foo, :bar, :baz, :zapadooo, nil, nil, nil, nil, nil, nil, nil, nil], should be [\"name\", \"start_date\", \"end_date\", \"executive\", \"council\", \"council website\", \"id\", \"email\", \"image\", \"party\", \"source\", \"ward\"]"
@@ -44,7 +55,7 @@ describe CouncillorPopolo::CSVValidator do
 
       after { File.delete(csv_with_standard_headers_path) }
 
-      subject { CouncillorPopolo::CSVValidator.validate(CSV.read(csv_with_standard_headers_path, headers: true)) }
+      subject { CouncillorPopolo::CSVValidator.has_standard_headers?(CSV.read(csv_with_standard_headers_path, headers: true)) }
       it { is_expected.to be true }
     end
   end

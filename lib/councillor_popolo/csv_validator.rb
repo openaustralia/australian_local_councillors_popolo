@@ -35,8 +35,6 @@ module CouncillorPopolo
       ids
     end
 
-    private
-
     def self.has_standard_headers?(csv)
       if csv.headers.eql? STANDARD_HEADERS
         true
