@@ -1,0 +1,51 @@
+require('./lib/councillor_popolo')
+
+describe CouncillorPopolo::CSVValidator do
+  describe ".validate" do
+    let(:henare) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
+    let(:hisayo) { ["Hisayo Horie", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/hisayo_horie", "hhorie@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/hisayo.jpg", "Make Toronto Nice Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
+    let(:new_councillor_rows) do
+      [ henare, hisayo ]
+    end
+
+    context "when the headers don't match the specified headers" do
+      let(:csv_with_bad_headers_path) { "./spec/fixtures/local_councillors_changes_with_bad_headers.csv" }
+
+      before do
+        CSV.open(csv_with_bad_headers_path, "w") do |csv|
+          csv << ["foo", "bar", "baz", "zapadooo"]
+          new_councillor_rows.each do |row|
+            csv << row
+          end
+        end
+      end
+
+      after { File.delete(csv_with_bad_headers_path) }
+
+      subject { CouncillorPopolo::CSVValidator.validate(CSV.table(csv_with_bad_headers_path)) }
+
+      it "raises an error" do
+        expected_error_message = "CSV has non standard headers [:foo, :bar, :baz, :zapadooo, nil, nil, nil, nil, nil, nil, nil, nil], should be [\"name\", \"start_date\", \"end_date\", \"executive\", \"council\", \"council website\", \"id\", \"email\", \"image\", \"party\", \"source\", \"ward\"]"
+        expect { subject }.to raise_error CouncillorPopolo::NonStandardHeadersError, expected_error_message
+      end
+    end
+
+    context "when the headers match the specified headers" do
+      let(:csv_with_standard_headers_path) { "./spec/fixtures/local_councillors_changes.csv" }
+
+      before do
+        CSV.open(csv_with_standard_headers_path, "w", headers: true) do |csv|
+          csv << ["name", "start_date", "end_date", "executive", "council", "council website", "id", "email", "image", "party", "source", "ward"]
+          new_councillor_rows.each do |row|
+            csv << row
+          end
+        end
+      end
+
+      after { File.delete(csv_with_standard_headers_path) }
+
+      subject { CouncillorPopolo::CSVValidator.validate(CSV.read(csv_with_standard_headers_path, headers: true)) }
+      it { is_expected.to be true }
+    end
+  end
+end

@@ -3,6 +3,7 @@ require "open-uri"
 require "json"
 require "csv_to_popolo"
 
+require_relative "councillor_popolo/csv_validator"
 require_relative "councillor_popolo/processor"
 require_relative "councillor_popolo/csv_merger"
 require_relative "councillor_popolo/errors"
