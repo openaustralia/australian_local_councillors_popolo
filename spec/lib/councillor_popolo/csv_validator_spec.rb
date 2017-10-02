@@ -61,4 +61,27 @@ describe CouncillorPopolo::CSVValidator do
       CouncillorPopolo::CSVValidator.validate_from_path(csv_path)
     end
   end
+
+  describe ".duplicate_councillor_ids_in_csv" do
+    context "when the CSV contains multiple councillors with the same id" do
+      let(:mock_csv_with_dups) { CSV.read("spec/fixtures/local_councillors_with_duplicate.csv", headers: :true) }
+
+      subject do
+        CouncillorPopolo::CSVValidator.duplicate_councillor_ids_in_csv(mock_csv_with_dups)
+      end
+
+      it "it returns the ids" do
+        is_expected.to eql ["foo_city_council/foo_bar"]
+      end
+    end
+
+    context "when the CSV does not contains contain multiple councillors with the same id" do
+      let(:mock_csv) { CSV.read("spec/fixtures/local_councillors.csv", headers: :true) }
+
+      subject { CouncillorPopolo::CSVValidator.duplicate_councillor_ids_in_csv(mock_csv) }
+      it "is empty" do
+        is_expected.to be_empty
+      end
+    end
+  end
 end

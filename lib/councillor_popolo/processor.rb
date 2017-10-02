@@ -26,15 +26,7 @@ module CouncillorPopolo
 
     def duplicate_councillor_ids_in_state_csv
       csv = CSV.read(csv_path_for_state, headers: :first_row)
-      ids = []
-
-      if csv.values_at("id").count != csv.values_at("id").uniq.count
-        ids = csv.values_at("id").flatten.select do |id|
-          id unless csv.values_at("id").flatten.one? {|id2| id.eql? id2}
-        end.uniq
-      end
-
-      ids
+      CouncillorPopolo::CSVValidator.duplicate_councillor_ids_in_csv(csv)
     end
 
     def json_path_for_state
