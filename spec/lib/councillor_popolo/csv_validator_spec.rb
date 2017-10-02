@@ -12,6 +12,19 @@ describe CouncillorPopolo::CSVValidator do
     end
   end
 
+  describe ".validate_from_path" do
+    let(:csv_path) { "./spec/fixtures/local_councillors_master.csv" }
+    before { CSV.open(csv_path, "w", headers: true) }
+    after { File.delete(csv_path) }
+
+    it "runs .validate on the csv at the path" do
+      expected_csv = CSV.read(csv_path, headers: true)
+      expect(CouncillorPopolo::CSVValidator).to receive(:validate).with(expected_csv)
+
+      CouncillorPopolo::CSVValidator.validate_from_path(csv_path)
+    end
+  end
+
   describe ".has_standard_headers?" do
     let(:henare) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
     let(:hisayo) { ["Hisayo Horie", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/hisayo_horie", "hhorie@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/hisayo.jpg", "Make Toronto Nice Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
@@ -57,19 +70,6 @@ describe CouncillorPopolo::CSVValidator do
 
       subject { CouncillorPopolo::CSVValidator.has_standard_headers?(CSV.read(csv_with_standard_headers_path, headers: true)) }
       it { is_expected.to be true }
-    end
-  end
-
-  describe ".validate_from_path" do
-    let(:csv_path) { "./spec/fixtures/local_councillors_master.csv" }
-    before { CSV.open(csv_path, "w", headers: true) }
-    after { File.delete(csv_path) }
-
-    it "runs .validate on the csv at the path" do
-      expected_csv = CSV.read(csv_path, headers: true)
-      expect(CouncillorPopolo::CSVValidator).to receive(:validate).with(expected_csv)
-
-      CouncillorPopolo::CSVValidator.validate_from_path(csv_path)
     end
   end
 
