@@ -23,6 +23,10 @@ module CouncillorPopolo
       self.validate(CSV.read(path, headers: true))
     end
 
+    def self.has_unique_councillor_ids?(csv)
+      self.duplicate_councillor_ids_in_csv(csv).none?
+    end
+
     def self.duplicate_councillor_ids_in_csv(csv)
       ids = []
 

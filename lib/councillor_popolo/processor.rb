@@ -21,7 +21,8 @@ module CouncillorPopolo
     end
 
     def state_csv_valid?
-      duplicate_councillor_ids_in_state_csv.none?
+      csv = CSV.read(csv_path_for_state, headers: :first_row)
+      CouncillorPopolo::CSVValidator.has_unique_councillor_ids?(csv)
     end
 
     def duplicate_councillor_ids_in_state_csv

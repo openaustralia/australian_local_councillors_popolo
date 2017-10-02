@@ -73,6 +73,38 @@ describe CouncillorPopolo::CSVValidator do
     end
   end
 
+  describe ".has_unique_councillor_ids" do
+    context "when the CSV contains multiple councillors with the same id" do
+      let(:mock_csv_with_dup) { CSV.read("spec/fixtures/local_councillors_with_duplicate.csv", headers: true) }
+
+      before do
+        allow(CouncillorPopolo::CSVValidator).to(
+          receive(:duplicate_councillor_ids_in_csv).with(
+            mock_csv_with_dup
+          ).and_return ["foo/bar", "baz/fiz"]
+        )
+      end
+
+      subject { CouncillorPopolo::CSVValidator.has_unique_councillor_ids?(mock_csv_with_dup) }
+      it { expect(subject).to be false }
+    end
+
+    context "when the CSV does not contains contain multiple councillors with the same id" do
+      let(:mock_csv) { CSV.read("spec/fixtures/local_councillors.csv", headers: true) }
+
+      before do
+        allow(CouncillorPopolo::CSVValidator).to(
+          receive(:duplicate_councillor_ids_in_csv).with(mock_csv).and_return [ ]
+        )
+      end
+
+      subject { CouncillorPopolo::CSVValidator.has_unique_councillor_ids?(mock_csv) }
+      it "is true" do
+        expect(subject).to be true
+      end
+    end
+  end
+
   describe ".duplicate_councillor_ids_in_csv" do
     context "when the CSV contains multiple councillors with the same id" do
       let(:mock_csv_with_dups) { CSV.read("spec/fixtures/local_councillors_with_duplicate.csv", headers: :true) }
