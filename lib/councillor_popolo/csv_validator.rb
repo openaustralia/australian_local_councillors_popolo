@@ -23,5 +23,9 @@ module CouncillorPopolo
         raise NonStandardHeadersError, error_message
       end
     end
+
+    def self.validate_from_path(path)
+      self.validate(CSV.read(path, headers: true))
+    end
   end
 end

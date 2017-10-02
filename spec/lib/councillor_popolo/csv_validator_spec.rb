@@ -48,4 +48,17 @@ describe CouncillorPopolo::CSVValidator do
       it { is_expected.to be true }
     end
   end
+
+  describe ".validate_from_path" do
+    let(:csv_path) { "./spec/fixtures/local_councillors_master.csv" }
+    before { CSV.open(csv_path, "w", headers: true) }
+    after { File.delete(csv_path) }
+
+    it "runs .validate on the csv at the path" do
+      expected_csv = CSV.read(csv_path, headers: true)
+      expect(CouncillorPopolo::CSVValidator).to receive(:validate).with(expected_csv)
+
+      CouncillorPopolo::CSVValidator.validate_from_path(csv_path)
+    end
+  end
 end
