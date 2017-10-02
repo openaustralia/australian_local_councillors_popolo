@@ -11,7 +11,7 @@ describe CouncillorPopolo::CSVMerger do
       to raise_error(ArgumentError, "missing keyword: changes_csv_path")
   end
 
-  describe ".merge" do
+  describe "#merge" do
     let(:master_csv_path) { "./spec/fixtures/local_councillors_master.csv" }
     let(:changes_csv_path) { "./spec/fixtures/local_councillors_changes.csv" }
     let(:csv_headers) { ["name", "start_date", "end_date", "executive", "council", "council_website", "id", "email", "image", "party", "source", "ward"] }
