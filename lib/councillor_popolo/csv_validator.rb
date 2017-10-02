@@ -16,12 +16,7 @@ module CouncillorPopolo
     ]
 
     def self.validate(csv)
-      if csv.headers.eql? STANDARD_HEADERS
-        true
-      else
-        error_message = "CSV has non standard headers #{csv.headers}, should be #{STANDARD_HEADERS}"
-        raise NonStandardHeadersError, error_message
-      end
+      self.has_standard_headers?(csv)
     end
 
     def self.validate_from_path(path)
@@ -38,6 +33,17 @@ module CouncillorPopolo
       end
 
       ids
+    end
+
+    private
+
+    def self.has_standard_headers?(csv)
+      if csv.headers.eql? STANDARD_HEADERS
+        true
+      else
+        error_message = "CSV has non standard headers #{csv.headers}, should be #{STANDARD_HEADERS}"
+        raise NonStandardHeadersError, error_message
+      end
     end
   end
 end
