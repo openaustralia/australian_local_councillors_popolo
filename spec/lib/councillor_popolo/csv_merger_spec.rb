@@ -3,10 +3,10 @@ require('./lib/councillor_popolo')
 describe CouncillorPopolo::CSVMerger do
   let(:master_csv_path) { "./spec/fixtures/local_councillors_master.csv" }
   let(:changes_csv_path) { "./spec/fixtures/local_councillors_changes.csv" }
-  let(:csv_headers) { ["name", "start_date", "end_date", "executive", "council", "council website", "id", "email", "image", "party", "source", "ward", "phone_mobile"] }
-  let(:pre_existing_councillor_row) { ["Julia Chessell", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/julia_chessell", "jches@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/julia.jpg", "Independent", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
-  let(:henare) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
-  let(:hisayo) { ["Hisayo Horie", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/hisayo_horie", "hhorie@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/hisayo.jpg", "Make Toronto Nice Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
+  let(:csv_headers) { ["name", "start_date", "end_date", "executive", "council", "council website", "id", "email", "image", "party", "source", "ward"] }
+  let(:pre_existing_councillor_row) { ["Julia Chessell", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/julia_chessell", "jches@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/julia.jpg", "Independent", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
+  let(:henare) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
+  let(:hisayo) { ["Hisayo Horie", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/hisayo_horie", "hhorie@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/hisayo.jpg", "Make Toronto Nice Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
   let(:new_councillor_rows) do
     [ henare, hisayo ]
   end
@@ -18,7 +18,7 @@ describe CouncillorPopolo::CSVMerger do
     end
 
     CSV.open(changes_csv_path, "w") do |csv|
-      csv << ["name", "start_date", "end_date", "executive", "council", "council website", "id", "email", "image", "party", "source", "ward", "phone_mobile"]
+      csv << ["name", "start_date", "end_date", "executive", "council", "council website", "id", "email", "image", "party", "source", "ward"]
       new_councillor_rows.each do |row|
         csv << row
       end
@@ -42,6 +42,17 @@ describe CouncillorPopolo::CSVMerger do
 
 
   describe ".merge" do
+    it "validates the changes CSV" do
+      merger = CouncillorPopolo::CSVMerger.new(
+        master_csv_path: master_csv_path,
+        changes_csv_path: changes_csv_path
+      )
+
+      expect(merger).to receive(:changes_csv_valid?)
+
+      merger.merge
+    end
+
     context "when the current CSV does not contain councillors with ids of the councillors to be incorporated" do
       it "doesn't alter the existing councillor rows" do
         CouncillorPopolo::CSVMerger.new(
@@ -70,10 +81,10 @@ describe CouncillorPopolo::CSVMerger do
     end
 
     context "when the current CSV contains councillors with ids of the councillors to be incorporated" do
-      let(:pre_existing_henare_row) { ["Henare Degan", "2010-09-01", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "", "", "", "", "", ""] }
-      let(:expected_henare_row) { ["Henare Degan", "2010-09-01", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
-      let(:row_with_change_to_pre_existing_councillor) { ["Julia Chessell", "", "2017-09-28", "", "Foo City Council", "", "foo_city_council/julia_chessell", "", "", "", "", "", ""] }
-      let(:expected_updated_pre_existing_councillor) { ["Julia Chessell", "", "2017-09-28", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/julia_chessell", "jches@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/julia.jpg", "Independent", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", "", ""] }
+      let(:pre_existing_henare_row) { ["Henare Degan", "2010-09-01", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "", "", "", "", ""] }
+      let(:expected_henare_row) { ["Henare Degan", "2010-09-01", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
+      let(:row_with_change_to_pre_existing_councillor) { ["Julia Chessell", "", "2017-09-28", "", "Foo City Council", "", "foo_city_council/julia_chessell", "", "", "", "", ""] }
+      let(:expected_updated_pre_existing_councillor) { ["Julia Chessell", "", "2017-09-28", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/julia_chessell", "jches@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/julia.jpg", "Independent", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
 
       before do
         CSV.open(master_csv_path, "a+", headers: true) do |master_csv|
@@ -99,61 +110,20 @@ describe CouncillorPopolo::CSVMerger do
         ]
       end
     end
-
-    context "when the changes CSV file's headers don't match the master CSV's" do
-      let(:csv_with_bad_headers_path) { "./spec/fixtures/local_councillors_changes_with_bad_headers.csv" }
-
-      before do
-        CSV.open(csv_with_bad_headers_path, "w") do |csv|
-          csv << ["foo", "bar", "baz", "zapadooo"]
-          new_councillor_rows.each do |row|
-            csv << row
-          end
-        end
-      end
-
-      after { File.delete(csv_with_bad_headers_path) }
-
-      subject { CouncillorPopolo::CSVMerger.new(master_csv_path: master_csv_path, changes_csv_path: csv_with_bad_headers_path) }
-
-      it { expect{ subject.merge }.to raise_error CouncillorPopolo::HeaderMismatchError }
-    end
   end
 
   describe "#changes_csv_valid?" do
-    context "when the changes CSV file's headers don't match the master CSV's" do
-      let(:csv_with_bad_headers_path) { "./spec/fixtures/local_councillors_changes_with_bad_headers.csv" }
+    it "runs the changes csv through the validator" do
+      changes_path = "changes/path"
 
-      before do
-        CSV.open(csv_with_bad_headers_path, "w") do |csv|
-          csv << ["foo", "bar", "baz", "zapadooo"]
-          new_councillor_rows.each do |row|
-            csv << row
-          end
-        end
-      end
+      expect(CouncillorPopolo::CSVValidator).to(
+        receive(:validate_from_path).with(changes_path)
+      )
 
-      after { File.delete(csv_with_bad_headers_path) }
-
-      subject do
-        CouncillorPopolo::CSVMerger.new(
-          master_csv_path: master_csv_path,
-          changes_csv_path: csv_with_bad_headers_path
-        ).changes_csv_valid?
-      end
-
-      it { is_expected.to be false }
-    end
-
-    context "when the changes CSV file's headers match the master CSV's" do
-      subject do
-        CouncillorPopolo::CSVMerger.new(
-          master_csv_path: master_csv_path,
-          changes_csv_path: changes_csv_path
-        ).changes_csv_valid?
-      end
-
-      it { is_expected.to be true }
+      CouncillorPopolo::CSVMerger.new(
+        master_csv_path: "master/path",
+        changes_csv_path: changes_path
+      ).changes_csv_valid?
     end
   end
 end

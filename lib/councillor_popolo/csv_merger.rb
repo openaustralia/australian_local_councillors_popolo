@@ -44,15 +44,11 @@ module CouncillorPopolo
 
         # overwrite the existing file
         File.open(master_csv_path, "w") {|file| file.write(new_csv_string ) }
-      else
-        raise HeaderMismatchError, "The headers of #{changes_csv_path} must match the headers in #{master_csv_path}"
       end
     end
 
     def changes_csv_valid?
-      master_csv_headers = CSV.read(master_csv_path, headers: true).headers
-
-      CSV.read(changes_csv_path, headers: true).headers.eql? master_csv_headers
+      CouncillorPopolo::CSVValidator.validate_from_path(changes_csv_path)
     end
   end
 end
