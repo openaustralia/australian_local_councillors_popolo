@@ -13,6 +13,14 @@ describe CouncillorPopolo::CSVValidator do
 
       validator.validate
     end
+
+    it "calls #has_unique_councillor_ids?" do
+      validator = CouncillorPopolo::CSVValidator.new(csv_path)
+
+      expect(validator).to receive(:has_unique_councillor_ids?)
+
+      validator.validate
+    end
   end
 
   describe "#has_standard_headers?" do

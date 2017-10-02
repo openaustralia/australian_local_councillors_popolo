@@ -24,7 +24,7 @@ module CouncillorPopolo
     end
 
     def validate
-      has_standard_headers?
+      has_unique_councillor_ids? && has_standard_headers?
     end
 
     def has_standard_headers?
