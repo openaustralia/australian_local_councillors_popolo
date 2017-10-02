@@ -67,7 +67,7 @@ describe CouncillorPopolo::Processor do
     end
 
     it "runs the state csv through the validator" do
-      expect_any_instance_of(CouncillorPopolo::CSVValidator).to receive(:has_unique_councillor_ids?)
+      expect_any_instance_of(CouncillorPopolo::CSVValidator).to receive(:validate)
       processor.state_csv_valid?
     end
   end

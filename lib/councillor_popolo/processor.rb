@@ -15,7 +15,7 @@ module CouncillorPopolo
     end
 
     def state_csv_valid?
-      CouncillorPopolo::CSVValidator.new(csv_path_for_state).has_unique_councillor_ids?
+      CouncillorPopolo::CSVValidator.new(csv_path_for_state).validate
     end
 
     def duplicate_councillor_ids_in_state_csv
