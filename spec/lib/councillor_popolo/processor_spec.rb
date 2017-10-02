@@ -1,6 +1,12 @@
 require('./lib/councillor_popolo')
 
 describe CouncillorPopolo::Processor do
+  it "all CSVs in data/**/*.csv are valid" do
+    CouncillorPopolo::AUSTRALIAN_STATES.each do |state|
+      CouncillorPopolo::Processor.new(state: state).state_csv_valid?
+    end
+  end
+
   # Check that there's no unexpected hanging changes
   it "all changes in data/**/*.csv files have been generated into Popolo JSON, run `bundle exec rake update_all` to generate JSON" do
     CouncillorPopolo::AUSTRALIAN_STATES.each do |state|
