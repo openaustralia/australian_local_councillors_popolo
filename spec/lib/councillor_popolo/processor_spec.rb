@@ -56,31 +56,19 @@ describe CouncillorPopolo::Processor do
     end
   end
 
+  # FIXME: You should be able to confirm the validator is being run
+  #        without using expect_any_instance_of. This is a code smell.
   describe "#state_csv_valid?" do
     let(:processor) { CouncillorPopolo::Processor.new(state: "test") }
+    let(:mock_csv_with_dups_path) {  "spec/fixtures/local_councillors_with_duplicate.csv" }
 
-    context "when the CSV contains multiple councillors with the same id" do
-      let(:mock_csv_with_dups_path) {  "spec/fixtures/local_councillors_with_duplicate.csv" }
-
-      before do
-        allow(processor).to receive(:csv_path_for_state).and_return mock_csv_with_dups_path
-      end
-
-      it "it returns false" do
-        expect{ processor.state_csv_valid? }.to raise_error CouncillorPopolo::DuplicateCouncillorsError
-      end
+    before do
+      allow(processor).to receive(:csv_path_for_state).and_return mock_csv_with_dups_path
     end
 
-    context "when the CSV does not contains contain multiple councillors with the same id" do
-      let(:mock_csv_path) {  "spec/fixtures/local_councillors.csv" }
-
-      before do
-        allow(processor).to receive(:csv_path_for_state).and_return mock_csv_path
-      end
-
-      it "is true" do
-        expect(processor.state_csv_valid?).to be true
-      end
+    it "runs the state csv through the validator" do
+      expect_any_instance_of(CouncillorPopolo::CSVValidator).to receive(:has_unique_councillor_ids?)
+      processor.state_csv_valid?
     end
   end
 
