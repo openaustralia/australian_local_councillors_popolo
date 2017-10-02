@@ -3,7 +3,7 @@ require('./lib/councillor_popolo')
 describe CouncillorPopolo::CSVMerger do
   let(:master_csv_path) { "./spec/fixtures/local_councillors_master.csv" }
   let(:changes_csv_path) { "./spec/fixtures/local_councillors_changes.csv" }
-  let(:csv_headers) { ["name", "start_date", "end_date", "executive", "council", "council website", "id", "email", "image", "party", "source", "ward"] }
+  let(:csv_headers) { ["name", "start_date", "end_date", "executive", "council", "council_website", "id", "email", "image", "party", "source", "ward"] }
   let(:pre_existing_councillor_row) { ["Julia Chessell", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/julia_chessell", "jches@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/julia.jpg", "Independent", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
   let(:henare) { ["Henare Degan", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/henare_degan", "hdegan@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/henare.jpg", "Party Party Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
   let(:hisayo) { ["Hisayo Horie", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/hisayo_horie", "hhorie@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/hisayo.jpg", "Make Toronto Nice Party", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
@@ -18,7 +18,7 @@ describe CouncillorPopolo::CSVMerger do
     end
 
     CSV.open(changes_csv_path, "w") do |csv|
-      csv << ["name", "start_date", "end_date", "executive", "council", "council website", "id", "email", "image", "party", "source", "ward"]
+      csv << csv_headers
       new_councillor_rows.each do |row|
         csv << row
       end

@@ -6,7 +6,7 @@ module CouncillorPopolo
       "end_date",
       "executive",
       "council",
-      "council website",
+      "council_website",
       "id",
       "email",
       "image",

@@ -47,7 +47,7 @@ describe CouncillorPopolo::CSVValidator do
       it "raises an error" do
         validator = CouncillorPopolo::CSVValidator.new(csv_with_bad_headers_path)
 
-        expected_error_message = "CSV ./spec/fixtures/local_councillors_changes_with_bad_headers.csv has non standard headers [\"foo\", \"bar\", \"baz\", \"zapadooo\", nil, nil, nil, nil, nil, nil, nil, nil], should be [\"name\", \"start_date\", \"end_date\", \"executive\", \"council\", \"council website\", \"id\", \"email\", \"image\", \"party\", \"source\", \"ward\"]"
+        expected_error_message = "CSV ./spec/fixtures/local_councillors_changes_with_bad_headers.csv has non standard headers [\"foo\", \"bar\", \"baz\", \"zapadooo\", nil, nil, nil, nil, nil, nil, nil, nil], should be [\"name\", \"start_date\", \"end_date\", \"executive\", \"council\", \"council_website\", \"id\", \"email\", \"image\", \"party\", \"source\", \"ward\"]"
         expect { validator.has_standard_headers? }.to raise_error CouncillorPopolo::NonStandardHeadersError, expected_error_message
       end
     end
@@ -57,7 +57,7 @@ describe CouncillorPopolo::CSVValidator do
 
       before do
         CSV.open(csv_with_standard_headers_path, "w", headers: true) do |csv|
-          csv << ["name", "start_date", "end_date", "executive", "council", "council website", "id", "email", "image", "party", "source", "ward"]
+          csv << ["name", "start_date", "end_date", "executive", "council", "council_website", "id", "email", "image", "party", "source", "ward"]
           new_councillor_rows.each do |row|
             csv << row
           end
