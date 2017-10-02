@@ -17,8 +17,8 @@ module CouncillorPopolo
 
     attr_reader :csv
 
-    def initialize(csv)
-      @csv = csv
+    def initialize(path)
+      @csv = CSV.read(path, headers: :true)
     end
 
     def validate

@@ -3,11 +3,11 @@ require('./lib/councillor_popolo')
 describe CouncillorPopolo::CSVValidator do
   describe "#validate" do
     let(:csv_path) { "./spec/fixtures/local_councillors_master.csv" }
-    let(:csv) { CSV.open(csv_path, "w", headers: true) }
+    let!(:csv) { CSV.open(csv_path, "w", headers: true) }
     after { File.delete(csv_path) }
 
     it "calls #has_standard_headers?" do
-      validator = CouncillorPopolo::CSVValidator.new(csv)
+      validator = CouncillorPopolo::CSVValidator.new(csv_path)
 
       expect(validator).to receive(:has_standard_headers?)
 
@@ -37,9 +37,9 @@ describe CouncillorPopolo::CSVValidator do
       after { File.delete(csv_with_bad_headers_path) }
 
       it "raises an error" do
-        validator = CouncillorPopolo::CSVValidator.new(CSV.table(csv_with_bad_headers_path))
+        validator = CouncillorPopolo::CSVValidator.new(csv_with_bad_headers_path)
 
-        expected_error_message = "CSV has non standard headers [:foo, :bar, :baz, :zapadooo, nil, nil, nil, nil, nil, nil, nil, nil], should be [\"name\", \"start_date\", \"end_date\", \"executive\", \"council\", \"council website\", \"id\", \"email\", \"image\", \"party\", \"source\", \"ward\"]"
+        expected_error_message = "CSV has non standard headers [\"foo\", \"bar\", \"baz\", \"zapadooo\", nil, nil, nil, nil, nil, nil, nil, nil], should be [\"name\", \"start_date\", \"end_date\", \"executive\", \"council\", \"council website\", \"id\", \"email\", \"image\", \"party\", \"source\", \"ward\"]"
         expect { validator.has_standard_headers? }.to raise_error CouncillorPopolo::NonStandardHeadersError, expected_error_message
       end
     end
@@ -58,15 +58,15 @@ describe CouncillorPopolo::CSVValidator do
 
       after { File.delete(csv_with_standard_headers_path) }
 
-      subject { CouncillorPopolo::CSVValidator.new(CSV.read(csv_with_standard_headers_path, headers: true)).has_standard_headers? }
+      subject { CouncillorPopolo::CSVValidator.new(csv_with_standard_headers_path).has_standard_headers? }
       it { is_expected.to be true }
     end
   end
 
   describe "#has_unique_councillor_ids" do
     context "when the CSV contains multiple councillors with the same id" do
-      let(:mock_csv_with_dup) { CSV.read("spec/fixtures/local_councillors_with_duplicate.csv", headers: true) }
-      let(:validator) { CouncillorPopolo::CSVValidator.new(mock_csv_with_dup) }
+      let(:mock_csv_with_dup_path) { "spec/fixtures/local_councillors_with_duplicate.csv" }
+      let(:validator) { CouncillorPopolo::CSVValidator.new(mock_csv_with_dup_path) }
 
       before do
         allow(validator).to(
@@ -79,8 +79,7 @@ describe CouncillorPopolo::CSVValidator do
     end
 
     context "when the CSV does not contains contain multiple councillors with the same id" do
-      let(:mock_csv) { CSV.read("spec/fixtures/local_councillors.csv", headers: true) }
-      let(:validator) { CouncillorPopolo::CSVValidator.new(mock_csv) }
+      let(:validator) { CouncillorPopolo::CSVValidator.new("spec/fixtures/local_councillors.csv") }
 
       before do
         allow(validator).to(
@@ -98,10 +97,8 @@ describe CouncillorPopolo::CSVValidator do
 
   describe ".duplicate_councillor_ids" do
     context "when the CSV contains multiple councillors with the same id" do
-      let(:mock_csv_with_dups) { CSV.read("spec/fixtures/local_councillors_with_duplicate.csv", headers: :true) }
-
       subject do
-        CouncillorPopolo::CSVValidator.new(mock_csv_with_dups).duplicate_councillor_ids
+        CouncillorPopolo::CSVValidator.new("spec/fixtures/local_councillors_with_duplicate.csv").duplicate_councillor_ids
       end
 
       it "it returns the ids" do
@@ -110,10 +107,8 @@ describe CouncillorPopolo::CSVValidator do
     end
 
     context "when the CSV does not contains contain multiple councillors with the same id" do
-      let(:mock_csv) { CSV.read("spec/fixtures/local_councillors.csv", headers: :true) }
-
       subject do
-        CouncillorPopolo::CSVValidator.new(mock_csv).duplicate_councillor_ids
+        CouncillorPopolo::CSVValidator.new("spec/fixtures/local_councillors.csv").duplicate_councillor_ids
       end
 
       it "is empty" do
