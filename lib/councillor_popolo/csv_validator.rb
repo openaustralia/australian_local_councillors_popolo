@@ -40,11 +40,11 @@ module CouncillorPopolo
       if duplicate_councillor_ids.none?
         true
       else
-        message = duplicate_councillor_ids.map do |id|
+        error_message = duplicate_councillor_ids.map do |id|
           "There are multiple rows with the id #{id} in #{path}"
         end.join(", ")
 
-        raise DuplicateCouncillorsError, message
+        raise DuplicateCouncillorsError, error_message
       end
     end
 
