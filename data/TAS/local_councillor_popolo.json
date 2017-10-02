@@ -3724,10 +3724,7 @@
   "warnings": {
     "skipped": [
       "council_website",
-      "ward",
-      "phone_mobile",
-      "term_ends",
-      "council_email"
+      "ward"
     ]
   }
 }

@@ -22800,8 +22800,7 @@
   "warnings": {
     "skipped": [
       "council_website",
-      "ward",
-      "phone_mobile"
+      "ward"
     ]
   }
 }

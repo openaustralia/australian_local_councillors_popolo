@@ -1,748 +1,599 @@
 {
   "persons": [
     {
-      "gender": "male",
       "id": "albany_city_council/dennis_william_wellington",
       "name": "Dennis William Wellington"
     },
     {
-      "gender": "male",
       "id": "albany_city_council/raymond_john_hammond",
       "name": "Raymond John Hammond"
     },
     {
-      "gender": "male",
       "id": "albany_city_council/paul_terry",
       "name": "Paul Terry"
     },
     {
-      "gender": "female",
       "id": "albany_city_council/carolyn_ann_dowling",
       "name": "Carolyn Ann Dowling"
     },
     {
-      "gender": "male",
       "id": "albany_city_council/gregory_brian_stocks",
       "name": "Gregory Brian Stocks"
     },
     {
-      "gender": "female",
       "id": "albany_city_council/janelle_margaret_price",
       "name": "Janelle Margaret Price"
     },
     {
-      "gender": "male",
       "id": "albany_city_council/william_hollingworth",
       "name": "William Hollingworth"
     },
     {
-      "gender": "female",
       "id": "albany_city_council/nicolette_elena_williams",
       "name": "Nicolette Elena Williams"
     },
     {
-      "gender": "male",
       "id": "albany_city_council/john_edwin_shanhun",
       "name": "John Edwin Shanhun"
     },
     {
-      "gender": "female",
       "id": "albany_city_council/alison_elizabeth_goode",
       "name": "Alison Elizabeth Goode"
     },
     {
-      "gender": "female",
       "id": "albany_city_council/sandra_jane_smith",
       "name": "Sandra Jane Smith"
     },
     {
-      "gender": "male",
       "id": "albany_city_council/robert_walter_sutton",
       "name": "Robert Walter Sutton"
     },
     {
-      "gender": "male",
       "id": "albany_city_council/anthony_moir",
       "name": "Anthony Moir"
     },
     {
-      "gender": "male",
       "id": "armadale_city_council/james_alexander_stewart",
       "name": "James Alexander Stewart"
     },
     {
-      "gender": "female",
       "id": "armadale_city_council/donna_maree_shaw",
       "name": "Donna Maree Shaw"
     },
     {
-      "gender": "female",
       "id": "armadale_city_council/caroline_wielinga",
       "name": "Caroline Wielinga"
     },
     {
-      "gender": "male",
       "id": "armadale_city_council/grant_nixon",
       "name": "Grant Nixon"
     },
     {
-      "gender": "female",
       "id": "armadale_city_council/michelle_silver",
       "name": "Michelle Silver"
     },
     {
-      "gender": "female",
       "id": "armadale_city_council/carole_frost",
       "name": "Carole Frost"
     },
     {
-      "gender": "male",
       "id": "armadale_city_council/matthew_norman",
       "name": "Matthew Norman"
     },
     {
-      "gender": "male",
       "id": "armadale_city_council/kerry_busby",
       "name": "Kerry Busby"
     },
     {
-      "gender": "male",
       "id": "armadale_city_council/guenter_best",
       "name": "Guenter Best"
     },
     {
-      "gender": "male",
       "id": "armadale_city_council/mark_daniel_geary",
       "name": "Mark Daniel Geary"
     },
     {
-      "gender": "male",
       "id": "armadale_city_council/colin_campbell",
       "name": "Colin Campbell"
     },
     {
-      "gender": "male",
       "id": "armadale_city_council/laurence_sargeson",
       "name": "Laurence Sargeson"
     },
     {
-      "gender": "male",
       "id": "armadale_city_council/henry_anthony_zelones",
       "name": "Henry Anthony Zelones"
     },
     {
-      "gender": "female",
       "id": "armadale_city_council/ruth_butterfield",
       "name": "ruth Butterfield"
     },
     {
-      "gender": "male",
       "id": "ashburton_shire_council/glen_stanley_dellar",
       "name": "Glen Stanley Dellar"
     },
     {
-      "gender": "female",
       "id": "ashburton_shire_council/kerry_marlene_white",
       "name": "Kerry Marlene White"
     },
     {
-      "gender": "female",
       "id": "ashburton_shire_council/melanie_gallanagh",
       "name": "Melanie Gallanagh"
     },
     {
-      "gender": "male",
       "id": "ashburton_shire_council/doughlas_ivan_dias",
       "name": "Doughlas Ivan Dias"
     },
     {
-      "gender": "male",
       "id": "ashburton_shire_council/linton_stanley_rumble",
       "name": "Linton Stanley Rumble"
     },
     {
-      "gender": "female",
       "id": "ashburton_shire_council/lorraine_joyce_thomas",
       "name": "Lorraine Joyce Thomas"
     },
     {
-      "gender": "male",
       "id": "ashburton_shire_council/peter_allan_foster",
       "name": "Peter Allan Foster"
     },
     {
-      "gender": "male",
       "id": "ashburton_shire_council/anthony_desmond_bloem",
       "name": "Anthony Desmond Bloem"
     },
     {
-      "gender": "female",
       "id": "ashburton_shire_council/cecilia_fernandez",
       "name": "Cecilia Fernandez"
     },
     {
-      "gender": "male",
       "id": "augusta_margaret_river_shire_council/kimberley_ronald_hastie",
       "name": "Kimberley Ronald Hastie"
     },
     {
-      "gender": "male",
       "id": "augusta_margaret_river_shire_council/michael_robert_smart",
       "name": "Michael Robert Smart"
     },
     {
-      "gender": "female",
       "id": "augusta_margaret_river_shire_council/felicity_ann_haynes",
       "name": "Felicity Ann Haynes"
     },
     {
-      "gender": "female",
       "id": "augusta_margaret_river_shire_council/pamela_lesley_townshend",
       "name": "Pamela Lesley Townshend"
     },
     {
-      "gender": "female",
       "id": "augusta_margaret_river_shire_council/kylie_suzanne_kennaugh",
       "name": "Kylie Suzanne Kennaugh"
     },
     {
-      "gender": "male",
       "id": "augusta_margaret_river_shire_council/ian_earl",
       "name": "Ian Earl"
     },
     {
-      "gender": "male",
       "id": "augusta_margaret_river_shire_council/peter_boyd_lane",
       "name": "Peter Boyd Lane"
     },
     {
-      "gender": "male",
       "id": "bassendean_town_council/gerard_anthony_pule",
       "name": "Gerard Anthony Pule"
     },
     {
-      "gender": "male",
       "id": "bassendean_town_council/michael_frederick_lewis",
       "name": "Michael Frederick Lewis"
     },
     {
-      "gender": "male",
       "id": "bassendean_town_council/robert_harold_brown",
       "name": "Robert Harold Brown"
     },
     {
-      "gender": "male",
       "id": "bassendean_town_council/paul_bridges",
       "name": "Paul Bridges"
     },
     {
-      "gender": "female",
       "id": "bassendean_town_council/rene_mclennan",
       "name": "Rene McLennan"
     },
     {
-      "gender": "male",
       "id": "bassendean_town_council/john_ross_henry_gangell",
       "name": "John Ross Henry Gangell"
     },
     {
-      "gender": "male",
       "id": "bayswater_city_council/michael_christopher_cornish",
       "name": "Michael Christopher Cornish"
     },
     {
-      "gender": "male",
       "id": "bayswater_city_council/barry_anthony_mckenna",
       "name": "Barry Anthony Mckenna"
     },
     {
-      "gender": "female",
       "id": "bayswater_city_council/sally_palmer",
       "name": "Sally Palmer"
     },
     {
-      "gender": "male",
       "id": "bayswater_city_council/brent_fleeton",
       "name": "Brent Fleeton"
     },
     {
-      "gender": "female",
       "id": "bayswater_city_council/michelle_louise_sutherland",
       "name": "Michelle Louise Sutherland"
     },
     {
-      "gender": "male",
       "id": "bayswater_city_council/alan_james_radford",
       "name": "Alan James Radford"
     },
     {
-      "gender": "female",
       "id": "bayswater_city_council/catherine_ehrhardt",
       "name": "Catherine Ehrhardt"
     },
     {
-      "gender": "male",
       "id": "bayswater_city_council/john_peter_rifici",
       "name": "John Peter Rifici"
     },
     {
-      "gender": "female",
       "id": "bayswater_city_council/stephanie_karen_coates",
       "name": "Stephanie Karen Coates"
     },
     {
-      "gender": "male",
       "id": "bayswater_city_council/terence_gilbert_kenyon",
       "name": "Terence Gilbert Kenyon"
     },
     {
-      "gender": "male",
       "id": "bayswater_city_council/daniel_canute_lyle_bull",
       "name": "Daniel Canute Lyle Bull"
     },
     {
-      "gender": "male",
       "id": "belmont_city_council/bernard_allan_ryan",
       "name": "Bernard Allan Ryan"
     },
     {
-      "gender": "male",
       "id": "belmont_city_council/philip_marks",
       "name": "Philip Marks"
     },
     {
-      "gender": "female",
       "id": "belmont_city_council/margie_margaret_bass",
       "name": "Margie Margaret Bass"
     },
     {
-      "gender": "male",
       "id": "belmont_city_council/patrick_james_gardner",
       "name": "Patrick James Gardner"
     },
     {
-      "gender": "female",
       "id": "belmont_city_council/janet_powell",
       "name": "Janet Powell"
     },
     {
-      "gender": "male",
       "id": "belmont_city_council/stephen_karl_wolff",
       "name": "Stephen Karl Wolff"
     },
     {
-      "gender": "male",
       "id": "belmont_city_council/paul_hitt",
       "name": "Paul Hitt"
     },
     {
-      "gender": "male",
       "id": "belmont_city_council/roberto_rossi",
       "name": "Roberto Rossi"
     },
     {
-      "gender": "female",
       "id": "belmont_city_council/lauren_annie_cayoun",
       "name": "Lauren Annie Cayoun"
     },
     {
-      "gender": "male",
       "id": "beverley_shire_council/lewis_campbell_shaw",
       "name": "Lewis Campbell Shaw"
     },
     {
-      "gender": "male",
       "id": "beverley_shire_council/keith_malcolm_murray",
       "name": "Keith Malcolm Murray"
     },
     {
-      "gender": "female",
       "id": "beverley_shire_council/denise_jo_ridgway",
       "name": "Denise Jo Ridgway"
     },
     {
-      "gender": "female",
       "id": "beverley_shire_council/david_charles_white",
       "name": "David Charles White"
     },
     {
-      "gender": "male",
       "id": "beverley_shire_council/thomas_buckland",
       "name": "Thomas Buckland"
     },
     {
-      "gender": "male",
       "id": "beverley_shire_council/peter_gogol",
       "name": "Peter Gogol"
     },
     {
-      "gender": "male",
       "id": "beverley_shire_council/don_w_davis",
       "name": "Don W Davis"
     },
     {
-      "gender": "male",
       "id": "beverley_shire_council/james_david_alexander",
       "name": "James David Alexander"
     },
     {
-      "gender": "male",
       "id": "beverley_shire_council/darryl_lee_brown",
       "name": "Darryl Lee Brown"
     },
     {
-      "gender": "male",
       "id": "boddington_shire_council/john_robert_allert",
       "name": "John Robert Allert"
     },
     {
-      "gender": "female",
       "id": "boddington_shire_council/sharanjit_kaur",
       "name": "Sharanjit Kaur"
     },
     {
-      "gender": "female",
       "id": "boddington_shire_council/toni_leanne_collins",
       "name": "Toni Leanne Collins"
     },
     {
-      "gender": "male",
       "id": "boddington_shire_council/martin_shane_glynn",
       "name": "Martin Shane Glynn"
     },
     {
-      "gender": "male",
       "id": "boddington_shire_council/david_neil_smart",
       "name": "David Neil Smart"
     },
     {
-      "gender": "male",
       "id": "boddington_shire_council/neville_james_crilly",
       "name": "Neville James Crilly"
     },
     {
-      "gender": "female",
       "id": "boddington_shire_council/elizabeth_kaye_hoek",
       "name": "Elizabeth Kaye Hoek"
     },
     {
-      "gender": "male",
       "id": "boyup_brook_shire_council/kevin_james_moir",
       "name": "Kevin James Moir"
     },
     {
-      "gender": "male",
       "id": "boyup_brook_shire_council/john_imrie",
       "name": "John Imrie"
     },
     {
-      "gender": "male",
       "id": "boyup_brook_shire_council/eric_muncey",
       "name": "Eric Muncey"
     },
     {
-      "gender": "male",
       "id": "boyup_brook_shire_council/philippe_kaltenrieder",
       "name": "Philippe Kaltenrieder"
     },
     {
-      "gender": "male",
       "id": "boyup_brook_shire_council/eric_biddle",
       "name": "Eric Biddle"
     },
     {
-      "gender": "male",
       "id": "boyup_brook_shire_council/thomas_oversby",
       "name": "Thomas Oversby"
     },
     {
-      "gender": "female",
       "id": "boyup_brook_shire_council/elisabeth_leonie_rear",
       "name": "Elisabeth Leonie Rear"
     },
     {
-      "gender": "male",
       "id": "boyup_brook_shire_council/michael_john_giles",
       "name": "Michael John Giles"
     },
     {
-      "gender": "male",
       "id": "boyup_brook_shire_council/graham_john_aird",
       "name": "Graham John Aird"
     },
     {
-      "gender": "male",
       "id": "bridgetown-greenbushes_shire_council/antonino_pratico",
       "name": "Antonino Pratico"
     },
     {
-      "gender": "male",
       "id": "bridgetown-greenbushes_shire_council/patrick_michael_scallan",
       "name": "Patrick Michael Scallan"
     },
     {
-      "gender": "male",
       "id": "bridgetown-greenbushes_shire_council/stephen_campbell_hodson",
       "name": "Stephen Campbell Hodson"
     },
     {
-      "gender": "male",
       "id": "bridgetown-greenbushes_shire_council/peter_simon_quinby",
       "name": "Peter Simon Quinby"
     },
     {
-      "gender": "male",
       "id": "bridgetown-greenbushes_shire_council/john_digby_nicholas",
       "name": "John Digby Nicholas"
     },
     {
-      "gender": "female",
       "id": "bridgetown-greenbushes_shire_council/doreen_mackman",
       "name": "Doreen Mackman"
     },
     {
-      "gender": "female",
       "id": "bridgetown-greenbushes_shire_council/joann_roberta_moore",
       "name": "Joann Roberta Moore"
     },
     {
-      "gender": "male",
       "id": "bridgetown-greenbushes_shire_council/alan_joseph_wilson",
       "name": "Alan Joseph Wilson"
     },
     {
-      "gender": "female",
       "id": "bridgetown-greenbushes_shire_council/julia_ann_boyle",
       "name": "Julia Ann Boyle"
     },
     {
-      "gender": "female",
       "id": "brookton_shire_council/robyn_theresa_kirwan_fancote",
       "name": "Robyn Theresa Kirwan Fancote"
     },
     {
-      "gender": "male",
       "id": "brookton_shire_council/neil_charles_walker",
       "name": "Neil Charles Walker"
     },
     {
-      "gender": "female",
       "id": "brookton_shire_council/katrina_louise_crute",
       "name": "Katrina Louise Crute"
     },
     {
-      "gender": "male",
       "id": "brookton_shire_council/kym_terence_wilkinson",
       "name": "Kym Terence Wilkinson"
     },
     {
-      "gender": "female",
       "id": "brookton_shire_council/louise_sheree_allington",
       "name": "Louise Sheree Allington"
     },
     {
-      "gender": "male",
       "id": "brookton_shire_council/kim_hillsdon_mills",
       "name": "Kim Hillsdon Mills"
     },
     {
-      "gender": "male",
       "id": "brookton_shire_council/travis_morgan_eva",
       "name": "Travis Morgan Eva"
     },
     {
-      "gender": "male",
       "id": "broome_shire_council/harold_norman_tracey",
       "name": "Harold Norman Tracey"
     },
     {
-      "gender": "female",
       "id": "broome_shire_council/desiree_magdolna_male",
       "name": "Desiree Magdolna Male"
     },
     {
-      "gender": "female",
       "id": "broome_shire_council/mala_prem_ocean_sky_fairborn",
       "name": "Mala Prem Ocean Sky Fairborn"
     },
     {
-      "gender": "male",
       "id": "broome_shire_council/bruce_joseph_egerton_rudeforth",
       "name": "Bruce Joseph Egerton Rudeforth"
     },
     {
-      "gender": "male",
       "id": "broome_shire_council/warren_fryer",
       "name": "Warren Fryer"
     },
     {
-      "gender": "male",
       "id": "broome_shire_council/christopher_ralph_mitchell",
       "name": "Christopher Ralph Mitchell"
     },
     {
-      "gender": "male",
       "id": "broome_shire_council/ron_sos_johnston",
       "name": "Ron Sos Johnston"
     },
     {
-      "gender": "male",
       "id": "broome_shire_council/philip_francis_matsumoto",
       "name": "Philip Francis Matsumoto"
     },
     {
-      "gender": "female",
       "id": "broome_shire_council/elsa_regina_foy",
       "name": "Elsa Regina Foy"
     },
     {
-      "gender": "male",
       "id": "broomehill-tambellup_shire_council/mark_christopher_paganoni",
       "name": "Mark Christopher Paganoni"
     },
     {
-      "gender": "male",
       "id": "broomehill-tambellup_shire_council/michael_robert_batchelor",
       "name": "Michael Robert Batchelor"
     },
     {
-      "gender": "male",
       "id": "broomehill-tambellup_shire_council/scott_john_frank_thompson",
       "name": "Scott John Frank Thompson"
     },
     {
-      "gender": "male",
       "id": "broomehill-tambellup_shire_council/michael_eric_white",
       "name": "Michael Eric White"
     },
     {
-      "gender": "male",
       "id": "broomehill-tambellup_shire_council/trevor_walter_prout",
       "name": "Trevor Walter Prout"
     },
     {
-      "gender": "male",
       "id": "broomehill-tambellup_shire_council/craig_leith_dennis",
       "name": "Craig Leith Dennis"
     },
     {
-      "gender": "male",
       "id": "broomehill-tambellup_shire_council/garry_maxwell_sheridan",
       "name": "Garry Maxwell Sheridan"
     },
     {
-      "gender": "male",
       "id": "bruce_rock_shire_council/nathan_buegge",
       "name": "Nathan Buegge"
     },
     {
-      "gender": "male",
       "id": "bruce_rock_shire_council/simon_bruce_vincent_buller",
       "name": "Simon Bruce Vincent Buller"
     },
     {
-      "gender": "male",
       "id": "bruce_rock_shire_council/ian_dolton",
       "name": "Ian Dolton"
     },
     {
-      "gender": "female",
       "id": "bruce_rock_shire_council/merredith_kym_thornton",
       "name": "Merredith Kym Thornton"
     },
     {
-      "gender": "male",
       "id": "bruce_rock_shire_council/phillip_gerard_negri",
       "name": "Phillip Gerard Negri"
     },
     {
-      "gender": "male",
       "id": "bruce_rock_shire_council/don_heasman",
       "name": "Don Heasman"
     },
     {
-      "gender": "male",
       "id": "bruce_rock_shire_council/ram_rajagopalan",
       "name": "Ram Rajagopalan"
     },
     {
-      "gender": "male",
       "id": "bruce_rock_shire_council/stephen_arthur_strange",
       "name": "Stephen Arthur Strange"
     },
     {
-      "gender": "female",
       "id": "bruce_rock_shire_council/marie_jean_royce",
       "name": "Marie Jean Royce"
     },
     {
-      "gender": "male",
       "id": "bunbury_city_council/gary_peter_brennan",
       "name": "Gary Peter Brennan"
     },
     {
-      "gender": "male",
       "id": "bunbury_city_council/jaysen_robert_de_san_miguel",
       "name": "Jaysen Robert De San Miguel"
     },
     {
-      "gender": "male",
       "id": "bunbury_city_council/brendan_thomas_kelly",
       "name": "Brendan Thomas Kelly"
     },
     {
-      "gender": "male",
       "id": "bunbury_city_council/james_dorrin_hayward",
       "name": "James Dorrin Hayward"
     },
     {
-      "gender": "female",
       "id": "bunbury_city_council/wendy_giles",
       "name": "Wendy Giles"
     },
     {
-      "gender": "male",
       "id": "bunbury_city_council/joel_john_mcguinness",
       "name": "Joel John McGuinness"
     },
     {
-      "gender": "male",
       "id": "bunbury_city_council/sam_morris",
       "name": "Sam Morris"
     },
     {
-      "gender": "female",
       "id": "bunbury_city_council/karen_peta_steele",
       "name": "Karen Peta Steele"
     },
     {
-      "gender": "female",
       "id": "bunbury_city_council/judith_mary_jones",
       "name": "Judith Mary Jones"
     },
     {
-      "gender": "male",
       "id": "bunbury_city_council/murray_francis_cook",
       "name": "Murray Francis Cook"
     },
     {
-      "gender": "female",
       "id": "bunbury_city_council/betty_maxine_mccleary",
       "name": "Betty Maxine McCleary"
     },
     {
-      "gender": "female",
       "id": "bunbury_city_council/annette_monique_warnock",
       "name": "Annette Monique Warnock"
     },
     {
-      "gender": "female",
       "id": "bunbury_city_council/michelle_tracey_steck",
       "name": "Michelle Tracey Steck"
     },
     {
       "email": "grant.henley@busselton.wa.gov.au",
-      "gender": "male",
       "id": "city_of_busselton/grant_douglas_henley",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-grant-henley.jpg",
       "name": "Grant Douglas Henley",
@@ -759,7 +610,6 @@
     },
     {
       "email": "paul.carter@busselton.wa.gov.au",
-      "gender": "male",
       "id": "city_of_busselton/paul_thomas_carter",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-paul-carter.jpg",
       "name": "Paul Thomas Carter",
@@ -776,7 +626,6 @@
     },
     {
       "email": "ross.paine@busselton.wa.gov.au",
-      "gender": "male",
       "id": "city_of_busselton/ross_paine",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-ross-paine.jpg",
       "name": "Ross Paine",
@@ -793,7 +642,6 @@
     },
     {
       "email": "terry.best@busselton.wa.gov.au",
-      "gender": "male",
       "id": "city_of_busselton/terrence_john_martin_best",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-terry-best.jpg",
       "name": "Terrence John Martin Best",
@@ -810,7 +658,6 @@
     },
     {
       "email": "coralie.tarbotton@busselton.wa.gov.au",
-      "gender": "female",
       "id": "city_of_busselton/coralie_isobel_tarbotton",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-coralie-tarbotton.jpg",
       "name": "Coralie Isobel Tarbotton",
@@ -827,7 +674,6 @@
     },
     {
       "email": "robert.reekie@busselton.wa.gov.au",
-      "gender": "male",
       "id": "city_of_busselton/robert_james_reekie",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-robert-reekie.jpg",
       "name": "Robert James Reekie",
@@ -844,7 +690,6 @@
     },
     {
       "email": "john.mccallum@busselton.wa.gov.au",
-      "gender": "male",
       "id": "city_of_busselton/john_sydney_mccallum",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-john-mccallum.jpg",
       "name": "John Sydney McCallum",
@@ -861,7 +706,6 @@
     },
     {
       "email": "gordon.bleechmore@busselton.wa.gov.au",
-      "gender": "male",
       "id": "city_of_busselton/gordon_clive_bleechmore",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-gordon-bleechmore.jpg",
       "name": "Gordon Clive Bleechmore",
@@ -878,7 +722,6 @@
     },
     {
       "email": "robert.bennett@busselton.wa.gov.au",
-      "gender": "male",
       "id": "city_of_busselton/robert_taylor_bennett",
       "image": "http://www.busselton.wa.gov.au/files/assets/public/image-resources/council/2015/cr-rob-bennett.jpg",
       "name": "Robert Taylor Bennett",
@@ -894,1403 +737,1123 @@
       ]
     },
     {
-      "gender": "female",
       "id": "cambridge_town_council/keri_liona_shannon",
       "name": "Keri Liona Shannon"
     },
     {
-      "gender": "female",
       "id": "cambridge_town_council/sonia_grinceri",
       "name": "Sonia Grinceri"
     },
     {
-      "gender": "male",
       "id": "cambridge_town_council/rodney_william_bradley",
       "name": "Rodney William Bradley"
     },
     {
-      "gender": "male",
       "id": "cambridge_town_council/andres_walter_timmermanis",
       "name": "Andres Walter Timmermanis"
     },
     {
-      "gender": "female",
       "id": "cambridge_town_council/pauline_o'connor",
       "name": "Pauline O'Connor"
     },
     {
-      "gender": "female",
       "id": "cambridge_town_council/corinne_marie_macrae",
       "name": "Corinne Marie Macrae"
     },
     {
-      "gender": "female",
       "id": "cambridge_town_council/tracey_king",
       "name": "Tracey King"
     },
     {
-      "gender": "male",
       "id": "cambridge_town_council/louis_donald_carr",
       "name": "Louis Donald Carr"
     },
     {
-      "gender": "female",
       "id": "cambridge_town_council/stephanie_jane_powell",
       "name": "Stephanie Jane Powell"
     },
     {
-      "gender": "male",
       "id": "canning_city_council/keh_leng_paul_ng",
       "name": "Keh Leng Paul Ng"
     },
     {
-      "gender": "male",
       "id": "canning_city_council/benjamin_paul_kunze",
       "name": "Benjamin Paul Kunze"
     },
     {
-      "gender": "male",
       "id": "canning_city_council/patrick_vincent_hall",
       "name": "Patrick Vincent Hall"
     },
     {
-      "gender": "male",
       "id": "canning_city_council/lindsay_paul_holland",
       "name": "Lindsay Paul Holland"
     },
     {
-      "gender": "male",
       "id": "canning_city_council/david_kent_brown",
       "name": "David Kent Brown"
     },
     {
-      "gender": "female",
       "id": "canning_city_council/pauline_michelle_tarrant",
       "name": "Pauline Michelle Tarrant"
     },
     {
-      "gender": "female",
       "id": "canning_city_council/christine_louise_cunningham",
       "name": "Christine Louise Cunningham"
     },
     {
-      "gender": "female",
       "id": "canning_city_council/ayse_nur_martli",
       "name": "Ayse Nur Martli"
     },
     {
-      "gender": "male",
       "id": "canning_city_council/jesse_gibson_jacobs",
       "name": "Jesse Gibson Jacobs"
     },
     {
-      "gender": "female",
       "id": "canning_city_council/margaret_anne_joan_hall",
       "name": "Margaret Anne Joan Hall"
     },
     {
-      "gender": "male",
       "id": "canning_city_council/timothy_robert_porter",
       "name": "Timothy Robert Porter"
     },
     {
-      "gender": "male",
       "id": "capel_shire_council/murray_thomas_scott",
       "name": "Murray Thomas Scott"
     },
     {
-      "gender": "male",
       "id": "capel_shire_council/peter_kenneth_mccleery",
       "name": "Peter Kenneth McCleery"
     },
     {
-      "gender": "male",
       "id": "capel_shire_council/siddhartha_hemandra_baxi",
       "name": "Siddhartha Hemandra Baxi"
     },
     {
-      "gender": "male",
       "id": "capel_shire_council/brian_harold_smith",
       "name": "Brian Harold Smith"
     },
     {
-      "gender": "male",
       "id": "capel_shire_council/gregory_james_norton",
       "name": "Gregory James Norton"
     },
     {
-      "gender": "male",
       "id": "capel_shire_council/brian_walter_hearne",
       "name": "Brian Walter Hearne"
     },
     {
-      "gender": "male",
       "id": "capel_shire_council/barry_william_bell",
       "name": "Barry William Bell"
     },
     {
-      "gender": "male",
       "id": "capel_shire_council/sebastian_vincent_schiano_di_cola",
       "name": "Sebastian Vincent Schiano Di Cola"
     },
     {
-      "gender": "female",
       "id": "capel_shire_council/jennifer_anne_scott",
       "name": "Jennifer Anne Scott"
     },
     {
-      "gender": "male",
       "id": "carnamah_shire_council/constantine_nicholas_kikeros",
       "name": "Constantine Nicholas Kikeros"
     },
     {
-      "gender": "male",
       "id": "carnamah_shire_council/dwayne_john_wooltorton",
       "name": "Dwayne John Wooltorton"
     },
     {
-      "gender": "female",
       "id": "carnamah_shire_council/sandra_mackintosh_laundy",
       "name": "Sandra Mackintosh Laundy"
     },
     {
-      "gender": "female",
       "id": "carnamah_shire_council/merle_isbister",
       "name": "Merle Isbister"
     },
     {
-      "gender": "female",
       "id": "carnamah_shire_council/elizabeth_anne_piccles-popham",
       "name": "Elizabeth Anne Piccles-Popham"
     },
     {
-      "gender": "male",
       "id": "carnamah_shire_council/ian_robin_stirling",
       "name": "Ian Robin Stirling"
     },
     {
-      "gender": "male",
       "id": "carnamah_shire_council/ian_gregory_bowman",
       "name": "Ian Gregory Bowman"
     },
     {
-      "gender": "male",
       "id": "carnarvon_shire_council/karl_graeme_brandenburg",
       "name": "Karl Graeme Brandenburg"
     },
     {
-      "gender": "male",
       "id": "carnarvon_shire_council/kane_jonathon_reeves_simpson",
       "name": "Kane Jonathon Reeves Simpson"
     },
     {
-      "gender": "male",
       "id": "carnarvon_shire_council/brett_clifford_smith",
       "name": "Brett Clifford Smith"
     },
     {
-      "gender": "male",
       "id": "carnarvon_shire_council/luke_ricard_skender",
       "name": "Luke Ricard Skender"
     },
     {
-      "gender": "male",
       "id": "carnarvon_shire_council/max_gregory_march",
       "name": "Max Gregory March"
     },
     {
-      "gender": "male",
       "id": "carnarvon_shire_council/edward_charles_smith",
       "name": "Edward Charles Smith"
     },
     {
-      "gender": "male",
       "id": "carnarvon_shire_council/edward_john_garrett",
       "name": "Edward John Garrett"
     },
     {
-      "gender": "female",
       "id": "carnarvon_shire_council/julee_nelson",
       "name": "Julee Nelson"
     },
     {
-      "gender": "male",
       "id": "chapman_valley_shire_council/anthony_steven_farrell",
       "name": "Anthony Steven Farrell"
     },
     {
-      "gender": "male",
       "id": "chapman_valley_shire_council/trevor_leonard_royce",
       "name": "Trevor Leonard Royce"
     },
     {
-      "gender": "female",
       "id": "chapman_valley_shire_council/pauline_forrester",
       "name": "Pauline Forrester"
     },
     {
-      "gender": "female",
       "id": "chapman_valley_shire_council/kirrilee_jane_warr",
       "name": "Kirrilee Jane Warr"
     },
     {
-      "gender": "male",
       "id": "chapman_valley_shire_council/john_philip_collingwood",
       "name": "John Philip Collingwood"
     },
     {
-      "gender": "male",
       "id": "chapman_valley_shire_council/peter_humphrey",
       "name": "Peter Humphrey"
     },
     {
-      "gender": "male",
       "id": "chapman_valley_shire_council/ian_kenneth_maluish",
       "name": "Ian Kenneth Maluish"
     },
     {
-      "gender": "female",
       "id": "chapman_valley_shire_council/veronica_mary_wood",
       "name": "Veronica Mary Wood"
     },
     {
-      "gender": "male",
       "id": "chittering_shire_council/george_bradley_tilbury",
       "name": "George Bradley Tilbury"
     },
     {
-      "gender": "female",
       "id": "chittering_shire_council/michelle_rossouw",
       "name": "Michelle Rossouw"
     },
     {
-      "gender": "male",
       "id": "chittering_shire_council/donald_munro_gibson",
       "name": "Donald Munro Gibson"
     },
     {
-      "gender": "male",
       "id": "chittering_shire_council/aaron_james_king",
       "name": "Aaron James King"
     },
     {
-      "gender": "male",
       "id": "chittering_shire_council/gordon_bruce_houston",
       "name": "Gordon Bruce Houston"
     },
     {
-      "gender": "male",
       "id": "chittering_shire_council/stephen_leslie_vallance",
       "name": "Stephen Leslie Vallance"
     },
     {
-      "gender": "male",
       "id": "chittering_shire_council/peter_james_bentley_osborn_osborn",
       "name": "Peter James Bentley Osborn Osborn"
     },
     {
-      "gender": "male",
       "id": "christmas_island_shire_council/cheng_siew_vincent_saw",
       "name": "Cheng Siew Vincent Saw"
     },
     {
-      "gender": "female",
       "id": "christmas_island_shire_council/rosnah_pal",
       "name": "Rosnah Pal"
     },
     {
-      "gender": "male",
       "id": "christmas_island_shire_council/gordon_sinclair_thomson",
       "name": "Gordon Sinclair Thomson"
     },
     {
-      "gender": "male",
       "id": "christmas_island_shire_council/kee_heng_foo",
       "name": "Kee Heng Foo"
     },
     {
-      "gender": "male",
       "id": "christmas_island_shire_council/kelvin_kok_bin_lee",
       "name": "Kelvin Kok Bin Lee"
     },
     {
-      "gender": "female",
       "id": "christmas_island_shire_council/nora_koh",
       "name": "Nora Koh"
     },
     {
-      "gender": "male",
       "id": "christmas_island_shire_council/azmi_yon",
       "name": "Azmi Yon"
     },
     {
-      "gender": "male",
       "id": "christmas_island_shire_council/hafiz_masli",
       "name": "Hafiz Masli"
     },
     {
-      "gender": "male",
       "id": "christmas_island_shire_council/philip_woo",
       "name": "Philip Woo"
     },
     {
-      "gender": "male",
       "id": "claremont_town_council/john_gilbert_barker",
       "name": "John Gilbert Barker"
     },
     {
-      "gender": "male",
       "id": "claremont_town_council/alastair_george_selby_tulloch",
       "name": "Alastair George Selby Tulloch"
     },
     {
-      "gender": "male",
       "id": "claremont_town_council/bruce_thomas_haynes",
       "name": "Bruce Thomas Haynes"
     },
     {
-      "gender": "female",
       "id": "claremont_town_council/catherine_jane_main",
       "name": "Catherine Jane Main"
     },
     {
-      "gender": "male",
       "id": "claremont_town_council/christopher_john_mews",
       "name": "Christopher John Mews"
     },
     {
-      "gender": "female",
       "id": "claremont_town_council/jillian_gay_goetze",
       "name": "Jillian Gay Goetze"
     },
     {
-      "gender": "male",
       "id": "claremont_town_council/paul_anthony_kelly",
       "name": "Paul Anthony Kelly"
     },
     {
-      "gender": "female",
       "id": "claremont_town_council/karen_ann_wood",
       "name": "Karen Ann Wood"
     },
     {
-      "gender": "male",
       "id": "claremont_town_council/peter_john_browne",
       "name": "Peter John Browne"
     },
     {
-      "gender": "male",
       "id": "claremont_town_council/peter_william_clement_edwards",
       "name": "Peter William Clement Edwards"
     },
     {
-      "gender": "male",
       "id": "cockburn_city_council/logan_kenneth_howlett",
       "name": "Logan Kenneth Howlett"
     },
     {
-      "gender": "male",
       "id": "cockburn_city_council/stephen_joel_pratt",
       "name": "Stephen Joel Pratt"
     },
     {
-      "gender": "male",
       "id": "cockburn_city_council/bart_arnold_bartholomew_w_houwen",
       "name": "Bart Arnold Bartholomew W Houwen"
     },
     {
-      "gender": "male",
       "id": "cockburn_city_council/philip_mark_eva",
       "name": "Philip Mark Eva"
     },
     {
-      "gender": "female",
       "id": "cockburn_city_council/chamonix_terblanche",
       "name": "Chamonix Terblanche"
     },
     {
-      "gender": "female",
       "id": "cockburn_city_council/lee-anne_smith",
       "name": "Lee-Anne Smith"
     },
     {
-      "gender": "male",
       "id": "cockburn_city_council/steven_anthony_portelli",
       "name": "Steven Anthony Portelli"
     },
     {
-      "gender": "male",
       "id": "cockburn_city_council/kevin_john_allen",
       "name": "Kevin John Allen"
     },
     {
-      "gender": "female",
       "id": "cockburn_city_council/lyndsey_rebecca_wetton",
       "name": "Lyndsey Rebecca Wetton"
     },
     {
-      "gender": "female",
       "id": "cockburn_city_council/carol_ann_suzy_reeve-fowkes",
       "name": "Carol Ann Suzy Reeve-Fowkes"
     },
     {
-      "gender": "male",
       "id": "cocos_(keeling)_islands_shire_council/jadah_mohd_noor",
       "name": "Jadah Mohd Noor"
     },
     {
-      "gender": "female",
       "id": "cocos_(keeling)_islands_shire_council/seriwati_iku",
       "name": "Seriwati Iku"
     },
     {
-      "gender": "male",
       "id": "cocos_(keeling)_islands_shire_council/capstan_yakin",
       "name": "Capstan Yakin"
     },
     {
-      "gender": "male",
       "id": "cocos_(keeling)_islands_shire_council/clunies-ross_john_george",
       "name": "Clunies-Ross John George"
     },
     {
-      "gender": "female",
       "id": "cocos_(keeling)_islands_shire_council/ayesha_(jan)_young",
       "name": "Ayesha (Jan) Young"
     },
     {
-      "gender": "male",
       "id": "cocos_(keeling)_islands_shire_council/pirus_balmut",
       "name": "Pirus Balmut"
     },
     {
-      "gender": "male",
       "id": "cocos_(keeling)_islands_shire_council/woren_dedian",
       "name": "Woren Dedian"
     },
     {
-      "gender": "male",
       "id": "collie_shire_council/gary_arthur_james_faries",
       "name": "Gary Arthur James Faries"
     },
     {
-      "gender": "male",
       "id": "collie_shire_council/neil_richard_martin",
       "name": "Neil Richard Martin"
     },
     {
-      "gender": "male",
       "id": "collie_shire_council/guisseppe_italiano",
       "name": "Guisseppe Italiano"
     },
     {
-      "gender": "male",
       "id": "collie_shire_council/john_alfred_piavanini",
       "name": "John Alfred Piavanini"
     },
     {
-      "gender": "female",
       "id": "collie_shire_council/elysia_gai_harverson",
       "name": "Elysia Gai Harverson"
     },
     {
-      "gender": "male",
       "id": "collie_shire_council/glyn_yates",
       "name": "Glyn Yates"
     },
     {
-      "gender": "female",
       "id": "collie_shire_council/jodie_louise_hanns",
       "name": "Jodie Louise Hanns"
     },
     {
-      "gender": "male",
       "id": "collie_shire_council/wayne_robert_sanford",
       "name": "Wayne Robert Sanford"
     },
     {
-      "gender": "female",
       "id": "collie_shire_council/nola_may_green",
       "name": "Nola May Green"
     },
     {
-      "gender": "male",
       "id": "collie_shire_council/ian_houghton_miffling",
       "name": "Ian Houghton Miffling"
     },
     {
-      "gender": "female",
       "id": "collie_shire_council/sarah_jane_stanley",
       "name": "Sarah Jane Stanley"
     },
     {
-      "gender": "male",
       "id": "coolgardie_shire_council/norm_karafilis",
       "name": "Norm Karafilis"
     },
     {
-      "gender": "female",
       "id": "coolgardie_shire_council/tracey_ann_rathbone",
       "name": "Tracey Ann Rathbone"
     },
     {
-      "gender": "female",
       "id": "coolgardie_shire_council/kris_johnstone",
       "name": "Kris Johnstone"
     },
     {
-      "gender": "female",
       "id": "coolgardie_shire_council/sherryl_botting",
       "name": "Sherryl Botting"
     },
     {
-      "gender": "female",
       "id": "coolgardie_shire_council/betty_logan",
       "name": "Betty Logan"
     },
     {
-      "gender": "female",
       "id": "coolgardie_shire_council/kathryn_ann_lindup",
       "name": "Kathryn Ann Lindup"
     },
     {
-      "gender": "male",
       "id": "coolgardie_shire_council/malcolm_cullen",
       "name": "Malcolm Cullen"
     },
     {
-      "gender": "male",
       "id": "coorow_shire_council/guy_charles_sims",
       "name": "Guy Charles Sims"
     },
     {
-      "gender": "male",
       "id": "coorow_shire_council/victor_roy_oakes",
       "name": "Victor Roy Oakes"
     },
     {
-      "gender": "female",
       "id": "coorow_shire_council/emma_michelle_cullen",
       "name": "Emma Michelle Cullen"
     },
     {
-      "gender": "male",
       "id": "coorow_shire_council/damien_andrew_rackemann",
       "name": "Damien Andrew Rackemann"
     },
     {
-      "gender": "male",
       "id": "coorow_shire_council/bruce_andrew_jack",
       "name": "Bruce Andrew Jack"
     },
     {
-      "gender": "male",
       "id": "coorow_shire_council/michael_richard_bothe",
       "name": "Michael Richard Bothe"
     },
     {
-      "gender": "male",
       "id": "coorow_shire_council/robert_john_clement",
       "name": "Robert John Clement"
     },
     {
-      "gender": "female",
       "id": "coorow_shire_council/moira_jean_girando",
       "name": "Moira Jean Girando"
     },
     {
-      "gender": "male",
       "id": "corrigin_shire_council/desmond_laurence_hickey",
       "name": "Desmond Laurence Hickey"
     },
     {
-      "gender": "female",
       "id": "corrigin_shire_council/lynette_baker",
       "name": "Lynette Baker"
     },
     {
-      "gender": "female",
       "id": "corrigin_shire_council/janeane_anne_mason",
       "name": "Janeane Anne Mason"
     },
     {
-      "gender": "male",
       "id": "corrigin_shire_council/matthew_ben_dickinson",
       "name": "Matthew Ben Dickinson"
     },
     {
-      "gender": "male",
       "id": "corrigin_shire_council/terrence_john_pridham",
       "name": "Terrence John Pridham"
     },
     {
-      "gender": "female",
       "id": "corrigin_shire_council/shannon_grace_hardingham",
       "name": "Shannon Grace Hardingham"
     },
     {
-      "gender": "male",
       "id": "corrigin_shire_council/brian_douglas_praetz",
       "name": "Brian Douglas Praetz"
     },
     {
-      "gender": "female",
       "id": "cottesloe_town_council/josephine_mollie_dawkins",
       "name": "Josephine Mollie Dawkins"
     },
     {
-      "gender": "female",
       "id": "cottesloe_town_council/sally_jane_pyvis",
       "name": "Sally Jane Pyvis"
     },
     {
-      "gender": "female",
       "id": "cottesloe_town_council/katrina_peta_downes",
       "name": "Katrina Peta Downes"
     },
     {
-      "gender": "male",
       "id": "cottesloe_town_council/jay_spencer_birnbrauer",
       "name": "Jay Spencer Birnbrauer"
     },
     {
-      "gender": "female",
       "id": "cottesloe_town_council/sandra_louise_boulter",
       "name": "Sandra Louise Boulter"
     },
     {
-      "gender": "male",
       "id": "cottesloe_town_council/philip_angers",
       "name": "Philip Angers"
     },
     {
-      "gender": "male",
       "id": "cottesloe_town_council/robert_james_ashmore_thomas",
       "name": "Robert James Ashmore Thomas"
     },
     {
-      "gender": "female",
       "id": "cottesloe_town_council/helen_ida_burke",
       "name": "Helen Ida Burke"
     },
     {
-      "gender": "male",
       "id": "cottesloe_town_council/mark_trevor_rodda",
       "name": "Mark Trevor Rodda"
     },
     {
-      "gender": "male",
       "id": "cranbrook_shire_council/peter_denton",
       "name": "Peter Denton"
     },
     {
-      "gender": "female",
       "id": "cranbrook_shire_council/eleanor_ruth_bigwood",
       "name": "Eleanor Ruth Bigwood"
     },
     {
-      "gender": "male",
       "id": "cranbrook_shire_council/david_john_adams",
       "name": "David John Adams"
     },
     {
-      "gender": "male",
       "id": "cranbrook_shire_council/philip_lindsay_horrocks",
       "name": "Philip Lindsay Horrocks"
     },
     {
-      "gender": "female",
       "id": "cranbrook_shire_council/helen_clare_parsons",
       "name": "Helen Clare Parsons"
     },
     {
-      "gender": "male",
       "id": "cranbrook_shire_council/peter_maxwell_beech",
       "name": "Peter Maxwell Beech"
     },
     {
-      "gender": "male",
       "id": "cranbrook_shire_council/thomas_charles_standish",
       "name": "Thomas Charles Standish"
     },
     {
-      "gender": "male",
       "id": "cranbrook_shire_council/colin_yorke_egerton-warburton",
       "name": "Colin Yorke Egerton-Warburton"
     },
     {
-      "gender": "male",
       "id": "cranbrook_shire_council/james_twynam_cunningham",
       "name": "James Twynam Cunningham"
     },
     {
-      "gender": "male",
       "id": "cuballing_shire_council/mark_conley",
       "name": "Mark Conley"
     },
     {
-      "gender": "male",
       "id": "cuballing_shire_council/scott_ballantyne",
       "name": "Scott Ballantyne"
     },
     {
-      "gender": "male",
       "id": "cuballing_shire_council/tim_haslam",
       "name": "Tim Haslam"
     },
     {
-      "gender": "male",
       "id": "cuballing_shire_council/dawson_r_bradford",
       "name": "Dawson R Bradford"
     },
     {
-      "gender": "female",
       "id": "cuballing_shire_council/eliza_dowling",
       "name": "Eliza Dowling"
     },
     {
-      "gender": "male",
       "id": "cuballing_shire_council/roger_dj_newman",
       "name": "Roger Dj Newman"
     },
     {
-      "gender": "female",
       "id": "cue_shire_council/cheryl_leonie_fitzpatrick",
       "name": "Cheryl Leonie Fitzpatrick"
     },
     {
-      "gender": "male",
       "id": "cue_shire_council/peter_john_tegg",
       "name": "Peter John Tegg"
     },
     {
-      "gender": "male",
       "id": "cue_shire_council/ian_warwick_dennis",
       "name": "Ian Warwick Dennis"
     },
     {
-      "gender": "female",
       "id": "cue_shire_council/petronelle_jean_pigdon",
       "name": "Petronelle Jean Pigdon"
     },
     {
-      "gender": "male",
       "id": "cue_shire_council/ronald_paul_clive_hogben",
       "name": "Ronald Paul Clive Hogben"
     },
     {
-      "gender": "male",
       "id": "cue_shire_council/leslie_matthew_price",
       "name": "Leslie Matthew Price"
     },
     {
-      "gender": "male",
       "id": "cue_shire_council/ross_william_pigdon",
       "name": "Ross William Pigdon"
     },
     {
-      "gender": "male",
       "id": "cunderdin_shire_council/todd_edward_harris",
       "name": "Todd Edward Harris"
     },
     {
-      "gender": "male",
       "id": "cunderdin_shire_council/dennis_arthur_whisson",
       "name": "Dennis Arthur Whisson"
     },
     {
-      "gender": "male",
       "id": "cunderdin_shire_council/ronald_clive_gibsone",
       "name": "Ronald Clive Gibsone"
     },
     {
-      "gender": "male",
       "id": "cunderdin_shire_council/douglas_brian_kelly",
       "name": "Douglas Brian Kelly"
     },
     {
-      "gender": "male",
       "id": "cunderdin_shire_council/bernard_daly",
       "name": "Bernard Daly"
     },
     {
-      "gender": "male",
       "id": "cunderdin_shire_council/norman_wayne_jenzen",
       "name": "Norman Wayne Jenzen"
     },
     {
-      "gender": "female",
       "id": "cunderdin_shire_council/dianne_grace_kelly",
       "name": "Dianne Grace Kelly"
     },
     {
-      "gender": "female",
       "id": "cunderdin_shire_council/alison_evelyn_harris",
       "name": "Alison Evelyn Harris"
     },
     {
-      "gender": "male",
       "id": "dalwallinu_shire_council/noel_william_mills",
       "name": "Noel William Mills"
     },
     {
-      "gender": "male",
       "id": "dalwallinu_shire_council/malcolm_campbell_huggett",
       "name": "Malcolm Campbell Huggett"
     },
     {
-      "gender": "male",
       "id": "dalwallinu_shire_council/ian_william_hyde",
       "name": "Ian William Hyde"
     },
     {
-      "gender": "male",
       "id": "dalwallinu_shire_council/steven_clifford_carter",
       "name": "Steven Clifford Carter"
     },
     {
-      "gender": "female",
       "id": "dalwallinu_shire_council/karen_marie_mcneill",
       "name": "Karen Marie Mcneill"
     },
     {
-      "gender": "male",
       "id": "dalwallinu_shire_council/robert_stanley_nixon",
       "name": "Robert Stanley Nixon"
     },
     {
-      "gender": "female",
       "id": "dalwallinu_shire_council/anita_renee_dickins",
       "name": "Anita Renee Dickins"
     },
     {
-      "gender": "male",
       "id": "dalwallinu_shire_council/graham_hartley_sanderson",
       "name": "Graham Hartley Sanderson"
     },
     {
-      "gender": "male",
       "id": "dalwallinu_shire_council/keith_leslie_carter",
       "name": "Keith Leslie Carter"
     },
     {
-      "gender": "male",
       "id": "dandaragan_shire_council/christopher_michael_carey",
       "name": "Christopher Michael Carey"
     },
     {
-      "gender": "male",
       "id": "dandaragan_shire_council/wayne_francis_gibson",
       "name": "Wayne Francis Gibson"
     },
     {
-      "gender": "female",
       "id": "dandaragan_shire_council/kaye_maree_mcglew",
       "name": "Kaye Maree McGlew"
     },
     {
-      "gender": "female",
       "id": "dandaragan_shire_council/leslee_ann_holmes",
       "name": "Leslee Ann Holmes"
     },
     {
-      "gender": "female",
       "id": "dandaragan_shire_council/dahlia_jane_christina_richardson",
       "name": "Dahlia Jane Christina Richardson"
     },
     {
-      "gender": "female",
       "id": "dandaragan_shire_council/judith_carole_kulisa",
       "name": "Judith Carole Kulisa"
     },
     {
-      "gender": "male",
       "id": "dandaragan_shire_council/darren_albert_slyns",
       "name": "Darren Albert Slyns"
     },
     {
-      "gender": "male",
       "id": "dandaragan_shire_council/peter_francis_scharf",
       "name": "Peter Francis Scharf"
     },
     {
-      "gender": "male",
       "id": "dandaragan_shire_council/michael_sheppard",
       "name": "Michael Sheppard"
     },
     {
-      "gender": "male",
       "id": "dardanup_shire_council/luke_william_davies",
       "name": "Luke William Davies"
     },
     {
-      "gender": "male",
       "id": "dardanup_shire_council/michael_theodore_bennett",
       "name": "Michael Theodore Bennett"
     },
     {
-      "gender": "male",
       "id": "dardanup_shire_council/peter_stanley_robinson",
       "name": "Peter Stanley Robinson"
     },
     {
-      "gender": "female",
       "id": "dardanup_shire_council/carmel_nora_boyce",
       "name": "Carmel Nora Boyce"
     },
     {
-      "gender": "male",
       "id": "dardanup_shire_council/tyrrell_guy_gardiner",
       "name": "Tyrrell Guy Gardiner"
     },
     {
-      "gender": "male",
       "id": "dardanup_shire_council/seng_yup_lee",
       "name": "Seng Yup Lee"
     },
     {
-      "gender": "female",
       "id": "dardanup_shire_council/patricia_rose_perks",
       "name": "Patricia Rose Perks"
     },
     {
-      "gender": "male",
       "id": "dardanup_shire_council/allen_mountford",
       "name": "Allen Mountford"
     },
     {
-      "gender": "male",
       "id": "dardanup_shire_council/laurence_daniel_harris",
       "name": "Laurence Daniel Harris"
     },
     {
-      "gender": "female",
       "id": "denmark_shire_council/kelli_narelle_gillies",
       "name": "Kelli Narelle Gillies"
     },
     {
-      "gender": "male",
       "id": "denmark_shire_council/roger_edward_seeney",
       "name": "Roger Edward Seeney"
     },
     {
-      "gender": "female",
       "id": "denmark_shire_council/janet_carolyn_lewis",
       "name": "Janet Carolyn Lewis"
     },
     {
-      "gender": "male",
       "id": "denmark_shire_council/john_paul_sampson",
       "name": "John Paul Sampson"
     },
     {
-      "gender": "female",
       "id": "denmark_shire_council/patricia_dawn_pedro",
       "name": "Patricia Dawn Pedro"
     },
     {
-      "gender": "female",
       "id": "denmark_shire_council/yasmin_maree_bartlett",
       "name": "Yasmin Maree Bartlett"
     },
     {
-      "gender": "male",
       "id": "denmark_shire_council/david_james_morrell",
       "name": "David James Morrell"
     },
     {
-      "gender": "male",
       "id": "denmark_shire_council/robert_burke_whooley",
       "name": "Robert Burke Whooley"
     },
     {
-      "gender": "female",
       "id": "denmark_shire_council/ceinwen_mary_gearon",
       "name": "Ceinwen Mary Gearon"
     },
     {
-      "gender": "male",
       "id": "derby-west_kimberley_shire_council/andrew_james_twaddle",
       "name": "Andrew James Twaddle"
     },
     {
-      "gender": "female",
       "id": "derby-west_kimberley_shire_council/elsia_archer",
       "name": "Elsia Archer"
     },
     {
-      "gender": "female",
       "id": "derby-west_kimberley_shire_council/june_oscar",
       "name": "JUNE Oscar"
     },
     {
-      "gender": "male",
       "id": "derby-west_kimberley_shire_council/peter_john_mccumstie",
       "name": "Peter John McCumstie"
     },
     {
-      "gender": "male",
       "id": "derby-west_kimberley_shire_council/christopher_laurence_kloss",
       "name": "Christopher Laurence Kloss"
     },
     {
-      "gender": "male",
       "id": "derby-west_kimberley_shire_council/paul_leslie_white",
       "name": "Paul Leslie White"
     },
     {
-      "gender": "female",
       "id": "derby-west_kimberley_shire_council/annette_kogolo",
       "name": "Annette Kogolo"
     },
     {
-      "gender": "female",
       "id": "derby-west_kimberley_shire_council/iris_denise_prouse",
       "name": "Iris Denise Prouse"
     },
     {
-      "gender": "male",
       "id": "derby-west_kimberley_shire_council/peter_coggins",
       "name": "Peter Coggins"
     },
     {
-      "gender": "male",
       "id": "donnybrook-balingup_shire_council/ryan_van_der_heide",
       "name": "Ryan Van Der Heide"
     },
     {
-      "gender": "male",
       "id": "donnybrook-balingup_shire_council/leith_andrew_crowley",
       "name": "Leith Andrew Crowley"
     },
     {
-      "gender": "male",
       "id": "donnybrook-balingup_shire_council/frederic_evan_mills",
       "name": "Frederic Evan Mills"
     },
     {
-      "gender": "male",
       "id": "donnybrook-balingup_shire_council/michael_stewart_king",
       "name": "Michael Stewart King"
     },
     {
-      "gender": "female",
       "id": "donnybrook-balingup_shire_council/dawn_sui_tee_tan",
       "name": "Dawn Sui Tee Tan"
     },
     {
-      "gender": "female",
       "id": "donnybrook-balingup_shire_council/anne_beatrice_mitchell",
       "name": "Anne Beatrice Mitchell"
     },
     {
-      "gender": "male",
       "id": "donnybrook-balingup_shire_council/angelo_terzo_logiudice",
       "name": "Angelo Terzo Logiudice"
     },
     {
-      "gender": "male",
       "id": "donnybrook-balingup_shire_council/walter_john_bailey",
       "name": "Walter John Bailey"
     },
     {
-      "gender": "male",
       "id": "donnybrook-balingup_shire_council/stephen_beresford_dilley",
       "name": "Stephen Beresford Dilley"
     },
     {
-      "gender": "male",
       "id": "dowerin_shire_council/william_coote",
       "name": "William Coote"
     },
     {
-      "gender": "female",
       "id": "dowerin_shire_council/tracy_jones",
       "name": "Tracy Jones"
     },
     {
-      "gender": "male",
       "id": "dowerin_shire_council/robert_trepp",
       "name": "Robert Trepp"
     },
     {
-      "gender": "male",
       "id": "dowerin_shire_council/graham_ralph",
       "name": "Graham Ralph"
     },
     {
-      "gender": "male",
       "id": "dowerin_shire_council/adam_metcalf",
       "name": "Adam Metcalf"
     },
     {
-      "gender": "male",
       "id": "dowerin_shire_council/brenton_walsh",
       "name": "Brenton Walsh"
     },
     {
-      "gender": "male",
       "id": "dowerin_shire_council/darrel_hudson",
       "name": "Darrel Hudson"
     },
     {
-      "gender": "male",
       "id": "dowerin_shire_council/dale_metcalf",
       "name": "Dale Metcalf"
     },
     {
-      "gender": "male",
       "id": "dumbleyung_shire_council/nicholas_john_green",
       "name": "Nicholas John Green"
     },
     {
-      "gender": "female",
       "id": "dumbleyung_shire_council/carly_smith",
       "name": "Carly Smith"
     },
     {
-      "gender": "male",
       "id": "dumbleyung_shire_council/malcolm_leonard_gooding",
       "name": "Malcolm Leonard Gooding"
     },
     {
-      "gender": "female",
       "id": "dumbleyung_shire_council/catherine_watkins",
       "name": "Catherine Watkins"
     },
     {
-      "gender": "female",
       "id": "dumbleyung_shire_council/jaqueline_ann_ball",
       "name": "Jaqueline Ann Ball"
     },
     {
-      "gender": "male",
       "id": "dumbleyung_shire_council/patrick_oneill",
       "name": "Patrick Oneill"
     },
     {
-      "gender": "male",
       "id": "dumbleyung_shire_council/gordon_john_davidson",
       "name": "Gordon John Davidson"
     },
     {
-      "gender": "female",
       "id": "dumbleyung_shire_council/julie_ramm",
       "name": "Julie Ramm"
     },
     {
-      "gender": "male",
       "id": "dumbleyung_shire_council/grant_andrew_lukins",
       "name": "Grant Andrew Lukins"
     },
     {
-      "gender": "female",
       "id": "dundas_shire_council/yvonne_vicensoni",
       "name": "Yvonne Vicensoni"
     },
     {
-      "gender": "female",
       "id": "dundas_shire_council/jaqueline_best",
       "name": "Jaqueline Best"
     },
     {
-      "gender": "male",
       "id": "dundas_shire_council/john_edward_patrick_hogan",
       "name": "John Edward Patrick Hogan"
     },
     {
-      "gender": "male",
       "id": "dundas_shire_council/lynn_wesley_webb",
       "name": "Lynn Wesley Webb"
     },
     {
-      "gender": "female",
       "id": "dundas_shire_council/laurene_bonza",
       "name": "Laurene Bonza"
     },
     {
-      "gender": "female",
       "id": "dundas_shire_council/rasa_patupis",
       "name": "Rasa Patupis"
     },
     {
-      "gender": "male",
       "id": "east_fremantle_town_council/james_francis_oneill",
       "name": "James Francis Oneill"
     },
     {
-      "gender": "female",
       "id": "east_fremantle_town_council/jennifer_mary_harrington",
       "name": "Jennifer Mary Harrington"
     },
     {
-      "gender": "male",
       "id": "east_fremantle_town_council/clifford_jack_collinson",
       "name": "Clifford Jack Collinson"
     },
     {
-      "gender": "male",
       "id": "east_fremantle_town_council/lukas_nicholson",
       "name": "Lukas Nicholson"
     },
     {
-      "gender": "male",
       "id": "east_fremantle_town_council/michael_james_mcphail",
       "name": "Michael James Mcphail"
     },
     {
-      "gender": "male",
       "id": "east_fremantle_town_council/dean_mario_nardi",
       "name": "Dean Mario Nardi"
     },
     {
-      "gender": "male",
       "id": "east_fremantle_town_council/andrew_james_mcphail",
       "name": "Andrew James McPhail"
     },
     {
-      "gender": "male",
       "id": "east_fremantle_town_council/andrew_david_white",
       "name": "Andrew David White"
     },
     {
-      "gender": "male",
       "id": "east_fremantle_town_council/eric_anthony_watkins",
       "name": "Eric Anthony Watkins"
     },
     {
-      "gender": "male",
       "id": "east_pilbara_shire_council/dean_william_hatwell",
       "name": "Dean William Hatwell"
     },
     {
-      "gender": "male",
       "id": "east_pilbara_shire_council/janis_bruno_jakobson",
       "name": "Janis Bruno Jakobson"
     },
     {
-      "gender": "female",
       "id": "east_pilbara_shire_council/bridget_rose_schill",
       "name": "Bridget Rose Schill"
     },
     {
-      "gender": "male",
       "id": "east_pilbara_shire_council/langtree_eric_christopher_coppin",
       "name": "Langtree Eric Christopher Coppin"
     },
     {
-      "gender": "male",
       "id": "east_pilbara_shire_council/michael_timothy_kitchin",
       "name": "Michael Timothy Kitchin"
     },
     {
-      "gender": "male",
       "id": "east_pilbara_shire_council/jeton_ahmedi",
       "name": "Jeton Ahmedi"
     },
     {
-      "gender": "female",
       "id": "east_pilbara_shire_council/lynette_suzanne_craigie",
       "name": "Lynette Suzanne Craigie"
     },
     {
-      "gender": "female",
       "id": "east_pilbara_shire_council/geraldine_mary_parsons",
       "name": "Geraldine Mary Parsons"
     },
     {
-      "gender": "female",
       "id": "east_pilbara_shire_council/anita_grace",
       "name": "Anita Grace"
     },
     {
-      "gender": "male",
       "id": "east_pilbara_shire_council/shane_frederick_carter",
       "name": "Shane Frederick Carter"
     },
     {
-      "gender": "male",
       "id": "east_pilbara_shire_council/craig_edward_hoyer",
       "name": "Craig Edward Hoyer"
     },
     {
-      "gender": "female",
       "id": "esperance_shire_council/victoria_wilson_brown",
       "name": "Victoria Wilson Brown"
     },
     {
-      "gender": "male",
       "id": "esperance_shire_council/basil_wyborn_parker",
       "name": "Basil Wyborn Parker"
     },
     {
-      "gender": "female",
       "id": "esperance_shire_council/natalie_maree_bowman",
       "name": "Natalie Maree Bowman"
     },
     {
-      "gender": "male",
       "id": "esperance_shire_council/ronald_padgurskis",
       "name": "Ronald Padgurskis"
     },
     {
-      "gender": "female",
       "id": "esperance_shire_council/beverley_lorna_stewart",
       "name": "Beverley Lorna Stewart"
     },
     {
-      "gender": "male",
       "id": "esperance_shire_council/john_lionel_parsons",
       "name": "John Lionel Parsons"
     },
     {
-      "gender": "female",
       "id": "esperance_shire_council/lara_jean_mcintyre",
       "name": "Lara Jean McIntyre"
     },
     {
-      "gender": "male",
       "id": "esperance_shire_council/kevin_james_hall",
       "name": "Kevin James Hall"
     },
     {
-      "gender": "male",
       "id": "esperance_shire_council/paul_sydney_griffiths",
       "name": "Paul Sydney Griffiths"
     },
     {
-      "gender": "female",
       "id": "exmouth_shire_council/suzanne_grace_mchutchison",
       "name": "Suzanne Grace McHutchison"
     },
     {
-      "gender": "male",
       "id": "exmouth_shire_council/michael_jamie_hood",
       "name": "Michael Jamie Hood"
     },
     {
-      "gender": "male",
       "id": "exmouth_shire_council/robert_frances_todd",
       "name": "Robert Frances Todd"
     },
     {
-      "gender": "male",
       "id": "exmouth_shire_council/shane_leslie_coote",
       "name": "Shane Leslie Coote"
     },
     {
-      "gender": "male",
       "id": "exmouth_shire_council/james_roscic",
       "name": "James Roscic"
     },
     {
-      "gender": "male",
       "id": "exmouth_shire_council/turk_shales",
       "name": "Turk Shales"
     },
     {
       "email": "mayor@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/bradley_william_pettitt",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1678_MayorBradPettitt.jpg",
       "name": "Bradley William Pettitt",
@@ -2307,7 +1870,6 @@
     },
     {
       "email": "joshw@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/joshua_hamilton_wilson",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1977_JoshWilson.jpg",
       "name": "Joshua Hamilton Wilson",
@@ -2324,7 +1886,6 @@
     },
     {
       "email": "davidhu@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/david_andrew_hume",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/DaveH-jpeg.JPG",
       "name": "David Andrew Hume",
@@ -2341,7 +1902,6 @@
     },
     {
       "email": "simonn@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/simon_alan_naber",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1888_SimonNaber.jpg",
       "name": "Simon Alan Naber",
@@ -2358,7 +1918,6 @@
     },
     {
       "email": "rachelp@fremantle.wa.gov.au",
-      "gender": "female",
       "id": "fremantle_city_council/rachel_gwen_pemberton",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1859_RachelPemberton.jpg",
       "name": "Rachel Gwen Pemberton",
@@ -2375,7 +1934,6 @@
     },
     {
       "email": "davec@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/david_paul_coggin",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1946_DaveCoggin.jpg",
       "name": "David Paul Coggin",
@@ -2392,7 +1950,6 @@
     },
     {
       "email": "ingridw@fremantle.wa.gov.au",
-      "gender": "female",
       "id": "fremantle_city_council/ingrid_joy_waltham",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1823_IngridWaltham.jpg",
       "name": "Ingrid Joy Waltham",
@@ -2409,7 +1966,6 @@
     },
     {
       "email": "jeffm@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/jeffery_james_mcdonald",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/Jeff%20McDonald.jpg",
       "name": "Jeffery James McDonald",
@@ -2426,7 +1982,6 @@
     },
     {
       "email": "samw@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/samuel_darcey_wainwright",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1798_SamWainwright.jpg",
       "name": "Samuel Darcey Wainwright",
@@ -2443,7 +1998,6 @@
     },
     {
       "email": "brynj@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/bryn_jones",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/Bryn%20Jone.jpg",
       "name": "Bryn Jones",
@@ -2460,7 +2014,6 @@
     },
     {
       "email": "dougy@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/douglas_harry_thompson",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A2001_DougThompson.jpg",
       "name": "Douglas Harry Thompson",
@@ -2477,7 +2030,6 @@
     },
     {
       "email": "jonst@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/jon_robert_strachan",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1830_JonStrachan.jpg",
       "name": "Jon Robert Strachan",
@@ -2494,7 +2046,6 @@
     },
     {
       "email": "andrews@fremantle.wa.gov.au",
-      "gender": "male",
       "id": "fremantle_city_council/andrew_charles_sullivan",
       "image": "http://www.fremantle.wa.gov.au/sites/default/files/styles/personal_thumb/public/_J3A1738_AndrewSullivan.jpg",
       "name": "Andrew Charles Sullivan",
@@ -2510,2878 +2061,2303 @@
       ]
     },
     {
-      "gender": "male",
       "id": "gingin_shire_council/michael_aspinall",
       "name": "Michael Aspinall"
     },
     {
-      "gender": "male",
       "id": "gingin_shire_council/david_william_roe",
       "name": "David William Roe"
     },
     {
-      "gender": "female",
       "id": "gingin_shire_council/janice_court",
       "name": "Janice Court"
     },
     {
-      "gender": "female",
       "id": "gingin_shire_council/sandra_smiles",
       "name": "Sandra Smiles"
     },
     {
-      "gender": "male",
       "id": "gingin_shire_council/frank_joseph_peczka",
       "name": "Frank Joseph Peczka"
     },
     {
-      "gender": "female",
       "id": "gingin_shire_council/valerie_joy_ammon",
       "name": "Valerie Joy Ammon"
     },
     {
-      "gender": "male",
       "id": "gingin_shire_council/john_william_elgin",
       "name": "John William Elgin"
     },
     {
-      "gender": "male",
       "id": "gingin_shire_council/ian_byron_collard",
       "name": "Ian Byron Collard"
     },
     {
-      "gender": "male",
       "id": "gingin_shire_council/colin_wayne_fewster",
       "name": "Colin Wayne Fewster"
     },
     {
-      "gender": "female",
       "id": "gnowangerup_shire_council/fiona_june_gaze",
       "name": "Fiona June Gaze"
     },
     {
-      "gender": "male",
       "id": "gnowangerup_shire_council/alexander_edgar_martin",
       "name": "Alexander Edgar Martin"
     },
     {
-      "gender": "male",
       "id": "gnowangerup_shire_council/richard_oliphant_house",
       "name": "Richard Oliphant House"
     },
     {
-      "gender": "male",
       "id": "gnowangerup_shire_council/keith_henry_house",
       "name": "Keith Henry House"
     },
     {
-      "gender": "female",
       "id": "gnowangerup_shire_council/bronwyn_gaze",
       "name": "Bronwyn Gaze"
     },
     {
-      "gender": "female",
       "id": "gnowangerup_shire_council/shelley_esther_hmeljak",
       "name": "Shelley Esther Hmeljak"
     },
     {
-      "gender": "male",
       "id": "gnowangerup_shire_council/benjamin_william_moore",
       "name": "Benjamin William Moore"
     },
     {
-      "gender": "female",
       "id": "gnowangerup_shire_council/susan_jane_ross_lance",
       "name": "Susan Jane Ross Lance"
     },
     {
-      "gender": "male",
       "id": "gnowangerup_shire_council/frank_jim_hmeljak",
       "name": "Frank Jim Hmeljak"
     },
     {
-      "gender": "female",
       "id": "goomalling_shire_council/julie_marie_chester",
       "name": "Julie Marie Chester"
     },
     {
-      "gender": "male",
       "id": "goomalling_shire_council/kevin_john_ryan",
       "name": "Kevin John Ryan"
     },
     {
-      "gender": "male",
       "id": "goomalling_shire_council/rodney_sheen",
       "name": "Rodney Sheen"
     },
     {
-      "gender": "male",
       "id": "goomalling_shire_council/roland_karel_van_gelderen",
       "name": "Roland Karel Van Gelderen"
     },
     {
-      "gender": "male",
       "id": "goomalling_shire_council/raymond_joseph_(joe)_bowen",
       "name": "Raymond Joseph (Joe) Bowen"
     },
     {
-      "gender": "female",
       "id": "goomalling_shire_council/dallas_t_phillips",
       "name": "Dallas T Phillips"
     },
     {
-      "gender": "male",
       "id": "goomalling_shire_council/barry_john_haywood",
       "name": "Barry John Haywood"
     },
     {
-      "gender": "female",
       "id": "goomalling_shire_council/christie_leigh_kingston",
       "name": "Christie Leigh Kingston"
     },
     {
-      "gender": "male",
       "id": "goomalling_shire_council/geoffrey_arnold_romero",
       "name": "Geoffrey Arnold Romero"
     },
     {
-      "gender": "male",
       "id": "gosnells_city_council/david_nicholas_goode",
       "name": "David Nicholas Goode"
     },
     {
-      "gender": "male",
       "id": "gosnells_city_council/glenn_patrick_willis_dewhurst",
       "name": "Glenn Patrick Willis Dewhurst"
     },
     {
-      "gender": "male",
       "id": "gosnells_city_council/terence_healy",
       "name": "Terence Healy"
     },
     {
-      "gender": "male",
       "id": "gosnells_city_council/william_charles_wiffen",
       "name": "William Charles Wiffen"
     },
     {
-      "gender": "female",
       "id": "gosnells_city_council/terresa_lynes",
       "name": "Terresa Lynes"
     },
     {
-      "gender": "male",
       "id": "gosnells_city_council/david_murray_griffiths",
       "name": "David Murray Griffiths"
     },
     {
-      "gender": "male",
       "id": "gosnells_city_council/ronald_mitchell",
       "name": "Ronald Mitchell"
     },
     {
-      "gender": "female",
       "id": "gosnells_city_council/olwen_searle",
       "name": "Olwen Searle"
     },
     {
-      "gender": "male",
       "id": "gosnells_city_council/pierre_shuai_yang",
       "name": "Pierre Shuai Yang"
     },
     {
-      "gender": "female",
       "id": "gosnells_city_council/julie_brown",
       "name": "Julie Brown"
     },
     {
-      "gender": "female",
       "id": "gosnells_city_council/elizabeth_ann_storer",
       "name": "Elizabeth Ann Storer"
     },
     {
-      "gender": "male",
       "id": "gosnells_city_council/peter_john_griffiths",
       "name": "Peter John Griffiths"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/graeme_lyall_bylund",
       "name": "Graeme Lyall Bylund"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/stephen_douglas",
       "name": "Stephen Douglas"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/david_joseph_caudwell",
       "name": "David Joseph Caudwell"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/lewis_freer",
       "name": "Lewis Freer"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/laurence_william_graham",
       "name": "Laurence William Graham"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/michael_reymond",
       "name": "Michael Reymond"
     },
     {
-      "gender": "female",
       "id": "greater_geraldton_city_council/jennifer_rachel_anne_critch",
       "name": "Jennifer Rachel Anne Critch"
     },
     {
-      "gender": "female",
       "id": "greater_geraldton_city_council/tarleah_thomas",
       "name": "Tarleah Thomas"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/robert_douglas_(bob)_hall",
       "name": "Robert Douglas (Bob) Hall"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/victor_anthony_tanti",
       "name": "Victor Anthony Tanti"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/shane_gerald_van_styn",
       "name": "Shane Gerald Van Styn"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/neil_james_mcilwaine",
       "name": "Neil James McIlwaine"
     },
     {
-      "gender": "female",
       "id": "greater_geraldton_city_council/renee_simone_ellis",
       "name": "Renee Simone Ellis"
     },
     {
-      "gender": "male",
       "id": "greater_geraldton_city_council/simon_paul_anthony_keemink",
       "name": "Simon Paul Anthony Keemink"
     },
     {
-      "gender": "female",
       "id": "halls_creek_shire_council/virginia_o'neil",
       "name": "Virginia O'Neil"
     },
     {
-      "gender": "male",
       "id": "halls_creek_shire_council/trevor_howard_bedford",
       "name": "Trevor Howard Bedford"
     },
     {
-      "gender": "male",
       "id": "halls_creek_shire_council/anthony_henry_taylor",
       "name": "Anthony Henry Taylor"
     },
     {
-      "gender": "female",
       "id": "halls_creek_shire_council/patricia_ann_mckay",
       "name": "Patricia Ann Mckay"
     },
     {
-      "gender": "male",
       "id": "halls_creek_shire_council/vincent_skeen",
       "name": "Vincent Skeen"
     },
     {
-      "gender": "male",
       "id": "halls_creek_shire_council/christopher_loessl",
       "name": "Christopher Loessl"
     },
     {
-      "gender": "male",
       "id": "halls_creek_shire_council/malcolm_hack_edwards",
       "name": "Malcolm Hack Edwards"
     },
     {
-      "gender": "female",
       "id": "harvey_shire_council/anita_jane_shortland",
       "name": "Anita Jane Shortland"
     },
     {
-      "gender": "male",
       "id": "harvey_shire_council/john_llewellyn_sabourne",
       "name": "John Llewellyn Sabourne"
     },
     {
-      "gender": "male",
       "id": "harvey_shire_council/derrick_john_simpson",
       "name": "Derrick John Simpson"
     },
     {
-      "gender": "male",
       "id": "harvey_shire_council/kevin_john_wood",
       "name": "Kevin John Wood"
     },
     {
-      "gender": "male",
       "id": "harvey_shire_council/filippo_giancono",
       "name": "Filippo Giancono"
     },
     {
-      "gender": "male",
       "id": "harvey_shire_council/paul_james_beech",
       "name": "Paul James Beech"
     },
     {
-      "gender": "male",
       "id": "harvey_shire_council/gregory_arthur_harvey_campbell",
       "name": "Gregory Arthur Harvey Campbell"
     },
     {
-      "gender": "male",
       "id": "harvey_shire_council/william_charles_adams",
       "name": "William Charles Adams"
     },
     {
-      "gender": "male",
       "id": "harvey_shire_council/peter_francis_monagle",
       "name": "Peter Francis Monagle"
     },
     {
-      "gender": "female",
       "id": "harvey_shire_council/tania_gae_jackson",
       "name": "Tania Gae Jackson"
     },
     {
-      "gender": "male",
       "id": "harvey_shire_council/craig_phillip_carbone",
       "name": "Craig Phillip Carbone"
     },
     {
-      "gender": "male",
       "id": "harvey_shire_council/francis_roy_burgoyne",
       "name": "Francis Roy Burgoyne"
     },
     {
-      "gender": "female",
       "id": "harvey_shire_council/amanda_lovitt",
       "name": "Amanda Lovitt"
     },
     {
-      "gender": "male",
       "id": "irwin_shire_council/ian_francis_west",
       "name": "Ian Francis West"
     },
     {
-      "gender": "male",
       "id": "irwin_shire_council/mark_leonard",
       "name": "Mark Leonard"
     },
     {
-      "gender": "female",
       "id": "irwin_shire_council/bronwen_claire_scott",
       "name": "Bronwen Claire Scott"
     },
     {
-      "gender": "male",
       "id": "irwin_shire_council/david_rex_kennedy",
       "name": "David Rex Kennedy"
     },
     {
-      "gender": "male",
       "id": "irwin_shire_council/barrye_roy_thompson",
       "name": "Barrye Roy Thompson"
     },
     {
-      "gender": "male",
       "id": "irwin_shire_council/malcolm_goldsmith_meares",
       "name": "Malcolm Goldsmith Meares"
     },
     {
-      "gender": "male",
       "id": "irwin_shire_council/michael_thomas_smith",
       "name": "Michael Thomas Smith"
     },
     {
-      "gender": "female",
       "id": "irwin_shire_council/sandra_faye_gumley",
       "name": "Sandra Faye Gumley"
     },
     {
-      "gender": "female",
       "id": "jerramungup_shire_council/joanne_louise_iffla",
       "name": "Joanne Louise Iffla"
     },
     {
-      "gender": "male",
       "id": "jerramungup_shire_council/rex_david_parsons",
       "name": "Rex David Parsons"
     },
     {
-      "gender": "female",
       "id": "jerramungup_shire_council/carolyn_daniel",
       "name": "Carolyn Daniel"
     },
     {
-      "gender": "male",
       "id": "jerramungup_shire_council/bruce_ronald_trevaskis",
       "name": "Bruce Ronald Trevaskis"
     },
     {
-      "gender": "male",
       "id": "jerramungup_shire_council/william_john_bailey",
       "name": "William John Bailey"
     },
     {
-      "gender": "male",
       "id": "jerramungup_shire_council/robert_edward_lester",
       "name": "Robert Edward Lester"
     },
     {
-      "gender": "female",
       "id": "jerramungup_shire_council/julie_margaret_leenhouwers",
       "name": "Julie Margaret Leenhouwers"
     },
     {
-      "gender": "male",
       "id": "joondalup_city_council/troy_ernest_pickard",
       "name": "Troy Ernest Pickard"
     },
     {
-      "gender": "male",
       "id": "joondalup_city_council/wasil_nicholi_poliwka",
       "name": "Wasil Nicholi Poliwka"
     },
     {
-      "gender": "male",
       "id": "joondalup_city_council/liam_james_gobbert",
       "name": "Liam James Gobbert"
     },
     {
-      "gender": "female",
       "id": "joondalup_city_council/kerry_marelyn_hollywood",
       "name": "Kerry Marelyn Hollywood"
     },
     {
-      "gender": "male",
       "id": "joondalup_city_council/thomas_mclean",
       "name": "Thomas McLean"
     },
     {
-      "gender": "male",
       "id": "joondalup_city_council/nigel_ashley_jones",
       "name": "Nigel Ashley Jones"
     },
     {
-      "gender": "female",
       "id": "joondalup_city_council/philippa_ann_taylor",
       "name": "Philippa Ann Taylor"
     },
     {
-      "gender": "male",
       "id": "joondalup_city_council/russel_grant_fishwick",
       "name": "Russel Grant Fishwick"
     },
     {
-      "gender": "female",
       "id": "joondalup_city_council/sophie_alexandra_dwyer",
       "name": "Sophie Alexandra Dwyer"
     },
     {
-      "gender": "male",
       "id": "joondalup_city_council/john_william_logan",
       "name": "John William Logan"
     },
     {
-      "gender": "male",
       "id": "joondalup_city_council/john_chester",
       "name": "John Chester"
     },
     {
-      "gender": "female",
       "id": "joondalup_city_council/christine_louise_hamilton-prime",
       "name": "Christine Louise Hamilton-Prime"
     },
     {
-      "gender": "male",
       "id": "joondalup_city_council/michael_john_norman",
       "name": "Michael John Norman"
     },
     {
-      "gender": "female",
       "id": "kalamunda_shire_council/susan_joy_bilich",
       "name": "Susan Joy Bilich"
     },
     {
-      "gender": "male",
       "id": "kalamunda_shire_council/simon_anthony_louis_di_rosso",
       "name": "Simon Anthony Louis Di Rosso"
     },
     {
-      "gender": "female",
       "id": "kalamunda_shire_council/tracy_leanne_destree-thompson",
       "name": "Tracy Leanne Destree-Thompson"
     },
     {
-      "gender": "male",
       "id": "kalamunda_shire_council/dylan_michael_thomas_o'connor",
       "name": "Dylan Michael Thomas O'Connor"
     },
     {
-      "gender": "male",
       "id": "kalamunda_shire_council/andrew_john_waddell",
       "name": "Andrew John Waddell"
     },
     {
-      "gender": "female",
       "id": "kalamunda_shire_council/sara_lohmeyer",
       "name": "Sara Lohmeyer"
     },
     {
-      "gender": "male",
       "id": "kalamunda_shire_council/geoffrey_dennis_stallard",
       "name": "Geoffrey Dennis Stallard"
     },
     {
-      "gender": "male",
       "id": "kalamunda_shire_council/michael_andrew_fernie",
       "name": "Michael Andrew Fernie"
     },
     {
-      "gender": "male",
       "id": "kalamunda_shire_council/giovanni_giardina",
       "name": "Giovanni Giardina"
     },
     {
-      "gender": "male",
       "id": "kalamunda_shire_council/allan_morton",
       "name": "Allan Morton"
     },
     {
-      "gender": "female",
       "id": "kalamunda_shire_council/brooke_louise_o'donnell",
       "name": "Brooke Louise O'Donnell"
     },
     {
-      "gender": "female",
       "id": "kalamunda_shire_council/noreen_mary_townsend",
       "name": "Noreen Mary Townsend"
     },
     {
-      "gender": "male",
       "id": "kalgoorlie-boulder_city_council/john_james_mansell_bowler",
       "name": "John James Mansell Bowler"
     },
     {
-      "gender": "female",
       "id": "kalgoorlie-boulder_city_council/suzanne_jacqueline_williams",
       "name": "Suzanne Jacqueline Williams"
     },
     {
-      "gender": "male",
       "id": "kalgoorlie-boulder_city_council/michael_wayne_mckay",
       "name": "Michael Wayne McKay"
     },
     {
-      "gender": "female",
       "id": "kalgoorlie-boulder_city_council/amanda_susan_reidy",
       "name": "Amanda Susan Reidy"
     },
     {
-      "gender": "female",
       "id": "kalgoorlie-boulder_city_council/natalie_coxon",
       "name": "Natalie Coxon"
     },
     {
-      "gender": "male",
       "id": "kalgoorlie-boulder_city_council/kyran_martin_o'donnell",
       "name": "Kyran Martin O'Donnell"
     },
     {
-      "gender": "female",
       "id": "kalgoorlie-boulder_city_council/lisa_malicky",
       "name": "Lisa Malicky"
     },
     {
-      "gender": "male",
       "id": "kalgoorlie-boulder_city_council/glenn_anthony_wilson",
       "name": "Glenn Anthony Wilson"
     },
     {
-      "gender": "male",
       "id": "kalgoorlie-boulder_city_council/lawrence_john_ayers",
       "name": "Lawrence John Ayers"
     },
     {
-      "gender": "male",
       "id": "kalgoorlie-boulder_city_council/allan_edward_pendal",
       "name": "Allan Edward Pendal"
     },
     {
-      "gender": "male",
       "id": "kalgoorlie-boulder_city_council/gary_brown",
       "name": "Gary Brown"
     },
     {
-      "gender": "female",
       "id": "kalgoorlie-boulder_city_council/pamela_gail_o'donnell",
       "name": "Pamela Gail O'Donnell"
     },
     {
-      "gender": "female",
       "id": "kalgoorlie-boulder_city_council/deborah_fay_botica",
       "name": "Deborah Fay Botica"
     },
     {
-      "gender": "male",
       "id": "karratha_city_council/john_thomas_lally",
       "name": "John Thomas Lally"
     },
     {
-      "gender": "male",
       "id": "karratha_city_council/daniel_john_scott",
       "name": "Daniel John Scott"
     },
     {
-      "gender": "female",
       "id": "karratha_city_council/margaret_anne_bertling",
       "name": "Margaret Anne Bertling"
     },
     {
-      "gender": "male",
       "id": "karratha_city_council/robin_klaas_vandenberg",
       "name": "Robin Klaas Vandenberg"
     },
     {
-      "gender": "female",
       "id": "karratha_city_council/evette_jay_smeathers",
       "name": "Evette Jay Smeathers"
     },
     {
-      "gender": "male",
       "id": "karratha_city_council/geoffrey_reginald_harris",
       "name": "Geoffrey Reginald Harris"
     },
     {
-      "gender": "male",
       "id": "karratha_city_council/grant_william_cucel",
       "name": "Grant William Cucel"
     },
     {
-      "gender": "male",
       "id": "karratha_city_council/bart_spencer_parsons",
       "name": "Bart Spencer Parsons"
     },
     {
-      "gender": "male",
       "id": "karratha_city_council/peter_james_long",
       "name": "Peter James Long"
     },
     {
-      "gender": "female",
       "id": "karratha_city_council/fiona_ann_white-hartig",
       "name": "Fiona Ann White-Hartig"
     },
     {
-      "gender": "male",
       "id": "karratha_city_council/garry_maxwell__dean_bailey",
       "name": "Garry Maxwell  Dean Bailey"
     },
     {
-      "gender": "male",
       "id": "katanning_shire_council/robert_victor_godfrey",
       "name": "Robert Victor Godfrey"
     },
     {
-      "gender": "male",
       "id": "katanning_shire_council/owen_william_boxall",
       "name": "Owen William Boxall"
     },
     {
-      "gender": "male",
       "id": "katanning_shire_council/richard_irvine_kowald",
       "name": "Richard Irvine Kowald"
     },
     {
-      "gender": "male",
       "id": "katanning_shire_council/craig_david_mckinley",
       "name": "Craig David Mckinley"
     },
     {
-      "gender": "female",
       "id": "katanning_shire_council/serena_lee_sandwell",
       "name": "Serena Lee Sandwell"
     },
     {
-      "gender": "male",
       "id": "katanning_shire_council/alep_mydie",
       "name": "Alep Mydie"
     },
     {
-      "gender": "male",
       "id": "katanning_shire_council/marinus_johannes_van_koldenhoven",
       "name": "Marinus Johannes van Koldenhoven"
     },
     {
-      "gender": "male",
       "id": "katanning_shire_council/danny_mcgrath",
       "name": "Danny Mcgrath"
     },
     {
-      "gender": "female",
       "id": "katanning_shire_council/elizabeth_marie_guidera",
       "name": "Elizabeth Marie Guidera"
     },
     {
-      "gender": "male",
       "id": "kellerberrin_shire_council/david_leake",
       "name": "David Leake"
     },
     {
-      "gender": "female",
       "id": "kellerberrin_shire_council/christie_white",
       "name": "Christie White"
     },
     {
-      "gender": "male",
       "id": "kellerberrin_shire_council/matthew_ludwig_steber",
       "name": "Matthew Ludwig Steber"
     },
     {
-      "gender": "male",
       "id": "kellerberrin_shire_council/rodney_deane_forsyth",
       "name": "Rodney Deane Forsyth"
     },
     {
-      "gender": "male",
       "id": "kellerberrin_shire_council/scott_oneill",
       "name": "Scott Oneill"
     },
     {
-      "gender": "male",
       "id": "kellerberrin_shire_council/dennis_reid",
       "name": "Dennis Reid"
     },
     {
-      "gender": "male",
       "id": "kellerberrin_shire_council/wendy_elaine_mcneil",
       "name": "Wendy Elaine Mcneil"
     },
     {
-      "gender": "female",
       "id": "kent_shire_council/renae_anne_jury",
       "name": "Renae Anne Jury"
     },
     {
-      "gender": "male",
       "id": "kent_shire_council/mark_stephens",
       "name": "Mark Stephens"
     },
     {
-      "gender": "male",
       "id": "kent_shire_council/gordon_davidson_browne",
       "name": "Gordon Davidson Browne"
     },
     {
-      "gender": "female",
       "id": "kent_shire_council/megan_jane_tuffley",
       "name": "Megan Jane Tuffley"
     },
     {
-      "gender": "male",
       "id": "kent_shire_council/timothy_dale_borgward",
       "name": "Timothy Dale Borgward"
     },
     {
-      "gender": "male",
       "id": "kent_shire_council/alan_lewis_smith",
       "name": "Alan Lewis Smith"
     },
     {
-      "gender": "male",
       "id": "kent_shire_council/scott_crosby",
       "name": "Scott Crosby"
     },
     {
-      "gender": "male",
       "id": "kent_shire_council/grantham_maurice_collins",
       "name": "Grantham Maurice Collins"
     },
     {
-      "gender": "female",
       "id": "kojonup_shire_council/ronnie_fleay",
       "name": "Ronnie Fleay"
     },
     {
-      "gender": "male",
       "id": "kojonup_shire_council/graeme_hobbs",
       "name": "Graeme Hobbs"
     },
     {
-      "gender": "male",
       "id": "kojonup_shire_council/ian_pedler",
       "name": "Ian Pedler"
     },
     {
-      "gender": "male",
       "id": "kojonup_shire_council/robert_h_sexton",
       "name": "Robert H Sexton"
     },
     {
-      "gender": "male",
       "id": "kojonup_shire_council/ned_radford",
       "name": "Ned Radford"
     },
     {
-      "gender": "female",
       "id": "kojonup_shire_council/jill_mathwin",
       "name": "Jill Mathwin"
     },
     {
-      "gender": "male",
       "id": "kojonup_shire_council/frank_pritchard",
       "name": "Frank Pritchard"
     },
     {
-      "gender": "female",
       "id": "kojonup_shire_council/warland_judith",
       "name": "Warland Judith"
     },
     {
-      "gender": "male",
       "id": "kondinin_shire_council/allen_smoker",
       "name": "Allen Smoker"
     },
     {
-      "gender": "male",
       "id": "kondinin_shire_council/gerard_lynch",
       "name": "Gerard Lynch"
     },
     {
-      "gender": "male",
       "id": "kondinin_shire_council/gary_ilich",
       "name": "Gary Ilich"
     },
     {
-      "gender": "female",
       "id": "kondinin_shire_council/sue_meeking",
       "name": "Sue Meeking"
     },
     {
-      "gender": "female",
       "id": "kondinin_shire_council/rowena_sandra_butler",
       "name": "Rowena Sandra Butler"
     },
     {
-      "gender": "male",
       "id": "kondinin_shire_council/rex_growden",
       "name": "Rex Growden"
     },
     {
-      "gender": "male",
       "id": "kondinin_shire_council/bruce_browning",
       "name": "Bruce Browning"
     },
     {
-      "gender": "male",
       "id": "kondinin_shire_council/murray_william_james",
       "name": "Murray William James"
     },
     {
-      "gender": "male",
       "id": "kondinin_shire_council/steven_jones",
       "name": "Steven Jones"
     },
     {
-      "gender": "male",
       "id": "koorda_shire_council/shane_eliot_boyd",
       "name": "Shane Eliot Boyd"
     },
     {
-      "gender": "male",
       "id": "koorda_shire_council/gary_wayne_greaves",
       "name": "Gary Wayne Greaves"
     },
     {
-      "gender": "male",
       "id": "koorda_shire_council/anthony_dean_clarke",
       "name": "Anthony Dean Clarke"
     },
     {
-      "gender": "female",
       "id": "koorda_shire_council/leslea_catherine_smith",
       "name": "Leslea Catherine Smith"
     },
     {
-      "gender": "male",
       "id": "koorda_shire_council/frederick_john_storer",
       "name": "Frederick John Storer"
     },
     {
-      "gender": "female",
       "id": "koorda_shire_council/pamela_louise_mcwha",
       "name": "Pamela Louise Mcwha"
     },
     {
-      "gender": "male",
       "id": "koorda_shire_council/beverly_graeme_cooper",
       "name": "Beverly Graeme Cooper"
     },
     {
-      "gender": "male",
       "id": "kulin_shire_council/robert_geoffrey_obrien",
       "name": "Robert Geoffrey Obrien"
     },
     {
-      "gender": "male",
       "id": "kulin_shire_council/bradley_phillip_taylor",
       "name": "Bradley Phillip Taylor"
     },
     {
-      "gender": "male",
       "id": "kulin_shire_council/james_michael_sullivan",
       "name": "James Michael Sullivan"
     },
     {
-      "gender": "female",
       "id": "kulin_shire_council/roberta_jayne_bowey",
       "name": "Roberta Jayne Bowey"
     },
     {
-      "gender": "male",
       "id": "kulin_shire_council/haydn_thomas_mcinnes",
       "name": "Haydn Thomas Mcinnes"
     },
     {
-      "gender": "male",
       "id": "kulin_shire_council/grant_robins",
       "name": "Grant Robins"
     },
     {
-      "gender": "male",
       "id": "kulin_shire_council/barry_donald_west",
       "name": "Barry Donald West"
     },
     {
-      "gender": "male",
       "id": "kulin_shire_council/mathew_james_ledwith",
       "name": "Mathew James Ledwith"
     },
     {
-      "gender": "male",
       "id": "kulin_shire_council/rodney_david_duckworth",
       "name": "Rodney David Duckworth"
     },
     {
-      "gender": "male",
       "id": "kwinana_city_council/peter_edward_feasey",
       "name": "Peter Edward Feasey"
     },
     {
-      "gender": "female",
       "id": "kwinana_city_council/carol_elizabeth_adams",
       "name": "Carol Elizabeth Adams"
     },
     {
-      "gender": "male",
       "id": "kwinana_city_council/robert_leslie_thompson",
       "name": "Robert Leslie Thompson"
     },
     {
-      "gender": "female",
       "id": "kwinana_city_council/sheila_mills",
       "name": "Sheila Mills"
     },
     {
-      "gender": "female",
       "id": "kwinana_city_council/ruth_elizabeth_alexander",
       "name": "Ruth Elizabeth Alexander"
     },
     {
-      "gender": "male",
       "id": "kwinana_city_council/dennis_cleve_wood",
       "name": "Dennis Cleve Wood"
     },
     {
-      "gender": "female",
       "id": "kwinana_city_council/sandra_elizabeth_lee",
       "name": "Sandra Elizabeth Lee"
     },
     {
-      "gender": "female",
       "id": "kwinana_city_council/wendy_gaye_cooper",
       "name": "Wendy Gaye Cooper"
     },
     {
-      "gender": "male",
       "id": "lake_grace_shire_council/stephen_gordon_hunt",
       "name": "Stephen Gordon Hunt"
     },
     {
-      "gender": "male",
       "id": "lake_grace_shire_council/murray_george_stanton",
       "name": "Murray George Stanton"
     },
     {
-      "gender": "male",
       "id": "lake_grace_shire_council/andrew_james_walker",
       "name": "Andrew James Walker"
     },
     {
-      "gender": "male",
       "id": "lake_grace_shire_council/leonard_william_armstrong",
       "name": "Leonard William Armstrong"
     },
     {
-      "gender": "male",
       "id": "lake_grace_shire_council/ross_chappell",
       "name": "Ross Chappell"
     },
     {
-      "gender": "female",
       "id": "lake_grace_shire_council/jeanette_frances_de_landgrafft",
       "name": "Jeanette Frances De Landgrafft"
     },
     {
-      "gender": "male",
       "id": "lake_grace_shire_council/allan_douglas_marshall",
       "name": "Allan Douglas Marshall"
     },
     {
-      "gender": "female",
       "id": "lake_grace_shire_council/debrah_clarke",
       "name": "Debrah Clarke"
     },
     {
-      "gender": "female",
       "id": "laverton_shire_council/robin_e_prentice",
       "name": "Robin E Prentice"
     },
     {
-      "gender": "male",
       "id": "laverton_shire_council/rex_michael_ryles",
       "name": "Rex Michael Ryles"
     },
     {
-      "gender": "male",
       "id": "laverton_shire_council/patrick_hill",
       "name": "Patrick Hill"
     },
     {
-      "gender": "male",
       "id": "laverton_shire_council/geoff_walder",
       "name": "Geoff Walder"
     },
     {
-      "gender": "female",
       "id": "laverton_shire_council/shaneane_weldon",
       "name": "Shaneane Weldon"
     },
     {
-      "gender": "female",
       "id": "laverton_shire_council/deanne_june_ross",
       "name": "Deanne June Ross"
     },
     {
-      "gender": "male",
       "id": "laverton_shire_council/desmond_leonard_cannons",
       "name": "Desmond Leonard Cannons"
     },
     {
-      "gender": "male",
       "id": "leonora_shire_council/peter_jeffrey_craig",
       "name": "Peter Jeffrey Craig"
     },
     {
-      "gender": "male",
       "id": "leonora_shire_council/ross_athol_norrie",
       "name": "Ross Athol Norrie"
     },
     {
-      "gender": "male",
       "id": "leonora_shire_council/matthew_wade_vernon_taylor",
       "name": "Matthew Wade Vernon Taylor"
     },
     {
-      "gender": "male",
       "id": "leonora_shire_council/alex_edward_taylor",
       "name": "Alex Edward Taylor"
     },
     {
-      "gender": "female",
       "id": "leonora_shire_council/lynette_rae_dorph-petersen",
       "name": "Lynette Rae Dorph-Petersen"
     },
     {
-      "gender": "male",
       "id": "leonora_shire_council/richard_murray_cotterill",
       "name": "Richard Murray Cotterill"
     },
     {
-      "gender": "male",
       "id": "leonora_shire_council/glenn_william_baker",
       "name": "Glenn William Baker"
     },
     {
-      "gender": "female",
       "id": "mandurah_city_council/marina_elizabeth_vergone",
       "name": "Marina Elizabeth Vergone"
     },
     {
-      "gender": "female",
       "id": "mandurah_city_council/shannon_lee_lawson",
       "name": "Shannon Lee Lawson"
     },
     {
-      "gender": "male",
       "id": "mandurah_city_council/fredrick_riebeling",
       "name": "Fredrick Riebeling"
     },
     {
-      "gender": "female",
       "id": "mandurah_city_council/tahlia_louise_jade_jones",
       "name": "Tahlia Louise Jade Jones"
     },
     {
-      "gender": "male",
       "id": "mandurah_city_council/shane_peter_jones",
       "name": "Shane Peter Jones"
     },
     {
-      "gender": "female",
       "id": "mandurah_city_council/lynn_rodgers",
       "name": "Lynn Rodgers"
     },
     {
-      "gender": "male",
       "id": "mandurah_city_council/darren_george_lee",
       "name": "Darren George Lee"
     },
     {
-      "gender": "male",
       "id": "mandurah_city_council/peter_andrew_jackson",
       "name": "Peter Andrew Jackson"
     },
     {
-      "gender": "male",
       "id": "mandurah_city_council/ronald_wortley",
       "name": "Ronald Wortley"
     },
     {
-      "gender": "female",
       "id": "mandurah_city_council/caroline_louise_knight",
       "name": "Caroline Louise Knight"
     },
     {
-      "gender": "male",
       "id": "mandurah_city_council/david_alexander_schumacher",
       "name": "David Alexander Schumacher"
     },
     {
-      "gender": "male",
       "id": "mandurah_city_council/peter_rogers",
       "name": "Peter Rogers"
     },
     {
-      "gender": "female",
       "id": "mandurah_city_council/jane_belinda_field",
       "name": "Jane Belinda Field"
     },
     {
-      "gender": "female",
       "id": "manjimup_shire_council/denise_jenkins",
       "name": "Denise Jenkins"
     },
     {
-      "gender": "male",
       "id": "manjimup_shire_council/robert_taylor",
       "name": "Robert Taylor"
     },
     {
-      "gender": "female",
       "id": "manjimup_shire_council/lynn_daubney",
       "name": "Lynn Daubney"
     },
     {
-      "gender": "male",
       "id": "manjimup_shire_council/paul_domenic_omodei",
       "name": "Paul Domenic Omodei"
     },
     {
-      "gender": "female",
       "id": "manjimup_shire_council/carla_dellys_logan",
       "name": "Carla Dellys Logan"
     },
     {
-      "gender": "male",
       "id": "manjimup_shire_council/graham_munro",
       "name": "Graham Munro"
     },
     {
-      "gender": "male",
       "id": "manjimup_shire_council/clifford_francis_winfield",
       "name": "Clifford Francis Winfield"
     },
     {
-      "gender": "male",
       "id": "manjimup_shire_council/dean_bavich",
       "name": "Dean Bavich"
     },
     {
-      "gender": "male",
       "id": "manjimup_shire_council/david_bowman_tapley",
       "name": "David Bowman Tapley"
     },
     {
-      "gender": "male",
       "id": "manjimup_shire_council/wade_anthony_decampo",
       "name": "Wade Anthony Decampo"
     },
     {
-      "gender": "male",
       "id": "manjimup_shire_council/verrell_herbert",
       "name": "Verrell Herbert"
     },
     {
-      "gender": "male",
       "id": "meekatharra_shire_council/ross_kingsley_howden",
       "name": "Ross Kingsley Howden"
     },
     {
-      "gender": "male",
       "id": "meekatharra_shire_council/peter_shane_clancy",
       "name": "Peter Shane Clancy"
     },
     {
-      "gender": "male",
       "id": "meekatharra_shire_council/norman_lawrence_trenfield",
       "name": "Norman Lawrence Trenfield"
     },
     {
-      "gender": "male",
       "id": "meekatharra_shire_council/andrew_jason_binsiar",
       "name": "Andrew Jason Binsiar"
     },
     {
-      "gender": "male",
       "id": "meekatharra_shire_council/david_kenneth_hodder",
       "name": "David Kenneth Hodder"
     },
     {
-      "gender": "male",
       "id": "meekatharra_shire_council/harvey_james_nichols",
       "name": "Harvey James Nichols"
     },
     {
-      "gender": "male",
       "id": "meekatharra_shire_council/phillip_wayne_curley",
       "name": "Phillip Wayne Curley"
     },
     {
-      "gender": "male",
       "id": "melville_city_council/russell_anthony_aubrey",
       "name": "Russell Anthony Aubrey"
     },
     {
-      "gender": "male",
       "id": "melville_city_council/nicholas_pazolli",
       "name": "Nicholas Pazolli"
     },
     {
-      "gender": "male",
       "id": "melville_city_council/cameron_john_schuster",
       "name": "Cameron John Schuster"
     },
     {
-      "gender": "male",
       "id": "melville_city_council/guy_wieland",
       "name": "Guy Wieland"
     },
     {
-      "gender": "female",
       "id": "melville_city_council/june_barton",
       "name": "June Barton"
     },
     {
-      "gender": "male",
       "id": "melville_city_council/clive_walter_robartson",
       "name": "Clive Walter Robartson"
     },
     {
-      "gender": "male",
       "id": "melville_city_council/matthew_woodall",
       "name": "Matthew Woodall"
     },
     {
-      "gender": "male",
       "id": "melville_city_council/duncan_john_macphail",
       "name": "Duncan John Macphail"
     },
     {
-      "gender": "female",
       "id": "melville_city_council/rebecca_jane_aubrey",
       "name": "Rebecca Jane Aubrey"
     },
     {
-      "gender": "female",
       "id": "melville_city_council/patricia_margaret_phelan",
       "name": "Patricia Margaret Phelan"
     },
     {
-      "gender": "female",
       "id": "melville_city_council/lisa_margaret_o'malley",
       "name": "Lisa Margaret O'Malley"
     },
     {
-      "gender": "female",
       "id": "melville_city_council/nicole_kathleen_foxton",
       "name": "Nicole Kathleen Foxton"
     },
     {
-      "gender": "male",
       "id": "melville_city_council/timothy_barling",
       "name": "Timothy Barling"
     },
     {
-      "gender": "male",
       "id": "menzies_shire_council/ian_macdonald_baird",
       "name": "Ian Macdonald Baird"
     },
     {
-      "gender": "female",
       "id": "menzies_shire_council/jillian_anne_dwyer",
       "name": "Jillian Anne Dwyer"
     },
     {
-      "gender": "female",
       "id": "menzies_shire_council/debbie_hansen",
       "name": "Debbie Hansen"
     },
     {
-      "gender": "male",
       "id": "menzies_shire_council/ian_rodney_tucker",
       "name": "Ian Rodney Tucker"
     },
     {
-      "gender": "male",
       "id": "menzies_shire_council/keith_charles_mader",
       "name": "Keith Charles Mader"
     },
     {
-      "gender": "male",
       "id": "menzies_shire_council/james_dino_mazza",
       "name": "James Dino Mazza"
     },
     {
-      "gender": "male",
       "id": "menzies_shire_council/justin_martin_lee",
       "name": "Justin Martin Lee"
     },
     {
-      "gender": "male",
       "id": "merredin_shire_council/bradley_john_anderson",
       "name": "Bradley John Anderson"
     },
     {
-      "gender": "male",
       "id": "merredin_shire_council/matthew_anthony_crisafio",
       "name": "Matthew Anthony Crisafio"
     },
     {
-      "gender": "male",
       "id": "merredin_shire_council/kenneth_andrew_hooper",
       "name": "Kenneth Andrew Hooper"
     },
     {
-      "gender": "male",
       "id": "merredin_shire_council/malcolm_david_willis",
       "name": "Malcolm David Willis"
     },
     {
-      "gender": "female",
       "id": "merredin_shire_council/caroline_anne_blakers",
       "name": "Caroline Anne Blakers"
     },
     {
-      "gender": "female",
       "id": "merredin_shire_council/maria_luigia_young",
       "name": "Maria Luigia Young"
     },
     {
-      "gender": "male",
       "id": "merredin_shire_council/john_pierce_flockart",
       "name": "John Pierce Flockart"
     },
     {
-      "gender": "male",
       "id": "merredin_shire_council/rodney_mark_crees",
       "name": "Rodney Mark Crees"
     },
     {
-      "gender": "male",
       "id": "mingenew_shire_council/gary_cosgrove",
       "name": "Gary Cosgrove"
     },
     {
-      "gender": "female",
       "id": "mingenew_shire_council/michelle_bagley",
       "name": "Michelle Bagley"
     },
     {
-      "gender": "male",
       "id": "mingenew_shire_council/peter_john_gledhill",
       "name": "Peter John Gledhill"
     },
     {
-      "gender": "female",
       "id": "mingenew_shire_council/helen_newton",
       "name": "Helen Newton"
     },
     {
-      "gender": "female",
       "id": "mingenew_shire_council/leah_merissa_eardley",
       "name": "Leah Merissa Eardley"
     },
     {
-      "gender": "female",
       "id": "mingenew_shire_council/marguerite_patricia_pearce",
       "name": "Marguerite Patricia Pearce"
     },
     {
-      "gender": "male",
       "id": "moora_shire_council/marcus_ryan_holliday",
       "name": "Marcus Ryan Holliday"
     },
     {
-      "gender": "female",
       "id": "moora_shire_council/louise_christine_house",
       "name": "Louise Christine House"
     },
     {
-      "gender": "female",
       "id": "moora_shire_council/evelyn_irene_hamilton",
       "name": "Evelyn Irene Hamilton"
     },
     {
-      "gender": "female",
       "id": "moora_shire_council/tracy_georgina_humphry",
       "name": "Tracy Georgina Humphry"
     },
     {
-      "gender": "male",
       "id": "moora_shire_council/colin_edward_gardiner",
       "name": "Colin Edward Gardiner"
     },
     {
-      "gender": "female",
       "id": "moora_shire_council/denise_clydesdale-gebert",
       "name": "Denise Clydesdale-Gebert"
     },
     {
-      "gender": "male",
       "id": "moora_shire_council/peter_frederick_nixon",
       "name": "Peter Frederick Nixon"
     },
     {
-      "gender": "female",
       "id": "moora_shire_council/merrel_ruth_pond",
       "name": "Merrel Ruth Pond"
     },
     {
-      "gender": "male",
       "id": "moora_shire_council/kenneth_murray_seymour",
       "name": "Kenneth Murray Seymour"
     },
     {
-      "gender": "female",
       "id": "morawa_shire_council/debra_collins",
       "name": "Debra Collins"
     },
     {
-      "gender": "female",
       "id": "morawa_shire_council/karen_jeanette_chappel",
       "name": "Karen Jeanette Chappel"
     },
     {
-      "gender": "male",
       "id": "morawa_shire_council/kenneth_stokes",
       "name": "Kenneth Stokes"
     },
     {
-      "gender": "male",
       "id": "morawa_shire_council/darren_stuart_agar",
       "name": "Darren Stuart Agar"
     },
     {
-      "gender": "male",
       "id": "morawa_shire_council/mark_john_thornton",
       "name": "Mark John Thornton"
     },
     {
-      "gender": "male",
       "id": "morawa_shire_council/dean_stuart_carslake",
       "name": "Dean Stuart Carslake"
     },
     {
-      "gender": "female",
       "id": "morawa_shire_council/jane_coaker",
       "name": "Jane Coaker"
     },
     {
-      "gender": "male",
       "id": "mosman_park_town_council/ronald_alfred_norris",
       "name": "Ronald Alfred Norris"
     },
     {
-      "gender": "male",
       "id": "mosman_park_town_council/ian_stuart_flack",
       "name": "Ian Stuart Flack"
     },
     {
-      "gender": "male",
       "id": "mosman_park_town_council/andrew_james_maurice",
       "name": "Andrew James Maurice"
     },
     {
-      "gender": "female",
       "id": "mosman_park_town_council/zenda_johnson",
       "name": "Zenda Johnson"
     },
     {
-      "gender": "male",
       "id": "mosman_park_town_council/wesley_rosslyn_davies",
       "name": "Wesley Rosslyn Davies"
     },
     {
-      "gender": "female",
       "id": "mosman_park_town_council/jenna_ledgerwood",
       "name": "Jenna Ledgerwood"
     },
     {
-      "gender": "male",
       "id": "mosman_park_town_council/brett_richard_pollock",
       "name": "Brett Richard Pollock"
     },
     {
-      "gender": "male",
       "id": "mount_magnet_shire_council/jorgen_lawn_jensen",
       "name": "Jorgen Lawn Jensen"
     },
     {
-      "gender": "male",
       "id": "mount_magnet_shire_council/joseph_patrick_obrien",
       "name": "Joseph Patrick Obrien"
     },
     {
-      "gender": "male",
       "id": "mount_magnet_shire_council/robert_jason_homewood",
       "name": "Robert Jason Homewood"
     },
     {
-      "gender": "female",
       "id": "mount_magnet_shire_council/carole_michelle_minney",
       "name": "Carole Michelle Minney"
     },
     {
-      "gender": "female",
       "id": "mount_magnet_shire_council/marie_elizabeth_morris",
       "name": "Marie Elizabeth Morris"
     },
     {
-      "gender": "female",
       "id": "mount_magnet_shire_council/mary_ford",
       "name": "Mary Ford"
     },
     {
-      "gender": "male",
       "id": "mount_marshall_shire_council/john_beagley",
       "name": "John Beagley"
     },
     {
-      "gender": "female",
       "id": "mount_marshall_shire_council/rachel_maree_kirby",
       "name": "Rachel Maree Kirby"
     },
     {
-      "gender": "female",
       "id": "mount_marshall_shire_council/helen_jean_shemeld",
       "name": "Helen Jean Shemeld"
     },
     {
-      "gender": "male",
       "id": "mount_marshall_shire_council/callum_lumsden",
       "name": "Callum Lumsden"
     },
     {
-      "gender": "male",
       "id": "mount_marshall_shire_council/stuart_edward_faulkner",
       "name": "Stuart Edward Faulkner"
     },
     {
-      "gender": "male",
       "id": "mount_marshall_shire_council/paul_gillett",
       "name": "Paul Gillett"
     },
     {
-      "gender": "male",
       "id": "mount_marshall_shire_council/anthony_robert_charles_sachse",
       "name": "Anthony Robert Charles Sachse"
     },
     {
-      "gender": "male",
       "id": "mukinbudin_shire_council/murray_junk",
       "name": "Murray Junk"
     },
     {
-      "gender": "male",
       "id": "mukinbudin_shire_council/rodney_comerford",
       "name": "Rodney Comerford"
     },
     {
-      "gender": "female",
       "id": "mukinbudin_shire_council/ruth_helen_poultney",
       "name": "Ruth Helen Poultney"
     },
     {
-      "gender": "male",
       "id": "mukinbudin_shire_council/stephen_palm",
       "name": "Stephen Palm"
     },
     {
-      "gender": "female",
       "id": "mukinbudin_shire_council/sandie_ventris",
       "name": "Sandie Ventris"
     },
     {
-      "gender": "male",
       "id": "mukinbudin_shire_council/stephen_john_paterson",
       "name": "Stephen John Paterson"
     },
     {
-      "gender": "male",
       "id": "mukinbudin_shire_council/jeffrey_seaby",
       "name": "Jeffrey Seaby"
     },
     {
-      "gender": "male",
       "id": "mukinbudin_shire_council/john_douglas_oneil",
       "name": "John Douglas Oneil"
     },
     {
-      "gender": "male",
       "id": "mukinbudin_shire_council/gary_john_shadbolt",
       "name": "Gary John Shadbolt"
     },
     {
-      "gender": "male",
       "id": "mundaring_shire_council/douglas_allan_jeans",
       "name": "Douglas Allan Jeans"
     },
     {
-      "gender": "male",
       "id": "mundaring_shire_council/robert_keith_perks",
       "name": "Robert Keith Perks"
     },
     {
-      "gender": "female",
       "id": "mundaring_shire_council/lynn_margaret_fisher",
       "name": "Lynn Margaret Fisher"
     },
     {
-      "gender": "male",
       "id": "mundaring_shire_council/stephen_hugh_st._george_fox",
       "name": "Stephen Hugh St. George Fox"
     },
     {
-      "gender": "male",
       "id": "mundaring_shire_council/patrick_bruno_bertola",
       "name": "Patrick Bruno Bertola"
     },
     {
-      "gender": "male",
       "id": "mundaring_shire_council/john_stephen_daw",
       "name": "John Stephen Daw"
     },
     {
-      "gender": "male",
       "id": "mundaring_shire_council/david_anthony_lavell",
       "name": "David Anthony Lavell"
     },
     {
-      "gender": "female",
       "id": "mundaring_shire_council/patricia_ann_cook",
       "name": "Patricia Ann Cook"
     },
     {
-      "gender": "male",
       "id": "mundaring_shire_council/jamie_stuart_robert_martin",
       "name": "Jamie Stuart Robert Martin"
     },
     {
-      "gender": "male",
       "id": "mundaring_shire_council/anthony_joseph_brennan",
       "name": "Anthony Joseph Brennan"
     },
     {
-      "gender": "female",
       "id": "mundaring_shire_council/pauline_agnes_clark",
       "name": "Pauline Agnes Clark"
     },
     {
-      "gender": "male",
       "id": "mundaring_shire_council/anthony_michael_cuccaro",
       "name": "Anthony Michael Cuccaro"
     },
     {
-      "gender": "male",
       "id": "murchison_shire_council/ross_foulkes-taylor",
       "name": "Ross Foulkes-Taylor"
     },
     {
-      "gender": "male",
       "id": "murchison_shire_council/miles_jonathon_leonard_williams",
       "name": "Miles Jonathon Leonard Williams"
     },
     {
-      "gender": "female",
       "id": "murchison_shire_council/emma_foulkes-taylor",
       "name": "Emma Foulkes-Taylor"
     },
     {
-      "gender": "male",
       "id": "murchison_shire_council/arthur_simon_broad",
       "name": "Arthur Simon Broad"
     },
     {
-      "gender": "male",
       "id": "murchison_shire_council/andrew_vincent_whitmarsh",
       "name": "Andrew Vincent Whitmarsh"
     },
     {
-      "gender": "male",
       "id": "murchison_shire_council/mark_halleen",
       "name": "Mark Halleen"
     },
     {
-      "gender": "male",
       "id": "murray_shire_council/david_bolt",
       "name": "David Bolt"
     },
     {
-      "gender": "female",
       "id": "murray_shire_council/christine_irene_thompson",
       "name": "Christine Irene Thompson"
     },
     {
-      "gender": "female",
       "id": "murray_shire_council/maree_anne_reid",
       "name": "Maree Anne Reid"
     },
     {
-      "gender": "female",
       "id": "murray_shire_council/angela_rogers",
       "name": "Angela Rogers"
     },
     {
-      "gender": "female",
       "id": "murray_shire_council/casey_rose",
       "name": "Casey Rose"
     },
     {
-      "gender": "male",
       "id": "murray_shire_council/alan_keith_black",
       "name": "Alan Keith Black"
     },
     {
-      "gender": "male",
       "id": "murray_shire_council/walter_clifford_barrett",
       "name": "Walter Clifford Barrett"
     },
     {
-      "gender": "female",
       "id": "murray_shire_council/patricia_anne_briggs",
       "name": "Patricia Anne Briggs"
     },
     {
-      "gender": "male",
       "id": "murray_shire_council/stephen_donald_lee",
       "name": "Stephen Donald Lee"
     },
     {
-      "gender": "male",
       "id": "nannup_shire_council/anthony_james_dean",
       "name": "Anthony James Dean"
     },
     {
-      "gender": "male",
       "id": "nannup_shire_council/norman_arthur_steer",
       "name": "Norman Arthur Steer"
     },
     {
-      "gender": "male",
       "id": "nannup_shire_council/charles_gilbert",
       "name": "Charles Gilbert"
     },
     {
-      "gender": "female",
       "id": "nannup_shire_council/anne_slater",
       "name": "Anne Slater"
     },
     {
-      "gender": "male",
       "id": "nannup_shire_council/robert_bruce_longmore",
       "name": "Robert Bruce Longmore"
     },
     {
-      "gender": "male",
       "id": "nannup_shire_council/gary_dobbin",
       "name": "Gary Dobbin"
     },
     {
-      "gender": "female",
       "id": "nannup_shire_council/patricia_christine_fraser",
       "name": "Patricia Christine Fraser"
     },
     {
-      "gender": "male",
       "id": "nannup_shire_council/robin_mellema",
       "name": "Robin Mellema"
     },
     {
-      "gender": "male",
       "id": "narembeen_shire_council/william_dyer_cowan",
       "name": "William Dyer Cowan"
     },
     {
-      "gender": "male",
       "id": "narembeen_shire_council/stephen_charles_padfield",
       "name": "Stephen Charles Padfield"
     },
     {
-      "gender": "male",
       "id": "narembeen_shire_council/sydney_raymond_parsons",
       "name": "Sydney Raymond Parsons"
     },
     {
-      "gender": "female",
       "id": "narembeen_shire_council/amy_marie_hardham",
       "name": "Amy Marie Hardham"
     },
     {
-      "gender": "male",
       "id": "narembeen_shire_council/bevan_ralph_thomas",
       "name": "Bevan Ralph Thomas"
     },
     {
-      "gender": "female",
       "id": "narembeen_shire_council/rhonda_margaret_cole",
       "name": "Rhonda Margaret Cole"
     },
     {
-      "gender": "male",
       "id": "narembeen_shire_council/gregory_michael_vaughan",
       "name": "Gregory Michael Vaughan"
     },
     {
-      "gender": "female",
       "id": "narembeen_shire_council/regina_dawn_deluis",
       "name": "Regina Dawn Deluis"
     },
     {
-      "gender": "male",
       "id": "narrogin_shire_council/geoffrey_douglas_ballard",
       "name": "Geoffrey Douglas Ballard"
     },
     {
-      "gender": "female",
       "id": "narrogin_shire_council/janice_sieber",
       "name": "Janice Sieber"
     },
     {
-      "gender": "male",
       "id": "narrogin_shire_council/barry_hardie",
       "name": "Barry Hardie"
     },
     {
-      "gender": "male",
       "id": "narrogin_shire_council/andrew_graham_borthwick",
       "name": "Andrew Graham Borthwick"
     },
     {
-      "gender": "male",
       "id": "narrogin_shire_council/keiran_michael_quartermaine",
       "name": "Keiran Michael Quartermaine"
     },
     {
-      "gender": "male",
       "id": "narrogin_shire_council/tim_wiese",
       "name": "Tim Wiese"
     },
     {
-      "gender": "male",
       "id": "narrogin_shire_council/richard_chadwick",
       "name": "Richard Chadwick"
     },
     {
-      "gender": "male",
       "id": "narrogin_town_council/leigh_ballard",
       "name": "Leigh Ballard"
     },
     {
-      "gender": "male",
       "id": "narrogin_town_council/clive_bartron",
       "name": "Clive Bartron"
     },
     {
-      "gender": "male",
       "id": "narrogin_town_council/paul_schutz",
       "name": "Paul Schutz"
     },
     {
-      "gender": "male",
       "id": "narrogin_town_council/arthur_reginald_paternoster",
       "name": "Arthur Reginald Paternoster"
     },
     {
-      "gender": "male",
       "id": "narrogin_town_council/michael_kain",
       "name": "Michael Kain"
     },
     {
-      "gender": "male",
       "id": "narrogin_town_council/colin_ward",
       "name": "Colin Ward"
     },
     {
-      "gender": "male",
       "id": "narrogin_town_council/murray_john_fisher",
       "name": "Murray John Fisher"
     },
     {
-      "gender": "male",
       "id": "narrogin_town_council/david_arthur_russell",
       "name": "David Arthur Russell"
     },
     {
-      "gender": "female",
       "id": "narrogin_town_council/jan_mckenzie",
       "name": "Jan Mckenzie"
     },
     {
-      "gender": "male",
       "id": "nedlands_city_council/richard_maxwell_hipkins",
       "name": "Richard Maxwell Hipkins"
     },
     {
-      "gender": "male",
       "id": "nedlands_city_council/leo_john_mcmanus",
       "name": "Leo John McManus"
     },
     {
-      "gender": "female",
       "id": "nedlands_city_council/kerry_ann_smyth",
       "name": "Kerry Ann Smyth"
     },
     {
-      "gender": "female",
       "id": "nedlands_city_council/nikola_brigitte_johanna_horley",
       "name": "Nikola Brigitte Johanna Horley"
     },
     {
-      "gender": "male",
       "id": "nedlands_city_council/ian_stanley_argyle",
       "name": "Ian Stanley Argyle"
     },
     {
-      "gender": "male",
       "id": "nedlands_city_council/william_ralph_boucher_hassell",
       "name": "William Ralph Boucher Hassell"
     },
     {
-      "gender": "male",
       "id": "nedlands_city_council/simon_joseph_porter",
       "name": "Simon Joseph Porter"
     },
     {
-      "gender": "male",
       "id": "nedlands_city_council/john_david_wetherall",
       "name": "John David Wetherall"
     },
     {
-      "gender": "male",
       "id": "nedlands_city_council/benedict_gervase_hodsdon",
       "name": "Benedict Gervase Hodsdon"
     },
     {
-      "gender": "male",
       "id": "nedlands_city_council/robert_mclean_binks",
       "name": "Robert Mclean Binks"
     },
     {
-      "gender": "female",
       "id": "nedlands_city_council/toni_james",
       "name": "Toni James"
     },
     {
-      "gender": "male",
       "id": "nedlands_city_council/nigel_warren_shaw",
       "name": "Nigel Warren Shaw"
     },
     {
-      "gender": "male",
       "id": "nedlands_city_council/gordon_a_r_hay",
       "name": "Gordon A R Hay"
     },
     {
-      "gender": "female",
       "id": "ngaanyatjarraku_shire_council/beverley_thomas",
       "name": "Beverley Thomas"
     },
     {
-      "gender": "male",
       "id": "ngaanyatjarraku_shire_council/colin_frederick_twine",
       "name": "Colin Frederick Twine"
     },
     {
-      "gender": "female",
       "id": "ngaanyatjarraku_shire_council/lalla_west",
       "name": "Lalla West"
     },
     {
-      "gender": "male",
       "id": "ngaanyatjarraku_shire_council/preston_neil_thomas",
       "name": "Preston Neil Thomas"
     },
     {
-      "gender": "male",
       "id": "ngaanyatjarraku_shire_council/andrew_jones",
       "name": "Andrew Jones"
     },
     {
-      "gender": "male",
       "id": "ngaanyatjarraku_shire_council/john_damian_mclean",
       "name": "John Damian Mclean"
     },
     {
-      "gender": "male",
       "id": "ngaanyatjarraku_shire_council/alwyn_bates",
       "name": "Alwyn Bates"
     },
     {
-      "gender": "female",
       "id": "ngaanyatjarraku_shire_council/joylene_frazer",
       "name": "Joylene Frazer"
     },
     {
-      "gender": "male",
       "id": "northam_shire_council/ulo_rumjantsev",
       "name": "Ulo Rumjantsev"
     },
     {
-      "gender": "female",
       "id": "northam_shire_council/julie_ellen_williams",
       "name": "Julie Ellen Williams"
     },
     {
-      "gender": "male",
       "id": "northam_shire_council/christopher_richard_antonio",
       "name": "Christopher Richard Antonio"
     },
     {
-      "gender": "male",
       "id": "northam_shire_council/desmond_arnold_hughes",
       "name": "Desmond Arnold Hughes"
     },
     {
-      "gender": "male",
       "id": "northam_shire_council/steven_bruce_pollard",
       "name": "Steven Bruce Pollard"
     },
     {
-      "gender": "male",
       "id": "northam_shire_council/robert_wayne_tinetti",
       "name": "Robert Wayne Tinetti"
     },
     {
-      "gender": "male",
       "id": "northam_shire_council/denis_graham_beresford",
       "name": "Denis Graham Beresford"
     },
     {
-      "gender": "male",
       "id": "northam_shire_council/john_proud",
       "name": "John Proud"
     },
     {
-      "gender": "male",
       "id": "northam_shire_council/terry_matthew_little",
       "name": "Terry Matthew Little"
     },
     {
-      "gender": "male",
       "id": "northam_shire_council/christopher_lee_davidson",
       "name": "Christopher Lee Davidson"
     },
     {
-      "gender": "male",
       "id": "northampton_shire_council/malcolm_godfrey_holt",
       "name": "Malcolm Godfrey Holt"
     },
     {
-      "gender": "male",
       "id": "northampton_shire_council/shane_norman_krakouer",
       "name": "Shane Norman Krakouer"
     },
     {
-      "gender": "male",
       "id": "northampton_shire_council/malcolm_edward_scott",
       "name": "Malcolm Edward Scott"
     },
     {
-      "gender": "male",
       "id": "northampton_shire_council/desomnd_raymond_pike",
       "name": "Desomnd Raymond Pike"
     },
     {
-      "gender": "female",
       "id": "northampton_shire_council/roslyn_suckling",
       "name": "Roslyn Suckling"
     },
     {
-      "gender": "female",
       "id": "northampton_shire_council/sandra_leanne_stock-standen",
       "name": "Sandra Leanne Stock-Standen"
     },
     {
-      "gender": "male",
       "id": "northampton_shire_council/craig_allan_simkin",
       "name": "Craig Allan Simkin"
     },
     {
-      "gender": "male",
       "id": "northampton_shire_council/desmond_andrew_stanich",
       "name": "Desmond Andrew Stanich"
     },
     {
-      "gender": "male",
       "id": "northampton_shire_council/terrance_john_carson",
       "name": "Terrance John Carson"
     },
     {
-      "gender": "male",
       "id": "nungarin_shire_council/james_taylor",
       "name": "James Taylor"
     },
     {
-      "gender": "female",
       "id": "nungarin_shire_council/beverley_may_palmer",
       "name": "Beverley May Palmer"
     },
     {
-      "gender": "female",
       "id": "nungarin_shire_council/renira_eileen_oconnell",
       "name": "Renira Eileen Oconnell"
     },
     {
-      "gender": "female",
       "id": "nungarin_shire_council/kerry_dayman",
       "name": "Kerry Dayman"
     },
     {
-      "gender": "female",
       "id": "nungarin_shire_council/pippa_de_lacy_(willcox)",
       "name": "Pippa De Lacy (Willcox)"
     },
     {
-      "gender": "male",
       "id": "nungarin_shire_council/gary_charles_coumbe",
       "name": "Gary Charles Coumbe"
     },
     {
-      "gender": "male",
       "id": "nungarin_shire_council/jason_neil_davis",
       "name": "Jason Neil Davis"
     },
     {
-      "gender": "male",
       "id": "peppermint_grove_shire_council/gregory_george_edmund_peters",
       "name": "Gregory George Edmund Peters"
     },
     {
-      "gender": "male",
       "id": "peppermint_grove_shire_council/scott_francis_fleay",
       "name": "Scott Francis Fleay"
     },
     {
-      "gender": "male",
       "id": "peppermint_grove_shire_council/peter_douglas_macintosh",
       "name": "Peter Douglas Macintosh"
     },
     {
-      "gender": "female",
       "id": "peppermint_grove_shire_council/karen_josephine_barrymore",
       "name": "Karen Josephine Barrymore"
     },
     {
-      "gender": "female",
       "id": "peppermint_grove_shire_council/rachel_louise_thomas",
       "name": "Rachel Louise Thomas"
     },
     {
-      "gender": "male",
       "id": "peppermint_grove_shire_council/charles_austen_hohnen",
       "name": "Charles Austen Hohnen"
     },
     {
-      "gender": "female",
       "id": "peppermint_grove_shire_council/dawne_lesley_horrex",
       "name": "Dawne Lesley Horrex"
     },
     {
-      "gender": "male",
       "id": "perenjori_shire_council/john_cunningham",
       "name": "John Cunningham"
     },
     {
-      "gender": "male",
       "id": "perenjori_shire_council/graeme_reid",
       "name": "Graeme Reid"
     },
     {
-      "gender": "female",
       "id": "perenjori_shire_council/robyn_spencer",
       "name": "Robyn Spencer"
     },
     {
-      "gender": "female",
       "id": "perenjori_shire_council/joanne_hirsch",
       "name": "Joanne Hirsch"
     },
     {
-      "gender": "male",
       "id": "perenjori_shire_council/peter_wterhouse",
       "name": "Peter Wterhouse"
     },
     {
-      "gender": "male",
       "id": "perenjori_shire_council/rodney_desmond",
       "name": "Rodney Desmond"
     },
     {
-      "gender": "male",
       "id": "perenjori_shire_council/kirk_phol",
       "name": "Kirk Phol"
     },
     {
-      "gender": "male",
       "id": "perenjori_shire_council/laurie_butler",
       "name": "Laurie Butler"
     },
     {
-      "gender": "female",
       "id": "perenjori_shire_council/lisa_smith",
       "name": "Lisa Smith"
     },
     {
-      "gender": "female",
       "id": "perth_city_council/lisa_michelle_scaffidi",
       "name": "Lisa Michelle Scaffidi"
     },
     {
-      "gender": "female",
       "id": "perth_city_council/jemma_marie_green",
       "name": "Jemma Marie Green"
     },
     {
-      "gender": "male",
       "id": "perth_city_council/dimitrios_athanasios_limnios",
       "name": "Dimitrios Athanasios Limnios"
     },
     {
-      "gender": "male",
       "id": "perth_city_council/reece_james_harley",
       "name": "Reece James Harley"
     },
     {
-      "gender": "female",
       "id": "perth_city_council/lily_chen",
       "name": "Lily Chen"
     },
     {
-      "gender": "female",
       "id": "perth_city_council/janet_elizabeth_davidson",
       "name": "Janet Elizabeth Davidson"
     },
     {
-      "gender": "female",
       "id": "perth_city_council/judy_sabina_mcevoy",
       "name": "Judy Sabina Mcevoy"
     },
     {
-      "gender": "male",
       "id": "perth_city_council/jimmy_adamos",
       "name": "Jimmy Adamos"
     },
     {
-      "gender": "male",
       "id": "perth_city_council/yit-kee_yong",
       "name": "Yit-Kee Yong"
     },
     {
-      "gender": "male",
       "id": "pingelly_shire_council/aaron_morton",
       "name": "Aaron Morton"
     },
     {
-      "gender": "male",
       "id": "pingelly_shire_council/evan_hodges",
       "name": "Evan Hodges"
     },
     {
-      "gender": "female",
       "id": "pingelly_shire_council/michelle_walton-hassell",
       "name": "Michelle Walton-Hassell"
     },
     {
-      "gender": "male",
       "id": "pingelly_shire_council/raymond_marshall",
       "name": "Raymond Marshall"
     },
     {
-      "gender": "male",
       "id": "pingelly_shire_council/william_mulroney",
       "name": "William Mulroney"
     },
     {
-      "gender": "female",
       "id": "pingelly_shire_council/shirley_lange",
       "name": "Shirley Lange"
     },
     {
-      "gender": "male",
       "id": "pingelly_shire_council/david_freebairn",
       "name": "David Freebairn"
     },
     {
-      "gender": "female",
       "id": "pingelly_shire_council/lee_steel",
       "name": "Lee Steel"
     },
     {
-      "gender": "female",
       "id": "plantagenet_shire_council/suzanne_etherington",
       "name": "Suzanne Etherington"
     },
     {
-      "gender": "female",
       "id": "plantagenet_shire_council/marie_catherine_o'dea",
       "name": "Marie Catherine O'Dea"
     },
     {
-      "gender": "male",
       "id": "plantagenet_shire_council/jonathon_leigh_oldfield",
       "name": "Jonathon Leigh Oldfield"
     },
     {
-      "gender": "male",
       "id": "plantagenet_shire_council/norman_brett_bell",
       "name": "Norman Brett Bell"
     },
     {
-      "gender": "female",
       "id": "plantagenet_shire_council/jacqueline_mardee_hamblin",
       "name": "Jacqueline Mardee Hamblin"
     },
     {
-      "gender": "male",
       "id": "plantagenet_shire_council/jeffrey_gordon_moir",
       "name": "Jeffrey Gordon Moir"
     },
     {
-      "gender": "male",
       "id": "plantagenet_shire_council/kenneth_arthur_clements",
       "name": "Kenneth Arthur Clements"
     },
     {
-      "gender": "male",
       "id": "plantagenet_shire_council/leonard_ernest_handasyde",
       "name": "Leonard Ernest Handasyde"
     },
     {
-      "gender": "male",
       "id": "plantagenet_shire_council/christopher_george_pavlovich",
       "name": "Christopher George Pavlovich"
     },
     {
-      "gender": "female",
       "id": "port_hedland_town_council/kelly_ann_howlett",
       "name": "Kelly Ann Howlett"
     },
     {
-      "gender": "female",
       "id": "port_hedland_town_council/julie_elizabeth_hunt",
       "name": "Julie Elizabeth Hunt"
     },
     {
-      "gender": "male",
       "id": "port_hedland_town_council/david_william_hooper",
       "name": "David William Hooper"
     },
     {
-      "gender": "female",
       "id": "port_hedland_town_council/lorraine_joy_butson",
       "name": "Lorraine Joy Butson"
     },
     {
-      "gender": "female",
       "id": "port_hedland_town_council/louise_joanne_newbery",
       "name": "Louise Joanne Newbery"
     },
     {
-      "gender": "male",
       "id": "port_hedland_town_council/richard_bruce_whitwell",
       "name": "Richard Bruce Whitwell"
     },
     {
-      "gender": "male",
       "id": "port_hedland_town_council/troy_melville",
       "name": "Troy Melville"
     },
     {
-      "gender": "male",
       "id": "port_hedland_town_council/camilo_blanco",
       "name": "Camilo Blanco"
     },
     {
-      "gender": "female",
       "id": "port_hedland_town_council/janet_margaret_gillingham",
       "name": "Janet Margaret Gillingham"
     },
     {
-      "gender": "male",
       "id": "quairading_shire_council/brett_mcguinness",
       "name": "Brett Mcguinness"
     },
     {
-      "gender": "male",
       "id": "quairading_shire_council/wayne_martin_frederick_davies",
       "name": "Wayne Martin Frederick Davies"
     },
     {
-      "gender": "female",
       "id": "quairading_shire_council/jo_natalie_haythornthwaite",
       "name": "Jo Natalie Haythornthwaite"
     },
     {
-      "gender": "male",
       "id": "quairading_shire_council/william_eric_shenton",
       "name": "William Eric Shenton"
     },
     {
-      "gender": "male",
       "id": "quairading_shire_council/garry_basil_taylor",
       "name": "Garry Basil Taylor"
     },
     {
-      "gender": "female",
       "id": "quairading_shire_council/gillian_janet_mcrae",
       "name": "Gillian Janet Mcrae"
     },
     {
-      "gender": "male",
       "id": "quairading_shire_council/brian_kenneth_caporn",
       "name": "Brian Kenneth Caporn"
     },
     {
-      "gender": "male",
       "id": "quairading_shire_council/lyall_richard_brown",
       "name": "Lyall Richard Brown"
     },
     {
-      "gender": "female",
       "id": "ravensthorpe_shire_council/angela_melanie_kelton",
       "name": "Angela Melanie Kelton"
     },
     {
-      "gender": "female",
       "id": "ravensthorpe_shire_council/kerry_jan_dickinson",
       "name": "Kerry Jan Dickinson"
     },
     {
-      "gender": "male",
       "id": "ravensthorpe_shire_council/keith_alexander_dunlop",
       "name": "Keith Alexander Dunlop"
     },
     {
-      "gender": "male",
       "id": "ravensthorpe_shire_council/peter_john_smith",
       "name": "Peter John Smith"
     },
     {
-      "gender": "male",
       "id": "ravensthorpe_shire_council/ian_malcolm_goldfinch",
       "name": "Ian Malcolm Goldfinch"
     },
     {
-      "gender": "male",
       "id": "ravensthorpe_shire_council/kenneth_norman",
       "name": "Kenneth Norman"
     },
     {
-      "gender": "female",
       "id": "ravensthorpe_shire_council/sharyn_leanne_gairen",
       "name": "Sharyn Leanne Gairen"
     },
     {
-      "gender": "male",
       "id": "rockingham_city_council/lee_warren_downham",
       "name": "Lee Warren Downham"
     },
     {
-      "gender": "male",
       "id": "rockingham_city_council/matthew_whitfield",
       "name": "Matthew Whitfield"
     },
     {
-      "gender": "male",
       "id": "rockingham_city_council/justin_radden_smith",
       "name": "Justin Radden Smith"
     },
     {
-      "gender": "male",
       "id": "rockingham_city_council/christopher_stephen_elliott",
       "name": "Christopher Stephen Elliott"
     },
     {
-      "gender": "female",
       "id": "rockingham_city_council/joy_margaret_stewart",
       "name": "Joy Margaret Stewart"
     },
     {
-      "gender": "female",
       "id": "rockingham_city_council/kelly_d_mcmanus",
       "name": "Kelly D McManus"
     },
     {
-      "gender": "male",
       "id": "rockingham_city_council/barry_william_sammels",
       "name": "Barry William Sammels"
     },
     {
-      "gender": "female",
       "id": "rockingham_city_council/leigh_liley",
       "name": "Leigh Liley"
     },
     {
-      "gender": "female",
       "id": "rockingham_city_council/katherine_summers",
       "name": "Katherine Summers"
     },
     {
-      "gender": "female",
       "id": "rockingham_city_council/deborah_ann_hamblin",
       "name": "Deborah Ann Hamblin"
     },
     {
-      "gender": "female",
       "id": "sandstone_shire_council/caroleann_hodshon",
       "name": "Caroleann Hodshon"
     },
     {
-      "gender": "male",
       "id": "sandstone_shire_council/kerry_key",
       "name": "Kerry Key"
     },
     {
-      "gender": "female",
       "id": "sandstone_shire_council/donna_francis_bennett",
       "name": "Donna Francis Bennett"
     },
     {
-      "gender": "female",
       "id": "sandstone_shire_council/bethel_walton",
       "name": "Bethel Walton"
     },
     {
-      "gender": "female",
       "id": "sandstone_shire_council/freda_may",
       "name": "Freda May"
     },
     {
-      "gender": "male",
       "id": "sandstone_shire_council/alan_stuart_bloore",
       "name": "Alan Stuart Bloore"
     },
     {
-      "gender": "female",
       "id": "serpentine-jarrahdale_shire_council/jacqueline_peta_see",
       "name": "Jacqueline Peta See"
     },
     {
-      "gender": "male",
       "id": "serpentine-jarrahdale_shire_council/david_george_gossage",
       "name": "David George Gossage"
     },
     {
-      "gender": "male",
       "id": "serpentine-jarrahdale_shire_council/john_william_erren",
       "name": "John William Erren"
     },
     {
-      "gender": "female",
       "id": "serpentine-jarrahdale_shire_council/sandra_violae_hawkins",
       "name": "Sandra Violae Hawkins"
     },
     {
-      "gender": "male",
       "id": "serpentine-jarrahdale_shire_council/keith_patrick_ellis",
       "name": "Keith Patrick Ellis"
     },
     {
-      "gender": "male",
       "id": "serpentine-jarrahdale_shire_council/samuel_peter_paul_piipponen",
       "name": "Samuel Peter Paul Piipponen"
     },
     {
-      "gender": "male",
       "id": "serpentine-jarrahdale_shire_council/barry_urban",
       "name": "Barry Urban"
     },
     {
-      "gender": "female",
       "id": "serpentine-jarrahdale_shire_council/michelle_jayne_rich",
       "name": "Michelle Jayne Rich"
     },
     {
-      "gender": "male",
       "id": "serpentine-jarrahdale_shire_council/david_harold_atwell",
       "name": "David Harold Atwell"
     },
     {
-      "gender": "male",
       "id": "shark_bay_shire_council/keith_michael_capewell",
       "name": "Keith Michael Capewell"
     },
     {
-      "gender": "female",
       "id": "shark_bay_shire_council/margaret_elizabeth_prior",
       "name": "Margaret Elizabeth Prior"
     },
     {
-      "gender": "female",
       "id": "shark_bay_shire_council/cheryl_lorraine_cowell",
       "name": "Cheryl Lorraine Cowell"
     },
     {
-      "gender": "male",
       "id": "shark_bay_shire_council/laurence_james_michael_bellottie",
       "name": "Laurence James Michael Bellottie"
     },
     {
-      "gender": "male",
       "id": "shark_bay_shire_council/kevin_laundry",
       "name": "Kevin Laundry"
     },
     {
-      "gender": "male",
       "id": "shark_bay_shire_council/greg_ridgley",
       "name": "Greg Ridgley"
     },
     {
-      "gender": "male",
       "id": "shark_bay_shire_council/brian_maurice_wake",
       "name": "Brian Maurice Wake"
     },
     {
-      "gender": "female",
       "id": "south_perth_city_council/susanne_dawn_doherty",
       "name": "Susanne Dawn Doherty"
     },
     {
-      "gender": "male",
       "id": "south_perth_city_council/glenn_michael_cridland",
       "name": "Glenn Michael Cridland"
     },
     {
-      "gender": "female",
       "id": "south_perth_city_council/jessica_black",
       "name": "Jessica Black"
     },
     {
-      "gender": "female",
       "id": "south_perth_city_council/sharron_lorraine_hawkins_zeeb",
       "name": "Sharron Lorraine Hawkins Zeeb"
     },
     {
-      "gender": "male",
       "id": "south_perth_city_council/colin_anthony_cala",
       "name": "Colin Anthony Cala"
     },
     {
-      "gender": "male",
       "id": "south_perth_city_council/kenneth_manolas",
       "name": "Kenneth Manolas"
     },
     {
-      "gender": "female",
       "id": "south_perth_city_council/cheryle_leeann_irons",
       "name": "Cheryle Leeann Irons"
     },
     {
-      "gender": "male",
       "id": "south_perth_city_council/travis_ross_burrows",
       "name": "Travis Ross Burrows"
     },
     {
-      "gender": "female",
       "id": "south_perth_city_council/fiona_katrina_reid",
       "name": "Fiona Katrina Reid"
     },
     {
-      "gender": "male",
       "id": "stirling_city_council/keith_charles_sargent",
       "name": "Keith Charles Sargent"
     },
     {
-      "gender": "male",
       "id": "stirling_city_council/david_boothman",
       "name": "David Boothman"
     },
     {
-      "gender": "female",
       "id": "stirling_city_council/karen_dawn_caddy",
       "name": "Karen Dawn Caddy"
     },
     {
-      "gender": "male",
       "id": "stirling_city_council/mark_raymond_irwin",
       "name": "Mark Raymond Irwin"
     },
     {
-      "gender": "female",
       "id": "stirling_city_council/elizabeth_re",
       "name": "Elizabeth Re"
     },
     {
-      "gender": "female",
       "id": "stirling_city_council/stephanie_jane_proud",
       "name": "Stephanie Jane Proud"
     },
     {
-      "gender": "female",
       "id": "stirling_city_council/samantha_may_jenkinson",
       "name": "Samantha May Jenkinson"
     },
     {
-      "gender": "male",
       "id": "stirling_city_council/andrew_michael_guilfoyle",
       "name": "Andrew Michael Guilfoyle"
     },
     {
-      "gender": "male",
       "id": "stirling_city_council/david_john_lagan",
       "name": "David John Lagan"
     },
     {
-      "gender": "male",
       "id": "stirling_city_council/terence_john_tyzack",
       "name": "Terence John Tyzack"
     },
     {
-      "gender": "male",
       "id": "stirling_city_council/rodney_mervyn_willox",
       "name": "Rodney Mervyn Willox"
     },
     {
-      "gender": "male",
       "id": "stirling_city_council/joe_giuseppe_ferrante",
       "name": "Joe Giuseppe Ferrante"
     },
     {
-      "gender": "male",
       "id": "stirling_city_council/giovanni_italiano",
       "name": "Giovanni Italiano"
     },
     {
-      "gender": "male",
       "id": "stirling_city_council/david_robert_michael",
       "name": "David Robert Michael"
     },
     {
-      "gender": "female",
       "id": "subiaco_city_council/heather_henderson",
       "name": "Heather Henderson"
     },
     {
-      "gender": "male",
       "id": "subiaco_city_council/scott_trevor_philip_arbuckle",
       "name": "Scott Trevor Philip Arbuckle"
     },
     {
-      "gender": "female",
       "id": "subiaco_city_council/judith_rae_gedero",
       "name": "Judith Rae Gedero"
     },
     {
-      "gender": "male",
       "id": "subiaco_city_council/malcolm_gordon_mummery",
       "name": "Malcolm Gordon Mummery"
     },
     {
-      "gender": "female",
       "id": "subiaco_city_council/julie_christine_matheson",
       "name": "Julie Christine Matheson"
     },
     {
-      "gender": "male",
       "id": "subiaco_city_council/paul_clements",
       "name": "Paul Clements"
     },
     {
-      "gender": "male",
       "id": "subiaco_city_council/murray_john_rowe",
       "name": "Murray John Rowe"
     },
     {
-      "gender": "male",
       "id": "subiaco_city_council/peter_mcallister",
       "name": "Peter McAllister"
     },
     {
-      "gender": "female",
       "id": "subiaco_city_council/stephanie_linda_stroud",
       "name": "Stephanie Linda Stroud"
     },
     {
-      "gender": "male",
       "id": "subiaco_city_council/mark_george_burns",
       "name": "Mark George Burns"
     },
     {
-      "gender": "male",
       "id": "subiaco_city_council/hugh_willeard_richardson",
       "name": "Hugh Willeard Richardson"
     },
     {
-      "gender": "female",
       "id": "subiaco_city_council/lynley_faith_hewett",
       "name": "Lynley Faith Hewett"
     },
     {
-      "gender": "male",
       "id": "subiaco_city_council/lee_phillips_hemsley",
       "name": "Lee Phillips Hemsley"
     },
     {
       "email": "mick.wainwright@swan.wa.gov.au",
-      "gender": "male",
       "id": "swan_city_council/michael_albert_wainwright",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/mick_800px.jpg",
       "name": "Michael Albert Wainwright",
@@ -5398,7 +4374,6 @@
     },
     {
       "email": "david.lucas@swan.wa.gov.au",
-      "gender": "male",
       "id": "swan_city_council/david_charles_lucas",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/davidlucas_800px.jpg",
       "name": "David Charles Lucas",
@@ -5415,7 +4390,6 @@
     },
     {
       "email": "dr.pnfardig@bigpond.com",
-      "gender": "male",
       "id": "swan_city_council/david_russell_fardig",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/davidfardig_800px.jpg",
       "name": "David Russell Färdig",
@@ -5432,7 +4406,6 @@
     },
     {
       "email": "mariah@bigpond.net.au",
-      "gender": "female",
       "id": "swan_city_council/maria_haynes",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/maria_800px.jpg",
       "name": "Maria Haynes",
@@ -5449,7 +4422,6 @@
     },
     {
       "email": "mycouncillor@ballajura.net.au",
-      "gender": "male",
       "id": "swan_city_council/john_francis_mcnamara",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/johnmac_800px.jpg",
       "name": "John Francis Mcnamara",
@@ -5466,7 +4438,6 @@
     },
     {
       "email": "adam.kovalevs@swan.wa.gov.au",
-      "gender": "male",
       "id": "swan_city_council/adam_michael_kovalevs",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/adam_800px.jpg",
       "name": "Adam Michael Kovalevs",
@@ -5483,7 +4454,6 @@
     },
     {
       "email": "david.mcdonnell@swan.wa.gov.au",
-      "gender": "male",
       "id": "swan_city_council/david_troy_mcdonnell",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/davidmcdonnell_800px.jpg",
       "name": "David Troy Mcdonnell",
@@ -5500,7 +4470,6 @@
     },
     {
       "email": "cate.mccullough@swan.wa.gov.au",
-      "gender": "female",
       "id": "swan_city_council/catherine_ann_mccullough",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/cate_800px.jpg",
       "name": "Catherine Ann McCullough",
@@ -5517,7 +4486,6 @@
     },
     {
       "email": "patty.williams@swan.wa.gov.au",
-      "gender": "female",
       "id": "swan_city_council/patricia_ann_williams",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/patty_800px.jpg",
       "name": "Patricia Ann Williams",
@@ -5534,7 +4502,6 @@
     },
     {
       "email": "ian.johnson@swan.wa.gov.au",
-      "gender": "male",
       "id": "swan_city_council/ian_peter_johnson",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/ian_800px.jpg",
       "name": "Ian Peter Johnson",
@@ -5551,7 +4518,6 @@
     },
     {
       "email": "daniel.parasiliti@swan.wa.gov.au",
-      "gender": "male",
       "id": "swan_city_council/daniel_sebastian_parasiliti",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/daniel_800px.jpg",
       "name": "Daniel Sebastian Parasiliti",
@@ -5568,7 +4534,6 @@
     },
     {
       "email": "mark_d_elliott@live.com",
-      "gender": "male",
       "id": "swan_city_council/mark_david_elliott",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/markelliott_800px.jpg",
       "name": "Mark David Elliott",
@@ -5585,7 +4550,6 @@
     },
     {
       "email": "kevin.bbailey@bigpond.com",
-      "gender": "male",
       "id": "swan_city_council/kevin_bryce_bailey",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/kevin_800px.jpg",
       "name": "Kevin Bryce Bailey",
@@ -5602,7 +4566,6 @@
     },
     {
       "email": "council@rodhenderson.com.au",
-      "gender": "male",
       "id": "swan_city_council/rodney_keith_henderson",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/rod_800px.jpg",
       "name": "Rodney Keith Henderson",
@@ -5619,7 +4582,6 @@
     },
     {
       "email": "darryl.trease@swan.wa.gov.au",
-      "gender": "male",
       "id": "swan_city_council/darryl_raymond_trease",
       "image": "http://www.swan.wa.gov.au/files/assets/public/image-resources/lists/councillors/darryl_800px.jpg",
       "name": "Darryl Raymond Trease",
@@ -5635,278 +4597,223 @@
       ]
     },
     {
-      "gender": "male",
       "id": "tammin_shire_council/michael_david_greenwood",
       "name": "Michael David Greenwood"
     },
     {
-      "gender": "male",
       "id": "tammin_shire_council/scott_aaron_uppill",
       "name": "Scott Aaron Uppill"
     },
     {
-      "gender": "female",
       "id": "tammin_shire_council/carolyn_ann_crane",
       "name": "Carolyn Ann Crane"
     },
     {
-      "gender": "male",
       "id": "tammin_shire_council/donald_anthony_thomson",
       "name": "Donald Anthony Thomson"
     },
     {
-      "gender": "female",
       "id": "tammin_shire_council/glenice_maree_batchelor",
       "name": "Glenice Maree Batchelor"
     },
     {
-      "gender": "female",
       "id": "tammin_shire_council/patricia_fay_bell",
       "name": "Patricia Fay Bell"
     },
     {
-      "gender": "female",
       "id": "three_springs_shire_council/chris_lane",
       "name": "Chris Lane"
     },
     {
-      "gender": "female",
       "id": "three_springs_shire_council/jennyfer_lake",
       "name": "Jennyfer Lake"
     },
     {
-      "gender": "male",
       "id": "three_springs_shire_council/robert_neil_hebiton",
       "name": "Robert Neil Hebiton"
     },
     {
-      "gender": "male",
       "id": "three_springs_shire_council/anthony_thomas",
       "name": "Anthony Thomas"
     },
     {
-      "gender": "male",
       "id": "three_springs_shire_council/chris_connaughton",
       "name": "Chris Connaughton"
     },
     {
-      "gender": "male",
       "id": "three_springs_shire_council/robert_william_hunt",
       "name": "Robert William Hunt"
     },
     {
-      "gender": "male",
       "id": "three_springs_shire_council/richard_thorpe",
       "name": "Richard Thorpe"
     },
     {
-      "gender": "male",
       "id": "toodyay_shire_council/david_ross_dow",
       "name": "David Ross Dow"
     },
     {
-      "gender": "female",
       "id": "toodyay_shire_council/judith_claire_dow",
       "name": "Judith Claire Dow"
     },
     {
-      "gender": "female",
       "id": "toodyay_shire_council/katherine_elizabeth_wood",
       "name": "Katherine Elizabeth Wood"
     },
     {
-      "gender": "female",
       "id": "toodyay_shire_council/therese_chitty",
       "name": "Therese Chitty"
     },
     {
-      "gender": "male",
       "id": "toodyay_shire_council/brian_leslie_rayner",
       "name": "Brian Leslie Rayner"
     },
     {
-      "gender": "male",
       "id": "toodyay_shire_council/eric_frederick_twine",
       "name": "Eric Frederick Twine"
     },
     {
-      "gender": "male",
       "id": "toodyay_shire_council/robert_john_welburn",
       "name": "Robert John Welburn"
     },
     {
-      "gender": "female",
       "id": "toodyay_shire_council/paula_ann_greenway",
       "name": "Paula Ann Greenway"
     },
     {
-      "gender": "female",
       "id": "toodyay_shire_council/sally_aileen_craddock",
       "name": "Sally Aileen Craddock"
     },
     {
-      "gender": "male",
       "id": "trayning_shire_council/geoffrey_frank_waters",
       "name": "Geoffrey Frank Waters"
     },
     {
-      "gender": "male",
       "id": "trayning_shire_council/wallace_knott",
       "name": "Wallace Knott"
     },
     {
-      "gender": "male",
       "id": "trayning_shire_council/gregory_ian_yates",
       "name": "Gregory Ian Yates"
     },
     {
-      "gender": "female",
       "id": "trayning_shire_council/freda_annette_tarr",
       "name": "Freda Annette Tarr"
     },
     {
-      "gender": "male",
       "id": "trayning_shire_council/andrew_woodfield",
       "name": "Andrew Woodfield"
     },
     {
-      "gender": "male",
       "id": "trayning_shire_council/trevor_lamond",
       "name": "Trevor Lamond"
     },
     {
-      "gender": "female",
       "id": "trayning_shire_council/melanie_anne_brown",
       "name": "Melanie Anne Brown"
     },
     {
-      "gender": "male",
       "id": "upper_gascoyne_shire_council/lachlan_murray_mctaggart",
       "name": "Lachlan Murray Mctaggart"
     },
     {
-      "gender": "male",
       "id": "upper_gascoyne_shire_council/hamish_mctaggart",
       "name": "Hamish McTaggart"
     },
     {
-      "gender": "male",
       "id": "upper_gascoyne_shire_council/gregory_james_watters",
       "name": "Gregory James Watters"
     },
     {
-      "gender": "female",
       "id": "upper_gascoyne_shire_council/leane_alys_mckeough",
       "name": "Leane Alys Mckeough"
     },
     {
-      "gender": "male",
       "id": "upper_gascoyne_shire_council/james_william_caunt",
       "name": "James William Caunt"
     },
     {
-      "gender": "male",
       "id": "upper_gascoyne_shire_council/ross_john_collins",
       "name": "Ross John Collins"
     },
     {
-      "gender": "male",
       "id": "upper_gascoyne_shire_council/donald_raymond_hammarquist",
       "name": "Donald Raymond Hammarquist"
     },
     {
-      "gender": "male",
       "id": "victoria_park_town_council/trevor_stephen_vaughan",
       "name": "Trevor Stephen Vaughan"
     },
     {
-      "gender": "male",
       "id": "victoria_park_town_council/julian_james_jacobs",
       "name": "Julian James Jacobs"
     },
     {
-      "gender": "female",
       "id": "victoria_park_town_council/claire_nancy_anderson",
       "name": "Claire Nancy Anderson"
     },
     {
-      "gender": "male",
       "id": "victoria_park_town_council/mark_stephen_george_w_windram",
       "name": "Mark Stephen George W Windram"
     },
     {
-      "gender": "male",
       "id": "victoria_park_town_council/john_keith_hayes",
       "name": "John Keith Hayes"
     },
     {
-      "gender": "male",
       "id": "victoria_park_town_council/vincent_gerard_maxwell",
       "name": "Vincent Gerard Maxwell"
     },
     {
-      "gender": "female",
       "id": "victoria_park_town_council/jennifer_michelle_ammons_noble",
       "name": "Jennifer Michelle Ammons Noble"
     },
     {
-      "gender": "female",
       "id": "victoria_park_town_council/vicki_potter",
       "name": "Vicki Potter"
     },
     {
-      "gender": "male",
       "id": "victoria_park_town_council/brian_christopher_oliver",
       "name": "Brian Christopher Oliver"
     },
     {
-      "gender": "female",
       "id": "victoria_plains_shire_council/jacqui_corless-crowther",
       "name": "Jacqui Corless-Crowther"
     },
     {
-      "gender": "male",
       "id": "victoria_plains_shire_council/john_brennan",
       "name": "John Brennan"
     },
     {
-      "gender": "male",
       "id": "victoria_plains_shire_council/andrew_broadhurst",
       "name": "Andrew Broadhurst"
     },
     {
-      "gender": "male",
       "id": "victoria_plains_shire_council/david_smith",
       "name": "David Smith"
     },
     {
-      "gender": "female",
       "id": "victoria_plains_shire_council/stephanie_penn",
       "name": "Stephanie Penn"
     },
     {
-      "gender": "male",
       "id": "victoria_plains_shire_council/neville_clarke",
       "name": "Neville Clarke"
     },
     {
-      "gender": "male",
       "id": "victoria_plains_shire_council/james_joseph_(jim)_kelly",
       "name": "James Joseph (Jim) Kelly"
     },
     {
-      "gender": "female",
       "id": "victoria_plains_shire_council/pauline_carr",
       "name": "Pauline Carr"
     },
     {
-      "gender": "male",
       "id": "victoria_plains_shire_council/david_lovelock",
       "name": "David Lovelock"
     },
     {
       "email": "john.carey@vincent.wa.gov.au",
-      "gender": "male",
       "id": "vincent_city_council/john_carey",
       "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/john_carey.jpg",
       "name": "John Carey",
@@ -5923,7 +4830,6 @@
     },
     {
       "email": "cr.Cole@vincent.wa.gov.au",
-      "gender": "female",
       "id": "vincent_city_council/emma_michelle_cole",
       "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/emmacole.jpg",
       "name": "Emma Michelle Cole",
@@ -5940,7 +4846,6 @@
     },
     {
       "email": "cr.harley@vincent.wa.gov.au",
-      "gender": "female",
       "id": "vincent_city_council/roslyn_harley",
       "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/roslynharley.jpg",
       "name": "Roslyn Harley",
@@ -5957,7 +4862,6 @@
     },
     {
       "email": "cr.buckels@vincent.wa.gov.au",
-      "gender": "male",
       "id": "vincent_city_council/matthew_christopher_buckels",
       "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/mattbuckels.jpg",
       "name": "Matthew Christopher Buckels",
@@ -5974,7 +4878,6 @@
     },
     {
       "email": "cr.loden@vincent.wa.gov.au",
-      "gender": "male",
       "id": "vincent_city_council/daniel_ingman_loden",
       "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/loden_dan_-_preferred.jpg",
       "name": "Daniel Ingman Loden",
@@ -5991,7 +4894,6 @@
     },
     {
       "email": "cr.gontaszewski@vincent.wa.gov.au",
-      "gender": "female",
       "id": "vincent_city_council/susan_lee_gontaszewski",
       "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/gontaszewski_susan_-_preferred.jpg",
       "name": "Susan Lee Gontaszewski",
@@ -6008,7 +4910,6 @@
     },
     {
       "email": "cr.mcdonald@vincent.wa.gov.au",
-      "gender": "female",
       "id": "vincent_city_council/laine_courtney_mcdonald",
       "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/lainemcdonald.jpg",
       "name": "Laine Courtney Mcdonald",
@@ -6025,7 +4926,6 @@
     },
     {
       "email": "cr.topelberg@vincent.wa.gov.au",
-      "gender": "male",
       "id": "vincent_city_council/joshua_aaron_topelberg",
       "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/joshtopelberg.jpg",
       "name": "Joshua Aaron Topelberg",
@@ -6042,7 +4942,6 @@
     },
     {
       "email": "cr.murphy@vincent.wa.gov.au",
-      "gender": "male",
       "id": "vincent_city_council/james_benson_murphy",
       "image": "http://www.vincent.wa.gov.au/files/assets/public/your_council/councillorsdirectors/murphy_jimmy_-_preferred.jpg",
       "name": "James Benson Murphy",
@@ -6058,642 +4957,514 @@
       ]
     },
     {
-      "gender": "male",
       "id": "wagin_shire_council/phillip_blight",
       "name": "Phillip Blight"
     },
     {
-      "gender": "male",
       "id": "wagin_shire_council/dale_lloyd",
       "name": "Dale Lloyd"
     },
     {
-      "gender": "male",
       "id": "wagin_shire_council/cliff_john_brockwell",
       "name": "Cliff John Brockwell"
     },
     {
-      "gender": "female",
       "id": "wagin_shire_council/amanda_jane_howell",
       "name": "Amanda Jane Howell"
     },
     {
-      "gender": "male",
       "id": "wagin_shire_council/ron_walker",
       "name": "Ron Walker"
     },
     {
-      "gender": "male",
       "id": "wagin_shire_council/gerard_terance_hegarty",
       "name": "Gerard Terance Hegarty"
     },
     {
-      "gender": "male",
       "id": "wagin_shire_council/james_lachlan_campbell_ballantyne",
       "name": "James Lachlan Campbell Ballantyne"
     },
     {
-      "gender": "male",
       "id": "wagin_shire_council/jason_paul_reed",
       "name": "Jason Paul Reed"
     },
     {
-      "gender": "male",
       "id": "wagin_shire_council/greg_ball",
       "name": "Greg Ball"
     },
     {
-      "gender": "male",
       "id": "wagin_shire_council/ian_charles_cumming",
       "name": "Ian Charles Cumming"
     },
     {
-      "gender": "male",
       "id": "wagin_shire_council/geoff_west",
       "name": "Geoff West"
     },
     {
-      "gender": "male",
       "id": "wandering_shire_council/chad_ferguson",
       "name": "Chad Ferguson"
     },
     {
-      "gender": "female",
       "id": "wandering_shire_council/judith_price",
       "name": "Judith Price"
     },
     {
-      "gender": "female",
       "id": "wandering_shire_council/kim_stripe",
       "name": "Kim Stripe"
     },
     {
-      "gender": "male",
       "id": "wandering_shire_council/james_mcneil",
       "name": "James Mcneil"
     },
     {
-      "gender": "male",
       "id": "wandering_shire_council/brendan_whitely",
       "name": "Brendan Whitely"
     },
     {
-      "gender": "male",
       "id": "wandering_shire_council/wade_gowland",
       "name": "Wade Gowland"
     },
     {
-      "gender": "male",
       "id": "wandering_shire_council/bruce_dowsett",
       "name": "Bruce Dowsett"
     },
     {
-      "gender": "female",
       "id": "wanneroo_city_council/tracey_roberts",
       "name": "Tracey Roberts"
     },
     {
-      "gender": "female",
       "id": "wanneroo_city_council/dianne_joy_guise",
       "name": "Dianne Joy Guise"
     },
     {
-      "gender": "male",
       "id": "wanneroo_city_council/srecko_frank_cvitan",
       "name": "Srecko Frank Cvitan"
     },
     {
-      "gender": "female",
       "id": "wanneroo_city_council/samantha_jane_fenn",
       "name": "Samantha Jane Fenn"
     },
     {
-      "gender": "female",
       "id": "wanneroo_city_council/dorothy_may_newton",
       "name": "Dorothy May Newton"
     },
     {
-      "gender": "female",
       "id": "wanneroo_city_council/sabine_elisabeth_winton",
       "name": "Sabine Elisabeth Winton"
     },
     {
-      "gender": "female",
       "id": "wanneroo_city_council/linda_may_aitken",
       "name": "Linda May Aitken"
     },
     {
-      "gender": "male",
       "id": "wanneroo_city_council/russell_driver",
       "name": "Russell Driver"
     },
     {
-      "gender": "female",
       "id": "wanneroo_city_council/glynis_parker",
       "name": "Glynis Parker"
     },
     {
-      "gender": "female",
       "id": "wanneroo_city_council/natalie_maree_sangalli",
       "name": "Natalie Maree Sangalli"
     },
     {
-      "gender": "male",
       "id": "wanneroo_city_council/denis_john_hayden",
       "name": "Denis John Hayden"
     },
     {
-      "gender": "male",
       "id": "wanneroo_city_council/domenic_zappa",
       "name": "Domenic Zappa"
     },
     {
-      "gender": "male",
       "id": "wanneroo_city_council/van_huu_nguyen",
       "name": "Van Huu Nguyen"
     },
     {
-      "gender": "female",
       "id": "wanneroo_city_council/lara_simpkins",
       "name": "Lara Simpkins"
     },
     {
-      "gender": "male",
       "id": "wanneroo_city_council/brett_treby",
       "name": "Brett Treby"
     },
     {
-      "gender": "female",
       "id": "waroona_shire_council/patricia_anne_witney",
       "name": "Patricia Anne Witney"
     },
     {
-      "gender": "female",
       "id": "waroona_shire_council/christine_ann_germain",
       "name": "Christine Ann Germain"
     },
     {
-      "gender": "male",
       "id": "waroona_shire_council/craig_wright",
       "name": "Craig Wright"
     },
     {
-      "gender": "female",
       "id": "waroona_shire_council/laurie_jean_snell",
       "name": "Laurie Jean Snell"
     },
     {
-      "gender": "male",
       "id": "waroona_shire_council/john_anthony_mason",
       "name": "John Anthony Mason"
     },
     {
-      "gender": "male",
       "id": "waroona_shire_council/noel_hugh_joseph_dew",
       "name": "Noel Hugh Joseph Dew"
     },
     {
-      "gender": "male",
       "id": "waroona_shire_council/larry_russell_scott",
       "name": "Larry Russell Scott"
     },
     {
-      "gender": "male",
       "id": "waroona_shire_council/john_louis_salerian",
       "name": "John Louis Salerian"
     },
     {
-      "gender": "male",
       "id": "west_arthur_shire_council/neil_michael_manuel",
       "name": "Neil Michael Manuel"
     },
     {
-      "gender": "male",
       "id": "west_arthur_shire_council/raymond_brian_harrington",
       "name": "Raymond Brian Harrington"
     },
     {
-      "gender": "male",
       "id": "west_arthur_shire_council/kevin_james_king",
       "name": "Kevin James King"
     },
     {
-      "gender": "male",
       "id": "west_arthur_shire_council/michael_owen_meredith",
       "name": "Michael Owen Meredith"
     },
     {
-      "gender": "male",
       "id": "west_arthur_shire_council/rodney_arthur_hulse",
       "name": "Rodney Arthur Hulse"
     },
     {
-      "gender": "male",
       "id": "west_arthur_shire_council/andrew_john_marsden_clarke",
       "name": "Andrew John Marsden Clarke"
     },
     {
-      "gender": "female",
       "id": "west_arthur_shire_council/karlene_nyree_goss",
       "name": "Karlene Nyree Goss"
     },
     {
-      "gender": "female",
       "id": "westonia_shire_council/renae_sue_corsini",
       "name": "Renae Sue Corsini"
     },
     {
-      "gender": "male",
       "id": "westonia_shire_council/mervyn_louis_geier",
       "name": "Mervyn Louis Geier"
     },
     {
-      "gender": "male",
       "id": "westonia_shire_council/william_james_huxtable",
       "name": "William James Huxtable"
     },
     {
-      "gender": "male",
       "id": "westonia_shire_council/douglas_hermon",
       "name": "Douglas Hermon"
     },
     {
-      "gender": "female",
       "id": "westonia_shire_council/karin_maree_day",
       "name": "Karin Maree Day"
     },
     {
-      "gender": "male",
       "id": "westonia_shire_council/john_james_jefferys",
       "name": "John James Jefferys"
     },
     {
-      "gender": "female",
       "id": "wickepin_shire_council/geraldine_hinkley",
       "name": "Geraldine Hinkley"
     },
     {
-      "gender": "male",
       "id": "wickepin_shire_council/murray_grayden_lang",
       "name": "Murray Grayden Lang"
     },
     {
-      "gender": "male",
       "id": "wickepin_shire_council/ross_edwin_easton",
       "name": "Ross Edwin Easton"
     },
     {
-      "gender": "female",
       "id": "wickepin_shire_council/frances_may_allan",
       "name": "Frances May Allan"
     },
     {
-      "gender": "male",
       "id": "wickepin_shire_council/steven_martin",
       "name": "Steven Martin"
     },
     {
-      "gender": "female",
       "id": "wickepin_shire_council/julia_alexia_russell",
       "name": "Julia Alexia Russell"
     },
     {
-      "gender": "male",
       "id": "wickepin_shire_council/allan_george_lansdell",
       "name": "Allan George Lansdell"
     },
     {
-      "gender": "male",
       "id": "wickepin_shire_council/wesley_allan_astbury",
       "name": "Wesley Allan Astbury"
     },
     {
-      "gender": "male",
       "id": "williams_shire_council/gilbert_henry_medlen",
       "name": "Gilbert Henry Medlen"
     },
     {
-      "gender": "male",
       "id": "williams_shire_council/peter_colin_paterson",
       "name": "Peter Colin Paterson"
     },
     {
-      "gender": "male",
       "id": "williams_shire_council/richard_francis_johnstone",
       "name": "Richard Francis Johnstone"
     },
     {
-      "gender": "male",
       "id": "williams_shire_council/jarrad_wayne_logie",
       "name": "Jarrad Wayne Logie"
     },
     {
-      "gender": "female",
       "id": "williams_shire_council/natalie_elizabeth_major",
       "name": "Natalie Elizabeth Major"
     },
     {
-      "gender": "male",
       "id": "williams_shire_council/gregory_michael_cavanagh",
       "name": "Gregory Michael Cavanagh"
     },
     {
-      "gender": "male",
       "id": "williams_shire_council/john_edward_stanyford_cowcher",
       "name": "John Edward Stanyford Cowcher"
     },
     {
-      "gender": "female",
       "id": "williams_shire_council/moya_carne",
       "name": "Moya Carne"
     },
     {
-      "gender": "male",
       "id": "williams_shire_council/david_stanley_earnshaw",
       "name": "David Stanley Earnshaw"
     },
     {
-      "gender": "male",
       "id": "wiluna_shire_council/jim_quadrio",
       "name": "Jim Quadrio"
     },
     {
-      "gender": "female",
       "id": "wiluna_shire_council/stacey_eva_petterson",
       "name": "Stacey Eva Petterson"
     },
     {
-      "gender": "female",
       "id": "wiluna_shire_council/regina_lorraine_newland",
       "name": "Regina Lorraine Newland"
     },
     {
-      "gender": "male",
       "id": "wiluna_shire_council/graham_harris",
       "name": "Graham Harris"
     },
     {
-      "gender": "female",
       "id": "wiluna_shire_council/norma_emily_ward",
       "name": "Norma Emily Ward"
     },
     {
-      "gender": "female",
       "id": "wiluna_shire_council/chris_webb",
       "name": "Chris Webb"
     },
     {
-      "gender": "female",
       "id": "wiluna_shire_council/caroline_elisabeth_thomas",
       "name": "Caroline Elisabeth Thomas"
     },
     {
-      "gender": "male",
       "id": "wongan-ballidu_shire_council/peter_james_macnamara",
       "name": "Peter James Macnamara"
     },
     {
-      "gender": "male",
       "id": "wongan-ballidu_shire_council/bradley_john_west",
       "name": "Bradley John West"
     },
     {
-      "gender": "male",
       "id": "wongan-ballidu_shire_council/jon_andrew_hasson",
       "name": "Jon Andrew Hasson"
     },
     {
-      "gender": "male",
       "id": "wongan-ballidu_shire_council/william_richard_morgan",
       "name": "William Richard Morgan"
     },
     {
-      "gender": "male",
       "id": "wongan-ballidu_shire_council/hugh_anthony_barrett-lennard",
       "name": "Hugh Anthony Barrett-Lennard"
     },
     {
-      "gender": "female",
       "id": "wongan-ballidu_shire_council/alfreda_helen_lyon",
       "name": "Alfreda Helen Lyon"
     },
     {
-      "gender": "female",
       "id": "wongan-ballidu_shire_council/norma_winifred_walton",
       "name": "Norma Winifred Walton"
     },
     {
-      "gender": "male",
       "id": "woodanilling_shire_council/trevor_young",
       "name": "Trevor Young"
     },
     {
-      "gender": "male",
       "id": "woodanilling_shire_council/tim_brown",
       "name": "Tim Brown"
     },
     {
-      "gender": "male",
       "id": "woodanilling_shire_council/hugh_russel_thomson",
       "name": "Hugh Russel Thomson"
     },
     {
-      "gender": "female",
       "id": "woodanilling_shire_council/marjorey_eunice_winstanley",
       "name": "Marjorey Eunice Winstanley"
     },
     {
-      "gender": "male",
       "id": "woodanilling_shire_council/peter_morrell",
       "name": "Peter Morrell"
     },
     {
-      "gender": "male",
       "id": "woodanilling_shire_council/graham_peter_eckersley",
       "name": "Graham Peter Eckersley"
     },
     {
-      "gender": "male",
       "id": "wyalkatchem_shire_council/campbell_andrew_jones",
       "name": "Campbell Andrew Jones"
     },
     {
-      "gender": "female",
       "id": "wyalkatchem_shire_council/lynsey_kim_gawley",
       "name": "Lynsey Kim Gawley"
     },
     {
-      "gender": "male",
       "id": "wyalkatchem_shire_council/owen_john_edwin_garner",
       "name": "Owen John Edwin Garner"
     },
     {
-      "gender": "male",
       "id": "wyalkatchem_shire_council/frederick_allan_butt",
       "name": "Frederick Allan Butt"
     },
     {
-      "gender": "male",
       "id": "wyalkatchem_shire_council/quentin_ross_davies",
       "name": "Quentin Ross Davies"
     },
     {
-      "gender": "male",
       "id": "wyalkatchem_shire_council/steven_gamble",
       "name": "Steven Gamble"
     },
     {
-      "gender": "female",
       "id": "wyalkatchem_shire_council/emma_caris_holdsworth",
       "name": "Emma Caris Holdsworth"
     },
     {
-      "gender": "female",
       "id": "wyndham-east_kimberley_shire_council/sophie_cooke",
       "name": "Sophie Cooke"
     },
     {
-      "gender": "female",
       "id": "wyndham-east_kimberley_shire_council/emily_elizabeth_bolto",
       "name": "Emily Elizabeth Bolto"
     },
     {
-      "gender": "male",
       "id": "wyndham-east_kimberley_shire_council/darren_spackman",
       "name": "Darren Spackman"
     },
     {
-      "gender": "female",
       "id": "wyndham-east_kimberley_shire_council/naomi_elizabeth_perry",
       "name": "Naomi Elizabeth Perry"
     },
     {
-      "gender": "female",
       "id": "wyndham-east_kimberley_shire_council/alma_violet_petherick",
       "name": "Alma Violet Petherick"
     },
     {
-      "gender": "female",
       "id": "wyndham-east_kimberley_shire_council/simone_maree_rushby",
       "name": "Simone Maree Rushby"
     },
     {
-      "gender": "male",
       "id": "wyndham-east_kimberley_shire_council/beau_robinson",
       "name": "Beau Robinson"
     },
     {
-      "gender": "male",
       "id": "wyndham-east_kimberley_shire_council/keith_wright",
       "name": "Keith Wright"
     },
     {
-      "gender": "female",
       "id": "wyndham-east_kimberley_shire_council/beatrice_jane_parker",
       "name": "Beatrice Jane Parker"
     },
     {
-      "gender": "male",
       "id": "yalgoo_shire_council/raul_valenzuela",
       "name": "Raul Valenzuela"
     },
     {
-      "gender": "female",
       "id": "yalgoo_shire_council/joanne_kanny",
       "name": "Joanne Kanny"
     },
     {
-      "gender": "male",
       "id": "yalgoo_shire_council/adam_brian_fawkes",
       "name": "Adam Brian Fawkes"
     },
     {
-      "gender": "male",
       "id": "yalgoo_shire_council/robert_william_grinham",
       "name": "Robert William Grinham"
     },
     {
-      "gender": "male",
       "id": "yalgoo_shire_council/neil_albert_grinham",
       "name": "Neil Albert Grinham"
     },
     {
-      "gender": "male",
       "id": "yalgoo_shire_council/percy_john_lawson",
       "name": "Percy John Lawson"
     },
     {
-      "gender": "male",
       "id": "yilgarn_shire_council/david_john_pasini",
       "name": "David John Pasini"
     },
     {
-      "gender": "female",
       "id": "yilgarn_shire_council/kim_leanne_chrisp",
       "name": "Kim Leanne Chrisp"
     },
     {
-      "gender": "male",
       "id": "yilgarn_shire_council/bryan_close",
       "name": "Bryan Close"
     },
     {
-      "gender": "female",
       "id": "yilgarn_shire_council/julie_della_bosca",
       "name": "Julie Della Bosca"
     },
     {
-      "gender": "female",
       "id": "yilgarn_shire_council/onida_tania_truran",
       "name": "Onida Tania Truran"
     },
     {
-      "gender": "male",
       "id": "yilgarn_shire_council/wayne_della_bosca",
       "name": "Wayne Della Bosca"
     },
     {
-      "gender": "male",
       "id": "yilgarn_shire_council/philip_spencer_nolan",
       "name": "Philip Spencer Nolan"
     },
     {
-      "gender": "male",
       "id": "york_shire_council/david_wallace",
       "name": "David Wallace"
     },
     {
-      "gender": "female",
       "id": "york_shire_council/patricia_walters",
       "name": "Patricia Walters"
     },
     {
-      "gender": "female",
       "id": "york_shire_council/heather_saint",
       "name": "Heather Saint"
     },
     {
-      "gender": "female",
       "id": "york_shire_council/jane_ellen_ferro",
       "name": "Jane Ellen Ferro"
     },
     {
-      "gender": "male",
       "id": "york_shire_council/trevor_william_john_randell",
       "name": "Trevor William John Randell"
     },
     {
-      "gender": "female",
       "id": "york_shire_council/denese_eileen_smythe",
       "name": "Denese Eileen Smythe"
     },
     {
-      "gender": "female",
       "id": "york_shire_council/pamela_helen_heaton",
       "name": "Pamela Helen Heaton"
     },
     {
-      "gender": "male",
       "id": "york_shire_council/matthew_reid",
       "name": "Matthew Reid"
     }
@@ -14930,8 +13701,7 @@
   "warnings": {
     "skipped": [
       "council_website",
-      "ward",
-      "phone_mobile"
+      "ward"
     ]
   }
 }

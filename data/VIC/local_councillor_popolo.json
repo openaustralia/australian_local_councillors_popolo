@@ -9742,10 +9742,7 @@
   "warnings": {
     "skipped": [
       "council_website",
-      "ward",
-      "phone_mobile",
-      "phone_landline",
-      "phone_fax"
+      "ward"
     ]
   }
 }
