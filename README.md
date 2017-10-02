@@ -9,6 +9,8 @@ which was originally created for [EveryPolitician](http://everypolitician.org/).
 In the [`data` directory](https://github.com/openaustralia/australian_local_councillors_popolo/tree/master/data) there is a `local_councillors.csv` and a `local_councillor_popolo.json` file for each state.
 Changes are made to the CSV file, and then the Popolo JSON is generated using the process described in the [Updates section](#updates).
 
+There are no files for Norther Territory, or Australian Capital Territory, because those states don't have councillors.
+
 ## Updates
 
 To update or add to this data follow these steps:

@@ -9,5 +9,5 @@ require_relative "councillor_popolo/csv_merger"
 require_relative "councillor_popolo/errors"
 
 module CouncillorPopolo
-  AUSTRALIAN_STATES = ["act","nsw", "nt", "qld", "sa", "tas", "vic", "wa"]
+  AUSTRALIAN_STATES = ["nsw", "qld", "sa", "tas", "vic", "wa"]
 end
