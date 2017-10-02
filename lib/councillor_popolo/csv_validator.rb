@@ -31,7 +31,7 @@ module CouncillorPopolo
       if csv.headers.eql? STANDARD_HEADERS
         true
       else
-        error_message = "CSV has non standard headers #{csv.headers}, should be #{STANDARD_HEADERS}"
+        error_message = "CSV #{path} has non standard headers #{csv.headers}, should be #{STANDARD_HEADERS}"
         raise NonStandardHeadersError, error_message
       end
     end

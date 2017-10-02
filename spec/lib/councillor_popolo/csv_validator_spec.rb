@@ -47,7 +47,7 @@ describe CouncillorPopolo::CSVValidator do
       it "raises an error" do
         validator = CouncillorPopolo::CSVValidator.new(csv_with_bad_headers_path)
 
-        expected_error_message = "CSV has non standard headers [\"foo\", \"bar\", \"baz\", \"zapadooo\", nil, nil, nil, nil, nil, nil, nil, nil], should be [\"name\", \"start_date\", \"end_date\", \"executive\", \"council\", \"council website\", \"id\", \"email\", \"image\", \"party\", \"source\", \"ward\"]"
+        expected_error_message = "CSV ./spec/fixtures/local_councillors_changes_with_bad_headers.csv has non standard headers [\"foo\", \"bar\", \"baz\", \"zapadooo\", nil, nil, nil, nil, nil, nil, nil, nil], should be [\"name\", \"start_date\", \"end_date\", \"executive\", \"council\", \"council website\", \"id\", \"email\", \"image\", \"party\", \"source\", \"ward\"]"
         expect { validator.has_standard_headers? }.to raise_error CouncillorPopolo::NonStandardHeadersError, expected_error_message
       end
     end
