@@ -11,12 +11,6 @@ module CouncillorPopolo
         json = JSON.pretty_generate(Popolo::CSV.new(csv_path_for_state).data)
 
         File.open(json_path_for_state, "w") { |f| f << json }
-      else
-        message = duplicate_councillor_ids_in_state_csv.map do |id|
-          "There are multiple rows with the id #{id} in #{csv_path_for_state}"
-        end.join(", ")
-
-        raise DuplicateCouncillorsError, message
       end
     end
 

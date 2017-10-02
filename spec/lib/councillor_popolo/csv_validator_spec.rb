@@ -70,12 +70,16 @@ describe CouncillorPopolo::CSVValidator do
 
       before do
         allow(validator).to(
-          receive(:duplicate_councillor_ids).and_return ["foo/bar", "baz/fiz"]
+          receive(:duplicate_councillor_ids).and_return ["foo/bar"]
         )
       end
 
       subject { validator.has_unique_councillor_ids? }
-      it { expect(subject).to be false }
+
+      it "raises an error" do
+        expected_error_message = "There are multiple rows with the id foo/bar in spec/fixtures/local_councillors_with_duplicate.csv"
+        expect { subject }.to raise_error CouncillorPopolo::DuplicateCouncillorsError, expected_error_message
+      end
     end
 
     context "when the CSV does not contains contain multiple councillors with the same id" do

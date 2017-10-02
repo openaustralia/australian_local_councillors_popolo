@@ -67,7 +67,7 @@ describe CouncillorPopolo::Processor do
       end
 
       it "it returns false" do
-        expect(processor.state_csv_valid?).to be false
+        expect{ processor.state_csv_valid? }.to raise_error CouncillorPopolo::DuplicateCouncillorsError
       end
     end
 

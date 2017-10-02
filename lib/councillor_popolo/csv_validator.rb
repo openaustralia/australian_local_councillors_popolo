@@ -16,8 +16,10 @@ module CouncillorPopolo
     ]
 
     attr_reader :csv
+    attr_reader :path
 
     def initialize(path)
+      @path = path
       @csv = CSV.read(path, headers: :true)
     end
 
@@ -35,7 +37,15 @@ module CouncillorPopolo
     end
 
     def has_unique_councillor_ids?
-      duplicate_councillor_ids.none?
+      if duplicate_councillor_ids.none?
+        true
+      else
+        message = duplicate_councillor_ids.map do |id|
+          "There are multiple rows with the id #{id} in #{path}"
+        end.join(", ")
+
+        raise DuplicateCouncillorsError, message
+      end
     end
 
     def duplicate_councillor_ids
