@@ -22,12 +22,12 @@ module CouncillorPopolo
 
     def state_csv_valid?
       csv = CSV.read(csv_path_for_state, headers: :first_row)
-      CouncillorPopolo::CSVValidator.has_unique_councillor_ids?(csv)
+      CouncillorPopolo::CSVValidator.new(csv).has_unique_councillor_ids?
     end
 
     def duplicate_councillor_ids_in_state_csv
       csv = CSV.read(csv_path_for_state, headers: :first_row)
-      CouncillorPopolo::CSVValidator.duplicate_councillor_ids_in_csv(csv)
+      CouncillorPopolo::CSVValidator.new(csv).duplicate_councillor_ids
     end
 
     def json_path_for_state

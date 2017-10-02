@@ -112,13 +112,21 @@ describe CouncillorPopolo::CSVMerger do
     end
   end
 
+  # FIXME: You should be able to confirm the validator is being run
+  #        without using expect_any_instance_of. This is a code smell.
   describe "#changes_csv_valid?" do
-    it "runs the changes csv through the validator" do
-      changes_path = "changes/path"
+    let(:changes_path) { "./spec/fixtures/changes.csv" }
 
-      expect(CouncillorPopolo::CSVValidator).to(
-        receive(:validate_from_path).with(changes_path)
-      )
+    before do
+      CSV.open(changes_path, "w") do |csv|
+        csv << ["row"]
+      end
+    end
+
+    after { File.delete(changes_path) }
+
+    it "runs the changes csv through the validator" do
+      expect_any_instance_of(CouncillorPopolo::CSVValidator).to receive(:validate)
 
       CouncillorPopolo::CSVMerger.new(
         master_csv_path: "master/path",

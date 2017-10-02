@@ -15,19 +15,30 @@ module CouncillorPopolo
       "ward"
     ]
 
-    def self.validate(csv)
-      self.has_standard_headers?(csv)
+    attr_reader :csv
+
+    def initialize(csv)
+      @csv = csv
     end
 
-    def self.validate_from_path(path)
-      self.validate(CSV.read(path, headers: true))
+    def validate
+      has_standard_headers?
     end
 
-    def self.has_unique_councillor_ids?(csv)
-      self.duplicate_councillor_ids_in_csv(csv).none?
+    def has_standard_headers?
+      if csv.headers.eql? STANDARD_HEADERS
+        true
+      else
+        error_message = "CSV has non standard headers #{csv.headers}, should be #{STANDARD_HEADERS}"
+        raise NonStandardHeadersError, error_message
+      end
     end
 
-    def self.duplicate_councillor_ids_in_csv(csv)
+    def has_unique_councillor_ids?
+      duplicate_councillor_ids.none?
+    end
+
+    def duplicate_councillor_ids
       ids = []
 
       if csv.values_at("id").count != csv.values_at("id").uniq.count
@@ -37,15 +48,6 @@ module CouncillorPopolo
       end
 
       ids
-    end
-
-    def self.has_standard_headers?(csv)
-      if csv.headers.eql? STANDARD_HEADERS
-        true
-      else
-        error_message = "CSV has non standard headers #{csv.headers}, should be #{STANDARD_HEADERS}"
-        raise NonStandardHeadersError, error_message
-      end
     end
   end
 end

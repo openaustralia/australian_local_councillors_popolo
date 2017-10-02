@@ -48,7 +48,8 @@ module CouncillorPopolo
     end
 
     def changes_csv_valid?
-      CouncillorPopolo::CSVValidator.validate_from_path(changes_csv_path)
+      csv = CSV.read(changes_csv_path, headers: true)
+      CouncillorPopolo::CSVValidator.new(csv).validate
     end
   end
 end
