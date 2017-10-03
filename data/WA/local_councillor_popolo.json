@@ -3885,39 +3885,39 @@
       "name": "Lisa Smith"
     },
     {
-      "id": "perth_city_council/lisa_michelle_scaffidi",
+      "id": "city_of_perth/lisa_michelle_scaffidi",
       "name": "Lisa Michelle Scaffidi"
     },
     {
-      "id": "perth_city_council/jemma_marie_green",
+      "id": "city_of_perth/jemma_marie_green",
       "name": "Jemma Marie Green"
     },
     {
-      "id": "perth_city_council/dimitrios_athanasios_limnios",
+      "id": "city_of_perth/dimitrios_athanasios_limnios",
       "name": "Dimitrios Athanasios Limnios"
     },
     {
-      "id": "perth_city_council/reece_james_harley",
+      "id": "city_of_perth/reece_james_harley",
       "name": "Reece James Harley"
     },
     {
-      "id": "perth_city_council/lily_chen",
+      "id": "city_of_perth/lily_chen",
       "name": "Lily Chen"
     },
     {
-      "id": "perth_city_council/janet_elizabeth_davidson",
+      "id": "city_of_perth/janet_elizabeth_davidson",
       "name": "Janet Elizabeth Davidson"
     },
     {
-      "id": "perth_city_council/judy_sabina_mcevoy",
+      "id": "city_of_perth/judy_sabina_mcevoy",
       "name": "Judy Sabina Mcevoy"
     },
     {
-      "id": "perth_city_council/jimmy_adamos",
+      "id": "city_of_perth/jimmy_adamos",
       "name": "Jimmy Adamos"
     },
     {
-      "id": "perth_city_council/yit-kee_yong",
+      "id": "city_of_perth/yit-kee_yong",
       "name": "Yit-Kee Yong"
     },
     {
@@ -5981,8 +5981,8 @@
       "classification": "legislature"
     },
     {
-      "id": "legislature/perth_city_council",
-      "name": "Perth City Council",
+      "id": "legislature/city_of_perth",
+      "name": "City of Perth",
       "classification": "legislature"
     },
     {
@@ -11608,56 +11608,56 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "perth_city_council/lisa_michelle_scaffidi",
-      "organization_id": "legislature/perth_city_council",
+      "person_id": "city_of_perth/lisa_michelle_scaffidi",
+      "organization_id": "legislature/city_of_perth",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "perth_city_council/jemma_marie_green",
-      "organization_id": "legislature/perth_city_council",
+      "person_id": "city_of_perth/jemma_marie_green",
+      "organization_id": "legislature/city_of_perth",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "perth_city_council/dimitrios_athanasios_limnios",
-      "organization_id": "legislature/perth_city_council",
+      "person_id": "city_of_perth/dimitrios_athanasios_limnios",
+      "organization_id": "legislature/city_of_perth",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "perth_city_council/reece_james_harley",
-      "organization_id": "legislature/perth_city_council",
+      "person_id": "city_of_perth/reece_james_harley",
+      "organization_id": "legislature/city_of_perth",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "perth_city_council/lily_chen",
-      "organization_id": "legislature/perth_city_council",
+      "person_id": "city_of_perth/lily_chen",
+      "organization_id": "legislature/city_of_perth",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "perth_city_council/janet_elizabeth_davidson",
-      "organization_id": "legislature/perth_city_council",
+      "person_id": "city_of_perth/janet_elizabeth_davidson",
+      "organization_id": "legislature/city_of_perth",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "perth_city_council/judy_sabina_mcevoy",
-      "organization_id": "legislature/perth_city_council",
+      "person_id": "city_of_perth/judy_sabina_mcevoy",
+      "organization_id": "legislature/city_of_perth",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "perth_city_council/jimmy_adamos",
-      "organization_id": "legislature/perth_city_council",
+      "person_id": "city_of_perth/jimmy_adamos",
+      "organization_id": "legislature/city_of_perth",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "perth_city_council/yit-kee_yong",
-      "organization_id": "legislature/perth_city_council",
+      "person_id": "city_of_perth/yit-kee_yong",
+      "organization_id": "legislature/city_of_perth",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
@@ -13642,8 +13642,8 @@
       "role": "Mayor"
     },
     {
-      "person_id": "perth_city_council/lisa_michelle_scaffidi",
-      "organization_id": "legislature/perth_city_council",
+      "person_id": "city_of_perth/lisa_michelle_scaffidi",
+      "organization_id": "legislature/city_of_perth",
       "role": "Mayor"
     },
     {
