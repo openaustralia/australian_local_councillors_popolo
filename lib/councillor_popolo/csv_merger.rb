@@ -26,7 +26,9 @@ module CouncillorPopolo
               new_matching_row = changes_csv.find {|row| row["id"].eql?(input_master_csv_row["id"])}
 
               input_master_csv_row.each do |key, value|
-                input_master_csv_row[key] = new_matching_row[key] unless new_matching_row[key].empty?
+                unless new_matching_row[key].nil? || new_matching_row[key].empty?
+                  input_master_csv_row[key] = new_matching_row[key]
+                end
               end
 
               # Remove the row
