@@ -45,7 +45,7 @@ module CouncillorPopolo
         end
 
         # overwrite the existing file
-        File.open(master_csv_path, "w") {|file| file.write(new_csv_string ) }
+        nil if File.open(master_csv_path, "w") {|file| file.write(new_csv_string ) }
       end
     end
 
