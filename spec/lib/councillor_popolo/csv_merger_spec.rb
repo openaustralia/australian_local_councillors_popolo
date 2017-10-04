@@ -11,6 +11,39 @@ describe CouncillorPopolo::CSVMerger do
       to raise_error(ArgumentError, "missing keyword: changes_csv_path")
   end
 
+  describe "#merge_from_remote_csv" do
+    let(:master_csv_path) { "./spec/fixtures/local_councillors_master.csv" }
+    let(:csv_headers) { ["name", "start_date", "end_date", "executive", "council", "council_website", "id", "email", "image", "party", "source", "ward"] }
+    let(:pre_existing_councillor_row) { ["Julia Chessell", "", "", "", "Foo City Council", "http://www.foo.nsw.gov.au", "foo_city_council/julia_chessell", "jches@foocity.nsw.gov.au", "http://www.foo.nsw.gov.au/__data/assets/image/0018/11547/julia.jpg", "Independent", "http://www.foo.nsw.gov.au/inside-foo/about-council/councillors", ""] }
+
+    around do |example|
+      seven_days_in_seconds = 604800
+      VCR.use_cassette('planningalerts_api', record: :new_episodes, re_record_interval: seven_days_in_seconds) do
+        example.run
+      end
+    end
+
+    before do
+      CSV.open(master_csv_path, "w") do |csv|
+        csv << csv_headers
+        csv << pre_existing_councillor_row
+      end
+    end
+
+    after do
+      File.delete(master_csv_path)
+    end
+
+    it "merges the councillors in the remote csv into the master csv" do
+      CouncillorPopolo::CSVMerger.merge_from_remote_csv(
+        master_csv_path: master_csv_path,
+        changes_csv_url: "https://www.planningalerts.org.au/authorities/perth/councillor_contributions/4.csv"
+      )
+
+      expect(CSV.read(master_csv_path, headers: true).count).to eql 10
+    end
+  end
+
   describe "#merge" do
     let(:master_csv_path) { "./spec/fixtures/local_councillors_master.csv" }
     let(:changes_csv_path) { "./spec/fixtures/local_councillors_changes.csv" }

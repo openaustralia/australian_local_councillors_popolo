@@ -1,3 +1,5 @@
+require 'vcr'
+
 RSpec.configure do |config|
   # Run specs in random order to surface order dependencies. If you find an
   # order dependency and want to debug it, you can fix the order by providing
@@ -10,4 +12,9 @@ RSpec.configure do |config|
   # test failures related to randomization by passing the same `--seed` value
   # as the one that triggered the failure.
   Kernel.srand config.seed
+end
+
+VCR.configure do |config|
+  config.cassette_library_dir = "./spec/fixtures/vcr_cassettes"
+  config.hook_into :webmock
 end

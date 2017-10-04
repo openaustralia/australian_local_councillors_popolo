@@ -1,0 +1,2 @@
+# ignore cassettes so that the real API is regularly tested
+spec/fixtures/vcr_cassettes/

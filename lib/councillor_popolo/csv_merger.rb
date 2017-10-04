@@ -1,9 +1,29 @@
 require('csv')
+require('rest-client')
 
 module CouncillorPopolo
   class CSVMerger
     attr_reader :master_csv_path
     attr_reader :changes_csv_path
+
+    # TODO: You should probably be able to call this on the object.
+    def self.merge_from_remote_csv(master_csv_path:, changes_csv_url:)
+      Dir.mkdir("./tmp") unless Dir.exists?("./tmp")
+
+      request = RestClient.get(changes_csv_url)
+      file_name = request.headers[:content_disposition].split('"').last
+
+      local_changes_file = File.open("./tmp/#{file_name}", "w") do |f|
+        f << request.body
+      end
+
+      self.new(
+        master_csv_path: master_csv_path,
+        changes_csv_path: local_changes_file.path
+      ).merge
+
+      nil if File.delete(local_changes_file.path)
+    end
 
     def initialize(master_csv_path:, changes_csv_path:)
       @master_csv_path = master_csv_path
