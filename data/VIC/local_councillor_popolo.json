@@ -1332,6 +1332,7 @@
       "name": "Lorraine Learmonth"
     },
     {
+      "email": "MDelahunty@gleneira.vic.gov.au",
       "id": "city_of_glen_eira/mary_delahunty",
       "name": "Mary Delahunty"
     },
@@ -1344,6 +1345,7 @@
       "name": "Thomas Sounness"
     },
     {
+      "email": "MEsakoff@gleneira.vic.gov.au",
       "id": "city_of_glen_eira/margaret_esakoff",
       "name": "Margaret Esakoff"
     },
@@ -1356,6 +1358,7 @@
       "name": "Neil Pilling"
     },
     {
+      "email": "JHyams@gleneira.vic.gov.au",
       "id": "city_of_glen_eira/jamie_hyams",
       "name": "Jamie Hyams"
     },
@@ -1364,6 +1367,7 @@
       "name": "Oscar Lobo"
     },
     {
+      "email": "JMagee@gleneira.vic.gov.au",
       "id": "city_of_glen_eira/jim_magee",
       "name": "Jim Magee"
     },
@@ -4720,6 +4724,31 @@
     {
       "id": "yarriambiack_shire_council/kylie_zanker",
       "name": "Kylie Zanker"
+    },
+    {
+      "email": "JSilver@gleneira.vic.gov.au",
+      "id": "city_of_glen_eira/joel_silver",
+      "name": "Joel Silver"
+    },
+    {
+      "email": "DSztrajt@gleneira.vic.gov.au",
+      "id": "city_of_glen_eira/dan_sztrajt",
+      "name": "Dan Sztrajt"
+    },
+    {
+      "email": "CDavey@gleneira.vic.gov.au",
+      "id": "city_of_glen_eira/clare_davey",
+      "name": "Clare Davey"
+    },
+    {
+      "email": "TAthanasopoulos@gleneira.vic.gov.au",
+      "id": "city_of_glen_eira/tony_athanasopoulos",
+      "name": "Tony Athanasopoulos"
+    },
+    {
+      "email": "NTaylor@gleneira.vic.gov.au",
+      "id": "city_of_glen_eira/nina_taylor",
+      "name": "Nina Taylor"
     }
   ],
   "organizations": [
@@ -9299,6 +9328,36 @@
     {
       "person_id": "yarriambiack_shire_council/kylie_zanker",
       "organization_id": "legislature/yarriambiack_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "city_of_glen_eira/joel_silver",
+      "organization_id": "legislature/city_of_glen_eira",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "city_of_glen_eira/dan_sztrajt",
+      "organization_id": "legislature/city_of_glen_eira",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "city_of_glen_eira/clare_davey",
+      "organization_id": "legislature/city_of_glen_eira",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "city_of_glen_eira/tony_athanasopoulos",
+      "organization_id": "legislature/city_of_glen_eira",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "city_of_glen_eira/nina_taylor",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
