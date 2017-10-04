@@ -23,6 +23,24 @@ To update or add to this data follow these steps:
 6. Submit a pull request with your changes with an [explanation](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
    of what they are and why you have made them.
 
+## Updating the data from a remote CSV file
+
+You can also update the data from a remote CSV file, such as PlanningAlerts
+local councillor data contributions API.
+
+Run the `update_state_from_remote_csv` Rake task and pass in the state and URL for the csv :
+
+```
+> bundle exec rake update_state_from_remote_csv[vic,https://www.planningalerts.org.au/authorities/205/councillor_contributions/5.csv]
+Requesting CSV from https://www.planningalerts.org.au/authorities/205/councillor_contributions/5.csv
+Updating VIC popolo data
+```
+
+You can now inspect the changes with `git diff`. Are all the councillors you expect to see there?
+
+Submit a pull request with your changes with an [explanation](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
+of what they are and why you have made them.
+
 ## When councillors come and go
 
 As the years come and go, so to do the people we elect as our local councillors.
