@@ -3885,10 +3885,12 @@
       "name": "Lisa Smith"
     },
     {
+      "email": "lord.mayor@cityofperth.wa.gov.au",
       "id": "city_of_perth/lisa-m_scaffidi",
       "name": "Lisa-M Scaffidi"
     },
     {
+      "email": "jemma.green@cityofperth.wa.gov.au",
       "id": "city_of_perth/jemma_green",
       "name": "Jemma Green"
     },
@@ -3897,26 +3899,32 @@
       "name": "Dimitrios Athanasios Limnios"
     },
     {
+      "email": "reece.harley@cityofperth.wa.gov.au",
       "id": "city_of_perth/reece_harley",
       "name": "Reece Harley"
     },
     {
+      "email": "lily.chen@cityofperth.wa.gov.au",
       "id": "city_of_perth/lily_chen",
       "name": "Lily Chen"
     },
     {
+      "email": "janet.davidson@cityofperth.wa.gov.au",
       "id": "city_of_perth/janet_davidson",
       "name": "Janet Davidson"
     },
     {
+      "email": "judy.mcevoy@cityofperth.wa.gov.au",
       "id": "city_of_perth/judy_mcevoy",
-      "name": "Judy Mcevoy"
+      "name": "Judy McEvoy"
     },
     {
+      "email": "jim.adamos@cityofperth.wa.gov.au",
       "id": "city_of_perth/jim_adamos",
       "name": "Jim Adamos"
     },
     {
+      "email": "Keith.Yong@cityofperth.wa.gov.au",
       "id": "city_of_perth/keith_yong",
       "name": "Keith Yong"
     },
@@ -5467,6 +5475,11 @@
     {
       "id": "york_shire_council/matthew_reid",
       "name": "Matthew Reid"
+    },
+    {
+      "email": "james.limnios@cityofperth.wa.gov.au",
+      "id": "city_of_perth/james_limnios",
+      "name": "James Limnios"
     }
   ],
   "organizations": [
@@ -13548,6 +13561,12 @@
     {
       "person_id": "york_shire_council/matthew_reid",
       "organization_id": "legislature/york_shire_council",
+      "role": "councillor",
+      "on_behalf_of_id": "party/unknown"
+    },
+    {
+      "person_id": "city_of_perth/james_limnios",
+      "organization_id": "legislature/city_of_perth",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
