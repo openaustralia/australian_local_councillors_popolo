@@ -1332,39 +1332,39 @@
       "name": "Lorraine Learmonth"
     },
     {
-      "id": "glen_eira_city_council/mary_delahunty",
+      "id": "city_of_glen_eira/mary_delahunty",
       "name": "Mary Delahunty"
     },
     {
-      "id": "glen_eira_city_council/michael_lipshutz",
+      "id": "city_of_glen_eira/michael_lipshutz",
       "name": "Michael Lipshutz"
     },
     {
-      "id": "glen_eira_city_council/thomas_sounness",
+      "id": "city_of_glen_eira/thomas_sounness",
       "name": "Thomas Sounness"
     },
     {
-      "id": "glen_eira_city_council/margaret_esakoff",
+      "id": "city_of_glen_eira/margaret_esakoff",
       "name": "Margaret Esakoff"
     },
     {
-      "id": "glen_eira_city_council/karina_okotel",
+      "id": "city_of_glen_eira/karina_okotel",
       "name": "Karina Okotel"
     },
     {
-      "id": "glen_eira_city_council/neil_pilling",
+      "id": "city_of_glen_eira/neil_pilling",
       "name": "Neil Pilling"
     },
     {
-      "id": "glen_eira_city_council/jamie_hyams",
+      "id": "city_of_glen_eira/jamie_hyams",
       "name": "Jamie Hyams"
     },
     {
-      "id": "glen_eira_city_council/oscar_lobo",
+      "id": "city_of_glen_eira/oscar_lobo",
       "name": "Oscar Lobo"
     },
     {
-      "id": "glen_eira_city_council/jim_magee",
+      "id": "city_of_glen_eira/jim_magee",
       "name": "Jim Magee"
     },
     {
@@ -4824,8 +4824,8 @@
       "classification": "legislature"
     },
     {
-      "id": "legislature/glen_eira_city_council",
-      "name": "Glen Eira City Council",
+      "id": "legislature/city_of_glen_eira",
+      "name": "City of Glen Eira",
       "classification": "legislature"
     },
     {
@@ -6278,56 +6278,56 @@
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "glen_eira_city_council/mary_delahunty",
-      "organization_id": "legislature/glen_eira_city_council",
+      "person_id": "city_of_glen_eira/mary_delahunty",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "glen_eira_city_council/michael_lipshutz",
-      "organization_id": "legislature/glen_eira_city_council",
+      "person_id": "city_of_glen_eira/michael_lipshutz",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "glen_eira_city_council/thomas_sounness",
-      "organization_id": "legislature/glen_eira_city_council",
+      "person_id": "city_of_glen_eira/thomas_sounness",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "glen_eira_city_council/margaret_esakoff",
-      "organization_id": "legislature/glen_eira_city_council",
+      "person_id": "city_of_glen_eira/margaret_esakoff",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "glen_eira_city_council/karina_okotel",
-      "organization_id": "legislature/glen_eira_city_council",
+      "person_id": "city_of_glen_eira/karina_okotel",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "glen_eira_city_council/neil_pilling",
-      "organization_id": "legislature/glen_eira_city_council",
+      "person_id": "city_of_glen_eira/neil_pilling",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "glen_eira_city_council/jamie_hyams",
-      "organization_id": "legislature/glen_eira_city_council",
+      "person_id": "city_of_glen_eira/jamie_hyams",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "glen_eira_city_council/oscar_lobo",
-      "organization_id": "legislature/glen_eira_city_council",
+      "person_id": "city_of_glen_eira/oscar_lobo",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
     {
-      "person_id": "glen_eira_city_council/jim_magee",
-      "organization_id": "legislature/glen_eira_city_council",
+      "person_id": "city_of_glen_eira/jim_magee",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "councillor",
       "on_behalf_of_id": "party/unknown"
     },
@@ -9423,8 +9423,8 @@
       "role": "mayor"
     },
     {
-      "person_id": "glen_eira_city_council/neil_pilling",
-      "organization_id": "legislature/glen_eira_city_council",
+      "person_id": "city_of_glen_eira/neil_pilling",
+      "organization_id": "legislature/city_of_glen_eira",
       "role": "mayor"
     },
     {
