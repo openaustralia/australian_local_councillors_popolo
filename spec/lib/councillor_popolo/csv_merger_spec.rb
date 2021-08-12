@@ -3,12 +3,12 @@ require('./lib/councillor_popolo')
 describe CouncillorPopolo::CSVMerger do
   it "won't initialize without a master_csv_path" do
     expect { CouncillorPopolo::CSVMerger.new(changes_csv_path: "file.csv") }.
-      to raise_error(ArgumentError, "missing keyword: master_csv_path")
+      to raise_error(ArgumentError, "missing keyword: :master_csv_path")
   end
 
   it "won't initialize without a changes_csv_path" do
     expect { CouncillorPopolo::CSVMerger.new(master_csv_path: "file.csv") }.
-      to raise_error(ArgumentError, "missing keyword: changes_csv_path")
+      to raise_error(ArgumentError, "missing keyword: :changes_csv_path")
   end
 
   describe "#merge_from_remote_csv" do
